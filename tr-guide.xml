@@ -43932,9 +43932,6 @@
     <sub-title lang="tr">Asya Şampiyonlar Ligi 2</sub-title>
     <desc lang="tr">Asya Şampiyonlar Ligi 2</desc>
   </programme>
-  <channel id="BeinIz.tr">
-    <display-name lang="tr">beIN İZ</display-name>
-  </channel>
   <channel id="BeinGurme.tr">
     <display-name lang="tr">beIN GURME</display-name>
     <icon src="https://mediacms01.digiturkplay.com/channel_logo/w_Gurme_250x150_2022.png" />
@@ -44241,5 +44238,217 @@
     <title lang="tr">Hazer Amani ile Keşfe Değer</title>
     <length units="minutes">44</length>
     <episode-num system="onscreen">S3</episode-num>
+  </programme>
+  <channel id="EkolTv.tr">
+    <display-name lang="tr">Ekol TV</display-name>
+    <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/thumbnail_EKOL_TV_LOGO_PNG.png" />
+  </channel>
+  <programme start="20251219080000 +0300" stop="20251219110000 +0300" channel="EkolTv.tr">
+    <title lang="tr">Gün Başlarken</title>
+    <sub-title lang="tr">Yeni güne merhaba!</sub-title>
+    <desc lang="tr">Gazetelerde ve sosyal mecralarda öne çıkan haberlerle ve son dakika gelişmeleriyle karşınızdayız.</desc>
+    <date>2025</date>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219110000 +0300" stop="20251219130000 +0300" channel="EkolTv.tr">
+    <title lang="tr">Gündem</title>
+    <sub-title lang="tr">Ekonomi ve siyasette gündem ne? Günün öne çıkan başlıklarıyla karşınızdayız.</sub-title>
+    <desc lang="tr">Siyasetin nabzı, para piyasalarındaki son dakika gelişmeleri ve önemli konuklarla "Gündem" ekranlarınızda.</desc>
+    <date>2025</date>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219130000 +0300" stop="20251219133000 +0300" channel="EkolTv.tr">
+    <title lang="tr">Bugün</title>
+    <sub-title lang="tr">Günün öne çıkan haberleri, sıcak kulis bilgileri ve gündeme dair her şey ekranlarınızda.</sub-title>
+    <desc lang="tr">Canlı bağlantılar, en güncel haberler, hepsi ve daha fazlası Bugün'de.</desc>
+    <date>2025</date>
+    <category lang="tr">Haber</category>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219133000 +0300" stop="20251219140000 +0300" channel="EkolTv.tr">
+    <title lang="tr">Spor Bülteni</title>
+    <sub-title lang="tr">Türkiye'de ve dünya gündeminde öne çıkan spor manşetleriyle ekranlarınızdayız.</sub-title>
+    <desc lang="tr">Spor dünyasından çarpıcı gelişmeler Spor Bülteni'nde!</desc>
+    <date>2025</date>
+    <category lang="tr">Spor</category>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219140000 +0300" stop="20251219160000 +0300" channel="EkolTv.tr">
+    <title lang="tr">Bugün</title>
+    <sub-title lang="tr">Günün öne çıkan haberleri, sıcak kulis bilgileri ve gündeme dair her şey ekranlarınızda.</sub-title>
+    <desc lang="tr">Canlı bağlantılar, en güncel haberler, hepsi ve daha fazlası Bugün'de.</desc>
+    <date>2025</date>
+    <category lang="tr">Haber</category>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219160000 +0300" stop="20251219163000 +0300" channel="EkolTv.tr">
+    <title lang="tr">Ajans</title>
+    <sub-title lang="tr">Günün öne çıkan en sıcak başlıklarıyla "Ajans" sizlerle.</sub-title>
+    <desc lang="tr">Son dakika gelişmeleri ve önemli konuklarla ekranlarınızdayız.</desc>
+    <date>2025</date>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219163000 +0300" stop="20251219170000 +0300" channel="EkolTv.tr">
+    <title lang="tr">Spor Bülteni</title>
+    <sub-title lang="tr">Türkiye'de ve dünya gündeminde öne çıkan spor manşetleriyle ekranlarınızdayız.</sub-title>
+    <desc lang="tr">Spor dünyasından çarpıcı gelişmeler Spor Bülteni'nde!</desc>
+    <date>2025</date>
+    <category lang="tr">Spor</category>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219170000 +0300" stop="20251219190000 +0300" channel="EkolTv.tr">
+    <title lang="tr">Ajans</title>
+    <sub-title lang="tr">Günün öne çıkan en sıcak başlıklarıyla "Ajans" sizlerle.</sub-title>
+    <desc lang="tr">Son dakika gelişmeleri ve önemli konuklarla ekranlarınızdayız.</desc>
+    <date>2025</date>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219190000 +0300" stop="20251219200000 +0300" channel="EkolTv.tr">
+    <title lang="tr">Ana Haber</title>
+    <sub-title lang="tr">Türkiye'nin en donanımlı haber merkezi ve iddialı kadrosuyla karşınızdayız!</sub-title>
+    <desc lang="tr">Haber neredeyse biz oradayız! Türkiye'den ve dünyadan en güncel haberleri sizlere sunuyoruz.</desc>
+    <date>2025</date>
+    <category lang="tr">Haber</category>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219200000 +0300" stop="20251219210000 +0300" channel="EkolTv.tr">
+    <title lang="tr">Spor Günlüğü</title>
+    <sub-title lang="tr">Spor dünyasından çarpıcı gelişmeler Spor Günlüğü!nde!</sub-title>
+    <desc lang="tr">Türkiye'de ve dünya gündeminde öne çıkan spor manşetleriyle ekranlarınızdayız.</desc>
+    <date>2025</date>
+    <category lang="tr">Spor</category>
+    <category lang="tr">Genel</category>
+  </programme>
+  <channel id="UlkeTV.tr">
+    <display-name lang="tr">Ülke TV</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8a8" />
+  </channel>
+  <channel id="AkitTV.tr">
+    <display-name lang="tr">Akit TV</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da876" />
+  </channel>
+  <channel id="TV100.tr">
+    <display-name lang="tr">Tv 100</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x60/5d25b230cfef0b75bced8a64" />
+  </channel>
+  <channel id="GztTv.tr">
+    <display-name lang="tr">GZT TV</display-name>
+    <icon src="https://www.dsmart.com.tr/gzt-logo.png" />
+  </channel>
+  <channel id="EKOTURKTV.tr">
+    <display-name lang="tr">Ekotürk</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65" />
+  </channel>
+  <programme start="20251219000000 +0300" stop="20251219003000 +0300" channel="EKOTURKTV.tr">
+    <title lang="tr">GÜN ORTASI</title>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219003000 +0300" stop="20251219010000 +0300" channel="EKOTURKTV.tr">
+    <title lang="tr">KÜRESEL BAKIŞ</title>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219010000 +0300" stop="20251219020000 +0300" channel="EKOTURKTV.tr">
+    <title lang="tr">FOTOĞRAFIN ÖYKÜSÜ</title>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219020000 +0300" stop="20251219030000 +0300" channel="EKOTURKTV.tr">
+    <title lang="tr">SEKTÖREL BAKIŞ</title>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219030000 +0300" stop="20251219040000 +0300" channel="EKOTURKTV.tr">
+    <title lang="tr">ALKİN LAKİN</title>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219040000 +0300" stop="20251219050000 +0300" channel="EKOTURKTV.tr">
+    <title lang="tr">BORSA TEKNİK</title>
+    <category lang="tr">Genel</category>
+  </programme>
+  <programme start="20251219050000 +0300" stop="20251220050000 +0300" channel="EKOTURKTV.tr">
+    <title lang="tr">FOTOĞRAFIN ÖYKÜSÜ</title>
+    <category lang="tr">Genel</category>
+  </programme>
+  <channel id="BeinMoviesTurk.tr">
+    <display-name lang="tr">beIN MOVIES TURK</display-name>
+    <icon src="https://mediacms01.digiturkplay.com/channel_logo/w_Bein_Movies_Turk_250x150_2022.png" />
+  </channel>
+  <programme start="20251219013900 +0300" stop="20251219014800 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">9</length>
+  </programme>
+  <programme start="20251219014800 +0300" stop="20251219033700 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Yazgı</title>
+    <length units="minutes">109</length>
+  </programme>
+  <programme start="20251219033700 +0300" stop="20251219034500 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">8</length>
+  </programme>
+  <programme start="20251219034500 +0300" stop="20251219052000 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Beş Şehir</title>
+    <length units="minutes">95</length>
+  </programme>
+  <programme start="20251219052000 +0300" stop="20251219052500 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">5</length>
+  </programme>
+  <programme start="20251219052500 +0300" stop="20251219071000 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Yeraltı</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251219071000 +0300" stop="20251219074600 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">36</length>
+  </programme>
+  <programme start="20251219074600 +0300" stop="20251219091300 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Başımın Belası</title>
+    <length units="minutes">87</length>
+  </programme>
+  <programme start="20251219091300 +0300" stop="20251219092400 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">11</length>
+  </programme>
+  <programme start="20251219092400 +0300" stop="20251219111100 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Masumiyet</title>
+    <length units="minutes">107</length>
+  </programme>
+  <programme start="20251219111100 +0300" stop="20251219112600 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251219112600 +0300" stop="20251219125900 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Gecenin Sonu</title>
+    <length units="minutes">93</length>
+  </programme>
+  <programme start="20251219125900 +0300" stop="20251219131700 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">18</length>
+  </programme>
+  <programme start="20251219131700 +0300" stop="20251219145800 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Kader</title>
+    <length units="minutes">101</length>
+  </programme>
+  <programme start="20251219145800 +0300" stop="20251219151500 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">17</length>
+  </programme>
+  <programme start="20251219151500 +0300" stop="20251219171400 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Kendi Yolumda</title>
+    <length units="minutes">119</length>
+  </programme>
+  <programme start="20251219171400 +0300" stop="20251219173100 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">17</length>
+  </programme>
+  <programme start="20251219173100 +0300" stop="20251219191800 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Sen Aydınlatırsın Geceyi</title>
+    <length units="minutes">107</length>
+  </programme>
+  <programme start="20251219191800 +0300" stop="20251219193500 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">17</length>
+  </programme>
+  <programme start="20251219193500 +0300" stop="20251219213900 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Dilberay</title>
+    <length units="minutes">124</length>
   </programme>
 </tv>
