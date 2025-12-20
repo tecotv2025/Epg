@@ -33843,75 +33843,75 @@
   <programme start="20251220023500 +0300" stop="20251220031000 +0300" channel="BeinIz.tr">
     <title lang="tr">Limonata</title>
   </programme>
-  <channel id="tv100">
+  <channel id="tv100.tr">
     <display-name lang="tr">tv100</display-name>
     <icon src="https://mediacms01.digiturkplay.com/channel_logo/tv_100_250x150.png" />
   </channel>
-  <programme start="20251220010000 +0300" stop="20251220040000 +0300" channel="tv100">
+  <programme start="20251220010000 +0300" stop="20251220040000 +0300" channel="tv100.tr">
     <title lang="tr">Şimdi Konuşalım</title>
     <length units="minutes">180</length>
   </programme>
-  <programme start="20251220040000 +0300" stop="20251220053000 +0300" channel="tv100">
+  <programme start="20251220040000 +0300" stop="20251220053000 +0300" channel="tv100.tr">
     <title lang="tr">Tarihin İzinde Bugün</title>
     <length units="minutes">90</length>
   </programme>
-  <programme start="20251220053000 +0300" stop="20251220061500 +0300" channel="tv100">
+  <programme start="20251220053000 +0300" stop="20251220061500 +0300" channel="tv100.tr">
     <title lang="tr">Haber Bülteni</title>
     <length units="minutes">45</length>
   </programme>
-  <programme start="20251220061500 +0300" stop="20251220070000 +0300" channel="tv100">
+  <programme start="20251220061500 +0300" stop="20251220070000 +0300" channel="tv100.tr">
     <title lang="tr">Gün'den Kalan</title>
     <length units="minutes">45</length>
   </programme>
-  <programme start="20251220070000 +0300" stop="20251220090000 +0300" channel="tv100">
+  <programme start="20251220070000 +0300" stop="20251220090000 +0300" channel="tv100.tr">
     <title lang="tr">Hafta Sonu Gün Uyanıyor</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20251220090000 +0300" stop="20251220100000 +0300" channel="tv100">
+  <programme start="20251220090000 +0300" stop="20251220100000 +0300" channel="tv100.tr">
     <title lang="tr">Magazin Hattı</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251220100000 +0300" stop="20251220110000 +0300" channel="tv100">
+  <programme start="20251220100000 +0300" stop="20251220110000 +0300" channel="tv100.tr">
     <title lang="tr">Haber Bülteni</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251220110000 +0300" stop="20251220120000 +0300" channel="tv100">
+  <programme start="20251220110000 +0300" stop="20251220120000 +0300" channel="tv100.tr">
     <title lang="tr">Haber Bülteni</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251220120000 +0300" stop="20251220130000 +0300" channel="tv100">
+  <programme start="20251220120000 +0300" stop="20251220130000 +0300" channel="tv100.tr">
     <title lang="tr">Haber Bülteni</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251220130000 +0300" stop="20251220140000 +0300" channel="tv100">
+  <programme start="20251220130000 +0300" stop="20251220140000 +0300" channel="tv100.tr">
     <title lang="tr">Haber Bülteni</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251220140000 +0300" stop="20251220143000 +0300" channel="tv100">
+  <programme start="20251220140000 +0300" stop="20251220143000 +0300" channel="tv100.tr">
     <title lang="tr">Haber Bülteni</title>
     <length units="minutes">30</length>
   </programme>
-  <programme start="20251220143000 +0300" stop="20251220150000 +0300" channel="tv100">
+  <programme start="20251220143000 +0300" stop="20251220150000 +0300" channel="tv100.tr">
     <title lang="tr">Sağlık Saati</title>
     <length units="minutes">30</length>
   </programme>
-  <programme start="20251220150000 +0300" stop="20251220160000 +0300" channel="tv100">
+  <programme start="20251220150000 +0300" stop="20251220160000 +0300" channel="tv100.tr">
     <title lang="tr">Haber Bülteni</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251220160000 +0300" stop="20251220170000 +0300" channel="tv100">
+  <programme start="20251220160000 +0300" stop="20251220170000 +0300" channel="tv100.tr">
     <title lang="tr">Haber Bülteni</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251220170000 +0300" stop="20251220180000 +0300" channel="tv100">
+  <programme start="20251220170000 +0300" stop="20251220180000 +0300" channel="tv100.tr">
     <title lang="tr">Haber Bülteni</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251220180000 +0300" stop="20251220200000 +0300" channel="tv100">
+  <programme start="20251220180000 +0300" stop="20251220200000 +0300" channel="tv100.tr">
     <title lang="tr">Hafta Sonu Ana Haber Bülteni</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20251220200000 +0300" stop="20251220233000 +0300" channel="tv100">
+  <programme start="20251220200000 +0300" stop="20251220233000 +0300" channel="tv100.tr">
     <title lang="tr">Başak Şengül ile Doğru Yorum</title>
     <length units="minutes">210</length>
   </programme>
