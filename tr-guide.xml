@@ -33824,25 +33824,6 @@
     <title lang="tr">Bembeyaz</title>
     <length units="minutes">98</length>
   </programme>
-  <channel id="BeinIz.tr">
-    <display-name lang="tr">beIN İz TV HD</display-name>
-    <icon src="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-iz-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" />
-  </channel>
-  <programme start="20251220000500 +0300" stop="20251220005000 +0300" channel="BeinIz.tr">
-    <title lang="tr">KESISEN KULTURLER SEZON 2</title>
-  </programme>
-  <programme start="20251220005000 +0300" stop="20251220013000 +0300" channel="BeinIz.tr">
-    <title lang="tr">BAHARATIN YOLCULUGU SEZON 1</title>
-  </programme>
-  <programme start="20251220013000 +0300" stop="20251220020000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Şehre Umut Verenler S1</title>
-  </programme>
-  <programme start="20251220020000 +0300" stop="20251220023500 +0300" channel="BeinIz.tr">
-    <title lang="tr">Mimarların Evleri: Avrupa S2</title>
-  </programme>
-  <programme start="20251220023500 +0300" stop="20251220031000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Limonata</title>
-  </programme>
   <channel id="tv100.tr">
     <display-name lang="tr">tv100</display-name>
     <icon src="https://mediacms01.digiturkplay.com/channel_logo/tv_100_250x150.png" />
@@ -34098,5 +34079,531 @@
   <programme start="20251220205000 +0300" stop="20251220212300 +0300" channel="GztTv.tr">
     <title lang="tr">Hisseden Adam</title>
     <length units="minutes">33</length>
+  </programme>
+  <channel id="BeinSports1.tr">
+    <display-name lang="tr">beIN SPORTS 1</display-name>
+    <icon src="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" />
+  </channel>
+  <programme start="20251220001500 +0300" stop="20251220004500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Trio</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220004500 +0300" stop="20251220011500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Konyaspor - Kayserispor</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220011500 +0300" stop="20251220014500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Beşiktaş - Rizespor</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220014500 +0300" stop="20251220020000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Alanyaspor - Karagümrük</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220020000 +0300" stop="20251220034500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Kayserispor - Alanyaspor</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220034500 +0300" stop="20251220040000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Süper Lig'in Gol Kralları</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220040000 +0300" stop="20251220054500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Gaziantep FK - Göztepe</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220054500 +0300" stop="20251220060000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Süper Lig'in Gol Kralları</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220060000 +0300" stop="20251220074500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Fenerbahçe - Konyaspor</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220074500 +0300" stop="20251220080000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Süper Lig'in Gol Kralları</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220080000 +0300" stop="20251220100000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Trabzonspor - Beşiktaş</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220100000 +0300" stop="20251220114500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Kocaelispor - Antalyaspor</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220114500 +0300" stop="20251220120000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Süper Lig'in Gol Kralları</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220120000 +0300" stop="20251220130000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">beIN Garaj</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251220130000 +0300" stop="20251220134500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">beIN Süper Lig</title>
+    <length units="minutes">45</length>
+  </programme>
+  <programme start="20251220134500 +0300" stop="20251220141500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Trio</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220141500 +0300" stop="20251220144500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Konyaspor - Kayserispor</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220144500 +0300" stop="20251220150000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Alanyaspor - Karagümrük</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220150000 +0300" stop="20251220153000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Galatasaray - Kasımpaşa</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220153000 +0300" stop="20251220160000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Beşiktaş - Rizespor</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220160000 +0300" stop="20251220170000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">beIN Süper Lig</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251220170000 +0300" stop="20251220190000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Eyüpspor - Fenerbahçe</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220190000 +0300" stop="20251220200000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">beIN Süper Lig</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251220200000 +0300" stop="20251220220000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Beşiktaş - Rizespor</title>
+    <length units="minutes">120</length>
+  </programme>
+  <channel id="BeinSports2.tr">
+    <display-name lang="tr">beIN SPORTS 2</display-name>
+    <icon src="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" />
+  </channel>
+  <programme start="20251220000000 +0300" stop="20251220014500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Kocaelispor - H.Antalyaspor</title>
+    <title lang="xx">Trendyol Süper Lig Season 2025/2026 17. Hafta Kocaelispor - H.Antalyaspor Maçı Bant -</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220020000 +0300" stop="20251220034500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">E.Erokspor - S.G.Sarıyerspor</title>
+    <title lang="xx">Trendyol 1. Lig Season 2025/2026 18. Hafta E.Erokspor - S.G.Sarıyerspor Maçı Bant -</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220060000 +0300" stop="20251220074500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">A.G.Pendikspor - A.H.Iğdır FK</title>
+    <title lang="xx">Trendyol 1. Lig Season 2025/2026 17. Hafta A.G.Pendikspor - A.H.Iğdır FK Maçı Bant -</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220080000 +0300" stop="20251220094500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Sakaryaspor - A.Hatayspor</title>
+    <title lang="xx">Trendyol 1. Lig Season 2025/2026 17. Hafta Sakaryaspor - A.Hatayspor Maçı Bant -</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220100000 +0300" stop="20251220114600 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Serikspor - Manisa FK</title>
+    <title lang="xx">Trendyol 1. Lig Season 2025/2026 17. Hafta Serikspor - Manisa FK Maçı Bant -</title>
+    <length units="minutes">106</length>
+  </programme>
+  <programme start="20251220114600 +0300" stop="20251220133000 +0300" channel="BeinSports2.tr">
+    <title lang="tr">E.Erokspor - S.G.Sarıyerspor</title>
+    <title lang="xx">Trendyol 1. Lig Season 2025/2026 18. Hafta E.Erokspor - S.G.Sarıyerspor Maçı Bant -</title>
+    <length units="minutes">104</length>
+  </programme>
+  <programme start="20251220143000 +0300" stop="20251220163000 +0300" channel="BeinSports2.tr">
+    <title lang="tr">T.Konyaspor - Z.Kayserispor</title>
+    <title lang="xx">Trendyol Süper Lig Season 2025/2026 17. Hafta T.Konyaspor - Z.Kayserispor Maçı Canlı Kayıt -</title>
+    <length units="minutes">120</length>
+  </programme>
+  <channel id="BeinSports3.tr">
+    <display-name lang="tr">beIN SPORTS 3</display-name>
+    <icon src="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport3_250x150_2022.png" />
+  </channel>
+  <programme start="20251220000000 +0300" stop="20251220020000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Man.United - Bournemouth</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220020000 +0300" stop="20251220034500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Liverpool - Brighton H.A.</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220034500 +0300" stop="20251220040000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220040000 +0300" stop="20251220054500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Chelsea - Everton</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220054500 +0300" stop="20251220060000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220060000 +0300" stop="20251220074500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Burnley - Fulham</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220074500 +0300" stop="20251220080000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220080000 +0300" stop="20251220094500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Arsenal - W. Wanderers</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220094500 +0300" stop="20251220100000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220100000 +0300" stop="20251220114500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Crystal Palace-Manchester City</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220114500 +0300" stop="20251220120000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220120000 +0300" stop="20251220134500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Nottingham Forest-Tottenham H.</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220134500 +0300" stop="20251220141500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Premier League Stories</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220141500 +0300" stop="20251220144500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Premier League Netbusters</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220144500 +0300" stop="20251220152000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Premier League Preview</title>
+    <length units="minutes">35</length>
+  </programme>
+  <programme start="20251220152000 +0300" stop="20251220153000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Maç Önü</title>
+    <length units="minutes">10</length>
+  </programme>
+  <programme start="20251220153000 +0300" stop="20251220173000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Newcastle United - Chelsea</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220173000 +0300" stop="20251220175000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Under the Skin</title>
+    <length units="minutes">20</length>
+  </programme>
+  <programme start="20251220175000 +0300" stop="20251220180000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Maç Önü</title>
+    <length units="minutes">10</length>
+  </programme>
+  <programme start="20251220180000 +0300" stop="20251220200000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Man.City - West Ham United</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220200000 +0300" stop="20251220202000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Under the Skin</title>
+    <length units="minutes">20</length>
+  </programme>
+  <programme start="20251220202000 +0300" stop="20251220203000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Maç Önü</title>
+    <length units="minutes">10</length>
+  </programme>
+  <programme start="20251220203000 +0300" stop="20251220223000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Tottenham Hotspur - Liverpool</title>
+    <length units="minutes">120</length>
+  </programme>
+  <channel id="BeinSports4.tr">
+    <display-name lang="tr">beIN SPORTS 4</display-name>
+    <icon src="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport4_250x150_2022.png" />
+  </channel>
+  <programme start="20251220004500 +0300" stop="20251220010000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Iconic Players</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220010000 +0300" stop="20251220013000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 1 Maç Özetleri</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220013000 +0300" stop="20251220020000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 2 Maç Özetleri</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220020000 +0300" stop="20251220034500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Lens - Feignies-Aulnoye</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220034500 +0300" stop="20251220040000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220040000 +0300" stop="20251220054500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Avranches - Brest</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220054500 +0300" stop="20251220060000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220060000 +0300" stop="20251220074500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Olympique de Marseille-Monaco</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220074500 +0300" stop="20251220103000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Paris Saint-Germain - Flamengo</title>
+    <length units="minutes">165</length>
+  </programme>
+  <programme start="20251220103000 +0300" stop="20251220113000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Gran Turismo World Series</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251220113000 +0300" stop="20251220130000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Gran Turismo World Series</title>
+    <length units="minutes">90</length>
+  </programme>
+  <programme start="20251220130000 +0300" stop="20251220133000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 1 Show</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220133000 +0300" stop="20251220140000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 1 İlk Yarının Ardından</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220140000 +0300" stop="20251220154500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Avranches - Brest</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220154500 +0300" stop="20251220160000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220160000 +0300" stop="20251220175000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Lens - Feignies-Aulnoye</title>
+    <length units="minutes">110</length>
+  </programme>
+  <programme start="20251220175000 +0300" stop="20251220180000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Maç Önü</title>
+    <length units="minutes">10</length>
+  </programme>
+  <programme start="20251220180000 +0300" stop="20251220200000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Brighton H.A. - Sunderland</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220200000 +0300" stop="20251220220000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Lyon-La Duchere - Toulouse</title>
+    <length units="minutes">120</length>
+  </programme>
+  <channel id="BeinSport5.tr">
+    <display-name lang="tr">beIN SPORTS 5</display-name>
+    <icon src="https://mediacms01.digiturkplay.com/channel_logo/beIN_SPORTS5_250x150.png" />
+  </channel>
+  <programme start="20251220010000 +0300" stop="20251220011500 +0300" channel="BeinSport5.tr">
+    <title lang="tr">FIFA Intercontinental Cup</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220011500 +0300" stop="20251220031500 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Büyükçekmece - Karşıyaka</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220031500 +0300" stop="20251220044500 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Galatasaray - Merkezefendi B.</title>
+    <length units="minutes">90</length>
+  </programme>
+  <programme start="20251220044500 +0300" stop="20251220063000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Türk Telekom - Bursaspor</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220063000 +0300" stop="20251220081500 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Tofaş - Manisa Basket</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20251220081500 +0300" stop="20251220083000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Geniş Özet: Formula 1 Abu Dabi</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220083000 +0300" stop="20251220093000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">FIM World Supercross...</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251220093000 +0300" stop="20251220110000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Montpellier - St. Raphael</title>
+    <length units="minutes">90</length>
+  </programme>
+  <programme start="20251220110000 +0300" stop="20251220124000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">beIN Basketbol</title>
+    <length units="minutes">100</length>
+  </programme>
+  <programme start="20251220124000 +0300" stop="20251220130000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Maç Başlıyor</title>
+    <length units="minutes">20</length>
+  </programme>
+  <programme start="20251220130000 +0300" stop="20251220150000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Karşıyaka - Bahçeşehir Koleji</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220150000 +0300" stop="20251220151000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Maç Sonu</title>
+    <length units="minutes">10</length>
+  </programme>
+  <programme start="20251220151000 +0300" stop="20251220153000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Maç Başlıyor</title>
+    <length units="minutes">20</length>
+  </programme>
+  <programme start="20251220153000 +0300" stop="20251220173000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Beşiktaş - Tofaş</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220173000 +0300" stop="20251220174000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Maç Sonu</title>
+    <length units="minutes">10</length>
+  </programme>
+  <programme start="20251220174000 +0300" stop="20251220180000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Maç Başlıyor</title>
+    <length units="minutes">20</length>
+  </programme>
+  <programme start="20251220180000 +0300" stop="20251220200000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Trabzonspor - Fenerbahçe</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220200000 +0300" stop="20251220201500 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Maç Sonu</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251220201500 +0300" stop="20251220210000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Macau Grand Prix 2025</title>
+    <length units="minutes">45</length>
+  </programme>
+  <channel id="beIN SPORTS MAX 1">
+    <display-name lang="tr">beIN SPORTS MAX 1</display-name>
+    <icon src="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max1_250x150_2022.png" />
+  </channel>
+  <programme start="20251220000000 +0300" stop="20251220020000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Max 1</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220020000 +0300" stop="20251220040000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Max 1</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220040000 +0300" stop="20251220060000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Max 1</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220060000 +0300" stop="20251220080000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Max 1</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220080000 +0300" stop="20251220100000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Max 1</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220100000 +0300" stop="20251220123000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Max 1</title>
+    <length units="minutes">150</length>
+  </programme>
+  <programme start="20251220123000 +0300" stop="20251220133000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Max 1</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251220133000 +0300" stop="20251220153000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">Bandırmaspor - Erzurumspor FK</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220153000 +0300" stop="20251220160000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Max 1</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220160000 +0300" stop="20251220180000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">Boluspor - Pendikspor</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220180000 +0300" stop="20251220200000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">Bournemouth - Burnley</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220200000 +0300" stop="20251220220000 +0300" channel="beIN SPORTS MAX 1">
+    <title lang="tr">beIN Sports Max 1</title>
+    <length units="minutes">120</length>
+  </programme>
+  <channel id="beIN SPORTS MAX 2">
+    <display-name lang="tr">beIN SPORTS MAX 2</display-name>
+    <icon src="https://mediacms01.digiturkplay.com/channel_logo/w3_Sport_Max2_250x150_2022.png" />
+  </channel>
+  <programme start="20251220000000 +0300" stop="20251220020000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Max 2</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220020000 +0300" stop="20251220030000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Max 2</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251220030000 +0300" stop="20251220040000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Max 2</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251220040000 +0300" stop="20251220060000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Max 2</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220060000 +0300" stop="20251220080000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Max 2</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220080000 +0300" stop="20251220100000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Max 2</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220100000 +0300" stop="20251220110000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Max 2</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251220110000 +0300" stop="20251220130000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Max 2</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220130000 +0300" stop="20251220133000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Max 2</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251220133000 +0300" stop="20251220153000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">Iğdır FK - Sivasspor</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220153000 +0300" stop="20251220170000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Max 2</title>
+    <length units="minutes">90</length>
+  </programme>
+  <programme start="20251220170000 +0300" stop="20251220180000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Max 2</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251220180000 +0300" stop="20251220200000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">Wolverhampton W. - Brentford</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251220200000 +0300" stop="20251220220000 +0300" channel="beIN SPORTS MAX 2">
+    <title lang="tr">beIN Sports Max 2</title>
+    <length units="minutes">120</length>
+  </programme>
+  <channel id="BeinIz.tr">
+    <display-name lang="tr">beIN İz TV HD</display-name>
+    <icon src="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-iz-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" />
+  </channel>
+  <programme start="20251220000500 +0300" stop="20251220005000 +0300" channel="BeinIz.tr">
+    <title lang="tr">KESISEN KULTURLER SEZON 2</title>
+  </programme>
+  <programme start="20251220005000 +0300" stop="20251220013000 +0300" channel="BeinIz.tr">
+    <title lang="tr">BAHARATIN YOLCULUGU SEZON 1</title>
+  </programme>
+  <programme start="20251220013000 +0300" stop="20251220020000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Şehre Umut Verenler S1</title>
+  </programme>
+  <programme start="20251220020000 +0300" stop="20251220023500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Mimarların Evleri: Avrupa S2</title>
+  </programme>
+  <programme start="20251220023500 +0300" stop="20251220031000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Limonata</title>
   </programme>
 </tv>
