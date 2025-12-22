@@ -14931,61 +14931,77 @@
     <title lang="tr">Short Akışı</title>
     <length units="minutes">21</length>
   </programme>
-  <programme start="20251222123500 +0300" stop="20251222132500 +0300" channel="GztTv.tr">
+  <programme start="20251222123500 +0300" stop="20251222124000 +0300" channel="GztTv.tr">
     <title lang="tr">Birkan Erdem</title>
-    <length units="minutes">50</length>
+    <length units="minutes">5</length>
   </programme>
-  <programme start="20251222132500 +0300" stop="20251222142500 +0300" channel="GztTv.tr">
+  <programme start="20251222124000 +0300" stop="20251222130200 +0300" channel="GztTv.tr">
     <title lang="tr">Rota Hazır</title>
-    <length units="minutes">60</length>
+    <length units="minutes">22</length>
   </programme>
-  <programme start="20251222142500 +0300" stop="20251222144500 +0300" channel="GztTv.tr">
+  <programme start="20251222130200 +0300" stop="20251222132800 +0300" channel="GztTv.tr">
+    <title lang="tr">Sweet Village</title>
+    <length units="minutes">26</length>
+  </programme>
+  <programme start="20251222132800 +0300" stop="20251222140000 +0300" channel="GztTv.tr">
+    <title lang="tr">Hisseden Adam</title>
+    <length units="minutes">32</length>
+  </programme>
+  <programme start="20251222140000 +0300" stop="20251222142100 +0300" channel="GztTv.tr">
+    <title lang="tr">Short Akışı</title>
+    <length units="minutes">21</length>
+  </programme>
+  <programme start="20251222142100 +0300" stop="20251222150500 +0300" channel="GztTv.tr">
+    <title lang="tr">Tarih 101</title>
+    <length units="minutes">44</length>
+  </programme>
+  <programme start="20251222150500 +0300" stop="20251222153400 +0300" channel="GztTv.tr">
+    <title lang="tr">Red Dead Restoration</title>
+    <length units="minutes">29</length>
+  </programme>
+  <programme start="20251222153400 +0300" stop="20251222161500 +0300" channel="GztTv.tr">
+    <title lang="tr">Evcins Home</title>
+    <length units="minutes">41</length>
+  </programme>
+  <programme start="20251222161500 +0300" stop="20251222163500 +0300" channel="GztTv.tr">
     <title lang="tr">Short Akışı</title>
     <length units="minutes">20</length>
   </programme>
-  <programme start="20251222144500 +0300" stop="20251222152700 +0300" channel="GztTv.tr">
-    <title lang="tr">Tarih 101</title>
+  <programme start="20251222163500 +0300" stop="20251222170800 +0300" channel="GztTv.tr">
+    <title lang="tr">Anlatan Adamlar</title>
+    <length units="minutes">33</length>
+  </programme>
+  <programme start="20251222170800 +0300" stop="20251222175000 +0300" channel="GztTv.tr">
+    <title lang="tr">Kend Hayatı</title>
     <length units="minutes">42</length>
   </programme>
-  <programme start="20251222152700 +0300" stop="20251222155500 +0300" channel="GztTv.tr">
-    <title lang="tr">Red Dead Restoration</title>
-    <length units="minutes">28</length>
-  </programme>
-  <programme start="20251222155500 +0300" stop="20251222164100 +0300" channel="GztTv.tr">
-    <title lang="tr">Amerika Depo Savaşları</title>
-    <length units="minutes">46</length>
-  </programme>
-  <programme start="20251222164100 +0300" stop="20251222170100 +0300" channel="GztTv.tr">
+  <programme start="20251222175000 +0300" stop="20251222181000 +0300" channel="GztTv.tr">
     <title lang="tr">Short Akışı</title>
     <length units="minutes">20</length>
   </programme>
-  <programme start="20251222170100 +0300" stop="20251222180000 +0300" channel="GztTv.tr">
-    <title lang="tr">Anlatan Adamlar</title>
-    <length units="minutes">59</length>
+  <programme start="20251222181000 +0300" stop="20251222184500 +0300" channel="GztTv.tr">
+    <title lang="tr">Holistik</title>
+    <length units="minutes">35</length>
   </programme>
-  <programme start="20251222180000 +0300" stop="20251222184600 +0300" channel="GztTv.tr">
-    <title lang="tr">Sweet Village</title>
-    <length units="minutes">46</length>
+  <programme start="20251222184500 +0300" stop="20251222190000 +0300" channel="GztTv.tr">
+    <title lang="tr">Editör Anlatıyor</title>
+    <length units="minutes">15</length>
   </programme>
-  <programme start="20251222184600 +0300" stop="20251222190700 +0300" channel="GztTv.tr">
-    <title lang="tr">Short Akışı</title>
-    <length units="minutes">21</length>
-  </programme>
-  <programme start="20251222190700 +0300" stop="20251222193200 +0300" channel="GztTv.tr">
-    <title lang="tr">Envanter</title>
+  <programme start="20251222190000 +0300" stop="20251222192500 +0300" channel="GztTv.tr">
+    <title lang="tr">Modern Ordular</title>
     <length units="minutes">25</length>
   </programme>
-  <programme start="20251222193200 +0300" stop="20251222195500 +0300" channel="GztTv.tr">
-    <title lang="tr">Editör Anlatıyor</title>
+  <programme start="20251222192500 +0300" stop="20251222194800 +0300" channel="GztTv.tr">
+    <title lang="tr">Altı Çizildi</title>
     <length units="minutes">23</length>
   </programme>
-  <programme start="20251222195500 +0300" stop="20251222204200 +0300" channel="GztTv.tr">
-    <title lang="tr">Kuzeyin Tırcısı</title>
-    <length units="minutes">47</length>
-  </programme>
-  <programme start="20251222204200 +0300" stop="20251222210300 +0300" channel="GztTv.tr">
+  <programme start="20251222194800 +0300" stop="20251222200500 +0300" channel="GztTv.tr">
     <title lang="tr">Short Akışı</title>
-    <length units="minutes">21</length>
+    <length units="minutes">17</length>
+  </programme>
+  <programme start="20251222200500 +0300" stop="20251222211500 +0300" channel="GztTv.tr">
+    <title lang="tr">Kuzeyin Tırcısı Murat</title>
+    <length units="minutes">70</length>
   </programme>
   <channel id="BeinSports1.tr">
     <display-name lang="tr">beIN SPORTS 1</display-name>
@@ -15114,10 +15130,10 @@
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 18. Hafta A.Çorum FK - Sakaryaspor Maçı Bant -</title>
     <length units="minutes">105</length>
   </programme>
-  <programme start="20251222175800 +0300" stop="20251222194000 +0300" channel="BeinSports2.tr">
+  <programme start="20251222175500 +0300" stop="20251222194000 +0300" channel="BeinSports2.tr">
     <title lang="tr">İstanbulspor - İ.A.Vanspor FK</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 18. Hafta İstanbulspor - İ.A.Vanspor FK Maçı Bant -</title>
-    <length units="minutes">102</length>
+    <length units="minutes">105</length>
   </programme>
   <programme start="20251222200000 +0300" stop="20251222220000 +0300" channel="BeinSports2.tr">
     <title lang="tr">S.Bodrum FK - Amed S.F.</title>
@@ -15168,25 +15184,25 @@
     <title lang="tr">Premier League National Pride</title>
     <length units="minutes">15</length>
   </programme>
-  <programme start="20251222120000 +0300" stop="20251222134500 +0300" channel="BeinSports3.tr">
+  <programme start="20251222120000 +0300" stop="20251222134700 +0300" channel="BeinSports3.tr">
     <title lang="tr">Tottenham Hotspur - Liverpool</title>
-    <length units="minutes">105</length>
+    <length units="minutes">107</length>
   </programme>
-  <programme start="20251222134500 +0300" stop="20251222140000 +0300" channel="BeinSports3.tr">
+  <programme start="20251222134700 +0300" stop="20251222135800 +0300" channel="BeinSports3.tr">
     <title lang="tr">Premier League National Pride</title>
-    <length units="minutes">15</length>
+    <length units="minutes">11</length>
   </programme>
-  <programme start="20251222140000 +0300" stop="20251222154500 +0300" channel="BeinSports3.tr">
+  <programme start="20251222135800 +0300" stop="20251222154900 +0300" channel="BeinSports3.tr">
     <title lang="tr">Leeds United - Crystal Palace</title>
-    <length units="minutes">105</length>
+    <length units="minutes">111</length>
   </programme>
-  <programme start="20251222154500 +0300" stop="20251222160000 +0300" channel="BeinSports3.tr">
+  <programme start="20251222154900 +0300" stop="20251222160200 +0300" channel="BeinSports3.tr">
     <title lang="tr">Premier League National Pride</title>
-    <length units="minutes">15</length>
+    <length units="minutes">13</length>
   </programme>
-  <programme start="20251222160000 +0300" stop="20251222180000 +0300" channel="BeinSports3.tr">
+  <programme start="20251222160200 +0300" stop="20251222180000 +0300" channel="BeinSports3.tr">
     <title lang="tr">Under The Skin</title>
-    <length units="minutes">120</length>
+    <length units="minutes">118</length>
   </programme>
   <programme start="20251222180000 +0300" stop="20251222194500 +0300" channel="BeinSports3.tr">
     <title lang="tr">Newcastle United - Chelsea</title>
@@ -15328,13 +15344,13 @@
     <title lang="tr">FIM World Supercross...</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251222120000 +0300" stop="20251222124500 +0300" channel="BeinSport5.tr">
-    <title lang="tr">TSBSL Maç Özetleri</title>
-    <length units="minutes">45</length>
+  <programme start="20251222120000 +0300" stop="20251222123000 +0300" channel="BeinSport5.tr">
+    <title lang="tr">Formula Regional European...</title>
+    <length units="minutes">30</length>
   </programme>
-  <programme start="20251222124500 +0300" stop="20251222143000 +0300" channel="BeinSport5.tr">
+  <programme start="20251222123000 +0300" stop="20251222143000 +0300" channel="BeinSport5.tr">
     <title lang="tr">Merkezefendi B. - Türk Telekom</title>
-    <length units="minutes">105</length>
+    <length units="minutes">120</length>
   </programme>
   <programme start="20251222143000 +0300" stop="20251222161500 +0300" channel="BeinSport5.tr">
     <title lang="tr">Bursaspor - Mersin Spor</title>
@@ -15491,16 +15507,16 @@
   <programme start="20251222075500 +0300" stop="20251222083000 +0300" channel="BeinIz.tr">
     <title lang="tr">İstanbul’un Edebiyat Haritası</title>
   </programme>
-  <programme start="20251222083000 +0300" stop="20251222090000 +0300" channel="BeinIz.tr">
+  <programme start="20251222083000 +0300" stop="20251222090500 +0300" channel="BeinIz.tr">
     <title lang="tr">Hayat Bulan Nehirler S1 B6</title>
   </programme>
-  <programme start="20251222090000 +0300" stop="20251222094000 +0300" channel="BeinIz.tr">
+  <programme start="20251222090500 +0300" stop="20251222094600 +0300" channel="BeinIz.tr">
     <title lang="tr">KENT HIKAYELERI SEZON 1</title>
   </programme>
-  <programme start="20251222094000 +0300" stop="20251222103000 +0300" channel="BeinIz.tr">
+  <programme start="20251222094600 +0300" stop="20251222103100 +0300" channel="BeinIz.tr">
     <title lang="tr">Sen Anlat Hikayeni S1</title>
   </programme>
-  <programme start="20251222103000 +0300" stop="20251222111000 +0300" channel="BeinIz.tr">
+  <programme start="20251222103100 +0300" stop="20251222111000 +0300" channel="BeinIz.tr">
     <title lang="tr">SU'YUN SEFERİ</title>
   </programme>
   <programme start="20251222111000 +0300" stop="20251222115000 +0300" channel="BeinIz.tr">
@@ -15512,13 +15528,13 @@
   <programme start="20251222123500 +0300" stop="20251222131000 +0300" channel="BeinIz.tr">
     <title lang="tr">Şehre Umut Verenler S1</title>
   </programme>
-  <programme start="20251222131000 +0300" stop="20251222135000 +0300" channel="BeinIz.tr">
+  <programme start="20251222131000 +0300" stop="20251222135100 +0300" channel="BeinIz.tr">
     <title lang="tr">Mimarların Evleri: Avrupa S2</title>
   </programme>
-  <programme start="20251222135000 +0300" stop="20251222143500 +0300" channel="BeinIz.tr">
+  <programme start="20251222135100 +0300" stop="20251222143600 +0300" channel="BeinIz.tr">
     <title lang="tr">BALKANLAR S1</title>
   </programme>
-  <programme start="20251222143500 +0300" stop="20251222152000 +0300" channel="BeinIz.tr">
+  <programme start="20251222143600 +0300" stop="20251222152100 +0300" channel="BeinIz.tr">
     <title lang="tr">KESISEN KULTURLER SEZON 2</title>
   </programme>
 </tv>
