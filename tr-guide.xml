@@ -9975,43 +9975,43 @@
     <display-name lang="tr">beIN İz TV HD</display-name>
     <icon src="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-iz-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" />
   </channel>
-  <programme start="20251226000500 +0300" stop="20251226005000 +0300" channel="BeinIz.tr">
+  <programme start="20251226000500 +0300" stop="20251226005100 +0300" channel="BeinIz.tr">
     <title lang="tr">KESISEN KULTURLER SEZON 2</title>
   </programme>
-  <programme start="20251226005000 +0300" stop="20251226012000 +0300" channel="BeinIz.tr">
+  <programme start="20251226005100 +0300" stop="20251226012100 +0300" channel="BeinIz.tr">
     <title lang="tr">İstanbul’un Edebiyat Haritası</title>
   </programme>
-  <programme start="20251226012000 +0300" stop="20251226015500 +0300" channel="BeinIz.tr">
+  <programme start="20251226012100 +0300" stop="20251226015500 +0300" channel="BeinIz.tr">
     <title lang="tr">Gerçek Tarihin İzinde S3</title>
   </programme>
   <programme start="20251226015500 +0300" stop="20251226023500 +0300" channel="BeinIz.tr">
     <title lang="tr">Bir Ege Hayali S1</title>
   </programme>
-  <programme start="20251226023500 +0300" stop="20251226031500 +0300" channel="BeinIz.tr">
+  <programme start="20251226023500 +0300" stop="20251226031600 +0300" channel="BeinIz.tr">
     <title lang="tr">SUDAKİ İZLER</title>
   </programme>
-  <programme start="20251226031500 +0300" stop="20251226034500 +0300" channel="BeinIz.tr">
+  <programme start="20251226031600 +0300" stop="20251226034500 +0300" channel="BeinIz.tr">
     <title lang="tr">Yolun Bittiği Yer S1</title>
   </programme>
-  <programme start="20251226034500 +0300" stop="20251226042000 +0300" channel="BeinIz.tr">
+  <programme start="20251226034500 +0300" stop="20251226042100 +0300" channel="BeinIz.tr">
     <title lang="tr">Suda Yaşayanlar S1</title>
   </programme>
-  <programme start="20251226042000 +0300" stop="20251226045000 +0300" channel="BeinIz.tr">
+  <programme start="20251226042100 +0300" stop="20251226045000 +0300" channel="BeinIz.tr">
     <title lang="tr">Afişteki Yeşilçam</title>
   </programme>
-  <programme start="20251226045000 +0300" stop="20251226053000 +0300" channel="BeinIz.tr">
+  <programme start="20251226045000 +0300" stop="20251226053100 +0300" channel="BeinIz.tr">
     <title lang="tr">SU'YUN SEFERİ</title>
   </programme>
-  <programme start="20251226053000 +0300" stop="20251226061000 +0300" channel="BeinIz.tr">
+  <programme start="20251226053100 +0300" stop="20251226061000 +0300" channel="BeinIz.tr">
     <title lang="tr">Limonata</title>
   </programme>
   <programme start="20251226061000 +0300" stop="20251226064000 +0300" channel="BeinIz.tr">
     <title lang="tr">Hayat Bulan Nehirler S1 B6</title>
   </programme>
-  <programme start="20251226064000 +0300" stop="20251226071000 +0300" channel="BeinIz.tr">
+  <programme start="20251226064000 +0300" stop="20251226071100 +0300" channel="BeinIz.tr">
     <title lang="tr">Coğrafi İşaretler S1 EP 5</title>
   </programme>
-  <programme start="20251226071000 +0300" stop="20251226075000 +0300" channel="BeinIz.tr">
+  <programme start="20251226071100 +0300" stop="20251226075000 +0300" channel="BeinIz.tr">
     <title lang="tr">KESISEN KULTURLER SEZON 2</title>
   </programme>
   <programme start="20251226075000 +0300" stop="20251226082000 +0300" channel="BeinIz.tr">
@@ -10065,7 +10065,7 @@
   <programme start="20251226184000 +0300" stop="20251226192500 +0300" channel="BeinIz.tr">
     <title lang="tr">BALKANLAR S1</title>
   </programme>
-  <programme start="20251226192500 +0300" stop="20251226201000 +0300" channel="BeinIz.tr">
+  <programme start="20251226192500 +0300" stop="20251226201100 +0300" channel="BeinIz.tr">
     <title lang="tr">Erkan Can &amp; Güven Kıraç İle S2</title>
   </programme>
   <channel id="SinemaTV.tr">
