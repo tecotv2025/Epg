@@ -316,9 +316,13 @@
     <title lang="tr">Ozan Gündoğdu ile NOW...</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251228021500 +0300" stop="20251228043000 +0300" channel="Now.tr">
+  <programme start="20251228000000 +0300" stop="20251228024500 +0300" channel="Now.tr">
+    <title lang="tr">Sahtekarlar</title>
+    <length units="minutes">165</length>
+  </programme>
+  <programme start="20251228024500 +0300" stop="20251228043000 +0300" channel="Now.tr">
     <title lang="tr">Şevkat Yerimdar</title>
-    <length units="minutes">135</length>
+    <length units="minutes">105</length>
   </programme>
   <programme start="20251228043000 +0300" stop="20251228060000 +0300" channel="Now.tr">
     <title lang="tr">Kefaret</title>
@@ -347,10 +351,6 @@
   <programme start="20251228190000 +0300" stop="20251228200000 +0300" channel="Now.tr">
     <title lang="tr">Ozan Gündoğdu ile NOW...</title>
     <length units="minutes">60</length>
-  </programme>
-  <programme start="20251228200000 +0300" stop="20251228233000 +0300" channel="Now.tr">
-    <title lang="tr">Sahtekarlar</title>
-    <length units="minutes">210</length>
   </programme>
   <channel id="ShowTv.tr">
     <display-name lang="tr">SHOW TV</display-name>
@@ -521,16 +521,20 @@
     <length units="minutes">60</length>
   </programme>
   <programme start="20251228130000 +0300" stop="20251228140000 +0300" channel="BeyazTV.tr">
-    <title lang="tr">Marka Şehirler</title>
+    <title lang="tr">Ufukta Ne Var?</title>
     <length units="minutes">60</length>
   </programme>
   <programme start="20251228140000 +0300" stop="20251228150000 +0300" channel="BeyazTV.tr">
     <title lang="tr">Hayatta Her Şey Var</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251228150000 +0300" stop="20251228165000 +0300" channel="BeyazTV.tr">
+  <programme start="20251228150000 +0300" stop="20251228160000 +0300" channel="BeyazTV.tr">
+    <title lang="tr">Marka Şehirler</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251228160000 +0300" stop="20251228165000 +0300" channel="BeyazTV.tr">
     <title lang="tr">Kurtlar Vadisi</title>
-    <length units="minutes">110</length>
+    <length units="minutes">50</length>
   </programme>
   <programme start="20251228165000 +0300" stop="20251228183000 +0300" channel="BeyazTV.tr">
     <title lang="tr">Belma Belen'le Geziyoruz</title>
@@ -672,21 +676,21 @@
     <title lang="tr">MasterChef Türkiye All...</title>
     <length units="minutes">150</length>
   </programme>
-  <programme start="20251228023000 +0300" stop="20251228040000 +0300" channel="TV8.tr">
+  <programme start="20251228001500 +0300" stop="20251228013000 +0300" channel="TV8.tr">
+    <title lang="tr">Survivor Ekstra</title>
+    <length units="minutes">75</length>
+  </programme>
+  <programme start="20251228013000 +0300" stop="20251228051500 +0300" channel="TV8.tr">
     <title lang="tr">Gazete Magazin</title>
-    <length units="minutes">90</length>
+    <length units="minutes">225</length>
   </programme>
-  <programme start="20251228040000 +0300" stop="20251228051500 +0300" channel="TV8.tr">
-    <title lang="tr">Oynat Bakalım</title>
-    <length units="minutes">75</length>
-  </programme>
-  <programme start="20251228051500 +0300" stop="20251228063000 +0300" channel="TV8.tr">
+  <programme start="20251228051500 +0300" stop="20251228060000 +0300" channel="TV8.tr">
     <title lang="tr">Gençlik Rüzgarı</title>
-    <length units="minutes">75</length>
+    <length units="minutes">45</length>
   </programme>
-  <programme start="20251228063000 +0300" stop="20251228080000 +0300" channel="TV8.tr">
+  <programme start="20251228060000 +0300" stop="20251228080000 +0300" channel="TV8.tr">
     <title lang="tr">Dizi</title>
-    <length units="minutes">90</length>
+    <length units="minutes">120</length>
   </programme>
   <programme start="20251228080000 +0300" stop="20251228084500 +0300" channel="TV8.tr">
     <title lang="tr">Oynat Bakalım</title>
@@ -696,13 +700,13 @@
     <title lang="tr">Gençlik Rüzgarı</title>
     <length units="minutes">75</length>
   </programme>
-  <programme start="20251228100000 +0300" stop="20251228173000 +0300" channel="TV8.tr">
+  <programme start="20251228100000 +0300" stop="20251228170000 +0300" channel="TV8.tr">
     <title lang="tr">Gazete Magazin Yaz</title>
-    <length units="minutes">450</length>
+    <length units="minutes">420</length>
   </programme>
-  <programme start="20251228173000 +0300" stop="20251228200000 +0300" channel="TV8.tr">
-    <title lang="tr">MasterChef Türkiye All...</title>
-    <length units="minutes">150</length>
+  <programme start="20251228170000 +0300" stop="20251228200000 +0300" channel="TV8.tr">
+    <title lang="tr">Survivor Ekstra</title>
+    <length units="minutes">180</length>
   </programme>
   <channel id="StarTV.tr">
     <display-name lang="tr">STAR TV</display-name>
@@ -2828,17 +2832,21 @@
     <title lang="tr">8. Etap</title>
     <length units="minutes">45</length>
   </programme>
-  <programme start="20251228150000 +0300" stop="20251228151500 +0300" channel="24TV.tr">
+  <programme start="20251228150000 +0300" stop="20251228151000 +0300" channel="24TV.tr">
     <title lang="tr">Haber</title>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
   </programme>
-  <programme start="20251228151500 +0300" stop="20251228170000 +0300" channel="24TV.tr">
-    <title lang="tr">Bu Ülke</title>
-    <length units="minutes">105</length>
+  <programme start="20251228151000 +0300" stop="20251228160000 +0300" channel="24TV.tr">
+    <title lang="tr">Akşam Future Trends Summit</title>
+    <length units="minutes">50</length>
   </programme>
-  <programme start="20251228170000 +0300" stop="20251228172500 +0300" channel="24TV.tr">
+  <programme start="20251228160000 +0300" stop="20251228161000 +0300" channel="24TV.tr">
     <title lang="tr">Haber</title>
-    <length units="minutes">25</length>
+    <length units="minutes">10</length>
+  </programme>
+  <programme start="20251228161000 +0300" stop="20251228172500 +0300" channel="24TV.tr">
+    <title lang="tr">Akşam Future Trends Summit</title>
+    <length units="minutes">75</length>
   </programme>
   <programme start="20251228172500 +0300" stop="20251228180000 +0300" channel="24TV.tr">
     <title lang="tr">Kırmızı Halı</title>
@@ -2997,6 +3005,14 @@
   <programme start="20251227190000 +0300" stop="20251227194500 +0300" channel="Tele1.tr">
     <title lang="tr">Ana Haber</title>
     <length units="minutes">45</length>
+  </programme>
+  <programme start="20251227194500 +0300" stop="20251227210000 +0300" channel="Tele1.tr">
+    <title lang="tr">Tele 1</title>
+    <length units="minutes">75</length>
+  </programme>
+  <programme start="20251228000000 +0300" stop="20251228010000 +0300" channel="Tele1.tr">
+    <title lang="tr">Tele 1</title>
+    <length units="minutes">60</length>
   </programme>
   <programme start="20251228010000 +0300" stop="20251228090000 +0300" channel="Tele1.tr">
     <title lang="tr">Tekrar Programlar</title>
@@ -3430,20 +3446,120 @@
     <title lang="tr">Güncel</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20251228040000 +0300" stop="20251228070000 +0300" channel="FlashTv.tr">
-    <title lang="tr">Güncel</title>
-    <length units="minutes">180</length>
+  <programme start="20251228000000 +0300" stop="20251228002500 +0300" channel="FlashTv.tr">
+    <title lang="tr">Haber</title>
+    <length units="minutes">25</length>
   </programme>
-  <programme start="20251228070000 +0300" stop="20251228150000 +0300" channel="FlashTv.tr">
+  <programme start="20251228002500 +0300" stop="20251228010000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Donanım Günlüğü</title>
+    <length units="minutes">35</length>
+  </programme>
+  <programme start="20251228010000 +0300" stop="20251228013000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Haber</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251228013000 +0300" stop="20251228014200 +0300" channel="FlashTv.tr">
+    <title lang="tr">Kültür Sanat</title>
+    <length units="minutes">12</length>
+  </programme>
+  <programme start="20251228014200 +0300" stop="20251228015200 +0300" channel="FlashTv.tr">
+    <title lang="tr">Konsol</title>
+    <length units="minutes">10</length>
+  </programme>
+  <programme start="20251228015200 +0300" stop="20251228015500 +0300" channel="FlashTv.tr">
+    <title lang="tr">Hava Durumu</title>
+    <length units="minutes">3</length>
+  </programme>
+  <programme start="20251228015500 +0300" stop="20251228020000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Kuş Bakışı</title>
+    <length units="minutes">5</length>
+  </programme>
+  <programme start="20251228020000 +0300" stop="20251228023000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Güncel</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251228023000 +0300" stop="20251228024500 +0300" channel="FlashTv.tr">
+    <title lang="tr">Spor Hattı</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251228024500 +0300" stop="20251228030000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Haber Hattı</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251228030000 +0300" stop="20251228033000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Güncel</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251228033000 +0300" stop="20251228034500 +0300" channel="FlashTv.tr">
+    <title lang="tr">Ekonomi Hattı</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251228034500 +0300" stop="20251228035500 +0300" channel="FlashTv.tr">
+    <title lang="tr">Flash Vizyon</title>
+    <length units="minutes">10</length>
+  </programme>
+  <programme start="20251228035500 +0300" stop="20251228040000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Kuş Bakışı</title>
+    <length units="minutes">5</length>
+  </programme>
+  <programme start="20251228040000 +0300" stop="20251228043000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Haber</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251228043000 +0300" stop="20251228045000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Sağlık Hattı</title>
+    <length units="minutes">20</length>
+  </programme>
+  <programme start="20251228045000 +0300" stop="20251228045500 +0300" channel="FlashTv.tr">
+    <title lang="tr">Hava Durumu</title>
+    <length units="minutes">5</length>
+  </programme>
+  <programme start="20251228045500 +0300" stop="20251228050000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Kuş Bakışı</title>
+    <length units="minutes">5</length>
+  </programme>
+  <programme start="20251228050000 +0300" stop="20251228053000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Haber</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251228053000 +0300" stop="20251228055900 +0300" channel="FlashTv.tr">
+    <title lang="tr">Bilim Hattı</title>
+    <length units="minutes">29</length>
+  </programme>
+  <programme start="20251228055900 +0300" stop="20251228060000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Hava Durumu</title>
+    <length units="minutes">1</length>
+  </programme>
+  <programme start="20251228060000 +0300" stop="20251228063000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Haber</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251228063000 +0300" stop="20251228065900 +0300" channel="FlashTv.tr">
+    <title lang="tr">Yeşil Hat</title>
+    <length units="minutes">29</length>
+  </programme>
+  <programme start="20251228065900 +0300" stop="20251228070000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Kuş Bakışı</title>
+    <length units="minutes">1</length>
+  </programme>
+  <programme start="20251228070000 +0300" stop="20251228110000 +0300" channel="FlashTv.tr">
     <title lang="tr">Gün Başlıyor</title>
-    <length units="minutes">480</length>
+    <length units="minutes">240</length>
+  </programme>
+  <programme start="20251228110000 +0300" stop="20251228150000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Hafta Sonu</title>
+    <length units="minutes">240</length>
   </programme>
   <programme start="20251228150000 +0300" stop="20251228190000 +0300" channel="FlashTv.tr">
-    <title lang="tr">Gün Başlıyor</title>
+    <title lang="tr">Haber</title>
     <length units="minutes">240</length>
   </programme>
   <programme start="20251228190000 +0300" stop="20251228200000 +0300" channel="FlashTv.tr">
     <title lang="tr">Anahaber</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20251228200000 +0300" stop="20251228210000 +0300" channel="FlashTv.tr">
+    <title lang="tr">Güncel</title>
     <length units="minutes">60</length>
   </programme>
   <channel id="UlusalKanal.tr">
@@ -3674,41 +3790,37 @@
     <title lang="tr">Akustikhane</title>
     <length units="minutes">50</length>
   </programme>
-  <programme start="20251228021500 +0300" stop="20251228024000 +0300" channel="BloombergHT.tr">
+  <programme start="20251228021500 +0300" stop="20251228030000 +0300" channel="BloombergHT.tr">
     <title lang="tr">İş'te Zirve</title>
-    <length units="minutes">25</length>
+    <length units="minutes">45</length>
   </programme>
-  <programme start="20251228024000 +0300" stop="20251228030000 +0300" channel="BloombergHT.tr">
-    <title lang="tr">The David Rubenstein Show</title>
-    <length units="minutes">20</length>
-  </programme>
-  <programme start="20251228030000 +0300" stop="20251228032500 +0300" channel="BloombergHT.tr">
+  <programme start="20251228030000 +0300" stop="20251228033500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Başarıya Doğru</title>
-    <length units="minutes">25</length>
+    <length units="minutes">35</length>
   </programme>
-  <programme start="20251228032500 +0300" stop="20251228035000 +0300" channel="BloombergHT.tr">
-    <title lang="tr">Elif Ergu İle Kadın Dediğin</title>
-    <length units="minutes">25</length>
-  </programme>
-  <programme start="20251228035000 +0300" stop="20251228042500 +0300" channel="BloombergHT.tr">
+  <programme start="20251228033500 +0300" stop="20251228041000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Yarının Zekası</title>
     <length units="minutes">35</length>
   </programme>
-  <programme start="20251228042500 +0300" stop="20251228044000 +0300" channel="BloombergHT.tr">
+  <programme start="20251228041000 +0300" stop="20251228043500 +0300" channel="BloombergHT.tr">
     <title lang="tr">İş'te Ezber Bozanlar</title>
-    <length units="minutes">15</length>
+    <length units="minutes">25</length>
   </programme>
-  <programme start="20251228044000 +0300" stop="20251228051500 +0300" channel="BloombergHT.tr">
+  <programme start="20251228043500 +0300" stop="20251228050000 +0300" channel="BloombergHT.tr">
+    <title lang="tr">Üst Düzey</title>
+    <length units="minutes">25</length>
+  </programme>
+  <programme start="20251228050000 +0300" stop="20251228052500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Akıllı Tarım</title>
-    <length units="minutes">35</length>
+    <length units="minutes">25</length>
   </programme>
-  <programme start="20251228051500 +0300" stop="20251228061000 +0300" channel="BloombergHT.tr">
+  <programme start="20251228052500 +0300" stop="20251228061500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Ece Saruhan'la Oyuna Devam</title>
-    <length units="minutes">55</length>
-  </programme>
-  <programme start="20251228061000 +0300" stop="20251228070000 +0300" channel="BloombergHT.tr">
-    <title lang="tr">Aslı Şafak'la İşin Aslı</title>
     <length units="minutes">50</length>
+  </programme>
+  <programme start="20251228061500 +0300" stop="20251228070000 +0300" channel="BloombergHT.tr">
+    <title lang="tr">Aslı Şafak'la İşin Aslı</title>
+    <length units="minutes">45</length>
   </programme>
   <programme start="20251228070000 +0300" stop="20251228080000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Akustikhane</title>
@@ -5401,50 +5513,50 @@
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta A.G.Pendikspor - E.Erokspor Maçı Canlı</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20251228000000 +0300" stop="20251228014000 +0300" channel="BeinSports2.tr">
+  <programme start="20251228000000 +0300" stop="20251228014500 +0300" channel="BeinSports2.tr">
     <title lang="tr">S.G.Sarıyerspor - S.Bodrum FK</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta S.G.Sarıyerspor - S.Bodrum FK Maçı Bant -</title>
-    <length units="minutes">100</length>
+    <length units="minutes">105</length>
   </programme>
-  <programme start="20251228020000 +0300" stop="20251228034000 +0300" channel="BeinSports2.tr">
+  <programme start="20251228020000 +0300" stop="20251228034500 +0300" channel="BeinSports2.tr">
     <title lang="tr">İ.A.Vanspor FK - A.Hatayspor</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta İ.A.Vanspor FK - A.Hatayspor Maçı Bant -</title>
-    <length units="minutes">100</length>
+    <length units="minutes">105</length>
   </programme>
-  <programme start="20251228040000 +0300" stop="20251228054000 +0300" channel="BeinSports2.tr">
+  <programme start="20251228040000 +0300" stop="20251228054500 +0300" channel="BeinSports2.tr">
     <title lang="tr">A.G.Pendikspor - E.Erokspor</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta A.G.Pendikspor - E.Erokspor Maçı Bant -</title>
-    <length units="minutes">100</length>
+    <length units="minutes">105</length>
   </programme>
-  <programme start="20251228060000 +0300" stop="20251228074000 +0300" channel="BeinSports2.tr">
+  <programme start="20251228060000 +0300" stop="20251228074500 +0300" channel="BeinSports2.tr">
     <title lang="tr">Ö.Sivasspor - Bandırmaspor</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta Ö.Sivasspor - Bandırmaspor Maçı Bant -</title>
-    <length units="minutes">100</length>
+    <length units="minutes">105</length>
   </programme>
-  <programme start="20251228074500 +0300" stop="20251228092500 +0300" channel="BeinSports2.tr">
+  <programme start="20251228074500 +0300" stop="20251228093000 +0300" channel="BeinSports2.tr">
     <title lang="tr">S.G.Sarıyerspor - S.Bodrum FK</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta S.G.Sarıyerspor - S.Bodrum FK Maçı Bant -</title>
-    <length units="minutes">100</length>
+    <length units="minutes">105</length>
   </programme>
-  <programme start="20251228093000 +0300" stop="20251228111000 +0300" channel="BeinSports2.tr">
+  <programme start="20251228093000 +0300" stop="20251228111500 +0300" channel="BeinSports2.tr">
     <title lang="tr">İ.A.Vanspor FK - A.Hatayspor</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta İ.A.Vanspor FK - A.Hatayspor Maçı Bant -</title>
-    <length units="minutes">100</length>
+    <length units="minutes">105</length>
   </programme>
-  <programme start="20251228111500 +0300" stop="20251228125500 +0300" channel="BeinSports2.tr">
+  <programme start="20251228111500 +0300" stop="20251228131000 +0300" channel="BeinSports2.tr">
     <title lang="tr">A.G.Pendikspor - E.Erokspor</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta A.G.Pendikspor - E.Erokspor Maçı Bant -</title>
-    <length units="minutes">100</length>
+    <length units="minutes">115</length>
   </programme>
   <programme start="20251228160000 +0300" stop="20251228180000 +0300" channel="BeinSports2.tr">
     <title lang="tr">Erzurumspor FK - A.Çorum FK</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta Erzurumspor FK - A.Çorum FK Maçı Canlı Kayıt -</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20251228190000 +0300" stop="20251228210000 +0300" channel="BeinSports2.tr">
+  <programme start="20251228190000 +0300" stop="20251228210100 +0300" channel="BeinSports2.tr">
     <title lang="tr">Amed S.F. - A.H.Iğdır FK</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta Amed S.F. - A.H.Iğdır FK Maçı Canlı Kayıt -</title>
-    <length units="minutes">120</length>
+    <length units="minutes">121</length>
   </programme>
   <channel id="BeinSports3.tr">
     <display-name lang="tr">beIN SPORTS 3</display-name>
@@ -6654,53 +6766,61 @@
     <title lang="tr">Geçen Haftanın Enleri</title>
     <length units="minutes">180</length>
   </programme>
-  <programme start="20251228010000 +0300" stop="20251228024500 +0300" channel="EuroSport1.tr">
-    <title lang="tr">Aşka Mahkum</title>
-    <length units="minutes">105</length>
+  <programme start="20251227190000 +0300" stop="20251228203000 +0300" channel="EuroSport1.tr">
+    <title lang="tr">Meteor Kıyameti</title>
+    <length units="minutes">90</length>
   </programme>
-  <programme start="20251228024500 +0300" stop="20251228030000 +0300" channel="EuroSport1.tr">
-    <title lang="tr">Bi Hafta Sonu</title>
-    <length units="minutes">15</length>
-  </programme>
-  <programme start="20251228030000 +0300" stop="20251228044500 +0300" channel="EuroSport1.tr">
-    <title lang="tr">Yeşilçam Filmi</title>
-    <length units="minutes">105</length>
-  </programme>
-  <programme start="20251228044500 +0300" stop="20251228060000 +0300" channel="EuroSport1.tr">
+  <programme start="20251227203000 +0300" stop="20251228230000 +0300" channel="EuroSport1.tr">
     <title lang="tr">Can Bağı</title>
-    <length units="minutes">75</length>
+    <length units="minutes">150</length>
   </programme>
-  <programme start="20251228060000 +0300" stop="20251228070000 +0300" channel="EuroSport1.tr">
-    <title lang="tr">Aşka Mahkum</title>
-    <length units="minutes">60</length>
+  <programme start="20251228010000 +0300" stop="20251229030000 +0300" channel="EuroSport1.tr">
+    <title lang="tr">Leylifer</title>
+    <length units="minutes">120</length>
   </programme>
-  <programme start="20251228070000 +0300" stop="20251228103000 +0300" channel="EuroSport1.tr">
-    <title lang="tr">Yeşil Vadi'nin Kızı</title>
-    <length units="minutes">210</length>
-  </programme>
-  <programme start="20251228103000 +0300" stop="20251228110000 +0300" channel="EuroSport1.tr">
-    <title lang="tr">Yer Gök Aşk</title>
+  <programme start="20251228030000 +0300" stop="20251229033000 +0300" channel="EuroSport1.tr">
+    <title lang="tr">Yeşilçam Filmi</title>
     <length units="minutes">30</length>
   </programme>
-  <programme start="20251228110000 +0300" stop="20251228130000 +0300" channel="EuroSport1.tr">
+  <programme start="20251228033000 +0300" stop="20251229070000 +0300" channel="EuroSport1.tr">
+    <title lang="tr">Aşk ve Gurur</title>
+    <length units="minutes">210</length>
+  </programme>
+  <programme start="20251228070000 +0300" stop="20251229093000 +0300" channel="EuroSport1.tr">
+    <title lang="tr">Yeşil Vadi'nin Kızı</title>
+    <length units="minutes">150</length>
+  </programme>
+  <programme start="20251228093000 +0300" stop="20251229110000 +0300" channel="EuroSport1.tr">
+    <title lang="tr">Hayaller Ülkesi</title>
+    <length units="minutes">90</length>
+  </programme>
+  <programme start="20251228110000 +0300" stop="20251229114500 +0300" channel="EuroSport1.tr">
     <title lang="tr">Bi Hafta Sonu</title>
+    <length units="minutes">45</length>
+  </programme>
+  <programme start="20251228114500 +0300" stop="20251229130000 +0300" channel="EuroSport1.tr">
+    <title lang="tr">Aşk ve Gurur</title>
+    <length units="minutes">75</length>
+  </programme>
+  <programme start="20251228130000 +0300" stop="20251229150000 +0300" channel="EuroSport1.tr">
+    <title lang="tr">İskenderunspor - MKE...</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20251228130000 +0300" stop="20251228150000 +0300" channel="EuroSport1.tr">
+  <programme start="20251228150000 +0300" stop="20251229170000 +0300" channel="EuroSport1.tr">
+    <title lang="tr">İnegölspor - Altınordu</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20251228170000 +0300" stop="20251229190000 +0300" channel="EuroSport1.tr">
     <title lang="tr">Can Bağı</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20251228150000 +0300" stop="20251228171500 +0300" channel="EuroSport1.tr">
-    <title lang="tr">Beyaz Köle</title>
-    <length units="minutes">135</length>
+  <programme start="20251228190000 +0300" stop="20251229201500 +0300" channel="EuroSport1.tr">
+    <title lang="tr">Android Polis</title>
+    <length units="minutes">75</length>
   </programme>
-  <programme start="20251228171500 +0300" stop="20251228180000 +0300" channel="EuroSport1.tr">
-    <title lang="tr">Aşka Mahkum</title>
-    <length units="minutes">45</length>
-  </programme>
-  <programme start="20251228180000 +0300" stop="20251228210000 +0300" channel="EuroSport1.tr">
-    <title lang="tr">Maç Özetleri</title>
-    <length units="minutes">180</length>
+  <programme start="20251228201500 +0300" stop="20251229204500 +0300" channel="EuroSport1.tr">
+    <title lang="tr">Bi Haftanın Golleri</title>
+    <length units="minutes">30</length>
   </programme>
   <channel id="EuroSport2.tr">
     <display-name lang="tr">EUROSPORT 2</display-name>
@@ -9040,19 +9160,19 @@
     <length units="minutes">27</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228065200 +0300" stop="20251228065400 +0300" channel="BeinGurme.tr">
+  <programme start="20251228065200 +0300" stop="20251228070000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">2</length>
+    <length units="minutes">8</length>
   </programme>
-  <programme start="20251228070000 +0300" stop="20251228073000 +0300" channel="BeinGurme.tr">
+  <programme start="20251228070000 +0300" stop="20251228073100 +0300" channel="BeinGurme.tr">
     <title lang="tr">Yağız ile Havalı Tarifler 24</title>
     <title lang="xx">Yağız ile Havalı Tarifler</title>
-    <length units="minutes">30</length>
+    <length units="minutes">31</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228073000 +0300" stop="20251228073400 +0300" channel="BeinGurme.tr">
+  <programme start="20251228073100 +0300" stop="20251228074000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">4</length>
+    <length units="minutes">9</length>
   </programme>
   <programme start="20251228074000 +0300" stop="20251228081000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Sinan Büdeyri ile Lezz’et B39</title>
@@ -9060,45 +9180,45 @@
     <length units="minutes">30</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228081000 +0300" stop="20251228081100 +0300" channel="BeinGurme.tr">
+  <programme start="20251228081000 +0300" stop="20251228081500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">1</length>
+    <length units="minutes">5</length>
   </programme>
   <programme start="20251228081500 +0300" stop="20251228084700 +0300" channel="BeinGurme.tr">
     <title lang="tr">Görevimiz Yemek</title>
     <length units="minutes">32</length>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
-  <programme start="20251228084700 +0300" stop="20251228084900 +0300" channel="BeinGurme.tr">
+  <programme start="20251228084700 +0300" stop="20251228085500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">2</length>
+    <length units="minutes">8</length>
   </programme>
   <programme start="20251228085500 +0300" stop="20251228091200 +0300" channel="BeinGurme.tr">
     <title lang="tr">Lezzetin Ustaları</title>
     <length units="minutes">17</length>
     <episode-num system="onscreen">S4</episode-num>
   </programme>
-  <programme start="20251228091200 +0300" stop="20251228091400 +0300" channel="BeinGurme.tr">
+  <programme start="20251228091200 +0300" stop="20251228092000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">2</length>
+    <length units="minutes">8</length>
   </programme>
   <programme start="20251228092000 +0300" stop="20251228094900 +0300" channel="BeinGurme.tr">
     <title lang="tr">Ekmek Arası Muhabbet</title>
     <length units="minutes">29</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228094900 +0300" stop="20251228095000 +0300" channel="BeinGurme.tr">
+  <programme start="20251228094900 +0300" stop="20251228095500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">1</length>
+    <length units="minutes">6</length>
   </programme>
   <programme start="20251228095500 +0300" stop="20251228102600 +0300" channel="BeinGurme.tr">
     <title lang="tr">4 Lezzet</title>
     <length units="minutes">31</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228102600 +0300" stop="20251228102900 +0300" channel="BeinGurme.tr">
+  <programme start="20251228102600 +0300" stop="20251228103500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">3</length>
+    <length units="minutes">9</length>
   </programme>
   <programme start="20251228103500 +0300" stop="20251228110500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Yağız ile Havalı Tarifler 23</title>
@@ -9106,138 +9226,138 @@
     <length units="minutes">30</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228110500 +0300" stop="20251228110900 +0300" channel="BeinGurme.tr">
+  <programme start="20251228110500 +0300" stop="20251228111500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">4</length>
+    <length units="minutes">10</length>
   </programme>
-  <programme start="20251228111500 +0300" stop="20251228114300 +0300" channel="BeinGurme.tr">
+  <programme start="20251228111500 +0300" stop="20251228114400 +0300" channel="BeinGurme.tr">
     <title lang="tr">Sinan Büdeyri ile Lezz’et B2</title>
     <title lang="xx">Sinan Büdeyri ile Lezz’et</title>
+    <length units="minutes">29</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20251228114400 +0300" stop="20251228115600 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">12</length>
+  </programme>
+  <programme start="20251228115600 +0300" stop="20251228122900 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Gastronomi Maceraları</title>
+    <length units="minutes">33</length>
+    <episode-num system="onscreen">S6</episode-num>
+  </programme>
+  <programme start="20251228122900 +0300" stop="20251228123500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">6</length>
+  </programme>
+  <programme start="20251228123500 +0300" stop="20251228130300 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Gece Lezzetleri</title>
     <length units="minutes">28</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228114300 +0300" stop="20251228115000 +0300" channel="BeinGurme.tr">
+  <programme start="20251228130300 +0300" stop="20251228131000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
     <length units="minutes">7</length>
-  </programme>
-  <programme start="20251228115500 +0300" stop="20251228122900 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Gastronomi Maceraları</title>
-    <length units="minutes">34</length>
-    <episode-num system="onscreen">S6</episode-num>
-  </programme>
-  <programme start="20251228122900 +0300" stop="20251228123000 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">1</length>
-  </programme>
-  <programme start="20251228123500 +0300" stop="20251228130200 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Gece Lezzetleri</title>
-    <length units="minutes">27</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20251228130200 +0300" stop="20251228130400 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">2</length>
   </programme>
   <programme start="20251228131000 +0300" stop="20251228134000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Dünyanın En İyi Şefleri</title>
     <length units="minutes">30</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228134000 +0300" stop="20251228134400 +0300" channel="BeinGurme.tr">
+  <programme start="20251228134000 +0300" stop="20251228135000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">4</length>
+    <length units="minutes">10</length>
   </programme>
   <programme start="20251228135000 +0300" stop="20251228142900 +0300" channel="BeinGurme.tr">
     <title lang="tr">Hazer Amani ile Keşfe Değer</title>
     <length units="minutes">39</length>
     <episode-num system="onscreen">S3</episode-num>
   </programme>
-  <programme start="20251228142900 +0300" stop="20251228143000 +0300" channel="BeinGurme.tr">
+  <programme start="20251228142900 +0300" stop="20251228143600 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">1</length>
+    <length units="minutes">7</length>
   </programme>
-  <programme start="20251228143500 +0300" stop="20251228150600 +0300" channel="BeinGurme.tr">
+  <programme start="20251228143600 +0300" stop="20251228150700 +0300" channel="BeinGurme.tr">
     <title lang="tr">Ateşin Sırrı</title>
     <length units="minutes">31</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228150600 +0300" stop="20251228150900 +0300" channel="BeinGurme.tr">
+  <programme start="20251228150700 +0300" stop="20251228151500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">3</length>
+    <length units="minutes">8</length>
   </programme>
   <programme start="20251228151500 +0300" stop="20251228154700 +0300" channel="BeinGurme.tr">
     <title lang="tr">10 Şef 10 Tabak</title>
     <length units="minutes">32</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228154700 +0300" stop="20251228154900 +0300" channel="BeinGurme.tr">
+  <programme start="20251228154700 +0300" stop="20251228155500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">2</length>
+    <length units="minutes">8</length>
   </programme>
-  <programme start="20251228155500 +0300" stop="20251228162800 +0300" channel="BeinGurme.tr">
+  <programme start="20251228155500 +0300" stop="20251228162900 +0300" channel="BeinGurme.tr">
     <title lang="tr">Evdeki Restoran</title>
-    <length units="minutes">33</length>
+    <length units="minutes">34</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228162800 +0300" stop="20251228163300 +0300" channel="BeinGurme.tr">
+  <programme start="20251228162900 +0300" stop="20251228164000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">5</length>
+    <length units="minutes">11</length>
   </programme>
   <programme start="20251228164000 +0300" stop="20251228170800 +0300" channel="BeinGurme.tr">
     <title lang="tr">4 Lezzet</title>
     <length units="minutes">28</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228170800 +0300" stop="20251228171500 +0300" channel="BeinGurme.tr">
+  <programme start="20251228170800 +0300" stop="20251228172100 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">7</length>
+    <length units="minutes">13</length>
   </programme>
-  <programme start="20251228172000 +0300" stop="20251228174900 +0300" channel="BeinGurme.tr">
+  <programme start="20251228172100 +0300" stop="20251228174900 +0300" channel="BeinGurme.tr">
     <title lang="tr">Yağız ile Havalı Tarifler 25</title>
     <title lang="xx">Yağız ile Havalı Tarifler</title>
-    <length units="minutes">29</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20251228174900 +0300" stop="20251228175500 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">6</length>
-  </programme>
-  <programme start="20251228180000 +0300" stop="20251228182800 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Sinan Büdeyri ile Lezz’et B38</title>
-    <title lang="xx">Sinan Büdeyri ile Lezz’et</title>
     <length units="minutes">28</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228182800 +0300" stop="20251228183300 +0300" channel="BeinGurme.tr">
+  <programme start="20251228174900 +0300" stop="20251228180000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">5</length>
+    <length units="minutes">11</length>
+  </programme>
+  <programme start="20251228180000 +0300" stop="20251228182900 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Sinan Büdeyri ile Lezz’et B38</title>
+    <title lang="xx">Sinan Büdeyri ile Lezz’et</title>
+    <length units="minutes">29</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20251228182900 +0300" stop="20251228184000 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">11</length>
   </programme>
   <programme start="20251228184000 +0300" stop="20251228190700 +0300" channel="BeinGurme.tr">
     <title lang="tr">Hesap Lütfen</title>
     <length units="minutes">27</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228190700 +0300" stop="20251228191400 +0300" channel="BeinGurme.tr">
+  <programme start="20251228190700 +0300" stop="20251228192000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">7</length>
+    <length units="minutes">13</length>
   </programme>
   <programme start="20251228192000 +0300" stop="20251228194500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Açık Ateş Başında</title>
     <length units="minutes">25</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228194500 +0300" stop="20251228195400 +0300" channel="BeinGurme.tr">
+  <programme start="20251228194500 +0300" stop="20251228200000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">9</length>
+    <length units="minutes">15</length>
   </programme>
-  <programme start="20251228200000 +0300" stop="20251228203000 +0300" channel="BeinGurme.tr">
+  <programme start="20251228200000 +0300" stop="20251228203100 +0300" channel="BeinGurme.tr">
     <title lang="tr">Bedri ve Dostları</title>
-    <length units="minutes">30</length>
+    <length units="minutes">31</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251228203000 +0300" stop="20251228203400 +0300" channel="BeinGurme.tr">
+  <programme start="20251228203100 +0300" stop="20251228204000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">4</length>
+    <length units="minutes">9</length>
   </programme>
   <programme start="20251228204000 +0300" stop="20251228210600 +0300" channel="BeinGurme.tr">
     <title lang="tr">Yabancı Şef</title>
@@ -9582,9 +9702,9 @@
     <title lang="tr">Hafta Sonu Ana Haber Bülteni</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20251228200000 +0300" stop="20251228233000 +0300" channel="tv100.tr">
+  <programme start="20251228200000 +0300" stop="20251228230000 +0300" channel="tv100.tr">
     <title lang="tr">Şimdi Konuşalım</title>
-    <length units="minutes">210</length>
+    <length units="minutes">180</length>
   </programme>
   <channel id="GztTv.tr">
     <display-name lang="tr">GZT</display-name>
@@ -9741,6 +9861,162 @@
   <programme start="20251227205000 +0300" stop="20251227212800 +0300" channel="GztTv.tr">
     <title lang="tr">Hisseden Adam</title>
     <length units="minutes">38</length>
+  </programme>
+  <programme start="20251228000000 +0300" stop="20251228003400 +0300" channel="GztTv.tr">
+    <title lang="tr">Amerika Depo Savaşları</title>
+    <length units="minutes">34</length>
+  </programme>
+  <programme start="20251228003400 +0300" stop="20251228012200 +0300" channel="GztTv.tr">
+    <title lang="tr">Lesnoy Craft</title>
+    <length units="minutes">48</length>
+  </programme>
+  <programme start="20251228012200 +0300" stop="20251228014300 +0300" channel="GztTv.tr">
+    <title lang="tr">Meaty Cheesy</title>
+    <length units="minutes">21</length>
+  </programme>
+  <programme start="20251228014300 +0300" stop="20251228021900 +0300" channel="GztTv.tr">
+    <title lang="tr">Tarih 101</title>
+    <length units="minutes">36</length>
+  </programme>
+  <programme start="20251228021900 +0300" stop="20251228025000 +0300" channel="GztTv.tr">
+    <title lang="tr">Kanan Badalov</title>
+    <length units="minutes">31</length>
+  </programme>
+  <programme start="20251228025000 +0300" stop="20251228031000 +0300" channel="GztTv.tr">
+    <title lang="tr">Visual Walk Uk</title>
+    <length units="minutes">20</length>
+  </programme>
+  <programme start="20251228031000 +0300" stop="20251228033900 +0300" channel="GztTv.tr">
+    <title lang="tr">Crazybushcraft</title>
+    <length units="minutes">29</length>
+  </programme>
+  <programme start="20251228033900 +0300" stop="20251228043200 +0300" channel="GztTv.tr">
+    <title lang="tr">Antik Seyyah</title>
+    <length units="minutes">53</length>
+  </programme>
+  <programme start="20251228043200 +0300" stop="20251228050200 +0300" channel="GztTv.tr">
+    <title lang="tr">Rota Hazır</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251228050200 +0300" stop="20251228054200 +0300" channel="GztTv.tr">
+    <title lang="tr">Sweet Village</title>
+    <length units="minutes">40</length>
+  </programme>
+  <programme start="20251228054200 +0300" stop="20251228060500 +0300" channel="GztTv.tr">
+    <title lang="tr">Amerika Depo Savaşları</title>
+    <length units="minutes">23</length>
+  </programme>
+  <programme start="20251228060500 +0300" stop="20251228063000 +0300" channel="GztTv.tr">
+    <title lang="tr">Hisseden Adam</title>
+    <length units="minutes">25</length>
+  </programme>
+  <programme start="20251228063000 +0300" stop="20251228065700 +0300" channel="GztTv.tr">
+    <title lang="tr">Wilderness Grill</title>
+    <length units="minutes">27</length>
+  </programme>
+  <programme start="20251228065700 +0300" stop="20251228070000 +0300" channel="GztTv.tr">
+    <title lang="tr">Mini Türk Mutfağı</title>
+    <length units="minutes">3</length>
+  </programme>
+  <programme start="20251228070000 +0300" stop="20251228072100 +0300" channel="GztTv.tr">
+    <title lang="tr">Diksiyon Tv</title>
+    <length units="minutes">21</length>
+  </programme>
+  <programme start="20251228072100 +0300" stop="20251228073800 +0300" channel="GztTv.tr">
+    <title lang="tr">Aktifizyo</title>
+    <length units="minutes">17</length>
+  </programme>
+  <programme start="20251228073800 +0300" stop="20251228081400 +0300" channel="GztTv.tr">
+    <title lang="tr">Hobisever</title>
+    <length units="minutes">36</length>
+  </programme>
+  <programme start="20251228081400 +0300" stop="20251228085400 +0300" channel="GztTv.tr">
+    <title lang="tr">Evcins Home</title>
+    <length units="minutes">40</length>
+  </programme>
+  <programme start="20251228085400 +0300" stop="20251228093000 +0300" channel="GztTv.tr">
+    <title lang="tr">Hisseden Adam</title>
+    <length units="minutes">36</length>
+  </programme>
+  <programme start="20251228093000 +0300" stop="20251228110600 +0300" channel="GztTv.tr">
+    <title lang="tr">Amerika Depo Savaşları</title>
+    <length units="minutes">96</length>
+  </programme>
+  <programme start="20251228110600 +0300" stop="20251228115200 +0300" channel="GztTv.tr">
+    <title lang="tr">Sweet Village</title>
+    <length units="minutes">46</length>
+  </programme>
+  <programme start="20251228115200 +0300" stop="20251228121200 +0300" channel="GztTv.tr">
+    <title lang="tr">Wilderness Cooking</title>
+    <length units="minutes">20</length>
+  </programme>
+  <programme start="20251228121200 +0300" stop="20251228123200 +0300" channel="GztTv.tr">
+    <title lang="tr">Short Akışı</title>
+    <length units="minutes">20</length>
+  </programme>
+  <programme start="20251228123200 +0300" stop="20251228133900 +0300" channel="GztTv.tr">
+    <title lang="tr">Outdoor Builder</title>
+    <length units="minutes">67</length>
+  </programme>
+  <programme start="20251228133900 +0300" stop="20251228141100 +0300" channel="GztTv.tr">
+    <title lang="tr">Wilderness Grill</title>
+    <length units="minutes">32</length>
+  </programme>
+  <programme start="20251228141100 +0300" stop="20251228143100 +0300" channel="GztTv.tr">
+    <title lang="tr">Short Akışı</title>
+    <length units="minutes">20</length>
+  </programme>
+  <programme start="20251228143100 +0300" stop="20251228145800 +0300" channel="GztTv.tr">
+    <title lang="tr">Balık Günlükleri</title>
+    <length units="minutes">27</length>
+  </programme>
+  <programme start="20251228145800 +0300" stop="20251228153100 +0300" channel="GztTv.tr">
+    <title lang="tr">Rotasız Seyyah</title>
+    <length units="minutes">33</length>
+  </programme>
+  <programme start="20251228153100 +0300" stop="20251228160100 +0300" channel="GztTv.tr">
+    <title lang="tr">Muratca</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251228160100 +0300" stop="20251228162100 +0300" channel="GztTv.tr">
+    <title lang="tr">Short Akışı</title>
+    <length units="minutes">20</length>
+  </programme>
+  <programme start="20251228162100 +0300" stop="20251228165100 +0300" channel="GztTv.tr">
+    <title lang="tr">Asbjorn Olsen Berg Bushcraft</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20251228165100 +0300" stop="20251228173300 +0300" channel="GztTv.tr">
+    <title lang="tr">Rextorer</title>
+    <length units="minutes">42</length>
+  </programme>
+  <programme start="20251228173300 +0300" stop="20251228185700 +0300" channel="GztTv.tr">
+    <title lang="tr">Bogdan in the Forest</title>
+    <length units="minutes">84</length>
+  </programme>
+  <programme start="20251228185700 +0300" stop="20251228191500 +0300" channel="GztTv.tr">
+    <title lang="tr">Short Akışı</title>
+    <length units="minutes">18</length>
+  </programme>
+  <programme start="20251228191500 +0300" stop="20251228193700 +0300" channel="GztTv.tr">
+    <title lang="tr">Guga Foods</title>
+    <length units="minutes">22</length>
+  </programme>
+  <programme start="20251228193700 +0300" stop="20251228195500 +0300" channel="GztTv.tr">
+    <title lang="tr">Harita</title>
+    <length units="minutes">18</length>
+  </programme>
+  <programme start="20251228195500 +0300" stop="20251228202600 +0300" channel="GztTv.tr">
+    <title lang="tr">Seyyarhane</title>
+    <length units="minutes">31</length>
+  </programme>
+  <programme start="20251228202600 +0300" stop="20251228204800 +0300" channel="GztTv.tr">
+    <title lang="tr">Short Akışı</title>
+    <length units="minutes">22</length>
+  </programme>
+  <programme start="20251228204800 +0300" stop="20251228212000 +0300" channel="GztTv.tr">
+    <title lang="tr">Alfa</title>
+    <length units="minutes">32</length>
   </programme>
   <channel id="BeinIz.tr">
     <display-name lang="tr">beIN İz TV HD</display-name>
