@@ -7909,10 +7909,10 @@
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251225/80/1200223020855eb9542c.jpg" />
   </programme>
   <programme start="20251227170000 +0300" stop="20251227190000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Torino - Cagliari</title>
+    <title lang="tr">Lecce - Como</title>
     <desc lang="tr">Serie A 17. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251225/95/1200223030935eb9542c.webp" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251227/33/1000110940855eb78424.webp" />
   </programme>
   <programme start="20251227190000 +0300" stop="20251227193000 +0300" channel="Sspor2.tr">
     <title lang="tr">Made In Italy</title>
@@ -9746,19 +9746,19 @@
     <display-name lang="tr">beIN İz TV HD</display-name>
     <icon src="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-iz-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" />
   </channel>
-  <programme start="20251227000000 +0300" stop="20251227004500 +0300" channel="BeinIz.tr">
+  <programme start="20251227000100 +0300" stop="20251227004500 +0300" channel="BeinIz.tr">
     <title lang="tr">Kesişen Kültürler S3</title>
   </programme>
-  <programme start="20251227004500 +0300" stop="20251227012000 +0300" channel="BeinIz.tr">
+  <programme start="20251227004500 +0300" stop="20251227012100 +0300" channel="BeinIz.tr">
     <title lang="tr">BAHARATIN YOLCULUGU SEZON 1</title>
   </programme>
-  <programme start="20251227012000 +0300" stop="20251227015500 +0300" channel="BeinIz.tr">
+  <programme start="20251227012100 +0300" stop="20251227015600 +0300" channel="BeinIz.tr">
     <title lang="tr">Şehre Umut Verenler S1</title>
   </programme>
-  <programme start="20251227015500 +0300" stop="20251227023000 +0300" channel="BeinIz.tr">
+  <programme start="20251227015600 +0300" stop="20251227023100 +0300" channel="BeinIz.tr">
     <title lang="tr">Mimarların Evleri: Avrupa S2</title>
   </programme>
-  <programme start="20251227023000 +0300" stop="20251227031500 +0300" channel="BeinIz.tr">
+  <programme start="20251227023100 +0300" stop="20251227031500 +0300" channel="BeinIz.tr">
     <title lang="tr">SUDAKİ İZLER</title>
   </programme>
   <channel id="SinemaTV.tr">
