@@ -5667,50 +5667,55 @@
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta Amed S.F. - A.H.Iğdır FK Maçı Canlı Kayıt -</title>
     <length units="minutes">121</length>
   </programme>
-  <programme start="20251229020000 +0300" stop="20251229034000 +0300" channel="BeinSports2.tr">
+  <programme start="20251229014500 +0300" stop="20251229020000 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Gol Kralları - İlhan MANSIZ</title>
+    <title lang="xx">Ilhan MANSIZ</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251229020000 +0300" stop="20251229034500 +0300" channel="BeinSports2.tr">
     <title lang="tr">Erzurumspor FK - A.Çorum FK</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta Erzurumspor FK - A.Çorum FK Maçı Bant -</title>
-    <length units="minutes">100</length>
+    <length units="minutes">105</length>
   </programme>
-  <programme start="20251229040000 +0300" stop="20251229054000 +0300" channel="BeinSports2.tr">
+  <programme start="20251229034500 +0300" stop="20251229040000 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Gol Kralları - Okan YILMAZ</title>
+    <title lang="xx">Okan YILMAZ</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20251229040000 +0300" stop="20251229054500 +0300" channel="BeinSports2.tr">
     <title lang="tr">Amed S.F. - A.H.Iğdır FK</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta Amed S.F. - A.H.Iğdır FK Maçı Bant -</title>
-    <length units="minutes">100</length>
+    <length units="minutes">105</length>
   </programme>
-  <programme start="20251229060000 +0300" stop="20251229074000 +0300" channel="BeinSports2.tr">
+  <programme start="20251229060100 +0300" stop="20251229074500 +0300" channel="BeinSports2.tr">
     <title lang="tr">Serikspor - Boluspor</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta Serikspor - Boluspor Maçı Bant -</title>
-    <length units="minutes">100</length>
+    <length units="minutes">104</length>
   </programme>
-  <programme start="20251229100000 +0300" stop="20251229114000 +0300" channel="BeinSports2.tr">
+  <programme start="20251229100000 +0300" stop="20251229114500 +0300" channel="BeinSports2.tr">
     <title lang="tr">Erzurumspor FK - A.Çorum FK</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta Erzurumspor FK - A.Çorum FK Maçı Bant -</title>
-    <length units="minutes">100</length>
+    <length units="minutes">105</length>
   </programme>
-  <programme start="20251229120000 +0300" stop="20251229134000 +0300" channel="BeinSports2.tr">
+  <programme start="20251229120000 +0300" stop="20251229134500 +0300" channel="BeinSports2.tr">
     <title lang="tr">Amed S.F. - A.H.Iğdır FK</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta Amed S.F. - A.H.Iğdır FK Maçı Bant -</title>
-    <length units="minutes">100</length>
+    <length units="minutes">105</length>
   </programme>
   <programme start="20251229143000 +0300" stop="20251229163000 +0300" channel="BeinSports2.tr">
     <title lang="tr">AdanaDemirspor - İstanbulspor</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta AdanaDemirspor - İstanbulspor Maçı Canlı</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20251229170000 +0300" stop="20251229172400 +0300" channel="BeinSports2.tr">
-    <title lang="tr">Süper Lig Haftası</title>
-    <title lang="xx">Süper Lig Haftası / 17.Hafta</title>
-    <length units="minutes">24</length>
+  <programme start="20251229180000 +0300" stop="20251229194500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Sakaryaspor - Manisa FK</title>
+    <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta Sakaryaspor - Manisa FK Maçı Bant -</title>
+    <length units="minutes">105</length>
   </programme>
-  <programme start="20251229180000 +0300" stop="20251229194000 +0300" channel="BeinSports2.tr">
-    <title lang="tr">Serikspor - Boluspor</title>
-    <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta Serikspor - Boluspor Maçı Bant -</title>
-    <length units="minutes">100</length>
-  </programme>
-  <programme start="20251229200000 +0300" stop="20251229214000 +0300" channel="BeinSports2.tr">
-    <title lang="tr">AdanaDemirspor - İstanbulspor</title>
-    <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta AdanaDemirspor - İstanbulspor Maçı Bant -</title>
-    <length units="minutes">100</length>
+  <programme start="20251229200000 +0300" stop="20251229214500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">S.G.Sarıyerspor - S.Bodrum FK</title>
+    <title lang="xx">Trendyol 1. Lig Season 2025/2026 19. Hafta S.G.Sarıyerspor - S.Bodrum FK Maçı Bant -</title>
+    <length units="minutes">105</length>
   </programme>
   <channel id="BeinSports3.tr">
     <display-name lang="tr">beIN SPORTS 3</display-name>
@@ -5876,13 +5881,13 @@
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
     <length units="minutes">15</length>
   </programme>
-  <programme start="20251228180000 +0300" stop="20251228194500 +0300" channel="BeinSports4.tr">
+  <programme start="20251228180000 +0300" stop="20251228194700 +0300" channel="BeinSports4.tr">
     <title lang="tr">Brest - Metz</title>
-    <length units="minutes">105</length>
+    <length units="minutes">107</length>
   </programme>
-  <programme start="20251228194500 +0300" stop="20251228200000 +0300" channel="BeinSports4.tr">
+  <programme start="20251228194700 +0300" stop="20251228200000 +0300" channel="BeinSports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
-    <length units="minutes">15</length>
+    <length units="minutes">13</length>
   </programme>
   <programme start="20251228200000 +0300" stop="20251228214500 +0300" channel="BeinSports4.tr">
     <title lang="tr">Lille - Paris FC</title>
@@ -9230,36 +9235,36 @@
     <length units="minutes">27</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229065200 +0300" stop="20251229065500 +0300" channel="BeinGurme.tr">
+  <programme start="20251229065200 +0300" stop="20251229070000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">3</length>
+    <length units="minutes">8</length>
   </programme>
   <programme start="20251229070000 +0300" stop="20251229072800 +0300" channel="BeinGurme.tr">
     <title lang="tr">Ekmek Arası Muhabbet</title>
     <length units="minutes">28</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229072800 +0300" stop="20251229073500 +0300" channel="BeinGurme.tr">
+  <programme start="20251229072800 +0300" stop="20251229074000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">7</length>
+    <length units="minutes">12</length>
   </programme>
   <programme start="20251229074000 +0300" stop="20251229081000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Evdeki Restoran</title>
     <length units="minutes">30</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229081000 +0300" stop="20251229081600 +0300" channel="BeinGurme.tr">
+  <programme start="20251229081000 +0300" stop="20251229082000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">6</length>
+    <length units="minutes">10</length>
   </programme>
   <programme start="20251229082000 +0300" stop="20251229085100 +0300" channel="BeinGurme.tr">
     <title lang="tr">4 Lezzet</title>
     <length units="minutes">31</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229085100 +0300" stop="20251229085400 +0300" channel="BeinGurme.tr">
+  <programme start="20251229085100 +0300" stop="20251229090000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">3</length>
+    <length units="minutes">9</length>
   </programme>
   <programme start="20251229090000 +0300" stop="20251229092900 +0300" channel="BeinGurme.tr">
     <title lang="tr">Yağız ile Havalı Tarifler 25</title>
@@ -9267,73 +9272,73 @@
     <length units="minutes">29</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229092900 +0300" stop="20251229093500 +0300" channel="BeinGurme.tr">
+  <programme start="20251229092900 +0300" stop="20251229094000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">6</length>
+    <length units="minutes">11</length>
   </programme>
-  <programme start="20251229094000 +0300" stop="20251229100800 +0300" channel="BeinGurme.tr">
+  <programme start="20251229094000 +0300" stop="20251229100900 +0300" channel="BeinGurme.tr">
     <title lang="tr">Sinan Büdeyri ile Lezz’et B2</title>
     <title lang="xx">Sinan Büdeyri ile Lezz’et</title>
-    <length units="minutes">28</length>
+    <length units="minutes">29</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229100800 +0300" stop="20251229101000 +0300" channel="BeinGurme.tr">
+  <programme start="20251229100900 +0300" stop="20251229101500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">2</length>
+    <length units="minutes">6</length>
   </programme>
   <programme start="20251229101500 +0300" stop="20251229104800 +0300" channel="BeinGurme.tr">
     <title lang="tr">Gastronomi Maceraları</title>
     <length units="minutes">33</length>
     <episode-num system="onscreen">S6</episode-num>
   </programme>
-  <programme start="20251229104800 +0300" stop="20251229104900 +0300" channel="BeinGurme.tr">
+  <programme start="20251229104800 +0300" stop="20251229105500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">1</length>
+    <length units="minutes">7</length>
   </programme>
   <programme start="20251229105500 +0300" stop="20251229112800 +0300" channel="BeinGurme.tr">
     <title lang="tr">Görevimiz Yemek</title>
     <length units="minutes">33</length>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
-  <programme start="20251229112800 +0300" stop="20251229112900 +0300" channel="BeinGurme.tr">
+  <programme start="20251229112800 +0300" stop="20251229113500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">1</length>
+    <length units="minutes">7</length>
   </programme>
   <programme start="20251229113500 +0300" stop="20251229115200 +0300" channel="BeinGurme.tr">
     <title lang="tr">Lezzetin Ustaları</title>
     <length units="minutes">17</length>
     <episode-num system="onscreen">S4</episode-num>
   </programme>
-  <programme start="20251229115200 +0300" stop="20251229115400 +0300" channel="BeinGurme.tr">
+  <programme start="20251229115200 +0300" stop="20251229120000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">2</length>
+    <length units="minutes">8</length>
   </programme>
-  <programme start="20251229120000 +0300" stop="20251229122600 +0300" channel="BeinGurme.tr">
+  <programme start="20251229120000 +0300" stop="20251229122700 +0300" channel="BeinGurme.tr">
     <title lang="tr">Ekmek Arası Muhabbet</title>
-    <length units="minutes">26</length>
+    <length units="minutes">27</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229122600 +0300" stop="20251229123000 +0300" channel="BeinGurme.tr">
+  <programme start="20251229122700 +0300" stop="20251229123500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">4</length>
+    <length units="minutes">8</length>
   </programme>
-  <programme start="20251229123500 +0300" stop="20251229131100 +0300" channel="BeinGurme.tr">
+  <programme start="20251229123500 +0300" stop="20251229131200 +0300" channel="BeinGurme.tr">
     <title lang="tr">Evdeki Restoran</title>
-    <length units="minutes">36</length>
+    <length units="minutes">37</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229131100 +0300" stop="20251229131500 +0300" channel="BeinGurme.tr">
+  <programme start="20251229131200 +0300" stop="20251229132000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">4</length>
+    <length units="minutes">8</length>
   </programme>
-  <programme start="20251229132000 +0300" stop="20251229134800 +0300" channel="BeinGurme.tr">
+  <programme start="20251229132000 +0300" stop="20251229134900 +0300" channel="BeinGurme.tr">
     <title lang="tr">4 Lezzet</title>
-    <length units="minutes">28</length>
+    <length units="minutes">29</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229134800 +0300" stop="20251229135000 +0300" channel="BeinGurme.tr">
+  <programme start="20251229134900 +0300" stop="20251229135500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">2</length>
+    <length units="minutes">6</length>
   </programme>
   <programme start="20251229135500 +0300" stop="20251229142700 +0300" channel="BeinGurme.tr">
     <title lang="tr">Yağız ile Havalı Tarifler 26</title>
@@ -9341,63 +9346,63 @@
     <length units="minutes">32</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229142700 +0300" stop="20251229142900 +0300" channel="BeinGurme.tr">
+  <programme start="20251229142700 +0300" stop="20251229143500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">2</length>
+    <length units="minutes">8</length>
   </programme>
-  <programme start="20251229143500 +0300" stop="20251229150300 +0300" channel="BeinGurme.tr">
+  <programme start="20251229143500 +0300" stop="20251229150400 +0300" channel="BeinGurme.tr">
     <title lang="tr">Mutfak Sanatı</title>
-    <length units="minutes">28</length>
+    <length units="minutes">29</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229150300 +0300" stop="20251229151000 +0300" channel="BeinGurme.tr">
+  <programme start="20251229150400 +0300" stop="20251229151600 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">7</length>
+    <length units="minutes">12</length>
   </programme>
-  <programme start="20251229151500 +0300" stop="20251229154500 +0300" channel="BeinGurme.tr">
+  <programme start="20251229151600 +0300" stop="20251229154600 +0300" channel="BeinGurme.tr">
     <title lang="tr">Bedri ve Dostları</title>
     <length units="minutes">30</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229154500 +0300" stop="20251229155000 +0300" channel="BeinGurme.tr">
+  <programme start="20251229154600 +0300" stop="20251229155600 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">5</length>
+    <length units="minutes">10</length>
   </programme>
-  <programme start="20251229155500 +0300" stop="20251229162100 +0300" channel="BeinGurme.tr">
+  <programme start="20251229155600 +0300" stop="20251229162200 +0300" channel="BeinGurme.tr">
     <title lang="tr">Ekmek Arası Muhabbet</title>
     <length units="minutes">26</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229162100 +0300" stop="20251229163400 +0300" channel="BeinGurme.tr">
+  <programme start="20251229162200 +0300" stop="20251229164000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">13</length>
+    <length units="minutes">18</length>
   </programme>
-  <programme start="20251229164000 +0300" stop="20251229171600 +0300" channel="BeinGurme.tr">
+  <programme start="20251229164000 +0300" stop="20251229171700 +0300" channel="BeinGurme.tr">
     <title lang="tr">Evdeki Restoran</title>
-    <length units="minutes">36</length>
+    <length units="minutes">37</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229171600 +0300" stop="20251229171900 +0300" channel="BeinGurme.tr">
+  <programme start="20251229171700 +0300" stop="20251229172500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">3</length>
+    <length units="minutes">8</length>
   </programme>
   <programme start="20251229172500 +0300" stop="20251229175300 +0300" channel="BeinGurme.tr">
     <title lang="tr">4 Lezzet</title>
     <length units="minutes">28</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229175300 +0300" stop="20251229180400 +0300" channel="BeinGurme.tr">
+  <programme start="20251229175300 +0300" stop="20251229181000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">11</length>
+    <length units="minutes">17</length>
   </programme>
-  <programme start="20251229181000 +0300" stop="20251229183800 +0300" channel="BeinGurme.tr">
+  <programme start="20251229181000 +0300" stop="20251229183900 +0300" channel="BeinGurme.tr">
     <title lang="tr">Mutfak Sanatı</title>
-    <length units="minutes">28</length>
+    <length units="minutes">29</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229183800 +0300" stop="20251229184900 +0300" channel="BeinGurme.tr">
+  <programme start="20251229183900 +0300" stop="20251229185500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">11</length>
+    <length units="minutes">16</length>
   </programme>
   <programme start="20251229185500 +0300" stop="20251229192700 +0300" channel="BeinGurme.tr">
     <title lang="tr">Yağız ile Havalı Tarifler 26</title>
@@ -9405,31 +9410,31 @@
     <length units="minutes">32</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20251229192700 +0300" stop="20251229193500 +0300" channel="BeinGurme.tr">
+  <programme start="20251229192700 +0300" stop="20251229194000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">8</length>
+    <length units="minutes">13</length>
   </programme>
   <programme start="20251229194000 +0300" stop="20251229195700 +0300" channel="BeinGurme.tr">
     <title lang="tr">Lezzetin Ustaları</title>
     <length units="minutes">17</length>
     <episode-num system="onscreen">S4</episode-num>
   </programme>
-  <programme start="20251229195700 +0300" stop="20251229195900 +0300" channel="BeinGurme.tr">
+  <programme start="20251229195700 +0300" stop="20251229200500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">2</length>
+    <length units="minutes">8</length>
   </programme>
   <programme start="20251229200500 +0300" stop="20251229203300 +0300" channel="BeinGurme.tr">
     <title lang="tr">Gastronomi Maceraları</title>
     <length units="minutes">28</length>
     <episode-num system="onscreen">S6</episode-num>
   </programme>
-  <programme start="20251229203300 +0300" stop="20251229204000 +0300" channel="BeinGurme.tr">
+  <programme start="20251229203300 +0300" stop="20251229204500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">7</length>
+    <length units="minutes">12</length>
   </programme>
-  <programme start="20251229204500 +0300" stop="20251229211200 +0300" channel="BeinGurme.tr">
+  <programme start="20251229204500 +0300" stop="20251229211300 +0300" channel="BeinGurme.tr">
     <title lang="tr">Gece Lezzetleri</title>
-    <length units="minutes">27</length>
+    <length units="minutes">28</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
   <channel id="BeinMoviesTurk.tr">
