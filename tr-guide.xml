@@ -7817,16 +7817,22 @@
     <category lang="tr">Spor</category>
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/95/0200166260105eb9b42e.jpg" />
   </programme>
-  <programme start="20251230020000 +0300" stop="20251230040000 +0300" channel="Sspor2.tr">
+  <programme start="20251230020000 +0300" stop="20251230030000 +0300" channel="Sspor2.tr">
     <title lang="tr">Super Cars</title>
-    <desc lang="tr">21. Bölüm - 22. Bölüm</desc>
+    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/46/0200166270175eb9b42e.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/44/0841121935045eb8f42a.jpg" />
+  </programme>
+  <programme start="20251230030000 +0300" stop="20251230040000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Super Cars</title>
+    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/43/0841121883995eb8f42a.jpg" />
   </programme>
   <programme start="20251230040000 +0300" stop="20251230050000 +0300" channel="Sspor2.tr">
     <title lang="tr">Moto 3 - Valencia</title>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/18/0200166270225eb9b42e.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/0/0841121935105eb8f42a.jpg" />
   </programme>
   <programme start="20251230050000 +0300" stop="20251230060000 +0300" channel="Sspor2.tr">
     <title lang="tr">Monster Jam</title>
@@ -7840,17 +7846,11 @@
     <category lang="tr">Spor</category>
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/73/0200166270365eb9b42e.jpg" />
   </programme>
-  <programme start="20251230070000 +0300" stop="20251230090000 +0300" channel="Sspor2.tr">
+  <programme start="20251230070000 +0300" stop="20251230110000 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
     <desc lang="tr">Geniş Özetler</desc>
     <category lang="tr">Spor</category>
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/38/0200166301195eb9b42e.jpg" />
-  </programme>
-  <programme start="20251230090000 +0300" stop="20251230110000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Super Cars</title>
-    <desc lang="tr">3. Bölüm - 4. Bölüm</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/9/0200166270435eb9b42e.jpg" />
   </programme>
   <programme start="20251230110000 +0300" stop="20251230113000 +0300" channel="Sspor2.tr">
     <title lang="tr">World Strongest Man</title>
@@ -7862,7 +7862,7 @@
     <title lang="tr">Monaco - Real Madrid</title>
     <desc lang="tr">Euroleague</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/17/0200166280565eb9b42e.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/91/0841121935165eb8f42a.jpg" />
   </programme>
   <programme start="20251230133000 +0300" stop="20251230153000 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
@@ -7871,12 +7871,12 @@
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/9/0200166280625eb9b42e.jpg" />
   </programme>
   <programme start="20251230153000 +0300" stop="20251230173000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Moto Gp -amp; Moto 2 - Tayland</title>
+    <title lang="tr">Moto GP - Moto 2 - Tayland</title>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/75/0200166280695eb9b42e.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/4/0841121935225eb8f42a.jpg" />
   </programme>
   <programme start="20251230173000 +0300" stop="20251230180000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Made İn Italy</title>
+    <title lang="tr">Made In Italy</title>
     <category lang="tr">Spor</category>
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/94/0200166280745eb9b42e.jpg" />
   </programme>
@@ -7896,7 +7896,19 @@
     <title lang="tr">Hapoel Tel Aviv - Zalgiris Kaunas</title>
     <desc lang="tr">Euroleague</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/71/0200166290955eb9b42e.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/98/0841121945285eb8f42a.jpg" />
+  </programme>
+  <programme start="20251231000000 +0300" stop="20251231020000 +0300" channel="Sspor2.tr">
+    <title lang="tr">İtalya Serie A</title>
+    <desc lang="tr">Geniş Özetler</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/89/0841121884075eb8f42a.jpg" />
+  </programme>
+  <programme start="20251231020000 +0300" stop="20251231040000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Super Cars</title>
+    <desc lang="tr">23. Bölüm - 24. Bölüm</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202512/20251229/63/0841121894145eb8f42a.jpg" />
   </programme>
   <channel id="Fx.tr">
     <display-name lang="tr">FX HD</display-name>
@@ -9678,10 +9690,10 @@
   <programme start="20251229075000 +0300" stop="20251229082500 +0300" channel="BeinIz.tr">
     <title lang="tr">İstanbul’un Edebiyat Haritası</title>
   </programme>
-  <programme start="20251229082500 +0300" stop="20251229090000 +0300" channel="BeinIz.tr">
+  <programme start="20251229082500 +0300" stop="20251229090100 +0300" channel="BeinIz.tr">
     <title lang="tr">Hayat Bulan Nehirler S1 B7</title>
   </programme>
-  <programme start="20251229090000 +0300" stop="20251229094500 +0300" channel="BeinIz.tr">
+  <programme start="20251229090100 +0300" stop="20251229094500 +0300" channel="BeinIz.tr">
     <title lang="tr">KENT HIKAYELERI SEZON 1</title>
   </programme>
   <programme start="20251229094500 +0300" stop="20251229102000 +0300" channel="BeinIz.tr">
@@ -9693,10 +9705,10 @@
   <programme start="20251229110000 +0300" stop="20251229115000 +0300" channel="BeinIz.tr">
     <title lang="tr">SUDAKİ İZLER</title>
   </programme>
-  <programme start="20251229115000 +0300" stop="20251229123000 +0300" channel="BeinIz.tr">
+  <programme start="20251229115000 +0300" stop="20251229123100 +0300" channel="BeinIz.tr">
     <title lang="tr">BAHARATIN YOLCULUGU SEZON 1</title>
   </programme>
-  <programme start="20251229123000 +0300" stop="20251229130500 +0300" channel="BeinIz.tr">
+  <programme start="20251229123100 +0300" stop="20251229130500 +0300" channel="BeinIz.tr">
     <title lang="tr">Şehre Umut Verenler S1</title>
   </programme>
   <programme start="20251229130500 +0300" stop="20251229134000 +0300" channel="BeinIz.tr">
