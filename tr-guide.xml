@@ -52,9 +52,9 @@
     <title lang="tr">İddiaların Aksine</title>
     <length units="minutes">5</length>
   </programme>
-  <programme start="20260113003000 +0300" stop="20260113020500 +0300" channel="TRT1.tr">
-    <title lang="tr">Dizi</title>
-    <length units="minutes">95</length>
+  <programme start="20260113001500 +0300" stop="20260113020500 +0300" channel="TRT1.tr">
+    <title lang="tr">Vefa Sultan</title>
+    <length units="minutes">110</length>
   </programme>
   <programme start="20260113020500 +0300" stop="20260113053000 +0300" channel="TRT1.tr">
     <title lang="tr">Seksenler</title>
@@ -628,9 +628,9 @@
     <title lang="tr">Zahide Yetiş'le Sence?</title>
     <length units="minutes">210</length>
   </programme>
-  <programme start="20260112160000 +0300" stop="20260112200000 +0300" channel="TV8.tr">
+  <programme start="20260112160000 +0300" stop="20260112190000 +0300" channel="TV8.tr">
     <title lang="tr">Zuhal Topal'la Yemekteyiz</title>
-    <length units="minutes">240</length>
+    <length units="minutes">180</length>
   </programme>
   <programme start="20260113001500 +0300" stop="20260113013000 +0300" channel="TV8.tr">
     <title lang="tr">Survivor Ekstra</title>
@@ -820,9 +820,13 @@
     <title lang="tr">Ben Bilirim</title>
     <length units="minutes">150</length>
   </programme>
-  <programme start="20260113040000 +0300" stop="20260113054500 +0300" channel="360.tr">
+  <programme start="20260113040000 +0300" stop="20260113041500 +0300" channel="360.tr">
     <title lang="tr">Gökyüzünden</title>
-    <length units="minutes">105</length>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20260113041500 +0300" stop="20260113054500 +0300" channel="360.tr">
+    <title lang="tr">Kadın Asla Unutmaz</title>
+    <length units="minutes">90</length>
   </programme>
   <programme start="20260113054500 +0300" stop="20260113061500 +0300" channel="360.tr">
     <title lang="tr">Ataman ile Devr-i Alem</title>
@@ -3887,11 +3891,11 @@
     <length units="minutes">45</length>
   </programme>
   <programme start="20260112120000 +0300" stop="20260112123000 +0300" channel="BloombergHT.tr">
-    <title lang="tr">Otomotiv Zirvesi</title>
+    <title lang="tr">30 Dakika</title>
     <length units="minutes">30</length>
   </programme>
   <programme start="20260112123000 +0300" stop="20260112130000 +0300" channel="BloombergHT.tr">
-    <title lang="tr">Aile Ekonomisi</title>
+    <title lang="tr">Seans Ortası</title>
     <length units="minutes">30</length>
   </programme>
   <programme start="20260112130000 +0300" stop="20260112133000 +0300" channel="BloombergHT.tr">
@@ -3947,7 +3951,7 @@
     <length units="minutes">50</length>
   </programme>
   <programme start="20260113021000 +0300" stop="20260113023500 +0300" channel="BloombergHT.tr">
-    <title lang="tr">Otomotiv Zirvesi</title>
+    <title lang="tr">Fon Saati</title>
     <length units="minutes">25</length>
   </programme>
   <programme start="20260113023500 +0300" stop="20260113030000 +0300" channel="BloombergHT.tr">
@@ -3959,12 +3963,16 @@
     <length units="minutes">65</length>
   </programme>
   <programme start="20260113040500 +0300" stop="20260113043000 +0300" channel="BloombergHT.tr">
+    <title lang="tr">İş Dünyası</title>
+    <length units="minutes">25</length>
+  </programme>
+  <programme start="20260113043000 +0300" stop="20260113045500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Fon Saati</title>
     <length units="minutes">25</length>
   </programme>
-  <programme start="20260113043000 +0300" stop="20260113052000 +0300" channel="BloombergHT.tr">
+  <programme start="20260113045500 +0300" stop="20260113052000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Varlık Yönetimi</title>
-    <length units="minutes">50</length>
+    <length units="minutes">25</length>
   </programme>
   <programme start="20260113052000 +0300" stop="20260113061000 +0300" channel="BloombergHT.tr">
     <title lang="tr">HT Kulüp</title>
@@ -4003,7 +4011,7 @@
     <length units="minutes">45</length>
   </programme>
   <programme start="20260113120000 +0300" stop="20260113123000 +0300" channel="BloombergHT.tr">
-    <title lang="tr">30 Dakika</title>
+    <title lang="tr">Maden Dünyası</title>
     <length units="minutes">30</length>
   </programme>
   <programme start="20260113123000 +0300" stop="20260113130000 +0300" channel="BloombergHT.tr">
@@ -6099,13 +6107,13 @@
     <title lang="tr">beIN Sports Max 1</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20260112120000 +0300" stop="20260112140000 +0300" channel="BeinSportsMax.tr">
+  <programme start="20260112120000 +0300" stop="20260112143000 +0300" channel="BeinSportsMax.tr">
     <title lang="tr">beIN Sports Max 1</title>
-    <length units="minutes">120</length>
+    <length units="minutes">150</length>
   </programme>
-  <programme start="20260112140000 +0300" stop="20260112160000 +0300" channel="BeinSportsMax.tr">
+  <programme start="20260112143000 +0300" stop="20260112160000 +0300" channel="BeinSportsMax.tr">
     <title lang="tr">beIN Sports Max 1</title>
-    <length units="minutes">120</length>
+    <length units="minutes">90</length>
   </programme>
   <programme start="20260112160000 +0300" stop="20260112180000 +0300" channel="BeinSportsMax.tr">
     <title lang="tr">beIN Sports Max 1</title>
@@ -6119,33 +6127,41 @@
     <title lang="tr">beIN Sports Max 1</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20260113020000 +0300" stop="20260113040000 +0300" channel="BeinSportsMax.tr">
+  <programme start="20260113020000 +0300" stop="20260113033000 +0300" channel="BeinSportsMax.tr">
     <title lang="tr">beIN Sports Max 1</title>
+    <length units="minutes">90</length>
+  </programme>
+  <programme start="20260113033000 +0300" stop="20260113040000 +0300" channel="BeinSportsMax.tr">
+    <title lang="tr">WTA Adelaide</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20260113040000 +0300" stop="20260113053000 +0300" channel="BeinSportsMax.tr">
+    <title lang="tr">beIN Sports Max 1</title>
+    <length units="minutes">90</length>
+  </programme>
+  <programme start="20260113053000 +0300" stop="20260113070000 +0300" channel="BeinSportsMax.tr">
+    <title lang="tr">WTA Adelaide</title>
+    <length units="minutes">90</length>
+  </programme>
+  <programme start="20260113070000 +0300" stop="20260113090000 +0300" channel="BeinSportsMax.tr">
+    <title lang="tr">WTA Adelaide</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20260113040000 +0300" stop="20260113060000 +0300" channel="BeinSportsMax.tr">
+  <programme start="20260113090000 +0300" stop="20260113113000 +0300" channel="BeinSportsMax.tr">
     <title lang="tr">beIN Sports Max 1</title>
+    <length units="minutes">150</length>
+  </programme>
+  <programme start="20260113113000 +0300" stop="20260113123000 +0300" channel="BeinSportsMax.tr">
+    <title lang="tr">beIN Sports Max 1</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20260113123000 +0300" stop="20260113143000 +0300" channel="BeinSportsMax.tr">
+    <title lang="tr">WTA Adelaide</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20260113060000 +0300" stop="20260113080000 +0300" channel="BeinSportsMax.tr">
+  <programme start="20260113143000 +0300" stop="20260113160000 +0300" channel="BeinSportsMax.tr">
     <title lang="tr">beIN Sports Max 1</title>
-    <length units="minutes">120</length>
-  </programme>
-  <programme start="20260113080000 +0300" stop="20260113100000 +0300" channel="BeinSportsMax.tr">
-    <title lang="tr">beIN Sports Max 1</title>
-    <length units="minutes">120</length>
-  </programme>
-  <programme start="20260113100000 +0300" stop="20260113120000 +0300" channel="BeinSportsMax.tr">
-    <title lang="tr">beIN Sports Max 1</title>
-    <length units="minutes">120</length>
-  </programme>
-  <programme start="20260113120000 +0300" stop="20260113140000 +0300" channel="BeinSportsMax.tr">
-    <title lang="tr">beIN Sports Max 1</title>
-    <length units="minutes">120</length>
-  </programme>
-  <programme start="20260113140000 +0300" stop="20260113160000 +0300" channel="BeinSportsMax.tr">
-    <title lang="tr">beIN Sports Max 1</title>
-    <length units="minutes">120</length>
+    <length units="minutes">90</length>
   </programme>
   <programme start="20260113160000 +0300" stop="20260113180000 +0300" channel="BeinSportsMax.tr">
     <title lang="tr">beIN Sports Max 1</title>
@@ -6216,24 +6232,28 @@
     <length units="minutes">120</length>
   </programme>
   <programme start="20260113040000 +0300" stop="20260113060000 +0300" channel="BeinSportsMax2.tr">
-    <title lang="tr">beIN Sports Max 2</title>
+    <title lang="tr">WTA Hobart</title>
     <length units="minutes">120</length>
   </programme>
   <programme start="20260113060000 +0300" stop="20260113080000 +0300" channel="BeinSportsMax2.tr">
-    <title lang="tr">beIN Sports Max 2</title>
+    <title lang="tr">WTA Hobart</title>
     <length units="minutes">120</length>
   </programme>
   <programme start="20260113080000 +0300" stop="20260113100000 +0300" channel="BeinSportsMax2.tr">
     <title lang="tr">beIN Sports Max 2</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20260113100000 +0300" stop="20260113120000 +0300" channel="BeinSportsMax2.tr">
+  <programme start="20260113100000 +0300" stop="20260113103000 +0300" channel="BeinSportsMax2.tr">
     <title lang="tr">beIN Sports Max 2</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20260113103000 +0300" stop="20260113123000 +0300" channel="BeinSportsMax2.tr">
+    <title lang="tr">WTA Hobart</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20260113120000 +0300" stop="20260113140000 +0300" channel="BeinSportsMax2.tr">
+  <programme start="20260113123000 +0300" stop="20260113140000 +0300" channel="BeinSportsMax2.tr">
     <title lang="tr">beIN Sports Max 2</title>
-    <length units="minutes">120</length>
+    <length units="minutes">90</length>
   </programme>
   <programme start="20260113140000 +0300" stop="20260113160000 +0300" channel="BeinSportsMax2.tr">
     <title lang="tr">beIN Sports Max 2</title>
@@ -7046,21 +7066,21 @@
     <title lang="tr">Serengeti [ 2.sezon ]</title>
     <length units="minutes">55</length>
   </programme>
-  <programme start="20260113002000 +0300" stop="20260113011000 +0300" channel="TRTBelgesel.tr">
-    <title lang="tr">Mavi Dünya</title>
-    <length units="minutes">50</length>
-  </programme>
-  <programme start="20260113011000 +0300" stop="20260113015000 +0300" channel="TRTBelgesel.tr">
+  <programme start="20260113001500 +0300" stop="20260113005500 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">Derinlerdeki Hayat</title>
     <length units="minutes">40</length>
   </programme>
-  <programme start="20260113015000 +0300" stop="20260113024500 +0300" channel="TRTBelgesel.tr">
+  <programme start="20260113005500 +0300" stop="20260113015000 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">Anadolu İnsanı</title>
     <length units="minutes">55</length>
   </programme>
-  <programme start="20260113024500 +0300" stop="20260113034500 +0300" channel="TRTBelgesel.tr">
+  <programme start="20260113015000 +0300" stop="20260113025000 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">67 49 32 Kuzey</title>
     <length units="minutes">60</length>
+  </programme>
+  <programme start="20260113025000 +0300" stop="20260113034500 +0300" channel="TRTBelgesel.tr">
+    <title lang="tr">Şehirden Uzakta</title>
+    <length units="minutes">55</length>
   </programme>
   <programme start="20260113034500 +0300" stop="20260113043000 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">Türkiye'nin Dev...</title>
@@ -8089,7 +8109,7 @@
     <title lang="tr">Genoa - Cagliari</title>
     <desc lang="tr">İtalya Serie A 20. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260111/95/2126204393965eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/79/0800123427585eb78424.webp" />
   </programme>
   <programme start="20260112223000 +0300" stop="20260112224500 +0300" channel="Sspor2.tr">
     <title lang="tr">Özetler</title>
@@ -8097,17 +8117,123 @@
     <category lang="tr">Spor</category>
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260111/44/2126204404045eb78424.jpg" />
   </programme>
-  <programme start="20260112224500 +0300" stop="20260113070000 +0300" channel="Sspor2.tr">
+  <programme start="20260112224500 +0300" stop="20260113004500 +0300" channel="Sspor2.tr">
     <title lang="tr">Juventus - Cremonese</title>
     <desc lang="tr">İtalya Serie A 20. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260111/4/2126204404125eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/24/0800123427675eb78424.webp" />
   </programme>
-  <programme start="20260113070000 +0300" stop="20260114070000 +0300" channel="Sspor2.tr">
+  <programme start="20260113004500 +0300" stop="20260113010000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Özetler</title>
+    <desc lang="tr">Maç Özeti</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/23/0800123356175eb78424.jpg" />
+  </programme>
+  <programme start="20260113010000 +0300" stop="20260113020000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Probull Riders</title>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/32/0800123356255eb78424.jpg" />
+  </programme>
+  <programme start="20260113020000 +0300" stop="20260113030000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Super Cars</title>
+    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/59/0800123366335eb78424.jpg" />
+  </programme>
+  <programme start="20260113030000 +0300" stop="20260113040000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Super Cars</title>
+    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/50/0800123366415eb78424.jpg" />
+  </programme>
+  <programme start="20260113040000 +0300" stop="20260113050000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Moto 3</title>
+    <desc lang="tr">Hollanda</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/5/0800123366495eb78424.jpg" />
+  </programme>
+  <programme start="20260113050000 +0300" stop="20260113060000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Monster Jam</title>
+    <desc lang="tr">Birbirinden yetenekli sürücülerin, büyük ödül için kıyasıya yarıştığı Monster Jam yarışları ekranlarda...</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/51/0800123376575eb78424.jpg" />
+  </programme>
+  <programme start="20260113060000 +0300" stop="20260113070000 +0300" channel="Sspor2.tr">
+    <title lang="tr">ESPN Belgeseli</title>
+    <desc lang="tr">Dwyane Wade</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/3/0800123376655eb78424.jpg" />
+  </programme>
+  <programme start="20260113070000 +0300" stop="20260113090000 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
     <desc lang="tr">Geniş Özetler</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260111/43/2126204404205eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/25/0800123427765eb78424.jpg" />
+  </programme>
+  <programme start="20260113090000 +0300" stop="20260113100000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Super Cars</title>
+    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/16/0800123376735eb78424.jpg" />
+  </programme>
+  <programme start="20260113100000 +0300" stop="20260113110000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Super Cars</title>
+    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/71/0800123386815eb78424.jpg" />
+  </programme>
+  <programme start="20260113110000 +0300" stop="20260113113000 +0300" channel="Sspor2.tr">
+    <title lang="tr">World Strongest Man</title>
+    <desc lang="tr">Güç sporlarının en önemli etkinliği olan World Strongest Man, 30 yılı aşkın süredir dünyanın en güçlü adamlarını bir araya getiriyor.</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/93/0800123396895eb78424.jpg" />
+  </programme>
+  <programme start="20260113113000 +0300" stop="20260113133000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Barcelona - Partizan</title>
+    <desc lang="tr">Euroleague</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/86/0800123396975eb78424.jpg" />
+  </programme>
+  <programme start="20260113133000 +0300" stop="20260113153000 +0300" channel="Sspor2.tr">
+    <title lang="tr">İtalya Serie A</title>
+    <desc lang="tr">Geniş Özetler</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/67/0800123397055eb78424.jpg" />
+  </programme>
+  <programme start="20260113153000 +0300" stop="20260113173000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Moto GP - Moto 2</title>
+    <desc lang="tr">Almanya</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/56/0800123397135eb78424.jpg" />
+  </programme>
+  <programme start="20260113173000 +0300" stop="20260113180000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Made In Italy</title>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/21/0800123407205eb78424.jpg" />
+  </programme>
+  <programme start="20260113180000 +0300" stop="20260113200000 +0300" channel="Sspor2.tr">
+    <title lang="tr">İtalya Serie A</title>
+    <desc lang="tr">Geniş Özetler</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/59/0800123407265eb78424.jpg" />
+  </programme>
+  <programme start="20260113200000 +0300" stop="20260113213000 +0300" channel="Sspor2.tr">
+    <title lang="tr">ESPN Belgeseli</title>
+    <desc lang="tr">Dwyane Wade</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/94/0800123407345eb78424.jpg" />
+  </programme>
+  <programme start="20260113213000 +0300" stop="20260113223000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Moto GP</title>
+    <desc lang="tr">2025 Sezon Özeti</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/11/0800123407425eb78424.jpg" />
+  </programme>
+  <programme start="20260113223000 +0300" stop="20260114003000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Barcelona - Partizan</title>
+    <desc lang="tr">Euroleague</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/10/0800123417505eb78424.jpg" />
   </programme>
   <channel id="Fx.tr">
     <display-name lang="tr">FX HD</display-name>
@@ -8600,287 +8726,10 @@
     <display-name lang="tr">Spor Smart</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART.png" />
   </channel>
-  <programme start="20260112010000 +0300" stop="20260112040000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Racing - Estudiantes "Tekrar"</title>
-    <sub-title lang="tr">Arjantin Clasura Final</sub-title>
-    <desc lang="tr">Arjantin Clasura Final</desc>
-  </programme>
-  <programme start="20260112040000 +0300" stop="20260112060000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Goa - Istiklol "Tekrar"</title>
-    <sub-title lang="tr">Asya Şampiyonlar Ligi 2</sub-title>
-    <desc lang="tr">Asya Şampiyonlar Ligi 2</desc>
-  </programme>
-  <programme start="20260112060000 +0300" stop="20260112080000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Al Ittihad - Nasaf "Tekrar"</title>
-    <sub-title lang="tr">Asya Şampiyonlar Ligi Elite</sub-title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite</desc>
-  </programme>
-  <programme start="20260112080000 +0300" stop="20260112100000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Al Shorta - Al Ahli "Tekrar"</title>
-    <sub-title lang="tr">Asya Şampiyonlar Ligi Elite</sub-title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite</desc>
-  </programme>
-  <programme start="20260112100000 +0300" stop="20260112120000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Al Sadd - S.Al Ahli Saudi "Tkr"</title>
-    <sub-title lang="tr">Asya Şampiyonlar Ligi Elite</sub-title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite</desc>
-  </programme>
-  <programme start="20260112120000 +0300" stop="20260112140000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Al Nassr - Al Zawraa "Tekrar"</title>
-    <sub-title lang="tr">Asya Şampiyonlar Ligi 2</sub-title>
-    <desc lang="tr">Asya Şampiyonlar Ligi 2</desc>
-  </programme>
-  <programme start="20260112140000 +0300" stop="20260112141500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Haber 14</title>
-    <sub-title lang="tr">Gündem</sub-title>
-    <desc lang="tr">Gündem</desc>
-  </programme>
-  <programme start="20260112141500 +0300" stop="20260112161500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Ürdün - S. Arabistan "Tekrar"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260112161500 +0300" stop="20260112170000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Dünyanın Futbolu 2025</title>
-    <sub-title lang="tr">Highlight</sub-title>
-    <desc lang="tr">Highlight</desc>
-  </programme>
-  <programme start="20260112170000 +0300" stop="20260112171500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Haber 17</title>
-    <desc lang="tr">Haber 17</desc>
-  </programme>
-  <programme start="20260112171500 +0300" stop="20260112193000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Tayland - Irak "Tekrar"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260112193000 +0300" stop="20260112220000 +0300" channel="SporSmart.tr">
-    <title lang="tr">S.Arabistan - Vietnam "Canlı"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260112220000 +0300" stop="20260112231500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Futbol Kulübü "Yeni"</title>
-    <sub-title lang="tr">Futbol Gündemi</sub-title>
-    <desc lang="tr">Futbol Gündemi</desc>
-  </programme>
-  <programme start="20260112231500 +0300" stop="20260113011500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Burgos - Joventut "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260113011500 +0300" stop="20260113031500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Barcelona-Granada ''Tekrar''</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260113031500 +0300" stop="20260113060000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Estudiantes-Platense "Tekrar"</title>
-    <sub-title lang="tr">Arjantin Clasura Şampiyonlar Kupası 2025</sub-title>
-    <desc lang="tr">Arjantin Clasura Şampiyonlar Kupası 2025</desc>
-  </programme>
-  <programme start="20260113060000 +0300" stop="20260113080000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Santos - Cruzeiro "Tekrar"</title>
-    <sub-title lang="tr">Brezilya Ligi</sub-title>
-    <desc lang="tr">Brezilya Ligi</desc>
-  </programme>
-  <programme start="20260113080000 +0300" stop="20260113100000 +0300" channel="SporSmart.tr">
-    <title lang="tr">BAE - Japonya "Tekrar"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260113100000 +0300" stop="20260113120000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Çin - Avustralya "Tekrar"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260113120000 +0300" stop="20260113140000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Lübnan-Güney Kore "Tekrar"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260113140000 +0300" stop="20260113143000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Haber 14</title>
-    <sub-title lang="tr">Gündem</sub-title>
-    <desc lang="tr">Gündem</desc>
-  </programme>
-  <programme start="20260113143000 +0300" stop="20260113163000 +0300" channel="SporSmart.tr">
-    <title lang="tr">İran - Lübnan "Canlı"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260113163000 +0300" stop="20260113170000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Yabancı At Yarışları 2025</title>
-    <sub-title lang="tr">Yabancı At Yarışları 2025 Belgeseli</sub-title>
-    <desc lang="tr">Yabancı At Yarışları 2025 Belgeseli</desc>
-  </programme>
-  <programme start="20260113170000 +0300" stop="20260113171500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Haber 17</title>
-    <desc lang="tr">Haber 17</desc>
-  </programme>
-  <programme start="20260113171500 +0300" stop="20260113193000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Ürdün - Kırgızistan "Tekrar"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260113193000 +0300" stop="20260113214500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Japonya - Katar "Canlı"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260113214500 +0300" stop="20260113233000 +0300" channel="SporSmart.tr">
-    <title lang="tr">90'lar Futbol Smart "Yeni"</title>
-    <sub-title lang="tr">90'lar Temalı Eğlenceli Futbol Programı</sub-title>
-    <desc lang="tr">90'lar Temalı Eğlenceli Futbol Programı</desc>
-  </programme>
   <channel id="SporSmart2.tr">
     <display-name lang="tr">Spor Smart 2</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2.png" />
   </channel>
-  <programme start="20260112010000 +0300" stop="20260112030000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Al Gharafa - Al Wahda "Tekrar"</title>
-    <sub-title lang="tr">Asya Şampiyonlar Ligi Elite</sub-title>
-    <desc lang="tr">Asya Şampiyonlar Ligi Elite</desc>
-  </programme>
-  <programme start="20260112030000 +0300" stop="20260112050000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Fluminense - Bahia "Tekrar"</title>
-    <sub-title lang="tr">Brezilya Ligi</sub-title>
-    <desc lang="tr">Brezilya Ligi</desc>
-  </programme>
-  <programme start="20260112050000 +0300" stop="20260112070000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Mirassol - Flamengo "Tekrar"</title>
-    <sub-title lang="tr">Brezilya Ligi</sub-title>
-    <desc lang="tr">Brezilya Ligi</desc>
-  </programme>
-  <programme start="20260112070000 +0300" stop="20260112080000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Beach Volley Alanya "Tekrar"</title>
-    <sub-title lang="tr">Beach Volley Challenge Antalya/Alanya 2025</sub-title>
-    <desc lang="tr">Beach Volley Challenge Antalya/Alanya 2025</desc>
-  </programme>
-  <programme start="20260112080000 +0300" stop="20260112104500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Estudiantes-Platense "Tekrar"</title>
-    <sub-title lang="tr">Arjantin Şampiyonlar Kupası 2025</sub-title>
-    <desc lang="tr">Arjantin Şampiyonlar Kupası 2025</desc>
-  </programme>
-  <programme start="20260112104500 +0300" stop="20260112124500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Mirassol - Flamengo "Tekrar"</title>
-    <sub-title lang="tr">Brezilya Ligi</sub-title>
-    <desc lang="tr">Brezilya Ligi</desc>
-  </programme>
-  <programme start="20260112124500 +0300" stop="20260112131500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Monster Jam ''Yarış''</title>
-    <sub-title lang="tr">Yarış</sub-title>
-    <desc lang="tr">Yarış</desc>
-  </programme>
-  <programme start="20260112131500 +0300" stop="20260112150000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Yabancı At Yarışları 2025</title>
-    <sub-title lang="tr">Yabancı At Yarışları 2025 Belgeseli</sub-title>
-    <desc lang="tr">Yabancı At Yarışları 2025 Belgeseli</desc>
-  </programme>
-  <programme start="20260112150000 +0300" stop="20260112151500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Haber 15</title>
-  </programme>
-  <programme start="20260112151500 +0300" stop="20260112171500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Andorra - Real Madrid "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260112171500 +0300" stop="20260112190000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Barcelona - Granada "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260112190000 +0300" stop="20260112193000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Haber 19</title>
-  </programme>
-  <programme start="20260112193000 +0300" stop="20260112214500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Ürdün - Kırgızistan "Canlı"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260112214500 +0300" stop="20260112223000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Dünyanın Futbolu 2025</title>
-    <sub-title lang="tr">Highlight</sub-title>
-    <desc lang="tr">Highlight</desc>
-  </programme>
-  <programme start="20260112223000 +0300" stop="20260113003000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Çin - Avustralya ''Tekrar''</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260113003000 +0300" stop="20260113014500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Futbol Kulübü "Tekrar"</title>
-    <sub-title lang="tr">Futbol Gündemi</sub-title>
-    <desc lang="tr">Futbol Gündemi</desc>
-  </programme>
-  <programme start="20260113014500 +0300" stop="20260113034500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Tayland - Irak "Tekrar"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260113034500 +0300" stop="20260113054500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Al Nassr - Al Zawraa ''Tekrar"</title>
-    <sub-title lang="tr">Asya Şampiyonlar Ligi 2</sub-title>
-    <desc lang="tr">Asya Şampiyonlar Ligi 2</desc>
-  </programme>
-  <programme start="20260113054500 +0300" stop="20260113061500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Monster Jam ''Yarış''</title>
-    <sub-title lang="tr">Yarış</sub-title>
-    <desc lang="tr">Yarış</desc>
-  </programme>
-  <programme start="20260113061500 +0300" stop="20260113080000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Burgos - Joventut "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260113080000 +0300" stop="20260113100000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Andorra - Real Madrid "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260113100000 +0300" stop="20260113120000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Barcelona - Granada "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260113120000 +0300" stop="20260113123000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Dünyanın Futbolu 2025</title>
-    <sub-title lang="tr">Highlight</sub-title>
-    <desc lang="tr">Highlight</desc>
-  </programme>
-  <programme start="20260113123000 +0300" stop="20260113143000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Valencia - Unicaja "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260113143000 +0300" stop="20260113163000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Özbekistan-Güney Kore "Canlı"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260113163000 +0300" stop="20260113183000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Burgos - Joventut "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260113183000 +0300" stop="20260113190000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Yabancı At Yarışları 2025</title>
-    <sub-title lang="tr">Yabancı At Yarışları 2025 Belgeseli</sub-title>
-    <desc lang="tr">Yabancı At Yarışları 2025 Belgeseli</desc>
-  </programme>
-  <programme start="20260113190000 +0300" stop="20260113193000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Haber 19</title>
-  </programme>
-  <programme start="20260113193000 +0300" stop="20260113213000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">BAE - Suriye "Canlı"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260113213000 +0300" stop="20260113223000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Monster Jam ''Yarış''</title>
-    <sub-title lang="tr">Yarış</sub-title>
-    <desc lang="tr">Yarış</desc>
-  </programme>
   <channel id="BeinGurme.tr">
     <display-name lang="tr">beIN GURME</display-name>
     <icon src="https://mediacms01.digiturkplay.com/channel_logo/w_Gurme_250x150_2022.png" />
@@ -9286,204 +9135,205 @@
     <length units="minutes">28</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20260113065300 +0300" stop="20260113070100 +0300" channel="BeinGurme.tr">
+  <programme start="20260113065300 +0300" stop="20260113070000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">8</length>
+    <length units="minutes">7</length>
   </programme>
   <programme start="20260113070000 +0300" stop="20260113072800 +0300" channel="BeinGurme.tr">
     <title lang="tr">Ekmek Arası Muhabbet</title>
     <length units="minutes">28</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20260113072800 +0300" stop="20260113074000 +0300" channel="BeinGurme.tr">
+  <programme start="20260113072800 +0300" stop="20260113073500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">12</length>
+    <length units="minutes">7</length>
   </programme>
-  <programme start="20260113074000 +0300" stop="20260113081400 +0300" channel="BeinGurme.tr">
+  <programme start="20260113073500 +0300" stop="20260113081000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Evdeki Restoran</title>
-    <length units="minutes">34</length>
+    <length units="minutes">35</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20260113081400 +0300" stop="20260113082000 +0300" channel="BeinGurme.tr">
+  <programme start="20260113081000 +0300" stop="20260113081500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">6</length>
+    <length units="minutes">5</length>
   </programme>
-  <programme start="20260113082000 +0300" stop="20260113084500 +0300" channel="BeinGurme.tr">
+  <programme start="20260113081500 +0300" stop="20260113085000 +0300" channel="BeinGurme.tr">
     <title lang="tr">4 Lezzet</title>
-    <length units="minutes">25</length>
+    <length units="minutes">35</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20260113084500 +0300" stop="20260113090000 +0300" channel="BeinGurme.tr">
+  <programme start="20260113085000 +0300" stop="20260113085500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">15</length>
+    <length units="minutes">5</length>
   </programme>
-  <programme start="20260113090000 +0300" stop="20260113093000 +0300" channel="BeinGurme.tr">
+  <programme start="20260113085500 +0300" stop="20260113092600 +0300" channel="BeinGurme.tr">
     <title lang="tr">Yağız ile Havalı Tarifler 36</title>
     <title lang="xx">Yağız ile Havalı Tarifler</title>
-    <length units="minutes">30</length>
+    <length units="minutes">31</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20260113093000 +0300" stop="20260113094000 +0300" channel="BeinGurme.tr">
+  <programme start="20260113092600 +0300" stop="20260113093500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">10</length>
+    <length units="minutes">9</length>
   </programme>
-  <programme start="20260113094000 +0300" stop="20260113101200 +0300" channel="BeinGurme.tr">
+  <programme start="20260113093500 +0300" stop="20260113100800 +0300" channel="BeinGurme.tr">
     <title lang="tr">Mutfak Sanatı</title>
-    <length units="minutes">32</length>
+    <length units="minutes">33</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20260113101200 +0300" stop="20260113102000 +0300" channel="BeinGurme.tr">
+  <programme start="20260113100800 +0300" stop="20260113101500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">8</length>
+    <length units="minutes">7</length>
   </programme>
-  <programme start="20260113102000 +0300" stop="20260113105700 +0300" channel="BeinGurme.tr">
+  <programme start="20260113101500 +0300" stop="20260113105300 +0300" channel="BeinGurme.tr">
     <title lang="tr">Gastronomi Maceraları</title>
-    <length units="minutes">37</length>
+    <length units="minutes">38</length>
     <episode-num system="onscreen">S6</episode-num>
   </programme>
-  <programme start="20260113105700 +0300" stop="20260113110000 +0300" channel="BeinGurme.tr">
+  <programme start="20260113105300 +0300" stop="20260113110000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">3</length>
+    <length units="minutes">7</length>
   </programme>
-  <programme start="20260113110000 +0300" stop="20260113113400 +0300" channel="BeinGurme.tr">
+  <programme start="20260113110000 +0300" stop="20260113113500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Görevimiz Yemek</title>
-    <length units="minutes">34</length>
+    <length units="minutes">35</length>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
-  <programme start="20260113113400 +0300" stop="20260113114000 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">6</length>
-  </programme>
-  <programme start="20260113114000 +0300" stop="20260113115500 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Lezzetin Ustaları</title>
-    <length units="minutes">15</length>
-    <episode-num system="onscreen">S5</episode-num>
-  </programme>
-  <programme start="20260113115500 +0300" stop="20260113120000 +0300" channel="BeinGurme.tr">
+  <programme start="20260113113500 +0300" stop="20260113114000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
     <length units="minutes">5</length>
   </programme>
-  <programme start="20260113120000 +0300" stop="20260113123100 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Ekmek Arası Muhabbet</title>
-    <length units="minutes">31</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20260113123100 +0300" stop="20260113123500 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">4</length>
-  </programme>
-  <programme start="20260113123500 +0300" stop="20260113131000 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Evdeki Restoran</title>
-    <length units="minutes">35</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20260113131000 +0300" stop="20260113131500 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">5</length>
-  </programme>
-  <programme start="20260113131500 +0300" stop="20260113134500 +0300" channel="BeinGurme.tr">
-    <title lang="tr">4 Lezzet</title>
-    <length units="minutes">30</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20260113134500 +0300" stop="20260113135500 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">10</length>
-  </programme>
-  <programme start="20260113135500 +0300" stop="20260113142700 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Yağız ile Havalı Tarifler 37</title>
-    <title lang="xx">Yağız ile Havalı Tarifler</title>
-    <length units="minutes">32</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20260113142700 +0300" stop="20260113143500 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">8</length>
-  </programme>
-  <programme start="20260113143500 +0300" stop="20260113150700 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Mutfak Sanatı</title>
-    <length units="minutes">32</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20260113150700 +0300" stop="20260113151500 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">8</length>
-  </programme>
-  <programme start="20260113151500 +0300" stop="20260113160100 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Hazer Amani ile Keşfe Değer</title>
-    <length units="minutes">46</length>
-    <episode-num system="onscreen">S3</episode-num>
-  </programme>
-  <programme start="20260113155500 +0300" stop="20260113162700 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Yağız ile Havalı Tarifler 37</title>
-    <title lang="xx">Yağız ile Havalı Tarifler</title>
-    <length units="minutes">32</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20260113160100 +0300" stop="20260114160100 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-  </programme>
-  <programme start="20260113162700 +0300" stop="20260114164000 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">13</length>
-  </programme>
-  <programme start="20260113164000 +0300" stop="20260114171100 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Ekmek Arası Muhabbet</title>
-    <length units="minutes">31</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20260113171100 +0300" stop="20260114172500 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">14</length>
-  </programme>
-  <programme start="20260113172500 +0300" stop="20260114180000 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Evdeki Restoran</title>
-    <length units="minutes">35</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20260113180000 +0300" stop="20260114181000 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">10</length>
-  </programme>
-  <programme start="20260113181000 +0300" stop="20260114184000 +0300" channel="BeinGurme.tr">
-    <title lang="tr">4 Lezzet</title>
-    <length units="minutes">30</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20260113184000 +0300" stop="20260114185500 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">15</length>
-  </programme>
-  <programme start="20260113185500 +0300" stop="20260114192700 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Mutfak Sanatı</title>
-    <length units="minutes">32</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20260113192700 +0300" stop="20260114194000 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">13</length>
-  </programme>
-  <programme start="20260113194000 +0300" stop="20260114195600 +0300" channel="BeinGurme.tr">
+  <programme start="20260113114000 +0300" stop="20260113115600 +0300" channel="BeinGurme.tr">
     <title lang="tr">Lezzetin Ustaları</title>
     <length units="minutes">16</length>
     <episode-num system="onscreen">S5</episode-num>
   </programme>
-  <programme start="20260113195600 +0300" stop="20260114200000 +0300" channel="BeinGurme.tr">
+  <programme start="20260113115600 +0300" stop="20260113120000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
     <length units="minutes">4</length>
   </programme>
-  <programme start="20260113200000 +0300" stop="20260114203800 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Gastronomi Maceraları</title>
-    <length units="minutes">38</length>
-    <episode-num system="onscreen">S7</episode-num>
+  <programme start="20260113120000 +0300" stop="20260113123200 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Ekmek Arası Muhabbet</title>
+    <length units="minutes">32</length>
+    <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20260113203800 +0300" stop="20260114204500 +0300" channel="BeinGurme.tr">
+  <programme start="20260113123200 +0300" stop="20260113123500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">3</length>
+  </programme>
+  <programme start="20260113123500 +0300" stop="20260113131100 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Evdeki Restoran</title>
+    <length units="minutes">36</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260113131100 +0300" stop="20260113131500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">4</length>
+  </programme>
+  <programme start="20260113131500 +0300" stop="20260113134600 +0300" channel="BeinGurme.tr">
+    <title lang="tr">4 Lezzet</title>
+    <length units="minutes">31</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260113134600 +0300" stop="20260113135400 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">8</length>
+  </programme>
+  <programme start="20260113135500 +0300" stop="20260113142800 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Yağız ile Havalı Tarifler 37</title>
+    <title lang="xx">Yağız ile Havalı Tarifler</title>
+    <length units="minutes">33</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260113142800 +0300" stop="20260113143500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
     <length units="minutes">7</length>
   </programme>
-  <programme start="20260113204500 +0300" stop="20260114211200 +0300" channel="BeinGurme.tr">
+  <programme start="20260113143500 +0300" stop="20260113150800 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Mutfak Sanatı</title>
+    <length units="minutes">33</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260113150800 +0300" stop="20260113151500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">7</length>
+  </programme>
+  <programme start="20260113151500 +0300" stop="20260113160200 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Hazer Amani ile Keşfe Değer</title>
+    <length units="minutes">47</length>
+    <episode-num system="onscreen">S3</episode-num>
+  </programme>
+  <programme start="20260113160200 +0300" stop="20260113160900 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">7</length>
+  </programme>
+  <programme start="20260113161000 +0300" stop="20260113164300 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Yağız ile Havalı Tarifler 37</title>
+    <title lang="xx">Yağız ile Havalı Tarifler</title>
+    <length units="minutes">33</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260113164300 +0300" stop="20260113165000 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">7</length>
+  </programme>
+  <programme start="20260113165000 +0300" stop="20260113172200 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Ekmek Arası Muhabbet</title>
+    <length units="minutes">32</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260113172200 +0300" stop="20260113172900 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">7</length>
+  </programme>
+  <programme start="20260113173000 +0300" stop="20260113180600 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Evdeki Restoran</title>
+    <length units="minutes">36</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260113180600 +0300" stop="20260113181300 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">7</length>
+  </programme>
+  <programme start="20260113181500 +0300" stop="20260113184600 +0300" channel="BeinGurme.tr">
+    <title lang="tr">4 Lezzet</title>
+    <length units="minutes">31</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260113184600 +0300" stop="20260113185300 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">7</length>
+  </programme>
+  <programme start="20260113185500 +0300" stop="20260113192800 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Mutfak Sanatı</title>
+    <length units="minutes">33</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260113192800 +0300" stop="20260113193400 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">6</length>
+  </programme>
+  <programme start="20260113193500 +0300" stop="20260113195200 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Lezzetin Ustaları</title>
+    <length units="minutes">17</length>
+    <episode-num system="onscreen">S5</episode-num>
+  </programme>
+  <programme start="20260113195200 +0300" stop="20260113195900 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">7</length>
+  </programme>
+  <programme start="20260113200000 +0300" stop="20260113203900 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Gastronomi Maceraları</title>
+    <length units="minutes">39</length>
+    <episode-num system="onscreen">S7</episode-num>
+  </programme>
+  <programme start="20260113203900 +0300" stop="20260113204500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">6</length>
+  </programme>
+  <programme start="20260113204500 +0300" stop="20260113211300 +0300" channel="BeinGurme.tr">
     <title lang="tr">Arda ile Aşırı Lezzetli</title>
-    <length units="minutes">27</length>
+    <length units="minutes">28</length>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
   <channel id="BeinMoviesTurk.tr">
@@ -9602,81 +9452,81 @@
     <title lang="tr">Şahin</title>
     <length units="minutes">95</length>
   </programme>
-  <programme start="20260113055500 +0300" stop="20260114060000 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260113060900 +0300" stop="20260113061500 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">5</length>
+    <length units="minutes">6</length>
   </programme>
-  <programme start="20260113060000 +0300" stop="20260114073100 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260113061500 +0300" stop="20260113074500 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Kıskanmak</title>
-    <length units="minutes">91</length>
+    <length units="minutes">90</length>
   </programme>
-  <programme start="20260113073100 +0300" stop="20260114073600 +0300" channel="BeinMoviesTurk.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">5</length>
-  </programme>
-  <programme start="20260113073600 +0300" stop="20260114092000 +0300" channel="BeinMoviesTurk.tr">
-    <title lang="tr">Sen Benim Her Şeyimsin</title>
-    <length units="minutes">104</length>
-  </programme>
-  <programme start="20260113092000 +0300" stop="20260114092700 +0300" channel="BeinMoviesTurk.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">7</length>
-  </programme>
-  <programme start="20260113092700 +0300" stop="20260114105300 +0300" channel="BeinMoviesTurk.tr">
-    <title lang="tr">Hoşça Kal Güzin</title>
-    <length units="minutes">86</length>
-  </programme>
-  <programme start="20260113105300 +0300" stop="20260114110000 +0300" channel="BeinMoviesTurk.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">7</length>
-  </programme>
-  <programme start="20260113110000 +0300" stop="20260114123300 +0300" channel="BeinMoviesTurk.tr">
-    <title lang="tr">Gecenin Sonu</title>
-    <length units="minutes">93</length>
-  </programme>
-  <programme start="20260113123300 +0300" stop="20260114123900 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260113074500 +0300" stop="20260113075100 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
     <length units="minutes">6</length>
   </programme>
-  <programme start="20260113123900 +0300" stop="20260114134900 +0300" channel="BeinMoviesTurk.tr">
-    <title lang="tr">Unutama Beni</title>
-    <length units="minutes">70</length>
-  </programme>
-  <programme start="20260113134900 +0300" stop="20260114135500 +0300" channel="BeinMoviesTurk.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">6</length>
-  </programme>
-  <programme start="20260113135500 +0300" stop="20260114152100 +0300" channel="BeinMoviesTurk.tr">
-    <title lang="tr">Uçurtmayı Vurmasınlar</title>
-    <length units="minutes">86</length>
-  </programme>
-  <programme start="20260113152100 +0300" stop="20260114152700 +0300" channel="BeinMoviesTurk.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">6</length>
-  </programme>
-  <programme start="20260113152700 +0300" stop="20260114165800 +0300" channel="BeinMoviesTurk.tr">
-    <title lang="tr">Kıskanmak</title>
-    <length units="minutes">91</length>
-  </programme>
-  <programme start="20260113165800 +0300" stop="20260114170300 +0300" channel="BeinMoviesTurk.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">5</length>
-  </programme>
-  <programme start="20260113170300 +0300" stop="20260114184600 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260113075100 +0300" stop="20260113093400 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Sen Benim Her Şeyimsin</title>
     <length units="minutes">103</length>
   </programme>
-  <programme start="20260113184600 +0300" stop="20260114185300 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260113093400 +0300" stop="20260113094200 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">8</length>
+  </programme>
+  <programme start="20260113094200 +0300" stop="20260113110800 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Hoşça Kal Güzin</title>
+    <length units="minutes">86</length>
+  </programme>
+  <programme start="20260113110800 +0300" stop="20260113111500 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
     <length units="minutes">7</length>
   </programme>
-  <programme start="20260113185300 +0300" stop="20260114203700 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260113111500 +0300" stop="20260113124800 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Gecenin Sonu</title>
+    <length units="minutes">93</length>
+  </programme>
+  <programme start="20260113124800 +0300" stop="20260113125400 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">6</length>
+  </programme>
+  <programme start="20260113125400 +0300" stop="20260113140300 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Unutama Beni</title>
+    <length units="minutes">69</length>
+  </programme>
+  <programme start="20260113140300 +0300" stop="20260113141000 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">7</length>
+  </programme>
+  <programme start="20260113141000 +0300" stop="20260113153500 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Uçurtmayı Vurmasınlar</title>
+    <length units="minutes">85</length>
+  </programme>
+  <programme start="20260113153500 +0300" stop="20260113154200 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">7</length>
+  </programme>
+  <programme start="20260113154200 +0300" stop="20260113171200 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Kıskanmak</title>
+    <length units="minutes">90</length>
+  </programme>
+  <programme start="20260113171200 +0300" stop="20260113171800 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">6</length>
+  </programme>
+  <programme start="20260113171800 +0300" stop="20260113190100 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Sen Benim Her Şeyimsin</title>
+    <length units="minutes">103</length>
+  </programme>
+  <programme start="20260113190100 +0300" stop="20260113190700 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">6</length>
+  </programme>
+  <programme start="20260113190700 +0300" stop="20260113205200 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Yeraltı</title>
-    <length units="minutes">104</length>
+    <length units="minutes">105</length>
   </programme>
-  <programme start="20260113203700 +0300" stop="20260114204400 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260113205200 +0300" stop="20260113205800 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">7</length>
+    <length units="minutes">6</length>
   </programme>
   <channel id="tv100.tr">
     <display-name lang="tr">tv100</display-name>
@@ -13471,7 +13321,7 @@
     <display-name lang="tr">MovieSmart Classic</display-name>
     <icon src="https://www.dsmart.com.tr/epg/images/0x60/59f97297cfef0b75f4723f91" />
   </channel>
-  <programme start="20260112005000 +0300" stop="20260112023000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112004000 +0300" stop="20260112021500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Kanun Karşısında</title>
     <desc lang="tr">Selim, okulu bırakmış ve yakın dostu Rüstem'in pavyonunda muhasebecilik yapan bir gençtir. Bir gece yarısı pavyona gelen ve ölümden kurtardığı Leyla ile aralarında bir ilişki başlar, Uyuşturucu bağımlısı bu kadına aşık olan yakışıklı genç, kendini tehlikeli bir çemberin içinde bulur. Rüstem'in yardımlarıyla olaydan kurtulan ve kendine yeni bir düzen kuran Selim hiç beklemediği bir anda geçmişin karanlık yüzüyle karşılaşır.</desc>
     <credits>
@@ -13487,7 +13337,7 @@
     <category lang="tr">Dram</category>
     <category lang="tr">Macera</category>
   </programme>
-  <programme start="20260112023000 +0300" stop="20260112040000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112021500 +0300" stop="20260112034000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Bu Şehrin Geceleri</title>
     <desc lang="tr">Zeynep, istemediği bir adamla evlendirilir. Bu yüzden düğün gecesi İstanbul’ a kaçar. Yardım vaadiyle kendisini kandıran bir adamın pavyonunda çalışmak zorunda bırakılır. Bir gece dayanamayıp pavyonu terk eder. Bindiği taksinin şoförü Ferdi, kimsesiz olan Zeynep’e yardım etmek ister. Onu evine götürerek sahip çıkar. Bir süre sonra Zeynep ve Ferdi birbirine âşık olur.</desc>
     <credits>
@@ -13500,7 +13350,7 @@
     <date>1989</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260112040000 +0300" stop="20260112053000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112034000 +0300" stop="20260112045400 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Bütün Suçumuz Sevmek</title>
     <desc lang="tr">Murat babası ölünce İstanbul’a göç eder. Amcası Kemal’in fabrikasında çalışmaya başlar. Kemal, yeğeninin işleri öğrenmesi için onu işçi olarak çalıştırır. Yeğeni olduğunu da herkesten gizler. Bu süreçte Murat fabrika işçileriyle arkadaş olur. Onlarla aynı mahallede yaşar. Yeni hayatına alışan Murat, bir süre sonra arkadaşlarından kopmak zorunda kalacaktır.</desc>
     <credits>
@@ -13515,7 +13365,11 @@
     <date>1963</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260112053000 +0300" stop="20260112070000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112045400 +0300" stop="20260112054000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
+    <desc lang="tr">Ünlülerle ses getiren söyleşilere imza atan Hakan Gence'nin bu bölümde konuğu Selim Bayraktar.</desc>
+  </programme>
+  <programme start="20260112054000 +0300" stop="20260112070500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Mavi Eşarp</title>
     <desc lang="tr">Bir kaza sonucu sakat kalan bir pilotla çok hızlı ve renkli bir yaşam süren, zengin ama hastalıklı bir kadının aşk öyküsü.</desc>
     <credits>
@@ -13529,7 +13383,10 @@
     <date>1971</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260112070000 +0300" stop="20260112084000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112070500 +0300" stop="20260112071000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260112071000 +0300" stop="20260112084000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Çapkın Kız</title>
     <desc lang="tr">Suna, zengin ve şımarık bir genç kızdır. Bir gün Ekrem adında bir şoförün kaza yapmasına sebep olur. Çıkan zararı karşılayan Suna'nın babası Haşim Bey, Ekrem'in mertliğinden etkilenir. Bunun üzerine ona ve arkadaşına iş teklif eder. Ekrem'den kızının korumalığını yapmasını ister. Ekrem ve arkadaşı bu teklifi kabul eder. Babasının peşine taktığı korumalardan kurtulmak isteyen Suna, bir süre sonra Ekrem’le yakınlaşmaya başlayacaktır.</desc>
     <credits>
@@ -13544,7 +13401,10 @@
     <date>1963</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260112084000 +0300" stop="20260112100000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112084000 +0300" stop="20260112084500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260112084500 +0300" stop="20260112095200 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Üç Sevgilim</title>
     <desc lang="tr">Dünyaca ünlü Yeşil Raca elması, bir İngiliz lorduna hediye edildikten sonra çok defa el değiştirir. Elmas, son olarak mafya babası Adalı Cafer’in eline geçer. Bir örgüt, elması ele geçirmek üzere üç hırsız kiralar. Hırsızlar Cafer’in ilgisini çekerek köşke girme plânları yaparlar. Ancak köşkün bahçıvanı Orhan da hırsızlar gibi elmasın peşindedir.</desc>
     <credits>
@@ -13557,7 +13417,10 @@
     <date>1979</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260112100000 +0300" stop="20260112114000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112095200 +0300" stop="20260112100000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260112100000 +0300" stop="20260112112500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Turist Ömer Yamyamlar Arasında</title>
     <desc lang="tr">Turist Ömer'in Afrika'da geçen aşk ve macera güldürüsü.</desc>
     <credits>
@@ -13571,7 +13434,10 @@
     <category lang="tr">Komedi</category>
     <category lang="tr">Macera</category>
   </programme>
-  <programme start="20260112114000 +0300" stop="20260112133000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112112500 +0300" stop="20260112113000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260112113000 +0300" stop="20260112130600 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Kızım Ayşe</title>
     <desc lang="tr">Huriye Bacı, kızı Ayşe'yi okutabilmek için İstanbul'a taşınır. Maddi zorluklar içinde kızını okutmaya çalışır. Saf duygular içinde büyümüş Ayşe'nin arkadaşları yüzünden yoldan çıkması ile başlayan olaylar annesine isyana kadar gider. Çileli anne üzüntü içinde yıkılmış bir vaziyette köyüne döner. Daha sonra gelişen olaylar neticesi doğru yolu bulan Ayşe, annesinin haklılığını anlar ve hep beraber mutlu bir yaşam için çaba sarfederler.</desc>
     <credits>
@@ -13585,7 +13451,10 @@
     <date>1974</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260112133000 +0300" stop="20260112151000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112130600 +0300" stop="20260112131500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260112131500 +0300" stop="20260112144000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Şehvet Uçurumları</title>
     <desc lang="tr">Halil Efendi’nin ‘ismi ile müsemma’ kızı Filiz, öğretmen çıkmış ve her gün Erdemli’ye gidip gelmektedir. Nişanlısı Haluk ise, Ataş Rafinerisi’nde mühendistir. Evlilik çok yakın ama beklenmedik olaylar dingin yaşamlarını etkileyecektir.</desc>
     <credits>
@@ -13600,7 +13469,10 @@
     <date>1962</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260112151000 +0300" stop="20260112170000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112144000 +0300" stop="20260112145000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260112145000 +0300" stop="20260112162500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Abuk Sabuk Bir Film</title>
     <desc lang="tr">Film, bir anda zengin olan bir köylünün yeni hayatına uyum sürecinde yaşadıklarını konu eder.</desc>
     <credits>
@@ -13612,7 +13484,17 @@
     <date>1990</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260112170000 +0300" stop="20260112182000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112162500 +0300" stop="20260112163000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260112163000 +0300" stop="20260112170500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
+    <desc lang="tr">Ünlülerle ses getiren söyleşilere imza atan Hakan Gence'nin bu bölümde konuğu Selin Şekerci.</desc>
+  </programme>
+  <programme start="20260112170500 +0300" stop="20260112171000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260112171000 +0300" stop="20260112181700 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Kadın Severse</title>
     <desc lang="tr">Doktor Ferit, dağ'da donmak üzere olan Nevin'i bulur ve vaktinde yaptğı müdahale ile genç kadını ölmekten kurtarır. Nevin, Ferit’ten etkilenmiştir.Birlikte geçirdikleri gece sonrası evlenmeye karar verirler. Ancak Ferit’in başka bir ilişkisi olduğunu öğrenen Nevin, onu terk eder. Nevin, eğitimi için İngiltere’ye gider.Dört yıl sonra başka bir insan olarak geri dönecektir. Unuttuğunu zannettiği Ferit ise, ummadığı bir anda karşısına çıkacaktır.</desc>
     <credits>
@@ -13627,7 +13509,10 @@
     <date>1968</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260112182000 +0300" stop="20260112200000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112181700 +0300" stop="20260112182500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260112182500 +0300" stop="20260112195300 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Zehir Hafiye</title>
     <desc lang="tr">Cemal, arkadaşı Necati ile birlikte yaşar. Polisiye roman tutkusu nedeniyle hiçbir işte tutunamaz. Taksicilik yaptığı sırada arabasına binen Zeynep, Kara Şehmus lakaplı mafya liderinin kızıdır. Kara Şehmus, Zeynep’i Manyak Mahmut’un oğluyla evlendirmek istemektedir. Ancak Zeynep başka birine aşıktır ve bu uğurda evden kaçmıştır. Cemal’in aradığı macera ayağına gelmiştir. Okuduğu romanların ışığında Zeynep’i bu durumdan kurtarmaya çalışacaktır.</desc>
     <credits>
@@ -13645,7 +13530,10 @@
     <category lang="tr">Aksiyon</category>
     <category lang="tr">Polisiye</category>
   </programme>
-  <programme start="20260112200000 +0300" stop="20260112213000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112195300 +0300" stop="20260112200000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260112200000 +0300" stop="20260112212100 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Elveda Mutluluklar</title>
     <desc lang="tr">Terzilik yaparak para kazanan Zeynep, yoksul olan ailesinin geçimini sağlamaktadır. Sevgilisi Ferdi de tamirci olarak çalışır ve para biriktirir. İki sevgili evlenmek isterler, ancak maddi imkânsızlıkları buna el vermez. Bu süreçte semtin zenginlerinden Yalçın da Zeynep’i sevmektedir. Zeynep’i elde etmeye çalışır ama bir türlü başaramaz. Yalçın, iki sevgilinin ayrılmasına sebep olacak plan yapar.</desc>
     <credits>
@@ -13658,7 +13546,10 @@
     <date>1988</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260112213000 +0300" stop="20260112230000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112212100 +0300" stop="20260112213000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260112213000 +0300" stop="20260112224800 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Kiraz Çiçek Açıyor</title>
     <desc lang="tr">Kiraz, küçük bir köyde yaşayan iki çocuklu bir kadındır. Kocası Almanya’ya gitmiş, orada evlenmiştir. Zor durumda kalan Kiraz, çocuklarına ve kaynanasına bakabilmek için hayat kadınlığı yapar. Köyün civarında küçük işler yaparak geçinen İlyas, Kiraz’ ı yanına işçi olarak alıp, hayat kadınlığından kurtarır. Kocası, Kiraz’ı Almanya’ya götüreceği haberini gönderirr. Ancak kocası geldiğinde işler Kiraz’ın plânladığı gibi gitmez.</desc>
     <credits>
@@ -13671,7 +13562,10 @@
     <date>1990</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260112230000 +0300" stop="20260113004000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260112224800 +0300" stop="20260112225500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260112225500 +0300" stop="20260113002000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Ses</title>
     <desc lang="tr">Siyasi sebeplerden dolayı altı yıl cezaevinde yatmış ve işkence sebebiyle bir kolu sakat kalmıştır. Genç adam kasabada annesiyle tatil için gelen Sermin’le karşılaşır. Sermin adamın gizemli hâlinden etkilenmiştir. Bir süre sonra Sermin'le arkadaş olur. Bir gece restoranda otururlarken arka masada oturan birinin sesini duyar. Bu sesin cezaevinde ona işkence yapan kişiye ait olduğunu düşünür ve adamı takip etmeye başlar.</desc>
     <credits>
@@ -13687,7 +13581,10 @@
     <category lang="tr">Dram</category>
     <category lang="tr">Politik</category>
   </programme>
-  <programme start="20260113004000 +0300" stop="20260113022000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260113002000 +0300" stop="20260113002500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260113002500 +0300" stop="20260113015500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Çapkın Kız</title>
     <desc lang="tr">Suna, zengin ve şımarık bir genç kızdır. Bir gün Ekrem adında bir şoförün kaza yapmasına sebep olur. Çıkan zararı karşılayan Suna'nın babası Haşim Bey, Ekrem'in mertliğinden etkilenir. Bunun üzerine ona ve arkadaşına iş teklif eder. Ekrem'den kızının korumalığını yapmasını ister. Ekrem ve arkadaşı bu teklifi kabul eder. Babasının peşine taktığı korumalardan kurtulmak isteyen Suna, bir süre sonra Ekrem’le yakınlaşmaya başlayacaktır.</desc>
     <credits>
@@ -13702,7 +13599,7 @@
     <date>1963</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260113022000 +0300" stop="20260113035000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260113015500 +0300" stop="20260113032000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Yasemin'in Tatlı Aşkı</title>
     <desc lang="tr">İki tüccar aile arasındaki rekabet, çocuklarının bilmeden birbirlerine aşık olup evlenmek istemesiyle değişik bir boyut kazanır. Taşra kurnazı Hüsamettin Bey, borçları yüzünden sosyetik Muzaffer Bey'i haczettirir. Muzaffer Bey de çarıklı hacı dediği Hüsamettin'e kız vermeye yanaşmaz. Yasemin'le evlenmek isteyen Erol ise babasına rağmen genç kızın ailesine yardım etmeye karar verir. Ancak kurnaz adamı kandırmak pek kolay değildir.</desc>
     <credits>
@@ -13718,7 +13615,7 @@
     <date>1968</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260113035000 +0300" stop="20260113052000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260113032000 +0300" stop="20260113044300 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Şehvet Uçurumları</title>
     <desc lang="tr">Halil Efendi’nin ‘ismi ile müsemma’ kızı Filiz, öğretmen çıkmış ve her gün Erdemli’ye gidip gelmektedir. Nişanlısı Haluk ise, Ataş Rafinerisi’nde mühendistir. Evlilik çok yakın ama beklenmedik olaylar dingin yaşamlarını etkileyecektir.</desc>
     <credits>
@@ -13732,6 +13629,10 @@
     </credits>
     <date>1962</date>
     <category lang="tr">Dram</category>
+  </programme>
+  <programme start="20260113044300 +0300" stop="20260113052000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
+    <desc lang="tr">Ünlülerle ses getiren söyleşilere imza atan Hakan Gence'nin bu bölümde konuğu Sinem Ünsal.</desc>
   </programme>
   <programme start="20260113052000 +0300" stop="20260113070000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Mahpus</title>
