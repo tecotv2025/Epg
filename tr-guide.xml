@@ -224,13 +224,17 @@
     <title lang="tr">Doğulu</title>
     <length units="minutes">135</length>
   </programme>
-  <programme start="20260114023000 +0300" stop="20260114044500 +0300" channel="KanalD.tr">
-    <title lang="tr">Poyraz Karayel</title>
-    <length units="minutes">135</length>
+  <programme start="20260114003000 +0300" stop="20260114023000 +0300" channel="KanalD.tr">
+    <title lang="tr">Çiçero</title>
+    <length units="minutes">120</length>
   </programme>
-  <programme start="20260114044500 +0300" stop="20260114070000 +0300" channel="KanalD.tr">
+  <programme start="20260114023000 +0300" stop="20260114043000 +0300" channel="KanalD.tr">
+    <title lang="tr">Poyraz Karayel</title>
+    <length units="minutes">120</length>
+  </programme>
+  <programme start="20260114043000 +0300" stop="20260114070000 +0300" channel="KanalD.tr">
     <title lang="tr">Üç Kız Kardeş</title>
-    <length units="minutes">135</length>
+    <length units="minutes">150</length>
   </programme>
   <programme start="20260114070000 +0300" stop="20260114090000 +0300" channel="KanalD.tr">
     <title lang="tr">Yabancı Damat</title>
@@ -240,17 +244,21 @@
     <title lang="tr">Neler Oluyor Hayatta</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20260114110000 +0300" stop="20260114140000 +0300" channel="KanalD.tr">
+  <programme start="20260114110000 +0300" stop="20260114134500 +0300" channel="KanalD.tr">
     <title lang="tr">Yaprak Dökümü</title>
-    <length units="minutes">180</length>
-  </programme>
-  <programme start="20260114140000 +0300" stop="20260114164500 +0300" channel="KanalD.tr">
-    <title lang="tr">Gelinim Mutfakta</title>
     <length units="minutes">165</length>
+  </programme>
+  <programme start="20260114134500 +0300" stop="20260114164500 +0300" channel="KanalD.tr">
+    <title lang="tr">Gelinim Mutfakta</title>
+    <length units="minutes">180</length>
   </programme>
   <programme start="20260114164500 +0300" stop="20260114190000 +0300" channel="KanalD.tr">
     <title lang="tr">Arka Sokaklar</title>
     <length units="minutes">135</length>
+  </programme>
+  <programme start="20260114190000 +0300" stop="20260114200000 +0300" channel="KanalD.tr">
+    <title lang="tr">Kanal D Ana Haber</title>
+    <length units="minutes">60</length>
   </programme>
   <channel id="Now.tr">
     <display-name lang="tr">FOX</display-name>
@@ -488,13 +496,9 @@
     <title lang="tr">Gölgelerin Aşkı</title>
     <length units="minutes">80</length>
   </programme>
-  <programme start="20260114072000 +0300" stop="20260114081500 +0300" channel="BeyazTV.tr">
+  <programme start="20260114072000 +0300" stop="20260114082000 +0300" channel="BeyazTV.tr">
     <title lang="tr">Bircan Bali ile Sabah Kahvesi</title>
-    <length units="minutes">55</length>
-  </programme>
-  <programme start="20260114081500 +0300" stop="20260114082000 +0300" channel="BeyazTV.tr">
-    <title lang="tr">Sakın Kaçırma Türkiye ÖZET</title>
-    <length units="minutes">5</length>
+    <length units="minutes">60</length>
   </programme>
   <programme start="20260114082000 +0300" stop="20260114084500 +0300" channel="BeyazTV.tr">
     <title lang="tr">Sakın Kaçırma Türkiye</title>
@@ -524,9 +528,9 @@
     <title lang="tr">Beyaz Ana Haber</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20260114193000 +0300" stop="20260114233000 +0300" channel="BeyazTV.tr">
-    <title lang="tr">Film</title>
-    <length units="minutes">240</length>
+  <programme start="20260114193000 +0300" stop="20260114214500 +0300" channel="BeyazTV.tr">
+    <title lang="tr">Mahkum 77</title>
+    <length units="minutes">135</length>
   </programme>
   <channel id="Kanal7.tr">
     <display-name lang="tr">KANAL 7</display-name>
@@ -644,9 +648,9 @@
     <title lang="tr">Zahide Yetiş'le Sence?</title>
     <length units="minutes">210</length>
   </programme>
-  <programme start="20260113160000 +0300" stop="20260113200000 +0300" channel="TV8.tr">
+  <programme start="20260113160000 +0300" stop="20260113190000 +0300" channel="TV8.tr">
     <title lang="tr">Zuhal Topal'la Yemekteyiz</title>
-    <length units="minutes">240</length>
+    <length units="minutes">180</length>
   </programme>
   <programme start="20260114001500 +0300" stop="20260114013000 +0300" channel="TV8.tr">
     <title lang="tr">Survivor Ekstra</title>
@@ -824,45 +828,69 @@
     <title lang="tr">Ben Bilirim</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20260114010000 +0300" stop="20260114013000 +0300" channel="360.tr">
+  <programme start="20260114003000 +0300" stop="20260114011500 +0300" channel="360.tr">
     <title lang="tr">Lezzet Peşinde</title>
-    <length units="minutes">30</length>
+    <length units="minutes">45</length>
   </programme>
-  <programme start="20260114013000 +0300" stop="20260114040000 +0300" channel="360.tr">
+  <programme start="20260114011500 +0300" stop="20260114023000 +0300" channel="360.tr">
     <title lang="tr">Ben Bilirim</title>
-    <length units="minutes">150</length>
+    <length units="minutes">75</length>
   </programme>
-  <programme start="20260114040000 +0300" stop="20260114054500 +0300" channel="360.tr">
+  <programme start="20260114023000 +0300" stop="20260114040000 +0300" channel="360.tr">
+    <title lang="tr">Toprak Ana</title>
+    <length units="minutes">90</length>
+  </programme>
+  <programme start="20260114040000 +0300" stop="20260114041500 +0300" channel="360.tr">
     <title lang="tr">Gökyüzünden</title>
-    <length units="minutes">105</length>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20260114041500 +0300" stop="20260114054500 +0300" channel="360.tr">
+    <title lang="tr">Küçük Hanımefendi</title>
+    <length units="minutes">90</length>
   </programme>
   <programme start="20260114054500 +0300" stop="20260114061500 +0300" channel="360.tr">
     <title lang="tr">Ataman ile Devr-i Alem</title>
     <length units="minutes">30</length>
   </programme>
-  <programme start="20260114061500 +0300" stop="20260114064500 +0300" channel="360.tr">
-    <title lang="tr">Gökyüzünden</title>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20260114064500 +0300" stop="20260114083000 +0300" channel="360.tr">
-    <title lang="tr">Sağlık Olsun</title>
-    <length units="minutes">105</length>
-  </programme>
-  <programme start="20260114083000 +0300" stop="20260114141500 +0300" channel="360.tr">
-    <title lang="tr">Zamanı Geldi</title>
-    <length units="minutes">345</length>
-  </programme>
-  <programme start="20260114141500 +0300" stop="20260114150000 +0300" channel="360.tr">
+  <programme start="20260114061500 +0300" stop="20260114070000 +0300" channel="360.tr">
     <title lang="tr">Gökyüzünden</title>
     <length units="minutes">45</length>
   </programme>
-  <programme start="20260114150000 +0300" stop="20260114190000 +0300" channel="360.tr">
-    <title lang="tr">Lezzet Peşinde</title>
-    <length units="minutes">240</length>
+  <programme start="20260114070000 +0300" stop="20260114083000 +0300" channel="360.tr">
+    <title lang="tr">Toprak Ana</title>
+    <length units="minutes">90</length>
   </programme>
-  <programme start="20260114190000 +0300" stop="20260114230000 +0300" channel="360.tr">
+  <programme start="20260114083000 +0300" stop="20260114104500 +0300" channel="360.tr">
+    <title lang="tr">Zamanı Geldi</title>
+    <length units="minutes">135</length>
+  </programme>
+  <programme start="20260114104500 +0300" stop="20260114123000 +0300" channel="360.tr">
+    <title lang="tr">Zulüm</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20260114123000 +0300" stop="20260114131500 +0300" channel="360.tr">
+    <title lang="tr">Gökyüzünden</title>
+    <length units="minutes">45</length>
+  </programme>
+  <programme start="20260114131500 +0300" stop="20260114150000 +0300" channel="360.tr">
+    <title lang="tr">Küçük Hanımefendi</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20260114150000 +0300" stop="20260114154500 +0300" channel="360.tr">
+    <title lang="tr">Lezzet Peşinde</title>
+    <length units="minutes">45</length>
+  </programme>
+  <programme start="20260114154500 +0300" stop="20260114173000 +0300" channel="360.tr">
+    <title lang="tr">Gazi Kadın</title>
+    <length units="minutes">105</length>
+  </programme>
+  <programme start="20260114173000 +0300" stop="20260114190000 +0300" channel="360.tr">
+    <title lang="tr">Mahçup Delikanlı</title>
+    <length units="minutes">90</length>
+  </programme>
+  <programme start="20260114190000 +0300" stop="20260114210000 +0300" channel="360.tr">
     <title lang="tr">Ben Bilirim</title>
-    <length units="minutes">240</length>
+    <length units="minutes">120</length>
   </programme>
   <channel id="TRTTurk.tr">
     <display-name lang="tr">TRT TURK</display-name>
@@ -3028,13 +3056,21 @@
     <title lang="tr">Basın Ekspres</title>
     <length units="minutes">135</length>
   </programme>
-  <programme start="20260114010000 +0300" stop="20260114024500 +0300" channel="24TV.tr">
+  <programme start="20260114010000 +0300" stop="20260114020000 +0300" channel="24TV.tr">
     <title lang="tr">Günün Manşeti</title>
-    <length units="minutes">105</length>
+    <length units="minutes">60</length>
   </programme>
-  <programme start="20260114024500 +0300" stop="20260114050000 +0300" channel="24TV.tr">
+  <programme start="20260114020000 +0300" stop="20260114023000 +0300" channel="24TV.tr">
+    <title lang="tr">Mercek</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20260114023000 +0300" stop="20260114040000 +0300" channel="24TV.tr">
     <title lang="tr">Bu Ülke</title>
-    <length units="minutes">135</length>
+    <length units="minutes">90</length>
+  </programme>
+  <programme start="20260114040000 +0300" stop="20260114050000 +0300" channel="24TV.tr">
+    <title lang="tr">8. Etap</title>
+    <length units="minutes">60</length>
   </programme>
   <programme start="20260114050000 +0300" stop="20260114070000 +0300" channel="24TV.tr">
     <title lang="tr">Basın Ekspres</title>
@@ -3068,13 +3104,13 @@
     <title lang="tr">Moderatör</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20260114150000 +0300" stop="20260114160000 +0300" channel="24TV.tr">
-    <title lang="tr">Moderatör</title>
-    <length units="minutes">60</length>
-  </programme>
-  <programme start="20260114160000 +0300" stop="20260114180000 +0300" channel="24TV.tr">
+  <programme start="20260114150000 +0300" stop="20260114170000 +0300" channel="24TV.tr">
     <title lang="tr">Moderatör</title>
     <length units="minutes">120</length>
+  </programme>
+  <programme start="20260114170000 +0300" stop="20260114180000 +0300" channel="24TV.tr">
+    <title lang="tr">Moderatör</title>
+    <length units="minutes">60</length>
   </programme>
   <programme start="20260114180000 +0300" stop="20260114200000 +0300" channel="24TV.tr">
     <title lang="tr">Akşam Haberleri</title>
@@ -5737,12 +5773,12 @@
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 20. Hafta A.G.Pendikspor - S.Bodrum FK Maçı Bant -</title>
     <length units="minutes">105</length>
   </programme>
-  <programme start="20260113180000 +0300" stop="20260113194500 +0300" channel="BeinSports2.tr">
+  <programme start="20260113180000 +0300" stop="20260113194600 +0300" channel="BeinSports2.tr">
     <title lang="tr">Manisa FK - E.Ümraniyespor</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 20. Hafta Manisa FK - E.Ümraniyespor Maçı Bant -</title>
-    <length units="minutes">105</length>
+    <length units="minutes">106</length>
   </programme>
-  <programme start="20260113200000 +0300" stop="20260113214500 +0300" channel="BeinSports2.tr">
+  <programme start="20260113200100 +0300" stop="20260113214600 +0300" channel="BeinSports2.tr">
     <title lang="tr">Ö.Sivasspor - Erzurumspor FK</title>
     <title lang="xx">Trendyol 1. Lig Season 2025/2026 20. Hafta Ö.Sivasspor - Erzurumspor FK Maçı Bant -</title>
     <length units="minutes">105</length>
@@ -6951,9 +6987,13 @@
     <title lang="tr">Yeşil Vadi'nin Kızı</title>
     <length units="minutes">90</length>
   </programme>
-  <programme start="20260114020000 +0300" stop="20260114070000 +0300" channel="EuroSport1.tr">
+  <programme start="20260114020000 +0300" stop="20260114041500 +0300" channel="EuroSport1.tr">
     <title lang="tr">Yer Gök Aşk</title>
-    <length units="minutes">300</length>
+    <length units="minutes">135</length>
+  </programme>
+  <programme start="20260114041500 +0300" stop="20260114070000 +0300" channel="EuroSport1.tr">
+    <title lang="tr">Leylifer</title>
+    <length units="minutes">165</length>
   </programme>
   <programme start="20260114070000 +0300" stop="20260114083000 +0300" channel="EuroSport1.tr">
     <title lang="tr">Lale Devri</title>
@@ -6975,13 +7015,13 @@
     <title lang="tr">Lale Devri</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20260114170000 +0300" stop="20260114180000 +0300" channel="EuroSport1.tr">
-    <title lang="tr">Aşk Bağı</title>
-    <length units="minutes">60</length>
+  <programme start="20260114170000 +0300" stop="20260114190000 +0300" channel="EuroSport1.tr">
+    <title lang="tr">Beyaz Köle</title>
+    <length units="minutes">120</length>
   </programme>
-  <programme start="20260114180000 +0300" stop="20260114230000 +0300" channel="EuroSport1.tr">
-    <title lang="tr">Sevdaya Esir</title>
-    <length units="minutes">300</length>
+  <programme start="20260114190000 +0300" stop="20260114210000 +0300" channel="EuroSport1.tr">
+    <title lang="tr">Aşka Mahkum</title>
+    <length units="minutes">120</length>
   </programme>
   <channel id="EuroSport2.tr">
     <display-name lang="tr">EUROSPORT 2</display-name>
@@ -8872,299 +8912,10 @@
     <display-name lang="tr">Spor Smart</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART.png" />
   </channel>
-  <programme start="20260113011500 +0300" stop="20260113031500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Barcelona-Granada ''Tekrar''</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260113031500 +0300" stop="20260113060000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Estudiantes-Platense "Tekrar"</title>
-    <sub-title lang="tr">Arjantin Clasura Şampiyonlar Kupası 2025</sub-title>
-    <desc lang="tr">Arjantin Clasura Şampiyonlar Kupası 2025</desc>
-  </programme>
-  <programme start="20260113060000 +0300" stop="20260113080000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Santos - Cruzeiro "Tekrar"</title>
-    <sub-title lang="tr">Brezilya Ligi</sub-title>
-    <desc lang="tr">Brezilya Ligi</desc>
-  </programme>
-  <programme start="20260113080000 +0300" stop="20260113100000 +0300" channel="SporSmart.tr">
-    <title lang="tr">BAE - Japonya "Tekrar"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260113100000 +0300" stop="20260113120000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Çin - Avustralya "Tekrar"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260113120000 +0300" stop="20260113140000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Lübnan-Güney Kore "Tekrar"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260113140000 +0300" stop="20260113143000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Haber 14</title>
-    <sub-title lang="tr">Gündem</sub-title>
-    <desc lang="tr">Gündem</desc>
-  </programme>
-  <programme start="20260113143000 +0300" stop="20260113163000 +0300" channel="SporSmart.tr">
-    <title lang="tr">İran - Lübnan "Canlı"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260113163000 +0300" stop="20260113170000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Yabancı At Yarışları 2025</title>
-    <sub-title lang="tr">Yabancı At Yarışları 2025 Belgeseli</sub-title>
-    <desc lang="tr">Yabancı At Yarışları 2025 Belgeseli</desc>
-  </programme>
-  <programme start="20260113170000 +0300" stop="20260113171500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Haber 17</title>
-    <desc lang="tr">Haber 17</desc>
-  </programme>
-  <programme start="20260113171500 +0300" stop="20260113193000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Ürdün - Kırgızistan "Tekrar"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260113193000 +0300" stop="20260113214500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Japonya - Katar "Canlı"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260113214500 +0300" stop="20260113231500 +0300" channel="SporSmart.tr">
-    <title lang="tr">90'lar Futbol Smart "Yeni"</title>
-    <sub-title lang="tr">90'lar Temalı Eğlenceli Futbol Programı</sub-title>
-    <desc lang="tr">90'lar Temalı Eğlenceli Futbol Programı</desc>
-  </programme>
-  <programme start="20260113231500 +0300" stop="20260114011500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Valencia - Unicaja "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260114011500 +0300" stop="20260114033000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Burgos - Joventut "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260114033000 +0300" stop="20260114040000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Yabancı At Yarışları 2025</title>
-    <sub-title lang="tr">Yabancı At Yarışları 2025 Belgeseli</sub-title>
-    <desc lang="tr">Yabancı At Yarışları 2025 Belgeseli</desc>
-  </programme>
-  <programme start="20260114040000 +0300" stop="20260114060000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Vitoria - Sao Paulo "Tekrar"</title>
-    <sub-title lang="tr">Brezilya Ligi</sub-title>
-    <desc lang="tr">Brezilya Ligi</desc>
-  </programme>
-  <programme start="20260114060000 +0300" stop="20260114080000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Fluminense - Bahia "Tekrar"</title>
-    <sub-title lang="tr">Brezilya Ligi</sub-title>
-    <desc lang="tr">Brezilya Ligi</desc>
-  </programme>
-  <programme start="20260114080000 +0300" stop="20260114100000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Özbekistan - Güney Kore "Tkr"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260114100000 +0300" stop="20260114120000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Ürdün - Kırgızistan "Tekrar"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası</desc>
-  </programme>
-  <programme start="20260114120000 +0300" stop="20260114140000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Andorra-Real Madrid "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260114140000 +0300" stop="20260114143000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Haber 14</title>
-    <sub-title lang="tr">Gündem</sub-title>
-    <desc lang="tr">Gündem</desc>
-  </programme>
-  <programme start="20260114143000 +0300" stop="20260114163000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Irak - Avustralya "Canlı"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260114163000 +0300" stop="20260114170000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Brezilya Sezon Değerlendirmesi</title>
-    <sub-title lang="tr">Highlight</sub-title>
-    <desc lang="tr">Highlight</desc>
-  </programme>
-  <programme start="20260114170000 +0300" stop="20260114171500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Haber 17</title>
-    <desc lang="tr">Haber 17</desc>
-  </programme>
-  <programme start="20260114171500 +0300" stop="20260114191500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Japonya - Katar "Tekrar"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260114191500 +0300" stop="20260114194500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Dünyanın Futbolu 2025</title>
-    <sub-title lang="tr">Highlight</sub-title>
-    <desc lang="tr">Highlight</desc>
-  </programme>
-  <programme start="20260114194500 +0300" stop="20260114200000 +0300" channel="SporSmart.tr">
-    <title lang="tr">İspanya Basketbol Ligi Özetler</title>
-    <sub-title lang="tr">Highlight</sub-title>
-    <desc lang="tr">Highlight</desc>
-  </programme>
-  <programme start="20260114200000 +0300" stop="20260114210000 +0300" channel="SporSmart.tr">
-    <title lang="tr">FoodBall "Yeni Bölüm"</title>
-    <sub-title lang="tr">Nazlı Demir 'in Hazırlayıp Sunduğu Program Her Çarşamba Sizlerle...</sub-title>
-    <desc lang="tr">Nazlı Demir 'in Hazırlayıp Sunduğu Program Her Çarşamba Sizlerle...</desc>
-  </programme>
-  <programme start="20260114210000 +0300" stop="20260114230000 +0300" channel="SporSmart.tr">
-    <title lang="tr">BAE - Suriye "Tekrar"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
   <channel id="SporSmart2.tr">
     <display-name lang="tr">Spor Smart 2</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2.png" />
   </channel>
-  <programme start="20260113003000 +0300" stop="20260113014500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Futbol Kulübü "Tekrar"</title>
-    <sub-title lang="tr">Futbol Gündemi</sub-title>
-    <desc lang="tr">Futbol Gündemi</desc>
-  </programme>
-  <programme start="20260113014500 +0300" stop="20260113034500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Tayland - Irak "Tekrar"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260113034500 +0300" stop="20260113054500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Al Nassr - Al Zawraa ''Tekrar"</title>
-    <sub-title lang="tr">Asya Şampiyonlar Ligi 2</sub-title>
-    <desc lang="tr">Asya Şampiyonlar Ligi 2</desc>
-  </programme>
-  <programme start="20260113054500 +0300" stop="20260113080000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Burgos - Joventut "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260113080000 +0300" stop="20260113100000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Andorra - Real Madrid "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260113100000 +0300" stop="20260113120000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Barcelona - Granada "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260113120000 +0300" stop="20260113123000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Dünyanın Futbolu 2025</title>
-    <sub-title lang="tr">Highlight</sub-title>
-    <desc lang="tr">Highlight</desc>
-  </programme>
-  <programme start="20260113123000 +0300" stop="20260113143000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Valencia - Unicaja "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260113143000 +0300" stop="20260113163000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Özbekistan-Güney Kore "Canlı"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260113163000 +0300" stop="20260113190000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Burgos - Joventut "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260113190000 +0300" stop="20260113193000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Haber 19</title>
-  </programme>
-  <programme start="20260113193000 +0300" stop="20260113213000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">BAE - Suriye "Canlı"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260113213000 +0300" stop="20260113223000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Monster Jam ''Yarış''</title>
-    <sub-title lang="tr">Yarış</sub-title>
-    <desc lang="tr">Yarış</desc>
-  </programme>
-  <programme start="20260113223000 +0300" stop="20260114003000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">İran - Lübnan "Tekrar"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260114003000 +0300" stop="20260114020000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">90'lar Futbol Smart "Tekrar"</title>
-    <sub-title lang="tr">90'lar Temalı Eğlenceli Futbol Programı</sub-title>
-    <desc lang="tr">90'lar Temalı Eğlenceli Futbol Programı</desc>
-  </programme>
-  <programme start="20260114020000 +0300" stop="20260114040000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">S.Arabistan-Vietnam ''Tekrar''</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260114040000 +0300" stop="20260114060000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Özbekistan - Güney Kore "Tkr"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260114060000 +0300" stop="20260114080000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Ürdün - Kırgızistan "Tekrar"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260114080000 +0300" stop="20260114094500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Valencia - Unicaja "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260114094500 +0300" stop="20260114120000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Burgos - Joventut "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260114120000 +0300" stop="20260114140000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">İran - Lübnan "Tekrar"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260114140000 +0300" stop="20260114143000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Yabancı At Yarışları 2025</title>
-    <sub-title lang="tr">Yabancı At Yarışları 2025 Belgeseli</sub-title>
-    <desc lang="tr">Yabancı At Yarışları 2025 Belgeseli</desc>
-  </programme>
-  <programme start="20260114143000 +0300" stop="20260114163000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Tayland - Çin "Canlı"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
-  </programme>
-  <programme start="20260114163000 +0300" stop="20260114180000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">90'lar Futbol Smart "Tekrar"</title>
-    <sub-title lang="tr">90'lar Temalı Eğlenceli Futbol Programı</sub-title>
-    <desc lang="tr">90'lar Temalı Eğlenceli Futbol Programı</desc>
-  </programme>
-  <programme start="20260114180000 +0300" stop="20260114190000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Monster Jam ''Yarış''</title>
-    <sub-title lang="tr">Yarış</sub-title>
-    <desc lang="tr">Yarış</desc>
-  </programme>
-  <programme start="20260114190000 +0300" stop="20260114191500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Haber 19</title>
-  </programme>
-  <programme start="20260114191500 +0300" stop="20260114194500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Brezilya Sezon Değerlendirmesi</title>
-    <sub-title lang="tr">Highlight</sub-title>
-    <desc lang="tr">Highlight</desc>
-  </programme>
-  <programme start="20260114194500 +0300" stop="20260114214500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Andorra-Real Madrid ''Tekrar''</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
-  <programme start="20260114214500 +0300" stop="20260114234500 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Barcelona - Granada "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
-  </programme>
   <channel id="BeinGurme.tr">
     <display-name lang="tr">beIN GURME</display-name>
     <icon src="https://mediacms01.digiturkplay.com/channel_logo/w_Gurme_250x150_2022.png" />
@@ -9893,73 +9644,73 @@
     <title lang="tr">Uçurtmayı Vurmasınlar</title>
     <length units="minutes">86</length>
   </programme>
-  <programme start="20260114063200 +0300" stop="20260114063900 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114063500 +0300" stop="20260114064200 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
     <length units="minutes">7</length>
   </programme>
-  <programme start="20260114063900 +0300" stop="20260114082300 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114064200 +0300" stop="20260114082600 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Yeraltı</title>
     <length units="minutes">104</length>
   </programme>
-  <programme start="20260114082300 +0300" stop="20260114083000 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114082600 +0300" stop="20260114083400 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">7</length>
+    <length units="minutes">8</length>
   </programme>
-  <programme start="20260114083000 +0300" stop="20260114104700 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114083400 +0300" stop="20260114105200 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Kayıp</title>
-    <length units="minutes">137</length>
+    <length units="minutes">138</length>
   </programme>
-  <programme start="20260114104700 +0300" stop="20260114105300 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114105200 +0300" stop="20260114105700 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">6</length>
+    <length units="minutes">5</length>
   </programme>
-  <programme start="20260114105300 +0300" stop="20260114115100 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114105700 +0300" stop="20260114115500 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Yengeç Burcu</title>
     <length units="minutes">58</length>
   </programme>
-  <programme start="20260114115100 +0300" stop="20260114115600 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114115500 +0300" stop="20260114120000 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
     <length units="minutes">5</length>
   </programme>
-  <programme start="20260114115600 +0300" stop="20260114125200 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114120000 +0300" stop="20260114125600 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Evlatlık</title>
     <length units="minutes">56</length>
   </programme>
-  <programme start="20260114125200 +0300" stop="20260114125700 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114125600 +0300" stop="20260114130300 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">5</length>
+    <length units="minutes">7</length>
   </programme>
-  <programme start="20260114125700 +0300" stop="20260114141600 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114130300 +0300" stop="20260114142100 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Yalan Dünya</title>
-    <length units="minutes">79</length>
+    <length units="minutes">78</length>
   </programme>
-  <programme start="20260114141600 +0300" stop="20260114142100 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114142100 +0300" stop="20260114142700 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">5</length>
+    <length units="minutes">6</length>
   </programme>
-  <programme start="20260114142100 +0300" stop="20260114160500 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114142700 +0300" stop="20260114161100 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Yeraltı</title>
     <length units="minutes">104</length>
   </programme>
-  <programme start="20260114160500 +0300" stop="20260114161100 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114161100 +0300" stop="20260114161700 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
     <length units="minutes">6</length>
   </programme>
-  <programme start="20260114161100 +0300" stop="20260114175700 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114161700 +0300" stop="20260114180400 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Issız Adam</title>
-    <length units="minutes">106</length>
+    <length units="minutes">107</length>
   </programme>
-  <programme start="20260114175700 +0300" stop="20260114180300 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114180400 +0300" stop="20260114180900 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">6</length>
+    <length units="minutes">5</length>
   </programme>
-  <programme start="20260114180300 +0300" stop="20260114195300 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114180900 +0300" stop="20260114200000 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Bulantı</title>
-    <length units="minutes">110</length>
+    <length units="minutes">111</length>
   </programme>
-  <programme start="20260114195300 +0300" stop="20260114195900 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260114200000 +0300" stop="20260114200700 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">6</length>
+    <length units="minutes">7</length>
   </programme>
   <channel id="tv100.tr">
     <display-name lang="tr">tv100</display-name>
