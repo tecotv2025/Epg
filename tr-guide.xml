@@ -52,13 +52,13 @@
     <title lang="tr">Ejderhanı Nasıl...</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20260115015000 +0300" stop="20260115041000 +0300" channel="TRT1.tr">
+  <programme start="20260115021500 +0300" stop="20260115043500 +0300" channel="TRT1.tr">
     <title lang="tr">Kara Ağaç Destanı</title>
     <length units="minutes">140</length>
   </programme>
-  <programme start="20260115041000 +0300" stop="20260115053500 +0300" channel="TRT1.tr">
+  <programme start="20260115043500 +0300" stop="20260115053500 +0300" channel="TRT1.tr">
     <title lang="tr">Seksenler</title>
-    <length units="minutes">85</length>
+    <length units="minutes">60</length>
   </programme>
   <programme start="20260115053500 +0300" stop="20260115062500 +0300" channel="TRT1.tr">
     <title lang="tr">Turgay Başyayla ile...</title>
@@ -225,7 +225,7 @@
     <length units="minutes">60</length>
   </programme>
   <programme start="20260115001500 +0300" stop="20260115030000 +0300" channel="KanalD.tr">
-    <title lang="tr">Dizi</title>
+    <title lang="tr">Uzak Şehir</title>
     <length units="minutes">165</length>
   </programme>
   <programme start="20260115030000 +0300" stop="20260115050000 +0300" channel="KanalD.tr">
@@ -259,6 +259,10 @@
   <programme start="20260115190000 +0300" stop="20260115200000 +0300" channel="KanalD.tr">
     <title lang="tr">Kanal D Ana Haber</title>
     <length units="minutes">60</length>
+  </programme>
+  <programme start="20260115200000 +0300" stop="20260115213000 +0300" channel="KanalD.tr">
+    <title lang="tr">Miraç Kandili Özel</title>
+    <length units="minutes">90</length>
   </programme>
   <channel id="Now.tr">
     <display-name lang="tr">FOX</display-name>
@@ -468,13 +472,13 @@
     <title lang="tr">Esra Ezmeci ile Yeni Baştan</title>
     <length units="minutes">120</length>
   </programme>
-  <programme start="20260114150000 +0300" stop="20260114163000 +0300" channel="BeyazTV.tr">
+  <programme start="20260114150000 +0300" stop="20260114173000 +0300" channel="BeyazTV.tr">
     <title lang="tr">Nermin'in Enfes Mutfağı</title>
-    <length units="minutes">90</length>
+    <length units="minutes">150</length>
   </programme>
-  <programme start="20260114163000 +0300" stop="20260114183000 +0300" channel="BeyazTV.tr">
+  <programme start="20260114173000 +0300" stop="20260114183000 +0300" channel="BeyazTV.tr">
     <title lang="tr">Kurtlar Vadisi Pusu</title>
-    <length units="minutes">120</length>
+    <length units="minutes">60</length>
   </programme>
   <programme start="20260114183000 +0300" stop="20260114193000 +0300" channel="BeyazTV.tr">
     <title lang="tr">Beyaz Ana Haber</title>
@@ -536,9 +540,9 @@
     <title lang="tr">Beyaz Ana Haber</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20260115193000 +0300" stop="20260115233000 +0300" channel="BeyazTV.tr">
-    <title lang="tr">Film</title>
-    <length units="minutes">240</length>
+  <programme start="20260115193000 +0300" stop="20260115214500 +0300" channel="BeyazTV.tr">
+    <title lang="tr">Hafıza</title>
+    <length units="minutes">135</length>
   </programme>
   <channel id="Kanal7.tr">
     <display-name lang="tr">KANAL 7</display-name>
@@ -660,9 +664,9 @@
     <title lang="tr">Zahide Yetiş'le Sence?</title>
     <length units="minutes">210</length>
   </programme>
-  <programme start="20260114160000 +0300" stop="20260114200000 +0300" channel="TV8.tr">
+  <programme start="20260114160000 +0300" stop="20260114190000 +0300" channel="TV8.tr">
     <title lang="tr">Zuhal Topal'la Yemekteyiz</title>
-    <length units="minutes">240</length>
+    <length units="minutes">180</length>
   </programme>
   <programme start="20260115001500 +0300" stop="20260115013000 +0300" channel="TV8.tr">
     <title lang="tr">Survivor Ekstra</title>
@@ -1017,7 +1021,7 @@
     <length units="minutes">50</length>
   </programme>
   <programme start="20260114145000 +0300" stop="20260114150000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Allah Başka Dert Vermesin</title>
+    <title lang="tr">Mikrofon Senin İsveç</title>
     <length units="minutes">10</length>
   </programme>
   <programme start="20260114150000 +0300" stop="20260114160000 +0300" channel="TRTTurk.tr">
@@ -1072,29 +1076,29 @@
     <title lang="tr">Temelli Misafir</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20260115013000 +0300" stop="20260115022000 +0300" channel="TRTTurk.tr">
+  <programme start="20260115013000 +0300" stop="20260115021500 +0300" channel="TRTTurk.tr">
     <title lang="tr">Beni Böyle Sev</title>
-    <length units="minutes">50</length>
+    <length units="minutes">45</length>
   </programme>
-  <programme start="20260115022000 +0300" stop="20260115031000 +0300" channel="TRTTurk.tr">
+  <programme start="20260115021500 +0300" stop="20260115030000 +0300" channel="TRTTurk.tr">
     <title lang="tr">Böyle Bitmesin</title>
-    <length units="minutes">50</length>
+    <length units="minutes">45</length>
   </programme>
-  <programme start="20260115031000 +0300" stop="20260115034000 +0300" channel="TRTTurk.tr">
+  <programme start="20260115030000 +0300" stop="20260115033000 +0300" channel="TRTTurk.tr">
     <title lang="tr">Haberdar</title>
     <length units="minutes">30</length>
   </programme>
-  <programme start="20260115034000 +0300" stop="20260115044000 +0300" channel="TRTTurk.tr">
+  <programme start="20260115033000 +0300" stop="20260115043000 +0300" channel="TRTTurk.tr">
     <title lang="tr">Aile</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20260115044000 +0300" stop="20260115054000 +0300" channel="TRTTurk.tr">
+  <programme start="20260115043000 +0300" stop="20260115053000 +0300" channel="TRTTurk.tr">
     <title lang="tr">Sağlık Olsun</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20260115054000 +0300" stop="20260115055000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Kitapçı Dükkanı</title>
-    <length units="minutes">10</length>
+  <programme start="20260115053000 +0300" stop="20260115055000 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Türkiye'ye Yatırım Yolculuğu</title>
+    <length units="minutes">20</length>
   </programme>
   <programme start="20260115055000 +0300" stop="20260115062000 +0300" channel="TRTTurk.tr">
     <title lang="tr">Gönül Verenler</title>
@@ -1168,52 +1172,52 @@
     <title lang="tr">Öğle Ana Haber</title>
     <length units="minutes">50</length>
   </programme>
-  <programme start="20260115145000 +0300" stop="20260115150000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Allah Başka Dert Vermesin</title>
-    <length units="minutes">10</length>
+  <programme start="20260115145000 +0300" stop="20260115150500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Emlak Günlüğü</title>
+    <length units="minutes">15</length>
   </programme>
-  <programme start="20260115150000 +0300" stop="20260115160000 +0300" channel="TRTTurk.tr">
+  <programme start="20260115150500 +0300" stop="20260115160500 +0300" channel="TRTTurk.tr">
     <title lang="tr">Sağlık Olsun</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20260115160000 +0300" stop="20260115170000 +0300" channel="TRTTurk.tr">
+  <programme start="20260115160500 +0300" stop="20260115170500 +0300" channel="TRTTurk.tr">
     <title lang="tr">Türkü Evi</title>
     <length units="minutes">60</length>
   </programme>
-  <programme start="20260115170000 +0300" stop="20260115175000 +0300" channel="TRTTurk.tr">
+  <programme start="20260115170500 +0300" stop="20260115175500 +0300" channel="TRTTurk.tr">
     <title lang="tr">Rehber</title>
     <length units="minutes">50</length>
   </programme>
-  <programme start="20260115175000 +0300" stop="20260115180500 +0300" channel="TRTTurk.tr">
+  <programme start="20260115175500 +0300" stop="20260115181000 +0300" channel="TRTTurk.tr">
     <title lang="tr">Gökten Üç Elma Düştü</title>
     <length units="minutes">15</length>
   </programme>
-  <programme start="20260115180500 +0300" stop="20260115181500 +0300" channel="TRTTurk.tr">
+  <programme start="20260115181000 +0300" stop="20260115182000 +0300" channel="TRTTurk.tr">
     <title lang="tr">Burak İle Bubu</title>
     <length units="minutes">10</length>
   </programme>
-  <programme start="20260115181500 +0300" stop="20260115183000 +0300" channel="TRTTurk.tr">
+  <programme start="20260115182000 +0300" stop="20260115183500 +0300" channel="TRTTurk.tr">
     <title lang="tr">Güzel Türkçem</title>
     <length units="minutes">15</length>
   </programme>
-  <programme start="20260115183000 +0300" stop="20260115184500 +0300" channel="TRTTurk.tr">
+  <programme start="20260115183500 +0300" stop="20260115185000 +0300" channel="TRTTurk.tr">
     <title lang="tr">Kitapçı Dükkanı</title>
     <length units="minutes">15</length>
   </programme>
-  <programme start="20260115184500 +0300" stop="20260115190000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Mikrofon Senin İsveç</title>
+  <programme start="20260115185000 +0300" stop="20260115190500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Mikrofon Senin Danimarka</title>
     <length units="minutes">15</length>
   </programme>
-  <programme start="20260115190000 +0300" stop="20260115194500 +0300" channel="TRTTurk.tr">
+  <programme start="20260115190500 +0300" stop="20260115195000 +0300" channel="TRTTurk.tr">
     <title lang="tr">Sıcak Haber</title>
     <length units="minutes">45</length>
   </programme>
-  <programme start="20260115194500 +0300" stop="20260115200000 +0300" channel="TRTTurk.tr">
+  <programme start="20260115195000 +0300" stop="20260115200500 +0300" channel="TRTTurk.tr">
     <title lang="tr">Bir Hukukumuz Olsun</title>
     <length units="minutes">15</length>
   </programme>
-  <programme start="20260115200000 +0300" stop="20260115213000 +0300" channel="TRTTurk.tr">
-    <title lang="tr">Miraç Kandili 2026</title>
+  <programme start="20260115200500 +0300" stop="20260115213500 +0300" channel="TRTTurk.tr">
+    <title lang="tr">Miraç Kandili Kırcaali</title>
     <length units="minutes">90</length>
   </programme>
   <channel id="TRTAvaz.tr">
@@ -1540,37 +1544,29 @@
     <title lang="tr">Çizgilerle Tarih</title>
     <length units="minutes">5</length>
   </programme>
-  <programme start="20260115080000 +0300" stop="20260115092000 +0300" channel="TRTAvaz.tr">
+  <programme start="20260115080000 +0300" stop="20260115093000 +0300" channel="TRTAvaz.tr">
     <title lang="tr">Leyla İle Mecnun</title>
-    <length units="minutes">80</length>
+    <length units="minutes">90</length>
   </programme>
-  <programme start="20260115092000 +0300" stop="20260115092500 +0300" channel="TRTAvaz.tr">
-    <title lang="tr">Türk'ün Sözlüğü</title>
-    <length units="minutes">5</length>
-  </programme>
-  <programme start="20260115092500 +0300" stop="20260115093500 +0300" channel="TRTAvaz.tr">
-    <title lang="tr">İzler</title>
-    <length units="minutes">10</length>
-  </programme>
-  <programme start="20260115093500 +0300" stop="20260115100500 +0300" channel="TRTAvaz.tr">
+  <programme start="20260115093000 +0300" stop="20260115100500 +0300" channel="TRTAvaz.tr">
     <title lang="tr">Kökler Ve Sanat</title>
-    <length units="minutes">30</length>
+    <length units="minutes">35</length>
   </programme>
-  <programme start="20260115100500 +0300" stop="20260115103500 +0300" channel="TRTAvaz.tr">
+  <programme start="20260115100500 +0300" stop="20260115103000 +0300" channel="TRTAvaz.tr">
     <title lang="tr">Yiyeceğin Serüveni</title>
-    <length units="minutes">30</length>
+    <length units="minutes">25</length>
   </programme>
-  <programme start="20260115103500 +0300" stop="20260115104500 +0300" channel="TRTAvaz.tr">
+  <programme start="20260115103000 +0300" stop="20260115104000 +0300" channel="TRTAvaz.tr">
     <title lang="tr">Gönül Gözüyle</title>
     <length units="minutes">10</length>
   </programme>
-  <programme start="20260115104500 +0300" stop="20260115113000 +0300" channel="TRTAvaz.tr">
+  <programme start="20260115104000 +0300" stop="20260115112500 +0300" channel="TRTAvaz.tr">
     <title lang="tr">Sence Bilir Mi?</title>
     <length units="minutes">45</length>
   </programme>
-  <programme start="20260115113000 +0300" stop="20260115120000 +0300" channel="TRTAvaz.tr">
+  <programme start="20260115112500 +0300" stop="20260115120000 +0300" channel="TRTAvaz.tr">
     <title lang="tr">Kardeş Kömeği</title>
-    <length units="minutes">30</length>
+    <length units="minutes">35</length>
   </programme>
   <programme start="20260115120000 +0300" stop="20260115125900 +0300" channel="TRTAvaz.tr">
     <title lang="tr">Türkistan Gündemi</title>
@@ -4170,9 +4166,13 @@
     <title lang="tr">Dış Ticarette Gündem</title>
     <length units="minutes">30</length>
   </programme>
-  <programme start="20260114120000 +0300" stop="20260114130000 +0300" channel="Ekoturk.tr">
+  <programme start="20260114120000 +0300" stop="20260114123000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Gün Ortası</title>
-    <length units="minutes">60</length>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20260114123000 +0300" stop="20260114130000 +0300" channel="Ekoturk.tr">
+    <title lang="tr">Rapor</title>
+    <length units="minutes">30</length>
   </programme>
   <programme start="20260114130000 +0300" stop="20260114140000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Borsa Teknik</title>
@@ -8288,13 +8288,13 @@
     <title lang="tr">Özetler</title>
     <desc lang="tr">Maç Özeti</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/8/2136263045545eb7f426.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260114/25/1200166910735eb9542c.jpg" />
   </programme>
   <programme start="20260115010000 +0300" stop="20260115020000 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
     <desc lang="tr">Geniş Özetler</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/26/2136263055625eb7f426.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260114/16/1200166920815eb9542c.jpg" />
   </programme>
   <programme start="20260115020000 +0300" stop="20260115030000 +0300" channel="Sspor2.tr">
     <title lang="tr">Super Cars</title>
@@ -8312,7 +8312,7 @@
     <title lang="tr">Moto 3</title>
     <desc lang="tr">Çekya</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/96/2136263055755eb7f426.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260114/58/1200166920895eb9542c.jpg" />
   </programme>
   <programme start="20260115050000 +0300" stop="20260115060000 +0300" channel="Sspor2.tr">
     <title lang="tr">Probull Riders</title>
@@ -8323,7 +8323,7 @@
     <title lang="tr">ESPN Belgeseli</title>
     <desc lang="tr">Dwyane Wade</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/45/2136263065915eb7f426.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260114/74/1200166920975eb9542c.jpg" />
   </programme>
   <programme start="20260115070000 +0300" stop="20260115090000 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
@@ -8347,7 +8347,7 @@
     <title lang="tr">World Strongest Man</title>
     <desc lang="tr">Güç sporlarının en önemli etkinliği olan World Strongest Man, 30 yılı aşkın süredir dünyanın en güçlü adamlarını bir araya getiriyor.</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/43/2136263066045eb7f426.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260114/51/1200166931055eb9542c.jpg" />
   </programme>
   <programme start="20260115113000 +0300" stop="20260115133000 +0300" channel="Sspor2.tr">
     <title lang="tr">ESPN Belgeseli</title>
@@ -8365,13 +8365,13 @@
     <title lang="tr">Moto Gp -amp; Moto 2</title>
     <desc lang="tr">Avusturya</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/33/2136263086285eb7f426.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260114/23/1200166931135eb9542c.jpg" />
   </programme>
   <programme start="20260115173000 +0300" stop="20260115180000 +0300" channel="Sspor2.tr">
     <title lang="tr">Monster Jam</title>
     <desc lang="tr">Birbirinden yetenekli sürücülerin, büyük ödül için kıyasıya yarıştığı Monster Jam yarışları ekranlarda...</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/18/2136263086365eb7f426.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260114/85/1200166941215eb9542c.jpg" />
   </programme>
   <programme start="20260115180000 +0300" stop="20260115200000 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
@@ -8382,7 +8382,7 @@
   <programme start="20260115200000 +0300" stop="20260115203000 +0300" channel="Sspor2.tr">
     <title lang="tr">Supertri</title>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/10/2136263086525eb7f426.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260114/67/1200166951295eb9542c.jpg" />
   </programme>
   <programme start="20260115203000 +0300" stop="20260115223000 +0300" channel="Sspor2.tr">
     <title lang="tr">Verona - Bologna</title>
@@ -8400,7 +8400,7 @@
     <title lang="tr">Como - AC Milan</title>
     <desc lang="tr">İtalya Serie A 16. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260113/17/1600373284665eb8f42a.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260114/21/1200166951375eb9542c.webp" />
   </programme>
   <programme start="20260116004500 +0300" stop="20260116010000 +0300" channel="Sspor2.tr">
     <title lang="tr">Özetler</title>
@@ -10286,165 +10286,197 @@
     <title lang="tr">Wilderness Grill</title>
     <length units="minutes">25</length>
   </programme>
-  <programme start="20260115000000 +0300" stop="20260115002400 +0300" channel="GztTv.tr">
-    <title lang="tr">Faraway Village</title>
-    <length units="minutes">24</length>
+  <programme start="20260115000000 +0300" stop="20260115002100 +0300" channel="GztTv.tr">
+    <title lang="tr">Fuat Diri</title>
+    <length units="minutes">21</length>
   </programme>
-  <programme start="20260115002400 +0300" stop="20260115005800 +0300" channel="GztTv.tr">
-    <title lang="tr">Guga Foods</title>
-    <length units="minutes">34</length>
+  <programme start="20260115002100 +0300" stop="20260115011500 +0300" channel="GztTv.tr">
+    <title lang="tr">Birkan Erdem</title>
+    <length units="minutes">54</length>
   </programme>
-  <programme start="20260115005800 +0300" stop="20260115014000 +0300" channel="GztTv.tr">
+  <programme start="20260115011500 +0300" stop="20260115015500 +0300" channel="GztTv.tr">
+    <title lang="tr">Amerika Depo Savaşları</title>
+    <length units="minutes">40</length>
+  </programme>
+  <programme start="20260115015500 +0300" stop="20260115021400 +0300" channel="GztTv.tr">
+    <title lang="tr">Food Tour</title>
+    <length units="minutes">19</length>
+  </programme>
+  <programme start="20260115021400 +0300" stop="20260115023100 +0300" channel="GztTv.tr">
+    <title lang="tr">Kuzeyin Tırcısı Murat</title>
+    <length units="minutes">17</length>
+  </programme>
+  <programme start="20260115023100 +0300" stop="20260115031900 +0300" channel="GztTv.tr">
+    <title lang="tr">Serkan Bilgin</title>
+    <length units="minutes">48</length>
+  </programme>
+  <programme start="20260115031900 +0300" stop="20260115034700 +0300" channel="GztTv.tr">
+    <title lang="tr">Asbjorn Olsen Berg Bushcraft</title>
+    <length units="minutes">28</length>
+  </programme>
+  <programme start="20260115034700 +0300" stop="20260115042700 +0300" channel="GztTv.tr">
+    <title lang="tr">Kerem Gök</title>
+    <length units="minutes">40</length>
+  </programme>
+  <programme start="20260115042700 +0300" stop="20260115045900 +0300" channel="GztTv.tr">
+    <title lang="tr">Holistik</title>
+    <length units="minutes">32</length>
+  </programme>
+  <programme start="20260115045900 +0300" stop="20260115051700 +0300" channel="GztTv.tr">
+    <title lang="tr">Altı Çizildi</title>
+    <length units="minutes">18</length>
+  </programme>
+  <programme start="20260115051700 +0300" stop="20260115053200 +0300" channel="GztTv.tr">
+    <title lang="tr">Kitabın Ortası</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20260115053200 +0300" stop="20260115054600 +0300" channel="GztTv.tr">
+    <title lang="tr">Uzman Anlatıyor</title>
+    <length units="minutes">14</length>
+  </programme>
+  <programme start="20260115054600 +0300" stop="20260115060500 +0300" channel="GztTv.tr">
+    <title lang="tr">Envanter</title>
+    <length units="minutes">19</length>
+  </programme>
+  <programme start="20260115060500 +0300" stop="20260115063200 +0300" channel="GztTv.tr">
+    <title lang="tr">Hasan Ada</title>
+    <length units="minutes">27</length>
+  </programme>
+  <programme start="20260115063200 +0300" stop="20260115065100 +0300" channel="GztTv.tr">
+    <title lang="tr">Wilderness Grill</title>
+    <length units="minutes">19</length>
+  </programme>
+  <programme start="20260115065100 +0300" stop="20260115070000 +0300" channel="GztTv.tr">
+    <title lang="tr">Lego Cooking</title>
+    <length units="minutes">9</length>
+  </programme>
+  <programme start="20260115070000 +0300" stop="20260115071200 +0300" channel="GztTv.tr">
+    <title lang="tr">Diksiyon Tv</title>
+    <length units="minutes">12</length>
+  </programme>
+  <programme start="20260115071200 +0300" stop="20260115073100 +0300" channel="GztTv.tr">
+    <title lang="tr">Aktifizyo</title>
+    <length units="minutes">19</length>
+  </programme>
+  <programme start="20260115073100 +0300" stop="20260115081200 +0300" channel="GztTv.tr">
+    <title lang="tr">Ayşegül Örgü Hobi</title>
+    <length units="minutes">41</length>
+  </programme>
+  <programme start="20260115081200 +0300" stop="20260115083100 +0300" channel="GztTv.tr">
+    <title lang="tr">İsa Şahintürk</title>
+    <length units="minutes">19</length>
+  </programme>
+  <programme start="20260115083100 +0300" stop="20260115093100 +0300" channel="GztTv.tr">
+    <title lang="tr">Clean Up 1991</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20260115093100 +0300" stop="20260115101300 +0300" channel="GztTv.tr">
     <title lang="tr">Faraway Village</title>
     <length units="minutes">42</length>
   </programme>
-  <programme start="20260115014000 +0300" stop="20260115015800 +0300" channel="GztTv.tr">
-    <title lang="tr">Antique Vintage Restorations</title>
-    <length units="minutes">18</length>
+  <programme start="20260115101300 +0300" stop="20260115104800 +0300" channel="GztTv.tr">
+    <title lang="tr">Vapor 03</title>
+    <length units="minutes">35</length>
   </programme>
-  <programme start="20260115015800 +0300" stop="20260115032200 +0300" channel="GztTv.tr">
-    <title lang="tr">Amerika Depo Savaşları</title>
-    <length units="minutes">84</length>
+  <programme start="20260115104800 +0300" stop="20260115111300 +0300" channel="GztTv.tr">
+    <title lang="tr">Altuğ'un Atölyesi</title>
+    <length units="minutes">25</length>
   </programme>
-  <programme start="20260115032200 +0300" stop="20260115034200 +0300" channel="GztTv.tr">
-    <title lang="tr">Red Dead Restoration</title>
+  <programme start="20260115111300 +0300" stop="20260115120700 +0300" channel="GztTv.tr">
+    <title lang="tr">Solo Dağcı</title>
+    <length units="minutes">54</length>
+  </programme>
+  <programme start="20260115120700 +0300" stop="20260115122800 +0300" channel="GztTv.tr">
+    <title lang="tr">Short Akışı</title>
+    <length units="minutes">21</length>
+  </programme>
+  <programme start="20260115122800 +0300" stop="20260115125800 +0300" channel="GztTv.tr">
+    <title lang="tr">At Restoration</title>
+    <length units="minutes">30</length>
+  </programme>
+  <programme start="20260115125800 +0300" stop="20260115131900 +0300" channel="GztTv.tr">
+    <title lang="tr">Knives Project</title>
+    <length units="minutes">21</length>
+  </programme>
+  <programme start="20260115131900 +0300" stop="20260115133800 +0300" channel="GztTv.tr">
+    <title lang="tr">Halil Çin'de</title>
+    <length units="minutes">19</length>
+  </programme>
+  <programme start="20260115133800 +0300" stop="20260115140100 +0300" channel="GztTv.tr">
+    <title lang="tr">Watcheyes</title>
+    <length units="minutes">23</length>
+  </programme>
+  <programme start="20260115140100 +0300" stop="20260115141500 +0300" channel="GztTv.tr">
+    <title lang="tr">Minibricks</title>
+    <length units="minutes">14</length>
+  </programme>
+  <programme start="20260115141500 +0300" stop="20260115143600 +0300" channel="GztTv.tr">
+    <title lang="tr">Short Akışı</title>
+    <length units="minutes">21</length>
+  </programme>
+  <programme start="20260115143600 +0300" stop="20260115150000 +0300" channel="GztTv.tr">
+    <title lang="tr">Wood Wolf</title>
+    <length units="minutes">24</length>
+  </programme>
+  <programme start="20260115150000 +0300" stop="20260115154100 +0300" channel="GztTv.tr">
+    <title lang="tr">Karadenizli Maceracı</title>
+    <length units="minutes">41</length>
+  </programme>
+  <programme start="20260115154100 +0300" stop="20260115161700 +0300" channel="GztTv.tr">
+    <title lang="tr">Alfa</title>
+    <length units="minutes">36</length>
+  </programme>
+  <programme start="20260115161700 +0300" stop="20260115163700 +0300" channel="GztTv.tr">
+    <title lang="tr">Short Akışı</title>
     <length units="minutes">20</length>
   </programme>
-  <programme start="20260115034200 +0300" stop="20260115040200 +0300" channel="GztTv.tr">
+  <programme start="20260115163700 +0300" stop="20260115165200 +0300" channel="GztTv.tr">
+    <title lang="tr">Uzman Anlatıyor</title>
+    <length units="minutes">15</length>
+  </programme>
+  <programme start="20260115165200 +0300" stop="20260115171500 +0300" channel="GztTv.tr">
+    <title lang="tr">Editör Anlatıyor</title>
+    <length units="minutes">23</length>
+  </programme>
+  <programme start="20260115171500 +0300" stop="20260115173500 +0300" channel="GztTv.tr">
     <title lang="tr">Envanter</title>
     <length units="minutes">20</length>
   </programme>
-  <programme start="20260115040200 +0300" stop="20260115041700 +0300" channel="GztTv.tr">
-    <title lang="tr">Uzman Anlatıyor</title>
-    <length units="minutes">15</length>
-  </programme>
-  <programme start="20260115041700 +0300" stop="20260115043000 +0300" channel="GztTv.tr">
-    <title lang="tr">Editör Anlatıyor</title>
-    <length units="minutes">13</length>
-  </programme>
-  <programme start="20260115043000 +0300" stop="20260115044500 +0300" channel="GztTv.tr">
+  <programme start="20260115173500 +0300" stop="20260115175000 +0300" channel="GztTv.tr">
     <title lang="tr">Bilinmeyen Öyküler Atlası</title>
     <length units="minutes">15</length>
   </programme>
-  <programme start="20260115044500 +0300" stop="20260115050200 +0300" channel="GztTv.tr">
+  <programme start="20260115175000 +0300" stop="20260115180700 +0300" channel="GztTv.tr">
     <title lang="tr">Modern Ordular</title>
     <length units="minutes">17</length>
   </programme>
-  <programme start="20260115050200 +0300" stop="20260115053900 +0300" channel="GztTv.tr">
-    <title lang="tr">Wilderness Grill</title>
-    <length units="minutes">37</length>
+  <programme start="20260115180700 +0300" stop="20260115182800 +0300" channel="GztTv.tr">
+    <title lang="tr">Short Akışı</title>
+    <length units="minutes">21</length>
   </programme>
-  <programme start="20260115053900 +0300" stop="20260115055500 +0300" channel="GztTv.tr">
-    <title lang="tr">Wilderness Cooking</title>
+  <programme start="20260115182800 +0300" stop="20260115184400 +0300" channel="GztTv.tr">
+    <title lang="tr">Bir Pilotun Gözünden</title>
     <length units="minutes">16</length>
   </programme>
-  <programme start="20260115055500 +0300" stop="20260115063000 +0300" channel="GztTv.tr">
-    <title lang="tr">Birkan Erdem</title>
-    <length units="minutes">35</length>
+  <programme start="20260115184400 +0300" stop="20260115193000 +0300" channel="GztTv.tr">
+    <title lang="tr">Hisseden Adam</title>
+    <length units="minutes">46</length>
   </programme>
-  <programme start="20260115063000 +0300" stop="20260115070000 +0300" channel="GztTv.tr">
-    <title lang="tr">Anlatan Adamlar</title>
-    <length units="minutes">30</length>
+  <programme start="20260115193000 +0300" stop="20260115195700 +0300" channel="GztTv.tr">
+    <title lang="tr">Antik Seyyah</title>
+    <length units="minutes">27</length>
   </programme>
-  <programme start="20260115070000 +0300" stop="20260115070800 +0300" channel="GztTv.tr">
-    <title lang="tr">Diksiyon Tv</title>
-    <length units="minutes">8</length>
+  <programme start="20260115195700 +0300" stop="20260115201800 +0300" channel="GztTv.tr">
+    <title lang="tr">Kanan Badalov</title>
+    <length units="minutes">21</length>
   </programme>
-  <programme start="20260115070800 +0300" stop="20260115072600 +0300" channel="GztTv.tr">
-    <title lang="tr">Aktifizyo</title>
-    <length units="minutes">18</length>
-  </programme>
-  <programme start="20260115072600 +0300" stop="20260115074000 +0300" channel="GztTv.tr">
-    <title lang="tr">Dönüşüm Dünyam</title>
-    <length units="minutes">14</length>
-  </programme>
-  <programme start="20260115074000 +0300" stop="20260115081100 +0300" channel="GztTv.tr">
-    <title lang="tr">Ayşegül Örgü Hobi</title>
-    <length units="minutes">31</length>
-  </programme>
-  <programme start="20260115081100 +0300" stop="20260115083500 +0300" channel="GztTv.tr">
-    <title lang="tr">Herodot</title>
-    <length units="minutes">24</length>
-  </programme>
-  <programme start="20260115083500 +0300" stop="20260115092600 +0300" channel="GztTv.tr">
-    <title lang="tr">Karadenizli Maceracı</title>
-    <length units="minutes">51</length>
-  </programme>
-  <programme start="20260115092600 +0300" stop="20260115100000 +0300" channel="GztTv.tr">
-    <title lang="tr">Meaty Cheesy</title>
-    <length units="minutes">34</length>
-  </programme>
-  <programme start="20260115100000 +0300" stop="20260115103100 +0300" channel="GztTv.tr">
-    <title lang="tr">At Restoration</title>
-    <length units="minutes">31</length>
-  </programme>
-  <programme start="20260115103100 +0300" stop="20260115112700 +0300" channel="GztTv.tr">
-    <title lang="tr">Evcins Home</title>
-    <length units="minutes">56</length>
-  </programme>
-  <programme start="20260115112700 +0300" stop="20260115123700 +0300" channel="GztTv.tr">
-    <title lang="tr">Rota Hazır</title>
-    <length units="minutes">70</length>
-  </programme>
-  <programme start="20260115123700 +0300" stop="20260115125700 +0300" channel="GztTv.tr">
+  <programme start="20260115201800 +0300" stop="20260115203900 +0300" channel="GztTv.tr">
     <title lang="tr">Short Akışı</title>
-    <length units="minutes">20</length>
+    <length units="minutes">21</length>
   </programme>
-  <programme start="20260115125700 +0300" stop="20260115134700 +0300" channel="GztTv.tr">
-    <title lang="tr">Seyyarhane</title>
-    <length units="minutes">50</length>
-  </programme>
-  <programme start="20260115134700 +0300" stop="20260115141700 +0300" channel="GztTv.tr">
-    <title lang="tr">Wilderness Cooking</title>
-    <length units="minutes">30</length>
-  </programme>
-  <programme start="20260115141700 +0300" stop="20260115143700 +0300" channel="GztTv.tr">
-    <title lang="tr">Short Akışı</title>
-    <length units="minutes">20</length>
-  </programme>
-  <programme start="20260115143700 +0300" stop="20260115155400 +0300" channel="GztTv.tr">
-    <title lang="tr">Balık Günlükleri</title>
-    <length units="minutes">77</length>
-  </programme>
-  <programme start="20260115155400 +0300" stop="20260115165300 +0300" channel="GztTv.tr">
-    <title lang="tr">Bir Pilotun Gözünden</title>
-    <length units="minutes">59</length>
-  </programme>
-  <programme start="20260115165300 +0300" stop="20260115171300 +0300" channel="GztTv.tr">
-    <title lang="tr">Short Akışı</title>
-    <length units="minutes">20</length>
-  </programme>
-  <programme start="20260115171300 +0300" stop="20260115174500 +0300" channel="GztTv.tr">
-    <title lang="tr">Knives Project</title>
-    <length units="minutes">32</length>
-  </programme>
-  <programme start="20260115174500 +0300" stop="20260115183300 +0300" channel="GztTv.tr">
+  <programme start="20260115203900 +0300" stop="20260115212100 +0300" channel="GztTv.tr">
     <title lang="tr">Faraway Village</title>
-    <length units="minutes">48</length>
-  </programme>
-  <programme start="20260115183300 +0300" stop="20260115185500 +0300" channel="GztTv.tr">
-    <title lang="tr">Short Akışı</title>
-    <length units="minutes">22</length>
-  </programme>
-  <programme start="20260115185500 +0300" stop="20260115192100 +0300" channel="GztTv.tr">
-    <title lang="tr">Uzman Anlatıyor</title>
-    <length units="minutes">26</length>
-  </programme>
-  <programme start="20260115192100 +0300" stop="20260115194100 +0300" channel="GztTv.tr">
-    <title lang="tr">Editör Anlatıyor</title>
-    <length units="minutes">20</length>
-  </programme>
-  <programme start="20260115194100 +0300" stop="20260115200600 +0300" channel="GztTv.tr">
-    <title lang="tr">Modern Ordular</title>
-    <length units="minutes">25</length>
-  </programme>
-  <programme start="20260115200600 +0300" stop="20260115202800 +0300" channel="GztTv.tr">
-    <title lang="tr">Short Akışı</title>
-    <length units="minutes">22</length>
-  </programme>
-  <programme start="20260115202800 +0300" stop="20260115214200 +0300" channel="GztTv.tr">
-    <title lang="tr">Amerika Depo Savaşları</title>
-    <length units="minutes">74</length>
+    <length units="minutes">42</length>
   </programme>
   <channel id="BeinIz.tr">
     <display-name lang="tr">beIN İz TV HD</display-name>
