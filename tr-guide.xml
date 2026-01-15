@@ -668,9 +668,9 @@
     <title lang="tr">Zahide Yetiş'le Sence?</title>
     <length units="minutes">210</length>
   </programme>
-  <programme start="20260115160000 +0300" stop="20260115200000 +0300" channel="TV8.tr">
+  <programme start="20260115160000 +0300" stop="20260115190000 +0300" channel="TV8.tr">
     <title lang="tr">Zuhal Topal'la Yemekteyiz</title>
-    <length units="minutes">240</length>
+    <length units="minutes">180</length>
   </programme>
   <programme start="20260116001500 +0300" stop="20260116013000 +0300" channel="TV8.tr">
     <title lang="tr">Survivor Ekstra</title>
@@ -4302,13 +4302,13 @@
     <title lang="tr">Manşet Ekonomi</title>
     <length units="minutes">30</length>
   </programme>
-  <programme start="20260116003000 +0300" stop="20260116010000 +0300" channel="Ekoturk.tr">
+  <programme start="20260116003000 +0300" stop="20260116013000 +0300" channel="Ekoturk.tr">
+    <title lang="tr">Gün Ortası</title>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20260116013000 +0300" stop="20260116020000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Davranışsal Ekonomi</title>
     <length units="minutes">30</length>
-  </programme>
-  <programme start="20260116010000 +0300" stop="20260116020000 +0300" channel="Ekoturk.tr">
-    <title lang="tr">İktisattan Çıkış</title>
-    <length units="minutes">60</length>
   </programme>
   <programme start="20260116020000 +0300" stop="20260116030000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Sektörel Bakış</title>
@@ -4322,9 +4322,13 @@
     <title lang="tr">Günün Yorumu</title>
     <length units="minutes">5</length>
   </programme>
-  <programme start="20260116040000 +0300" stop="20260116060000 +0300" channel="Ekoturk.tr">
+  <programme start="20260116040000 +0300" stop="20260116050000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Alkin Lakin</title>
-    <length units="minutes">120</length>
+    <length units="minutes">60</length>
+  </programme>
+  <programme start="20260116050000 +0300" stop="20260116060000 +0300" channel="Ekoturk.tr">
+    <title lang="tr">İktisattan Çıkış</title>
+    <length units="minutes">60</length>
   </programme>
   <programme start="20260116060000 +0300" stop="20260116063000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Küresel Bakış</title>
@@ -8356,7 +8360,7 @@
     <title lang="tr">Verona - Bologna</title>
     <desc lang="tr">İtalya Serie A 16. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260113/31/1600373274585eb8f42a.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260115/85/0800105456945eb7f426.webp" />
   </programme>
   <programme start="20260115223000 +0300" stop="20260115224500 +0300" channel="Sspor2.tr">
     <title lang="tr">Özetler</title>
@@ -8374,19 +8378,19 @@
     <title lang="tr">Özetler</title>
     <desc lang="tr">Maç Özeti</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/68/2136263096785eb7f426.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260115/57/1400167199995eb7f426.jpg" />
   </programme>
   <programme start="20260116010000 +0300" stop="20260116020000 +0300" channel="Sspor2.tr">
     <title lang="tr">World Strongest Man</title>
     <desc lang="tr">Güç sporlarının en önemli etkinliği olan World Strongest Man, 30 yılı aşkın süredir dünyanın en güçlü adamlarını bir araya getiriyor.</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/97/2136263096865eb7f426.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260115/57/1400167190075eb7f426.jpg" />
   </programme>
   <programme start="20260116020000 +0300" stop="20260116030000 +0300" channel="Sspor2.tr">
     <title lang="tr">Super Cars</title>
     <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260113/8/2136183653975eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260115/16/1400167200155eb7f426.jpg" />
   </programme>
   <programme start="20260116030000 +0300" stop="20260116040000 +0300" channel="Sspor2.tr">
     <title lang="tr">Super Cars</title>
@@ -8398,7 +8402,7 @@
     <title lang="tr">Moto 3</title>
     <desc lang="tr">Avusturya</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/72/2136263116995eb7f426.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260115/57/1400167200235eb7f426.jpg" />
   </programme>
   <programme start="20260116050000 +0300" stop="20260116060000 +0300" channel="Sspor2.tr">
     <title lang="tr">Tenis Klasik Maç</title>
@@ -8409,13 +8413,13 @@
     <title lang="tr">ESPN Belgeseli</title>
     <desc lang="tr">Dwyane Wade</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/45/2136263117155eb7f426.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260115/1/1400167200315eb7f426.jpg" />
   </programme>
   <programme start="20260116070000 +0300" stop="20260116090000 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
     <desc lang="tr">Özetler</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/31/2136263291085eb7f426.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260115/37/1400167200395eb7f426.jpg" />
   </programme>
   <programme start="20260116090000 +0300" stop="20260116100000 +0300" channel="Sspor2.tr">
     <title lang="tr">Super Cars</title>
@@ -8451,7 +8455,7 @@
     <title lang="tr">Moto GP - Moto 2</title>
     <desc lang="tr">Macaristan</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260112/57/2136263127525eb7f426.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260115/56/1400167210475eb7f426.jpg" />
   </programme>
   <programme start="20260116173000 +0300" stop="20260116180000 +0300" channel="Sspor2.tr">
     <title lang="tr">Gearing Up</title>
@@ -8480,7 +8484,7 @@
     <title lang="tr">Asvel - Hapoel Tel Aviv</title>
     <desc lang="tr">Euroleague</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260113/67/2136183674095eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260115/78/1400167210555eb7f426.webp" />
   </programme>
   <programme start="20260117000000 +0300" stop="20260117010000 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
@@ -8492,7 +8496,7 @@
     <title lang="tr">Pisa - Atalanta</title>
     <desc lang="tr">İtalya Serie A</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260113/44/2136183674235eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260115/96/1400167220645eb7f426.jpg" />
   </programme>
   <channel id="Fx.tr">
     <display-name lang="tr">FX HD</display-name>
@@ -9109,25 +9113,23 @@
     <sub-title lang="tr">Gündem</sub-title>
     <desc lang="tr">Gündem</desc>
   </programme>
-  <programme start="20260116141500 +0300" stop="20260116161500 +0300" channel="SporSmart.tr">
-    <title lang="tr">Tayland - Çin "Tekrar"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
+  <programme start="20260116141500 +0300" stop="20260116143000 +0300" channel="SporSmart.tr">
+    <title lang="tr">AFC Özetler</title>
   </programme>
-  <programme start="20260116161500 +0300" stop="20260116170000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Arjantin Şampiyonluk Magazin</title>
-    <sub-title lang="tr">Highlight</sub-title>
-    <desc lang="tr">Highlight</desc>
+  <programme start="20260116143000 +0300" stop="20260116164500 +0300" channel="SporSmart.tr">
+    <title lang="tr">Japonya - Ürdün "Canlı"</title>
+    <sub-title lang="tr">U-23 AFC Asya Şampiyonası Çeyrek Final</sub-title>
+    <desc lang="tr">U-23 AFC Asya Şampiyonası Çeyrek Final</desc>
   </programme>
-  <programme start="20260116170000 +0300" stop="20260116190000 +0300" channel="SporSmart.tr">
-    <title lang="tr">Kırgızistan - Vietnam "Canlı"</title>
-    <sub-title lang="tr">U-23 AFC Asya Şampiyonası / Çeyrek Final</sub-title>
-    <desc lang="tr">U-23 AFC Asya Şampiyonası / Çeyrek Final</desc>
-  </programme>
-  <programme start="20260116190000 +0300" stop="20260116200000 +0300" channel="SporSmart.tr">
+  <programme start="20260116164500 +0300" stop="20260116180000 +0300" channel="SporSmart.tr">
     <title lang="tr">Yabancı At Yarışları 2025</title>
     <sub-title lang="tr">Yabancı At Yarışları 2025 Belgeseli</sub-title>
     <desc lang="tr">Yabancı At Yarışları 2025 Belgeseli</desc>
+  </programme>
+  <programme start="20260116180000 +0300" stop="20260116200000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Andorra-Real Madrid "Tekrar"</title>
+    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
+    <desc lang="tr">İspanya Basketbol Ligi</desc>
   </programme>
   <programme start="20260116200000 +0300" stop="20260116214500 +0300" channel="SporSmart.tr">
     <title lang="tr">Çifte Şans "Canlı"</title>
@@ -9267,23 +9269,25 @@
   <programme start="20260116150000 +0300" stop="20260116151500 +0300" channel="SporSmart2.tr">
     <title lang="tr">Haber 15</title>
   </programme>
-  <programme start="20260116151500 +0300" stop="20260116170000 +0300" channel="SporSmart2.tr">
+  <programme start="20260116151500 +0300" stop="20260116171500 +0300" channel="SporSmart2.tr">
     <title lang="tr">Andorra - Real Madrid "Tekrar"</title>
     <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
     <desc lang="tr">İspanya Basketbol Ligi</desc>
   </programme>
-  <programme start="20260116170000 +0300" stop="20260116190000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Barcelona - Granada "Tekrar"</title>
-    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
-    <desc lang="tr">İspanya Basketbol Ligi</desc>
+  <programme start="20260116171500 +0300" stop="20260116183000 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Spor Ajansı "Tekrar"</title>
+    <sub-title lang="tr">Spor Gündemi</sub-title>
+    <desc lang="tr">Spor Gündemi</desc>
   </programme>
-  <programme start="20260116190000 +0300" stop="20260116193000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Haber 19</title>
+  <programme start="20260116183000 +0300" stop="20260116204500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Vietnam - BAE "Canlı"</title>
+    <sub-title lang="tr">U-23 AFC Asya Şampiyonası Çeyrek Final</sub-title>
+    <desc lang="tr">U-23 AFC Asya Şampiyonası Çeyrek Final</desc>
   </programme>
-  <programme start="20260116193000 +0300" stop="20260116213000 +0300" channel="SporSmart2.tr">
-    <title lang="tr">Ürdün - S. Arabistan "Canlı"</title>
-    <sub-title lang="tr">Asya Cup / AFC U-23 Şampiyonası / Çeyrek Final</sub-title>
-    <desc lang="tr">Asya Cup / AFC U-23 Şampiyonası / Çeyrek Final</desc>
+  <programme start="20260116204500 +0300" stop="20260116213000 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Arjantin Şampiyonluk Magazin</title>
+    <sub-title lang="tr">Highlight</sub-title>
+    <desc lang="tr">Highlight</desc>
   </programme>
   <programme start="20260116213000 +0300" stop="20260116220000 +0300" channel="SporSmart2.tr">
     <title lang="tr">Brezilya Sezon Değerlendirmesi</title>
@@ -9693,92 +9697,206 @@
     <length units="minutes">24</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20260116064900 +0300" stop="20260116065900 +0300" channel="BeinGurme.tr">
+  <programme start="20260116064900 +0300" stop="20260116070000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">10</length>
+    <length units="minutes">11</length>
   </programme>
-  <programme start="20260116070000 +0300" stop="20260116073000 +0300" channel="BeinGurme.tr">
+  <programme start="20260116070000 +0300" stop="20260116073100 +0300" channel="BeinGurme.tr">
     <title lang="tr">Ekmek Arası Muhabbet</title>
-    <length units="minutes">30</length>
+    <length units="minutes">31</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20260116073000 +0300" stop="20260116074000 +0300" channel="BeinGurme.tr">
+  <programme start="20260116073100 +0300" stop="20260116074000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">10</length>
+    <length units="minutes">9</length>
   </programme>
-  <programme start="20260116074000 +0300" stop="20260116081300 +0300" channel="BeinGurme.tr">
+  <programme start="20260116074000 +0300" stop="20260116081400 +0300" channel="BeinGurme.tr">
     <title lang="tr">Evdeki Restoran</title>
-    <length units="minutes">33</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20260116081300 +0300" stop="20260116082000 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">7</length>
-  </programme>
-  <programme start="20260116082000 +0300" stop="20260116084800 +0300" channel="BeinGurme.tr">
-    <title lang="tr">4 Lezzet</title>
-    <length units="minutes">28</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20260116084800 +0300" stop="20260116090000 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">12</length>
-  </programme>
-  <programme start="20260116090000 +0300" stop="20260116093300 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Yağız ile Havalı Tarifler 39</title>
-    <title lang="xx">Yağız ile Havalı Tarifler</title>
-    <length units="minutes">33</length>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20260116093300 +0300" stop="20260116094000 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Az sonra...</title>
-    <length units="minutes">7</length>
-  </programme>
-  <programme start="20260116094000 +0300" stop="20260116101400 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Mutfak Sanatı</title>
     <length units="minutes">34</length>
     <episode-num system="onscreen">S1</episode-num>
   </programme>
-  <programme start="20260116101400 +0300" stop="20260116102000 +0300" channel="BeinGurme.tr">
+  <programme start="20260116081400 +0300" stop="20260116082000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
     <length units="minutes">6</length>
   </programme>
-  <programme start="20260116102000 +0300" stop="20260116104500 +0300" channel="BeinGurme.tr">
+  <programme start="20260116082000 +0300" stop="20260116084900 +0300" channel="BeinGurme.tr">
+    <title lang="tr">4 Lezzet</title>
+    <length units="minutes">29</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260116084900 +0300" stop="20260116090000 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">11</length>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116093400 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Yağız ile Havalı Tarifler 39</title>
+    <title lang="xx">Yağız ile Havalı Tarifler</title>
+    <length units="minutes">34</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260116093400 +0300" stop="20260116094000 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">6</length>
+  </programme>
+  <programme start="20260116094000 +0300" stop="20260116101500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Mutfak Sanatı</title>
+    <length units="minutes">35</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260116101500 +0300" stop="20260116102100 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">6</length>
+  </programme>
+  <programme start="20260116102000 +0300" stop="20260116104600 +0300" channel="BeinGurme.tr">
     <title lang="tr">Gastronomi Maceraları</title>
-    <length units="minutes">25</length>
+    <length units="minutes">26</length>
     <episode-num system="onscreen">S7</episode-num>
   </programme>
-  <programme start="20260116104500 +0300" stop="20260116110000 +0300" channel="BeinGurme.tr">
+  <programme start="20260116104600 +0300" stop="20260116105600 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">15</length>
+    <length units="minutes">10</length>
   </programme>
-  <programme start="20260116110000 +0300" stop="20260116113300 +0300" channel="BeinGurme.tr">
+  <programme start="20260116105500 +0300" stop="20260116112900 +0300" channel="BeinGurme.tr">
     <title lang="tr">Görevimiz Yemek</title>
-    <length units="minutes">33</length>
+    <length units="minutes">34</length>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
-  <programme start="20260116113300 +0300" stop="20260116114000 +0300" channel="BeinGurme.tr">
+  <programme start="20260116112900 +0300" stop="20260116113500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">6</length>
+  </programme>
+  <programme start="20260116113500 +0300" stop="20260116115100 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Lezzetin Ustaları</title>
+    <length units="minutes">16</length>
+    <episode-num system="onscreen">S5</episode-num>
+  </programme>
+  <programme start="20260116115100 +0300" stop="20260116115500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">4</length>
+  </programme>
+  <programme start="20260116115500 +0300" stop="20260116123100 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Ekmek Arası Muhabbet</title>
+    <length units="minutes">36</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260116123100 +0300" stop="20260116123500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">4</length>
+  </programme>
+  <programme start="20260116123500 +0300" stop="20260116131100 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Evdeki Restoran</title>
+    <length units="minutes">36</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260116131100 +0300" stop="20260116131500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">4</length>
+  </programme>
+  <programme start="20260116131500 +0300" stop="20260116135100 +0300" channel="BeinGurme.tr">
+    <title lang="tr">4 Lezzet</title>
+    <length units="minutes">36</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260116135100 +0300" stop="20260116135500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">4</length>
+  </programme>
+  <programme start="20260116135500 +0300" stop="20260116142600 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Yağız ile Havalı Tarifler 2</title>
+    <title lang="xx">Yağız ile Havalı Tarifler</title>
+    <length units="minutes">31</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260116142600 +0300" stop="20260116143500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">9</length>
+  </programme>
+  <programme start="20260116143500 +0300" stop="20260116150300 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Mutfak Sanatı</title>
+    <length units="minutes">28</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260116150300 +0300" stop="20260116151500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">12</length>
+  </programme>
+  <programme start="20260116151500 +0300" stop="20260116154800 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Dünyanın En İyi Şefleri</title>
+    <length units="minutes">33</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260116154800 +0300" stop="20260116155500 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
     <length units="minutes">7</length>
   </programme>
-  <programme start="20260116114000 +0300" stop="20260116115500 +0300" channel="BeinGurme.tr">
+  <programme start="20260116155500 +0300" stop="20260116163100 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Ekmek Arası Muhabbet</title>
+    <length units="minutes">36</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260116163100 +0300" stop="20260116164000 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">9</length>
+  </programme>
+  <programme start="20260116164000 +0300" stop="20260116171600 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Evdeki Restoran</title>
+    <length units="minutes">36</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260116171600 +0300" stop="20260116172500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">9</length>
+  </programme>
+  <programme start="20260116172500 +0300" stop="20260116175300 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Mutfak Sanatı</title>
+    <length units="minutes">28</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260116175300 +0300" stop="20260116181000 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">17</length>
+  </programme>
+  <programme start="20260116181000 +0300" stop="20260116184600 +0300" channel="BeinGurme.tr">
+    <title lang="tr">4 Lezzet</title>
+    <length units="minutes">36</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260116184600 +0300" stop="20260116185500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">9</length>
+  </programme>
+  <programme start="20260116185500 +0300" stop="20260116192600 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Yağız ile Havalı Tarifler 2</title>
+    <title lang="xx">Yağız ile Havalı Tarifler</title>
+    <length units="minutes">31</length>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20260116192600 +0300" stop="20260116193500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">9</length>
+  </programme>
+  <programme start="20260116193500 +0300" stop="20260116195300 +0300" channel="BeinGurme.tr">
     <title lang="tr">Lezzetin Ustaları</title>
-    <length units="minutes">15</length>
+    <length units="minutes">18</length>
     <episode-num system="onscreen">S5</episode-num>
   </programme>
-  <programme start="20260116115500 +0300" stop="20260116120000 +0300" channel="BeinGurme.tr">
+  <programme start="20260116195300 +0300" stop="20260116200000 +0300" channel="BeinGurme.tr">
     <title lang="tr">Az sonra...</title>
-    <length units="minutes">5</length>
+    <length units="minutes">7</length>
   </programme>
-  <programme start="20260116120000 +0300" stop="20260116123500 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Ekmek Arası Muhabbet</title>
-    <length units="minutes">35</length>
-    <episode-num system="onscreen">S1</episode-num>
+  <programme start="20260116200000 +0300" stop="20260116203600 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Gastronomi Maceraları</title>
+    <length units="minutes">36</length>
+    <episode-num system="onscreen">S7</episode-num>
   </programme>
-  <programme start="20260116123500 +0300" stop="20260116131000 +0300" channel="BeinGurme.tr">
-    <title lang="tr">Evdeki Restoran</title>
-    <length units="minutes">35</length>
-    <episode-num system="onscreen">S1</episode-num>
+  <programme start="20260116203600 +0300" stop="20260116204500 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">9</length>
+  </programme>
+  <programme start="20260116204500 +0300" stop="20260116213200 +0300" channel="BeinGurme.tr">
+    <title lang="tr">Hazer Amani ile Keşfe Değer</title>
+    <length units="minutes">47</length>
+    <episode-num system="onscreen">S3</episode-num>
   </programme>
   <channel id="BeinMoviesTurk.tr">
     <display-name lang="tr">beIN MOVIES TURK</display-name>
@@ -9907,62 +10025,74 @@
     <title lang="tr">Afife Jale</title>
     <length units="minutes">100</length>
   </programme>
-  <programme start="20260116055900 +0300" stop="20260117055900 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116060700 +0300" stop="20260116061400 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
+    <length units="minutes">7</length>
   </programme>
-  <programme start="20260116061000 +0300" stop="20260117074200 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116061400 +0300" stop="20260116074600 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Bana Derler Fosforlu</title>
     <length units="minutes">92</length>
   </programme>
-  <programme start="20260116074200 +0300" stop="20260118074200 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116074600 +0300" stop="20260116075300 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
+    <length units="minutes">7</length>
   </programme>
-  <programme start="20260116075500 +0300" stop="20260118093500 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116075300 +0300" stop="20260116093300 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Küçük Hanımefendi</title>
     <title lang="xx">KUCUK HANIMEFENDI- 2006</title>
     <length units="minutes">100</length>
   </programme>
-  <programme start="20260116093500 +0300" stop="20260119093500 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116093300 +0300" stop="20260116094000 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
+    <length units="minutes">7</length>
   </programme>
-  <programme start="20260116095000 +0300" stop="20260119112200 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116094000 +0300" stop="20260116111300 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Düşman</title>
-    <length units="minutes">92</length>
+    <length units="minutes">93</length>
   </programme>
-  <programme start="20260116112200 +0300" stop="20260120112200 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116111300 +0300" stop="20260116112100 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
+    <length units="minutes">8</length>
   </programme>
-  <programme start="20260116113500 +0300" stop="20260120124900 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116112100 +0300" stop="20260116123500 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Gerçek</title>
     <length units="minutes">74</length>
   </programme>
-  <programme start="20260116124900 +0300" stop="20260121124900 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116123500 +0300" stop="20260116124200 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
+    <length units="minutes">7</length>
   </programme>
-  <programme start="20260116130500 +0300" stop="20260121142300 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116124200 +0300" stop="20260116140000 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Baldız</title>
     <length units="minutes">78</length>
   </programme>
-  <programme start="20260116142300 +0300" stop="20260122142300 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116140000 +0300" stop="20260116140600 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
+    <length units="minutes">6</length>
   </programme>
-  <programme start="20260116144000 +0300" stop="20260122162700 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116140600 +0300" stop="20260116155300 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Kor</title>
     <length units="minutes">107</length>
   </programme>
-  <programme start="20260116162700 +0300" stop="20260123162700 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116155300 +0300" stop="20260116155900 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
+    <length units="minutes">6</length>
   </programme>
-  <programme start="20260116165000 +0300" stop="20260123195400 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116155900 +0300" stop="20260116190300 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Hayat</title>
     <length units="minutes">184</length>
   </programme>
-  <programme start="20260116195400 +0300" stop="20260124195400 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116190300 +0300" stop="20260116191000 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Az sonra...</title>
+    <length units="minutes">7</length>
   </programme>
-  <programme start="20260116202000 +0300" stop="20260124214100 +0300" channel="BeinMoviesTurk.tr">
+  <programme start="20260116191000 +0300" stop="20260116203000 +0300" channel="BeinMoviesTurk.tr">
     <title lang="tr">Zuhal</title>
-    <length units="minutes">81</length>
+    <length units="minutes">80</length>
+  </programme>
+  <programme start="20260116203000 +0300" stop="20260116203800 +0300" channel="BeinMoviesTurk.tr">
+    <title lang="tr">Az sonra...</title>
+    <length units="minutes">8</length>
   </programme>
   <channel id="tv100.tr">
     <display-name lang="tr">tv100</display-name>
@@ -10416,46 +10546,46 @@
     <display-name lang="tr">beIN İz TV HD</display-name>
     <icon src="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-iz-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" />
   </channel>
-  <programme start="20260115000000 +0300" stop="20260115004000 +0300" channel="BeinIz.tr">
+  <programme start="20260115000000 +0300" stop="20260115004100 +0300" channel="BeinIz.tr">
     <title lang="tr">Cenk &amp; Mike S1</title>
   </programme>
-  <programme start="20260115004000 +0300" stop="20260115012500 +0300" channel="BeinIz.tr">
+  <programme start="20260115004100 +0300" stop="20260115012500 +0300" channel="BeinIz.tr">
     <title lang="tr">Erkan Can &amp; Güven Kıraç İle S2</title>
   </programme>
-  <programme start="20260115012500 +0300" stop="20260115015500 +0300" channel="BeinIz.tr">
+  <programme start="20260115012500 +0300" stop="20260115015600 +0300" channel="BeinIz.tr">
     <title lang="tr">Kalemimde Anadolu S1</title>
   </programme>
-  <programme start="20260115015500 +0300" stop="20260115023000 +0300" channel="BeinIz.tr">
+  <programme start="20260115015600 +0300" stop="20260115023100 +0300" channel="BeinIz.tr">
     <title lang="tr">Duyulan Şehirler S1</title>
   </programme>
-  <programme start="20260115023000 +0300" stop="20260115031600 +0300" channel="BeinIz.tr">
+  <programme start="20260115023100 +0300" stop="20260115031600 +0300" channel="BeinIz.tr">
     <title lang="tr">SUDAKİ İZLER</title>
   </programme>
-  <programme start="20260115031600 +0300" stop="20260115035500 +0300" channel="BeinIz.tr">
+  <programme start="20260115031600 +0300" stop="20260115035600 +0300" channel="BeinIz.tr">
     <title lang="tr">ADIM ADIM DUNYA 1.SEZON</title>
   </programme>
-  <programme start="20260115035500 +0300" stop="20260115042500 +0300" channel="BeinIz.tr">
+  <programme start="20260115035600 +0300" stop="20260115042600 +0300" channel="BeinIz.tr">
     <title lang="tr">Sıra Dışı S1</title>
   </programme>
-  <programme start="20260115042500 +0300" stop="20260115050000 +0300" channel="BeinIz.tr">
+  <programme start="20260115042600 +0300" stop="20260115050100 +0300" channel="BeinIz.tr">
     <title lang="tr">Hayat Bulan Nehirler S1 B10</title>
   </programme>
-  <programme start="20260115050000 +0300" stop="20260115053500 +0300" channel="BeinIz.tr">
+  <programme start="20260115050100 +0300" stop="20260115053500 +0300" channel="BeinIz.tr">
     <title lang="tr">KENT HIKAYELERI SEZON 1</title>
   </programme>
-  <programme start="20260115053500 +0300" stop="20260115062000 +0300" channel="BeinIz.tr">
+  <programme start="20260115053500 +0300" stop="20260115062100 +0300" channel="BeinIz.tr">
     <title lang="tr">SUDAKİ İZLER</title>
   </programme>
-  <programme start="20260115062000 +0300" stop="20260115065500 +0300" channel="BeinIz.tr">
+  <programme start="20260115062100 +0300" stop="20260115065600 +0300" channel="BeinIz.tr">
     <title lang="tr">İstanbul'un İskeleleri S1</title>
   </programme>
-  <programme start="20260115065500 +0300" stop="20260115073500 +0300" channel="BeinIz.tr">
+  <programme start="20260115065600 +0300" stop="20260115073600 +0300" channel="BeinIz.tr">
     <title lang="tr">BAHARATIN YOLCULUGU SEZON 1</title>
   </programme>
-  <programme start="20260115073500 +0300" stop="20260115082000 +0300" channel="BeinIz.tr">
+  <programme start="20260115073600 +0300" stop="20260115082100 +0300" channel="BeinIz.tr">
     <title lang="tr">Kesişen Kültürler S3</title>
   </programme>
-  <programme start="20260115082000 +0300" stop="20260115090000 +0300" channel="BeinIz.tr">
+  <programme start="20260115082100 +0300" stop="20260115090000 +0300" channel="BeinIz.tr">
     <title lang="tr">Maceraperest Fransizka S1</title>
   </programme>
   <programme start="20260115090000 +0300" stop="20260115094000 +0300" channel="BeinIz.tr">
@@ -10467,34 +10597,34 @@
   <programme start="20260115101000 +0300" stop="20260115105000 +0300" channel="BeinIz.tr">
     <title lang="tr">SIRT ÇANTAM</title>
   </programme>
-  <programme start="20260115105000 +0300" stop="20260115114000 +0300" channel="BeinIz.tr">
+  <programme start="20260115105000 +0300" stop="20260115114100 +0300" channel="BeinIz.tr">
     <title lang="tr">SUDAKİ İZLER</title>
   </programme>
-  <programme start="20260115114000 +0300" stop="20260115122500 +0300" channel="BeinIz.tr">
+  <programme start="20260115114100 +0300" stop="20260115122500 +0300" channel="BeinIz.tr">
     <title lang="tr">Erkan Can &amp; Güven Kıraç İle S2</title>
   </programme>
-  <programme start="20260115122500 +0300" stop="20260115130000 +0300" channel="BeinIz.tr">
+  <programme start="20260115122500 +0300" stop="20260115130100 +0300" channel="BeinIz.tr">
     <title lang="tr">Kalemimde Anadolu S1</title>
   </programme>
-  <programme start="20260115130000 +0300" stop="20260115134500 +0300" channel="BeinIz.tr">
+  <programme start="20260115130100 +0300" stop="20260115134600 +0300" channel="BeinIz.tr">
     <title lang="tr">Duyulan Şehirler S1</title>
   </programme>
-  <programme start="20260115134500 +0300" stop="20260115142000 +0300" channel="BeinIz.tr">
+  <programme start="20260115134600 +0300" stop="20260115142100 +0300" channel="BeinIz.tr">
     <title lang="tr">Hayat Bulan Nehirler S1 B10</title>
   </programme>
-  <programme start="20260115142000 +0300" stop="20260115150000 +0300" channel="BeinIz.tr">
+  <programme start="20260115142100 +0300" stop="20260115150000 +0300" channel="BeinIz.tr">
     <title lang="tr">Cenk &amp; Mike S1</title>
   </programme>
   <programme start="20260115150000 +0300" stop="20260115154500 +0300" channel="BeinIz.tr">
     <title lang="tr">İmza Peyzajım S1</title>
   </programme>
-  <programme start="20260115154500 +0300" stop="20260115162000 +0300" channel="BeinIz.tr">
+  <programme start="20260115154500 +0300" stop="20260115162100 +0300" channel="BeinIz.tr">
     <title lang="tr">Derin Mavi S2</title>
   </programme>
-  <programme start="20260115162000 +0300" stop="20260115165500 +0300" channel="BeinIz.tr">
+  <programme start="20260115162100 +0300" stop="20260115165600 +0300" channel="BeinIz.tr">
     <title lang="tr">Coğrafi İşaretler S1</title>
   </programme>
-  <programme start="20260115165500 +0300" stop="20260115174000 +0300" channel="BeinIz.tr">
+  <programme start="20260115165600 +0300" stop="20260115174000 +0300" channel="BeinIz.tr">
     <title lang="tr">Gerçek Tarihin İzinde S3</title>
   </programme>
   <programme start="20260115174000 +0300" stop="20260115181500 +0300" channel="BeinIz.tr">
@@ -14108,7 +14238,11 @@
     <display-name lang="tr">MovieSmart Classic</display-name>
     <icon src="https://www.dsmart.com.tr/epg/images/0x60/59f97297cfef0b75f4723f91" />
   </channel>
-  <programme start="20260115002000 +0300" stop="20260115021000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115001000 +0300" stop="20260115005500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
+    <desc lang="tr">Ünlülerle ses getiren söyleşilere imza atan Hakan Gence'nin bu bölümde konuğu Ali Atay.</desc>
+  </programme>
+  <programme start="20260115005500 +0300" stop="20260115023500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Yangın Var</title>
     <desc lang="tr">Kadırgalı tulumbacı Murat, bir konağa yangın söndürmeye gider. Konağın sahibinin kızı Müjgân, Murat’a âşık olur. Müjgân’ın kardeşi Nihat ise Murat’ın yanında tulumbacı olmaya heves eder. Müjgân ve Murat bu vesileyle yeniden karşılaşırlar. Müjgân, Murat’a aşkını itiraf eder. Ancak Murat, Hilmi Paşa’ya ailesinin şerefini koruyacağına dair söz verdiği için, Müjgân’ın aşkını reddetmek zorunda kalır.</desc>
     <credits>
@@ -14121,7 +14255,7 @@
     <date>1960</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260115021000 +0300" stop="20260115041000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115023500 +0300" stop="20260115040000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Postacı</title>
     <desc lang="tr">Sevtap, aynı mahallede oturan posta dağıtıcısı Adem'i beğenir. Birbirlerini severler. Bu arada tatilini geçirmek üzere Türkiye'ye gelen Sevtap'ın ağabeyi, bu ilişkiye şiddetle karşı çıkar. Ama Sevtap, Adem'den vazgeçmeye niyetli değildir.</desc>
     <credits>
@@ -14135,7 +14269,7 @@
     <date>1984</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260115041000 +0300" stop="20260115053000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115040000 +0300" stop="20260115052000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Öksüz</title>
     <desc lang="tr">Ali ile Kezban mutlu bir hayat sürerken bir sabah Kezban hastalanır. Doktora gitmek için nehrin üstündeki telden geçmeleri gerekmektedir. Kezban tellerden geçerken nehre düşer ve ayağını sakatlar. Ali de eşini tedavi ettirmek için sırtında taşıyarak İstanbul’a getirir. Ancak Kezban ve Ali'nin hayatları yabancısı oldukları şehirde değişecektir.</desc>
     <credits>
@@ -14150,7 +14284,7 @@
     <date>1968</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260115053000 +0300" stop="20260115070000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115052000 +0300" stop="20260115064300 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Şeytan Kayaları</title>
     <desc lang="tr">Ali bir sabah balığa çıktığında, iki ülkenin tam ortasında kalan Şeytan Kayaları’nda birilerini fark eder. Bunlar, fırtınada tekneleri parçalanmış karşı ülkeden bir ailedir. Ali, onları teknesine alıp köylerine götürür. Adı Tina olan kıza âşık olur. Fakat yılların düşmanlığı bu aşka engeldir. Mesele sadece iki köy arasında değil, iki devlet arasında uluslararası bir sorun haline gelir. Ancak âşıklar sözlerinden dönmemeye kararlıdır.</desc>
     <credits>
@@ -14163,7 +14297,14 @@
     <date>1970</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260115070000 +0300" stop="20260115090000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115064300 +0300" stop="20260115072500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
+    <desc lang="tr">Ünlülerle ses getiren söyleşilere imza atan Hakan Gence'nin bu bölümde konuğu Deniz Baysal Yurtçu.</desc>
+  </programme>
+  <programme start="20260115072500 +0300" stop="20260115073000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260115073000 +0300" stop="20260115084800 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Kartalların Öcü</title>
     <desc lang="tr">Kıbrıs'ta çarpışan gönüllü askerlerin kahramanlıklarını dile getiren bir film.</desc>
     <credits>
@@ -14178,7 +14319,10 @@
     <category lang="tr">Dram</category>
     <category lang="tr">Savaş</category>
   </programme>
-  <programme start="20260115090000 +0300" stop="20260115101000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115084800 +0300" stop="20260115085500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260115085500 +0300" stop="20260115100000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Kadınlar Hayır Derse</title>
     <desc lang="tr">Hülya, İstanbul’a çalışmak ve uygun birini bulursa evlenmek niyetiyle gelir. İlk girdiği işte patronunun tacizine uğrar ve kovulur. Daha sonra arkadaşlarının çalıştığı şirkette işe başlar. Şirketin sahipleri Murat ve Ali kardeştir. Şirketin önemli müşterileri, Ali’nin hovardalıklarını engellemesi için Murat’a telkinde bulunurlar. Hülya bu konuşmalara duyar ve Ali’yle evlenmek istediğini Murat'a söyler. Sıra Ali’yi etkilemeye gelmiştir.</desc>
     <credits>
@@ -14192,7 +14336,10 @@
     </credits>
     <date>1975</date>
   </programme>
-  <programme start="20260115101000 +0300" stop="20260115115000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115100000 +0300" stop="20260115101000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260115101000 +0300" stop="20260115113800 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Sevgiler Çiçek Gibi</title>
     <desc lang="tr">Yıllar önce anne ve babasını trafik kazasında kaybeden Ferdi, zihinsel engelli kardeşi Oya’ yı tedavi ettirmek için İstanbul’ a gelir. Tedavi sürecinde bir gazinoda şarkıcılık yapmaya başlar. İşe gittiği zamanlarda kardeşi evde yalnız kalır. Bir gün eve döndüğünde kardeşini bulamaz. Kaybolduğunu düşünerek polise başvurur. Bir süre sonra kardeşinin öldürüldüğü haberini alır. Ferdi, kardeşinin katillerinden intikam almaya çalışacaktır.</desc>
     <credits>
@@ -14205,7 +14352,10 @@
     <date>1988</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260115115000 +0300" stop="20260115132000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115113800 +0300" stop="20260115114500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260115114500 +0300" stop="20260115131000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Postacı</title>
     <desc lang="tr">Sevtap, aynı mahallede oturan posta dağıtıcısı Adem'i beğenir. Birbirlerini severler. Bu arada tatilini geçirmek üzere Türkiye'ye gelen Sevtap'ın ağabeyi, bu ilişkiye şiddetle karşı çıkar. Ama Sevtap, Adem'den vazgeçmeye niyetli değildir.</desc>
     <credits>
@@ -14219,7 +14369,10 @@
     <date>1984</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260115132000 +0300" stop="20260115151000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115131000 +0300" stop="20260115132000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260115132000 +0300" stop="20260115150200 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Ağaçlar Ayakta Ölür</title>
     <desc lang="tr">Asım Bey, torunu Orhan'ı evden kovar. Bunun üzerine Orhan, Amerika'ya yerleşir. Asım Bey'in karısı Orhan'ın gidişine çok üzülür. Torunun yokluğunda kalbi iyice güçsüz düşer. Asım Bey, karısının iyileşmesi için Orhan'dan geliyormuş gibi mektuplar yazar. Torunundan mektuplar geldiğini gören karısı, hayata yeniden tutunmaya başlar. Bir gün Orhan'dan Amerika'dan döneceğini bildiren gerçek bir telgraf gelir ve işler değişir.</desc>
     <credits>
@@ -14234,7 +14387,10 @@
     <date>1964</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260115151000 +0300" stop="20260115165000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115150200 +0300" stop="20260115151000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260115151000 +0300" stop="20260115163500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Ölü Bir Deniz</title>
     <desc lang="tr">Yüksel, mutluluğu kocasının yakın bir arkadaşıyla yaşadığı yasak ilişkide arar. Fakat mutlu değildir. Tüm sıkıntılarından uzaklaşmak için, kıyı kasabasına tatile gider. Burada emekli biyoloji öğretmeni Adnan ile tanışır. Adnan, şehri bırakıp kasabada yaşamak için bir ev aramaktadır. Mutluluk arayışları ve yalnızlıkları Yüksel ile Adnan'ı yakınlaştırır. Birlikte romantik bir ilişki yaşamaya başlarlar. Ancak, sorunlar peşlerini bırakmayacaktır.</desc>
     <credits>
@@ -14249,7 +14405,10 @@
     <date>1989</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260115165000 +0300" stop="20260115182000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115163500 +0300" stop="20260115164500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260115164500 +0300" stop="20260115180300 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Evet mi Hayır mı ?</title>
     <desc lang="tr">Erol’un kardeşi Orhan, düşmanları Necmi ve Recep ile kavga eder. Kavga edenlerin hepsi nezarete atılır. Ancak tarafların birbirlerine düşmanlıkları nezaretten çıktıktan sonra da devam eder. Erol, peşinde koştuğu kadınlardan birinin evinde Nevin ile karşılaşır. Nevin, evlerde dikiş ve gündelikçilik yaparak hayatını kazanmaktadır. Erol ile Nevin birbirlerine âşık olurlar ve evlenmek isterler. Ancak ikisinin de bilmediği bir şey vardır.</desc>
     <credits>
@@ -14262,7 +14421,10 @@
     <date>1974</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260115182000 +0300" stop="20260115195000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115180300 +0300" stop="20260115181000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260115181000 +0300" stop="20260115193000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Gülizar</title>
     <desc lang="tr">Fuat arabasına binen genç ve güzel bir hırsızı saklamak zorunda kalır. Ona acıyan genç adam Huriye'yi evine götürür. Ancak başına ne büyük bela aldığını kısa sürede anlar. Fuat, Huriye'nin bir hanımefendi olacağına inanır. Ancak yıllardır kendisini yetiştiren ve kullanan hırsız arkadaşları tarafından yolu gözlenen Huriye onlara geri döner. Ve kendisine yardım eli uzatan Fuat'ın evini soymaları için ekibine gerekli bilgileri verir.</desc>
     <credits>
@@ -14275,7 +14437,14 @@
     <date>1972</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260115195000 +0300" stop="20260115213000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115193000 +0300" stop="20260115194500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
+    <desc lang="tr">Ünlülerle ses getiren söyleşilere imza atan Hakan Gence'nin bu bölümde konuğu Feyyaz Şerifoğlu.</desc>
+  </programme>
+  <programme start="20260115194500 +0300" stop="20260115195000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260115195000 +0300" stop="20260115212500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Deli Deli Küpeli</title>
     <desc lang="tr">Kışın hüküm sürdüğü ve karın yolları kapadığı bir kasabaya beklenen kaymakam ve savcı sonunda ulaşmayı başarırlar. Hemen icraata başlayan kaymakam kasabadaki üçkağıtçılara ve bozuk düzene karşı büyük bir mücadele başlatır. Kısa zamanda halkın sevgilisi olan bu çılgın kaymakamın aslında bir sırrı vardır, kasabaya savcı yaptığı arkadaşı gibi oda tımarhaneden kaçmış bir delidir.</desc>
     <credits>
@@ -14289,7 +14458,10 @@
     <date>1986</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260115213000 +0300" stop="20260115231000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115212500 +0300" stop="20260115213000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260115213000 +0300" stop="20260115230300 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Çember</title>
     <desc lang="tr">Uyşuturucu çetelerine karşı mücadele veren, gözü kara iki polisin macerası.</desc>
     <credits>
@@ -14309,7 +14481,10 @@
     <category lang="tr">Macera</category>
     <category lang="tr">Polisiye</category>
   </programme>
-  <programme start="20260115231000 +0300" stop="20260116005000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260115230300 +0300" stop="20260115231000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260115231000 +0300" stop="20260116003500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Yalnızım</title>
     <desc lang="tr">Ferhat, Zahide’ye olan aşkını bir türlü itiraf edemez. Çevrelerindeki herkes, Ferhat’la Zahide’nin evlenmesini beklemektedir. Bu sırada Ferhat ve Zahide halk dansları topluluğuna yazılır. Burada tanıştıkları Metin adında bir genç Zahide’ye ilgi duyar. Zahide’de yaşadığı gecekondu mahallesinden kurtularak ışıltılı bir hayata kavuşmayı hayal etmektedir. Ferhat ise bu yakınlaşmayı uzaktan izlemekle yetinir.</desc>
     <credits>
@@ -14322,7 +14497,7 @@
     <date>1985</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260116005000 +0300" stop="20260116021000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260116003500 +0300" stop="20260116015500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Kartalların Öcü</title>
     <desc lang="tr">Kıbrıs'ta çarpışan gönüllü askerlerin kahramanlıklarını dile getiren bir film.</desc>
     <credits>
@@ -14337,7 +14512,7 @@
     <category lang="tr">Dram</category>
     <category lang="tr">Savaş</category>
   </programme>
-  <programme start="20260116021000 +0300" stop="20260116033000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260116015500 +0300" stop="20260116031000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Boş Beşik</title>
     <desc lang="tr">Yörük Beyi Ali, göç ederken bir köyde gördüğü Fatma’ya âşık olur. Ali’nin annesi de Fatma’yı babasından ister. Ne var ki Fatma’nın babası kızını göçebelere vermek istemez. Bu yüzden Ali, Fatma’yı kaçırır. Düğünden sonra beyin soyunun devam etmesi için herkes Fatma’nın bir erkek çocuk doğurmasını bekler. Ancak yıllar geçmesine rağmen Fatma bir türlü gebe kalmaz. Bu yüzden oba büyükleri Ali’yi yeniden evlendirmeye çalışacaktır.</desc>
     <credits>
@@ -14352,7 +14527,7 @@
     <date>1969</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260116033000 +0300" stop="20260116052000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260116031000 +0300" stop="20260116045000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Ağaçlar Ayakta Ölür</title>
     <desc lang="tr">Asım Bey, torunu Orhan'ı evden kovar. Bunun üzerine Orhan, Amerika'ya yerleşir. Asım Bey'in karısı Orhan'ın gidişine çok üzülür. Torunun yokluğunda kalbi iyice güçsüz düşer. Asım Bey, karısının iyileşmesi için Orhan'dan geliyormuş gibi mektuplar yazar. Torunundan mektuplar geldiğini gören karısı, hayata yeniden tutunmaya başlar. Bir gün Orhan'dan Amerika'dan döneceğini bildiren gerçek bir telgraf gelir ve işler değişir.</desc>
     <credits>
@@ -14367,7 +14542,11 @@
     <date>1964</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260116052000 +0300" stop="20260116070000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260116045000 +0300" stop="20260116052500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
+    <desc lang="tr">Ünlülerle ses getiren söyleşilere imza atan Hakan Gence'nin bu bölümde konuğu Nefise Karatay.</desc>
+  </programme>
+  <programme start="20260116052500 +0300" stop="20260116070000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Menekşe Gözler</title>
     <desc lang="tr">Aynı gazinoda, birlikte çalıştıkları dansöze aşık olan iki arkadaşın öyküsü.</desc>
     <credits>
@@ -14716,6 +14895,178 @@
       <actor>Ayhan Sicimoğlu</actor>
     </credits>
     <date>2022</date>
+  </programme>
+  <programme start="20260115235000 +0300" stop="20260116020000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Yalancı Şahit</title>
+    <desc lang="tr">Yalancı şahitlik yapan Ali Cengiz Dönmez, hayatının en zorlu davası ile karşı karşıyadır. Zor bir seçimle karşı karşıya olan Ali Cengiz Dönmez, ya hayatının aşkını ya da bir mafyayı seçmek zorundadır. Ali Cengiz Dönmez bu süreçte kendisini türlü maceraların içinde bulur.</desc>
+    <credits>
+      <director>Bilal Kalyoncu</director>
+      <actor>İnan Ulaş Torun</actor>
+      <actor>Algı Eke</actor>
+      <actor>Onur Sermik</actor>
+      <actor>Ruhsar Gültekin</actor>
+      <actor>Deniz Oral</actor>
+      <actor>Halil Söyletmez</actor>
+      <actor>Faruk Sofuoğlu</actor>
+      <actor>Zafer Altun</actor>
+    </credits>
+    <date>2022</date>
+  </programme>
+  <programme start="20260116020000 +0300" stop="20260116032000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Futboliye</title>
+    <desc lang="tr">Film, yıllardır sahaya çıkma hayali kuran futbol heveslisi Hüsnü’nün hikâyesini anlatır.</desc>
+    <credits>
+      <director>Osman Fahir Seden</director>
+      <actor>Ali Şen</actor>
+      <actor>Aydemir Akbaş</actor>
+      <actor>Bahar Özcan</actor>
+    </credits>
+    <date>1983</date>
+    <category lang="tr">Komedi</category>
+  </programme>
+  <programme start="20260116032000 +0300" stop="20260116052000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Son Umut</title>
+    <desc lang="tr">Avusturalyalı bir çiftçi olan Connor, 1919 yılında Çanakkale Savaşı'nın ardından Türkiye'ye gelir. Gelibolu'da savaşta kaybolan üç çocuğunu bulmak için arayışa koyulur. Savaşa gönderdiği üç oğlunun kaderini öğrenmek üzere İstanbul'a gelen Avustralyalı çiftçi Connor, kaldığı otelin güzel sahibesi Ayşe ile bir yakınlık kurar. Türlü zorluklarla karşılaşmasına rağmen umudunu yitirmeyen Connor, Çanakkale'ye vardığında arayışında kendisine yardım edecek olan Türk Subayları Hasan ve Cemal ile tanışacaktır. Büyük kayıplara uğramış iki tarafı temsil eden bu üçlü, ülkeyi boydan boya geçecek ve Connor'ın oğullarının kaderini ortaya çıkartacaktır.</desc>
+    <credits>
+      <director>Russell Crowe</director>
+      <actor>Russell Crowe</actor>
+      <actor>Cem Yılmaz</actor>
+      <actor>Yılmaz Erdoğan</actor>
+      <actor>Olga Kurylenko</actor>
+      <actor>Jai Courtney</actor>
+      <actor>Isabel Lucas</actor>
+      <actor>Canan Ergüder</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="tr">Dram</category>
+    <category lang="tr">Savaş</category>
+  </programme>
+  <programme start="20260116052000 +0300" stop="20260116070000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Dursun Çavuş</title>
+    <desc lang="tr">Film, 1976 yılı seçimlerinde Adıyaman Belediye Başkanlığına aday olan ve seçim çalışmalarına rağmen sadece 3 oy alan, yörenin çok sevilen insanı Postacı Dursun Çavuş’u konu alıyor. Postacı Dursun Çavuş seçim meydanlarında deve sırtında gezerek birçok vaatlerde bulunuyor ve hatta Adıyaman’a deniz bile getireceğini de söylemeyi ihmal etmiyor.</desc>
+    <credits>
+      <director>Ali Engin</director>
+      <actor>Turan Özdemir</actor>
+      <actor>Perihan Savaş</actor>
+      <actor>Selahattin Taşdöğen</actor>
+      <actor>Umut Oğuz</actor>
+      <actor>Mahmut Hekimoğlu</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="tr">Komedi</category>
+  </programme>
+  <programme start="20260116070000 +0300" stop="20260116083000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Polizei</title>
+  </programme>
+  <programme start="20260116083000 +0300" stop="20260116104000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Nadide Hayat</title>
+    <desc lang="tr">Nadide, evlilik hayatını, üniversite eğitimi ve iş yaşamına tercih ederek 50 yaşına gelmiştir. Eşini kaybettiğinde, kendisini haftada bir gün ziyarete gelen kızı ve torunu ile, iş hayatına yeni başlamış, eve neredeyse gelmeyen oğlunu beklerken bulur. Yalnız ve orta yaşlılar için öngörülen dikiş kursundan, koroya; gezilerden, kabul günlerine hiçbir aktivitede aradığı mutluluğu bulamaz. Ta ki, bir gün gazetede bir haber görene dek. Nadide, bu haberin ardından kendini önce okul sıralarında, sonra da mavi sulara atladığı bir macerada bulur. Bir grup genç ve gizemli bir kaptan ile yeni bir başlangıca yelken açar.</desc>
+    <credits>
+      <director>Çağan Irmak</director>
+      <actor>: Demet Akbağ</actor>
+      <actor>Yetkin Dikinciler</actor>
+      <actor>Sevil Akı</actor>
+      <actor>Batuhan Begimgil</actor>
+      <actor>Çisem Çancı</actor>
+      <actor>Efecan Şenolsun</actor>
+      <actor>Irmak Örnek</actor>
+      <actor>Ümit Erlim</actor>
+      <actor>Sadi Celil Cengiz</actor>
+      <actor>Gizem Erdem</actor>
+      <actor>Burak Can</actor>
+      <actor>Ali Karagöz</actor>
+      <actor>Doruk Kayra Sevir</actor>
+      <actor>Tarık Tarcan</actor>
+    </credits>
+    <date>2015</date>
+  </programme>
+  <programme start="20260116104000 +0300" stop="20260116123000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Yalancı Şahit</title>
+    <desc lang="tr">Yalancı şahitlik yapan Ali Cengiz Dönmez, hayatının en zorlu davası ile karşı karşıyadır. Zor bir seçimle karşı karşıya olan Ali Cengiz Dönmez, ya hayatının aşkını ya da bir mafyayı seçmek zorundadır. Ali Cengiz Dönmez bu süreçte kendisini türlü maceraların içinde bulur.</desc>
+    <credits>
+      <director>Bilal Kalyoncu</director>
+      <actor>İnan Ulaş Torun</actor>
+      <actor>Algı Eke</actor>
+      <actor>Onur Sermik</actor>
+      <actor>Ruhsar Gültekin</actor>
+      <actor>Deniz Oral</actor>
+      <actor>Halil Söyletmez</actor>
+      <actor>Faruk Sofuoğlu</actor>
+      <actor>Zafer Altun</actor>
+    </credits>
+    <date>2022</date>
+  </programme>
+  <programme start="20260116123000 +0300" stop="20260116141000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Katakulli: Tuzak</title>
+    <desc lang="tr">Kemal ve İsabel evlenirler. Artık içinde hırsızlık olmayan mütevazı bir hayat yaşayacaklardır ama huylu huyundan vazgeçmez. Mr. And Mrs. Smith benzeri, birbirlerinden saklayarak hırsızlık yapmaktadırlar. Ancak, aynı eve girerler ve aralarındaki yalan ortaya çıkar. Her ikisi de yemin ederler bir daha hırsızlık yapmayacaklarına ki, Rocco karşılarına çıkar. Hala ona bir borçları vardır ve bu borcu ya hayatlarıyla ödeyecekler ya da Rocco için bir iş yapacaklardır. Ne İsabel ne de Kemal itiraz edemezler. Kaldı ki Rocco’nun çalmasını istedikleri şey karısının kendisinden kaçırdığı oğludur. Çocuğu almak hiç sorun olmaz, zaten kendi de isteklidir babasına gitmeye… Kemal de İsabel de keyiflidir; kolay olmuştur çocuğu babası Rocco’ya teslim edecekler ve iş bitecektir. Ancak asıl sorun bu çocukla beraber yapacakları yolculuktur.</desc>
+    <credits>
+      <director>Metin Balekoğlu</director>
+      <actor>Yağızcan Konyalı</actor>
+      <actor>Jessica May</actor>
+      <actor>Serra Pirinç</actor>
+      <actor>Süeda Çil</actor>
+      <actor>Somer Karvan</actor>
+      <actor>Emrecan Kurum</actor>
+      <actor>Ayhan Sicimoğlu</actor>
+    </credits>
+    <date>2022</date>
+  </programme>
+  <programme start="20260116141000 +0300" stop="20260116154000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Tokatçı</title>
+    <desc lang="tr">Film, Emine ile evlenmek için başlık parası biriktirmeye İstanbul’a giden Osman’ın başına gelenleri anlatır.</desc>
+    <credits>
+      <director>Natuk Baytan</director>
+      <actor>Kemal Sunal</actor>
+      <actor>Nazan Saatçi</actor>
+      <actor>Şevket Altuğ</actor>
+    </credits>
+    <date>1983</date>
+    <category lang="tr">Komedi</category>
+  </programme>
+  <programme start="20260116154000 +0300" stop="20260116174000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Aşk Geliyorum Demez</title>
+    <desc lang="tr">Aşk Geliyorum Demez” filmi, Mahmutpaşa'da bir han esnafının hikayesini anlatır.. Müteahhit, esnafın çalıştığı hanı satın alır ve orayı yıkıp alışveriş merkezi yapmaya karar verir. Han esnafının bir an önce hanı boşaltmasını isteyince esnaf birleşerek birplan yapar.</desc>
+    <credits>
+      <director>Murat Şeker</director>
+      <actor>Sarp Apak</actor>
+      <actor>Altan Erkekli</actor>
+      <actor>Tolgahan Sayışman</actor>
+      <actor>Zeki Alasya</actor>
+      <actor>Bergüzar Gökçe Korel</actor>
+    </credits>
+    <category lang="tr">Komedi</category>
+    <category lang="tr">Romantik</category>
+  </programme>
+  <programme start="20260116174000 +0300" stop="20260116200000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Hayatla Barış</title>
+    <desc lang="tr">Hayatla Barış, küçükken geçirdiği kaza nedeniyle engelle olmasına rağmen bu durumun hayatını engellemesine izin vermeyen Barış Telli’nin hayatına odaklanıyor. Geçirdiği kaza sonucu sağ bacağını kaybeden Barış Telli, yıllar içinden tenisten atletizme, sporun birçok alanında Türkiye rekoru kırdı. Ampute Futbol Milli Takımı’nda sayısız şampiyonluklar, gol krallıkları kazanan Barış Telli, zamanla “Ampute Messi” olarak anılmaya başladı.</desc>
+    <credits>
+      <director>Ekin Pandır</director>
+      <actor>Taner Ölmez</actor>
+      <actor>Nazan Kesal</actor>
+      <actor>Gürkan Uygun</actor>
+      <actor>Bülent İnal</actor>
+      <actor>Biran Damla Yılmaz</actor>
+      <actor>Sinan Tuzcu</actor>
+      <actor>Arben Akış</actor>
+      <actor>Erkan Üçüncü</actor>
+    </credits>
+    <date>2024</date>
+  </programme>
+  <programme start="20260116200000 +0300" stop="20260116215000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Deli Aşk</title>
+    <desc lang="tr">Adana’da Maraş dondurması satmakta olan Ekrem, 8 yıldır birlikte olduğu Neşe’ye Dünya’nın En Büyük Maraş Dondurması’nı yaparak evlenme teklif eder. Bu romantik teklife Neşe’nin cevabı ¨Hayır¨ olacaktır. Ancak Ekrem pes etmez. Neşe’nin onu suçladığı tembellik, düşüncesizlik ve bencillik gibi özelliklerini değiştirmek için elinden geleni yapmaya başlar. Neşe’yi kazanması kolay olmayacaktır, çünkü Neşe’nin artık yeni bir sevgilisi vardır: İncirlik Üssü’nde çalışmakta olan bir F-16 pilotu, Jeremy Jackson. Bu süreçte Ekrem’ in karşısına Zeynep çıkar.</desc>
+    <credits>
+      <director>Murat Dündar</director>
+      <director>Murat Emre Kaman</director>
+      <actor>Emrah Kaman</actor>
+      <actor>Pelin Akil</actor>
+      <actor>Toygan Avanoğlu</actor>
+      <actor>Şafak Pekdemir</actor>
+      <actor>Nilperi Şahinkaya</actor>
+      <actor>Zafer Algöz</actor>
+    </credits>
+    <date>2017</date>
   </programme>
   <channel id="DiziSmartPremium.tr">
     <display-name lang="tr">Dizi Smart Premium</display-name>
@@ -15099,12 +15450,12 @@
   </programme>
   <programme start="20260116000000 +0300" stop="20260116004100 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Dönence</title>
-    <sub-title lang="tr">2023 Dönence 27.Bölüm, Tür Drama – Romantik</sub-title>
-    <desc lang="tr">Harun planlarına bir yenisini daha ekleyerek aileyi en can alıcı yerlerinden vurur; Gülce sosyal hizmetler tarafından götürülmenin eşiğine gelir. Miro, özgür kalmanın bedelini öder. Gece, en zor zamanlarında yanında olan Özgür’e sığınır. Bu arada Miro ve Ceren arasında kriz yaşanır.</desc>
+    <sub-title lang="tr">2023 Dönence 28.Bölüm, Tür Drama – Romantik</sub-title>
+    <desc lang="tr">Sosyal hizmetler tarafından Gülce’nin durumu araştırılır. Özgür'ün, Gece hakkında gerçekleri ortaya çıkarmak adına asıl videoyu ele geçirmesi derin bir nefes aldırır.</desc>
     <date>2023</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">.26.</episode-num>
+    <episode-num system="xmltv_ns">.27.</episode-num>
   </programme>
   <programme start="20260116004100 +0300" stop="20260116010000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15115,11 +15466,11 @@
   </programme>
   <programme start="20260116010000 +0300" stop="20260116014100 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Alarm für Cobra</title>
-    <sub-title lang="tr">Hoffnung: Part 2</sub-title>
-    <desc lang="tr">Semir ve Vicky benzin istasyonundaki kaçırılma olayının arka planındaki asıl suçlunun kim olduğunu araştırır. Bu arada kendisinden şüphenilen benzin istasyonu çalışanı da masum olduğunu kanıtlamaya çalışır.</desc>
+    <sub-title lang="tr">Blutsbande: Part 1</sub-title>
+    <desc lang="tr">Bir dinlenme tesisinde yaşanan silahlı saldırıda Vicky’nin babası vurulur. Bu olay Vicky’nin babası ile olan ilişkisini sorgulamasına neden olur.</desc>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">27.1.</episode-num>
+    <episode-num system="xmltv_ns">27.2.</episode-num>
   </programme>
   <programme start="20260116014100 +0300" stop="20260116020000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15130,11 +15481,11 @@
   </programme>
   <programme start="20260116020000 +0300" stop="20260116023800 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Defiance</title>
-    <desc lang="tr">Kasabayı ölümcül bir salgın kasıp kavuruyor; karantina sonrasında gerilim tırmanıyor.</desc>
+    <desc lang="tr">Yaklaşık altı yıl önce kaybolan tanınmış bir iş adamının kalıntıları bulunur.</desc>
     <date>2013</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
   </programme>
   <programme start="20260116023800 +0300" stop="20260116030000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15145,12 +15496,12 @@
   </programme>
   <programme start="20260116030000 +0300" stop="20260116033900 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">12 Monkeys</title>
-    <sub-title lang="tr">Thief</sub-title>
-    <desc lang="tr">Tanık'ın zamanı ve gerçekliği yok etmek istemesinin nedeni ortaya çıkar.</desc>
+    <sub-title lang="tr">Splinter</sub-title>
+    <desc lang="tr">Kıyamet sonrası bir gelecekten 2043 yılından günümüz dünyasına gelen, bir zaman yolcusu olan James Cole İnsan ırkının sonunu getirecek bir salgını durdurmak için mücadele eder.</desc>
     <date>2015</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
   <programme start="20260116033900 +0300" stop="20260116040000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15161,12 +15512,12 @@
   </programme>
   <programme start="20260116040000 +0300" stop="20260116044700 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">12 Monkeys</title>
-    <sub-title lang="tr">Witness</sub-title>
-    <desc lang="tr">Cole ve Railly, Athan'ı kendi kaderini seçebileceğine ikna etmeye çalışırlar. Bu arada Tanık’la yapılacak son savaş başlar.</desc>
+    <sub-title lang="tr">Mentally Divergent</sub-title>
+    <desc lang="tr">Zaman yolcusu James Cole, 12 Monkeys Ordusu olarak bilinen gizemli bir örgüt hakkında araştırma yaparken kendisini 2015 yılında bir akıl hastanesinde bulur.</desc>
     <date>2015</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
   <programme start="20260116044700 +0300" stop="20260116050000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15177,12 +15528,12 @@
   </programme>
   <programme start="20260116050000 +0300" stop="20260116055500 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">O Kız</title>
-    <sub-title lang="tr">2023 O Kız 33.Bölüm, Tür Drama</sub-title>
-    <desc lang="tr">Nimet ve Kadir aralarındaki sırrı kimseye söylemeden birlikte vakit geçirirler. İpek, hamile olduğunu öğrenir. Doruk, babasının bakıcısından Sitare ile ilgili bir gerçeği öğrenir.</desc>
+    <sub-title lang="tr">2023 O Kız 34.Bölüm, Tür Drama</sub-title>
+    <desc lang="tr">Salih, Fevzi ve İpek yüzleşir. İpek, Salih’e hamile olduğunu söyler. Doruk, Ozan ve Zeynep’le bir organizasyon düzenler.</desc>
     <date>2022</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">.32.</episode-num>
+    <episode-num system="xmltv_ns">.33.</episode-num>
   </programme>
   <programme start="20260116055500 +0300" stop="20260116060000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15193,12 +15544,12 @@
   </programme>
   <programme start="20260116060000 +0300" stop="20260116062300 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Dönence</title>
-    <sub-title lang="tr">2023 Dönence 27.Bölüm, Tür Drama – Romantik</sub-title>
-    <desc lang="tr">Harun planlarına bir yenisini daha ekleyerek aileyi en can alıcı yerlerinden vurur; Gülce sosyal hizmetler tarafından götürülmenin eşiğine gelir. Miro, özgür kalmanın bedelini öder. Gece, en zor zamanlarında yanında olan Özgür’e sığınır. Bu arada Miro ve Ceren arasında kriz yaşanır.</desc>
+    <sub-title lang="tr">2023 Dönence 28.Bölüm, Tür Drama – Romantik</sub-title>
+    <desc lang="tr">Sosyal hizmetler tarafından Gülce’nin durumu araştırılır. Özgür'ün, Gece hakkında gerçekleri ortaya çıkarmak adına asıl videoyu ele geçirmesi derin bir nefes aldırır.</desc>
     <date>2023</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">.26.</episode-num>
+    <episode-num system="xmltv_ns">.27.</episode-num>
   </programme>
   <programme start="20260116062300 +0300" stop="20260116070000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15209,11 +15560,11 @@
   </programme>
   <programme start="20260116070000 +0300" stop="20260116074100 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Alarm für Cobra</title>
-    <sub-title lang="tr">Hoffnung: Part 2</sub-title>
-    <desc lang="tr">Semir ve Vicky benzin istasyonundaki kaçırılma olayının arka planındaki asıl suçlunun kim olduğunu araştırır. Bu arada kendisinden şüphenilen benzin istasyonu çalışanı da masum olduğunu kanıtlamaya çalışır.</desc>
+    <sub-title lang="tr">Blutsbande: Part 1</sub-title>
+    <desc lang="tr">Bir dinlenme tesisinde yaşanan silahlı saldırıda Vicky’nin babası vurulur. Bu olay Vicky’nin babası ile olan ilişkisini sorgulamasına neden olur.</desc>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">27.1.</episode-num>
+    <episode-num system="xmltv_ns">27.2.</episode-num>
   </programme>
   <programme start="20260116074100 +0300" stop="20260116080000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15224,11 +15575,11 @@
   </programme>
   <programme start="20260116080000 +0300" stop="20260116084000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Defiance</title>
-    <desc lang="tr">Kasabayı ölümcül bir salgın kasıp kavuruyor; karantina sonrasında gerilim tırmanıyor.</desc>
+    <desc lang="tr">Yaklaşık altı yıl önce kaybolan tanınmış bir iş adamının kalıntıları bulunur.</desc>
     <date>2013</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
   </programme>
   <programme start="20260116084000 +0300" stop="20260116090000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15239,12 +15590,12 @@
   </programme>
   <programme start="20260116090000 +0300" stop="20260116094800 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">12 Monkeys</title>
-    <sub-title lang="tr">Thief</sub-title>
-    <desc lang="tr">Tanık'ın zamanı ve gerçekliği yok etmek istemesinin nedeni ortaya çıkar.</desc>
+    <sub-title lang="tr">Splinter</sub-title>
+    <desc lang="tr">Kıyamet sonrası bir gelecekten 2043 yılından günümüz dünyasına gelen, bir zaman yolcusu olan James Cole İnsan ırkının sonunu getirecek bir salgını durdurmak için mücadele eder.</desc>
     <date>2015</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
   <programme start="20260116094800 +0300" stop="20260116100000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15255,12 +15606,12 @@
   </programme>
   <programme start="20260116100000 +0300" stop="20260116104600 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">12 Monkeys</title>
-    <sub-title lang="tr">Witness</sub-title>
-    <desc lang="tr">Cole ve Railly, Athan'ı kendi kaderini seçebileceğine ikna etmeye çalışırlar. Bu arada Tanık’la yapılacak son savaş başlar.</desc>
+    <sub-title lang="tr">Mentally Divergent</sub-title>
+    <desc lang="tr">Zaman yolcusu James Cole, 12 Monkeys Ordusu olarak bilinen gizemli bir örgüt hakkında araştırma yaparken kendisini 2015 yılında bir akıl hastanesinde bulur.</desc>
     <date>2015</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
   <programme start="20260116104600 +0300" stop="20260116110000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15271,12 +15622,12 @@
   </programme>
   <programme start="20260116110000 +0300" stop="20260116115400 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">O Kız</title>
-    <sub-title lang="tr">2023 O Kız 33.Bölüm, Tür Drama</sub-title>
-    <desc lang="tr">Nimet ve Kadir aralarındaki sırrı kimseye söylemeden birlikte vakit geçirirler. İpek, hamile olduğunu öğrenir. Doruk, babasının bakıcısından Sitare ile ilgili bir gerçeği öğrenir.</desc>
+    <sub-title lang="tr">2023 O Kız 34.Bölüm, Tür Drama</sub-title>
+    <desc lang="tr">Salih, Fevzi ve İpek yüzleşir. İpek, Salih’e hamile olduğunu söyler. Doruk, Ozan ve Zeynep’le bir organizasyon düzenler.</desc>
     <date>2022</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">.32.</episode-num>
+    <episode-num system="xmltv_ns">.33.</episode-num>
   </programme>
   <programme start="20260116115400 +0300" stop="20260116120000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15287,12 +15638,12 @@
   </programme>
   <programme start="20260116120000 +0300" stop="20260116124400 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Dönence</title>
-    <sub-title lang="tr">2023 Dönence 27.Bölüm, Tür Drama – Romantik</sub-title>
-    <desc lang="tr">Harun planlarına bir yenisini daha ekleyerek aileyi en can alıcı yerlerinden vurur; Gülce sosyal hizmetler tarafından götürülmenin eşiğine gelir. Miro, özgür kalmanın bedelini öder. Gece, en zor zamanlarında yanında olan Özgür’e sığınır. Bu arada Miro ve Ceren arasında kriz yaşanır.</desc>
+    <sub-title lang="tr">2023 Dönence 28.Bölüm, Tür Drama – Romantik</sub-title>
+    <desc lang="tr">Sosyal hizmetler tarafından Gülce’nin durumu araştırılır. Özgür'ün, Gece hakkında gerçekleri ortaya çıkarmak adına asıl videoyu ele geçirmesi derin bir nefes aldırır.</desc>
     <date>2023</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">.26.</episode-num>
+    <episode-num system="xmltv_ns">.27.</episode-num>
   </programme>
   <programme start="20260116124400 +0300" stop="20260116130000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15303,11 +15654,11 @@
   </programme>
   <programme start="20260116130000 +0300" stop="20260116134400 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Alarm für Cobra</title>
-    <sub-title lang="tr">Hoffnung: Part 2</sub-title>
-    <desc lang="tr">Semir ve Vicky benzin istasyonundaki kaçırılma olayının arka planındaki asıl suçlunun kim olduğunu araştırır. Bu arada kendisinden şüphenilen benzin istasyonu çalışanı da masum olduğunu kanıtlamaya çalışır.</desc>
+    <sub-title lang="tr">Blutsbande: Part 1</sub-title>
+    <desc lang="tr">Bir dinlenme tesisinde yaşanan silahlı saldırıda Vicky’nin babası vurulur. Bu olay Vicky’nin babası ile olan ilişkisini sorgulamasına neden olur.</desc>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">27.1.</episode-num>
+    <episode-num system="xmltv_ns">27.2.</episode-num>
   </programme>
   <programme start="20260116134400 +0300" stop="20260116140000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15318,11 +15669,11 @@
   </programme>
   <programme start="20260116140000 +0300" stop="20260116144200 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Defiance</title>
-    <desc lang="tr">Kasabayı ölümcül bir salgın kasıp kavuruyor; karantina sonrasında gerilim tırmanıyor.</desc>
+    <desc lang="tr">Yaklaşık altı yıl önce kaybolan tanınmış bir iş adamının kalıntıları bulunur.</desc>
     <date>2013</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
   </programme>
   <programme start="20260116144200 +0300" stop="20260116150000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15333,12 +15684,12 @@
   </programme>
   <programme start="20260116150000 +0300" stop="20260116154800 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">12 Monkeys</title>
-    <sub-title lang="tr">Thief</sub-title>
-    <desc lang="tr">Tanık'ın zamanı ve gerçekliği yok etmek istemesinin nedeni ortaya çıkar.</desc>
+    <sub-title lang="tr">Splinter</sub-title>
+    <desc lang="tr">Kıyamet sonrası bir gelecekten 2043 yılından günümüz dünyasına gelen, bir zaman yolcusu olan James Cole İnsan ırkının sonunu getirecek bir salgını durdurmak için mücadele eder.</desc>
     <date>2015</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">2.8.</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
   <programme start="20260116154800 +0300" stop="20260116160000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15349,12 +15700,12 @@
   </programme>
   <programme start="20260116160000 +0300" stop="20260116164400 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">12 Monkeys</title>
-    <sub-title lang="tr">Witness</sub-title>
-    <desc lang="tr">Cole ve Railly, Athan'ı kendi kaderini seçebileceğine ikna etmeye çalışırlar. Bu arada Tanık’la yapılacak son savaş başlar.</desc>
+    <sub-title lang="tr">Mentally Divergent</sub-title>
+    <desc lang="tr">Zaman yolcusu James Cole, 12 Monkeys Ordusu olarak bilinen gizemli bir örgüt hakkında araştırma yaparken kendisini 2015 yılında bir akıl hastanesinde bulur.</desc>
     <date>2015</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
   <programme start="20260116164400 +0300" stop="20260116170000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15365,12 +15716,12 @@
   </programme>
   <programme start="20260116170000 +0300" stop="20260116175200 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">O Kız</title>
-    <sub-title lang="tr">2023 O Kız 33.Bölüm, Tür Drama</sub-title>
-    <desc lang="tr">Nimet ve Kadir aralarındaki sırrı kimseye söylemeden birlikte vakit geçirirler. İpek, hamile olduğunu öğrenir. Doruk, babasının bakıcısından Sitare ile ilgili bir gerçeği öğrenir.</desc>
+    <sub-title lang="tr">2023 O Kız 34.Bölüm, Tür Drama</sub-title>
+    <desc lang="tr">Salih, Fevzi ve İpek yüzleşir. İpek, Salih’e hamile olduğunu söyler. Doruk, Ozan ve Zeynep’le bir organizasyon düzenler.</desc>
     <date>2022</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">.32.</episode-num>
+    <episode-num system="xmltv_ns">.33.</episode-num>
   </programme>
   <programme start="20260116175200 +0300" stop="20260116180000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15381,12 +15732,12 @@
   </programme>
   <programme start="20260116180000 +0300" stop="20260116184100 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Dönence</title>
-    <sub-title lang="tr">2023 Dönence 28.Bölüm, Tür Drama – Romantik</sub-title>
-    <desc lang="tr">Sosyal hizmetler tarafından Gülce’nin durumu araştırılır. Özgür'ün, Gece hakkında gerçekleri ortaya çıkarmak adına asıl videoyu ele geçirmesi derin bir nefes aldırır.</desc>
+    <sub-title lang="tr">2023 Dönence 29.Bölüm, Tür Drama – Romantik</sub-title>
+    <desc lang="tr">Gece, Gülce için Özgür'ün bahçesinde açık hava sinemasının keyfini yaşarken Özgür, gerçek videoyu internete yükler; ancak Miro'nun eve gizlice girip görüntünün olduğu belleği çalması tüm sevinçlerini yerle bir eder. Gülce’nin sosyal hizmetler tarafından alınabileceği gerçeğiyle kahrolan Cem ve Verda, Nurdan Hanım’dan gelecek olan haberi korku ve heyecanla beklerler, Nurdan Hanım, Gülce’nin akranlarıyla birlikte olabileceği bir liseye yazdırılması gerektiğini söyler. Bunu duyan Cem ve Verda’nın içi bir nebze rahatlarken bu sefer de kızlarının okula uyum sürecinin nasıl geçeceğinden endişe duyarlar.</desc>
     <date>2023</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">.27.</episode-num>
+    <episode-num system="xmltv_ns">.28.</episode-num>
   </programme>
   <programme start="20260116184100 +0300" stop="20260116190000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15397,8 +15748,8 @@
   </programme>
   <programme start="20260116190000 +0300" stop="20260116194700 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Alarm für Cobra</title>
-    <sub-title lang="tr">Blutsbande: Part 1</sub-title>
-    <desc lang="tr">Bir dinlenme tesisinde yaşanan silahlı saldırıda Vicky’nin babası vurulur. Bu olay Vicky’nin babası ile olan ilişkisini sorgulamasına neden olur.</desc>
+    <sub-title lang="tr">Blutsbande: Part 2</sub-title>
+    <desc lang="tr">Uğradığı silahlı saldırı sonucunda Vicky’nin babası hayatını kaybeder. Vicky’nin hatırladığı bir detay Semir ile birlikte katili bulmalarını kolaylaştırır.</desc>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
     <episode-num system="xmltv_ns">27.2.</episode-num>
@@ -15412,11 +15763,11 @@
   </programme>
   <programme start="20260116200000 +0300" stop="20260116204600 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Defiance</title>
-    <desc lang="tr">Yaklaşık altı yıl önce kaybolan tanınmış bir iş adamının kalıntıları bulunur.</desc>
+    <desc lang="tr">Nolan'ın seçim öncesinde bir kazaya karışması, Amanda'nın belediye başkanlığı kampanyasını tehlikeye sokar.</desc>
     <date>2013</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
   </programme>
   <programme start="20260116204600 +0300" stop="20260116210000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15427,12 +15778,12 @@
   </programme>
   <programme start="20260116210000 +0300" stop="20260116215200 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">12 Monkeys</title>
-    <sub-title lang="tr">Splinter</sub-title>
-    <desc lang="tr">Kıyamet sonrası bir gelecekten 2043 yılından günümüz dünyasına gelen, bir zaman yolcusu olan James Cole İnsan ırkının sonunu getirecek bir salgını durdurmak için mücadele eder.</desc>
+    <sub-title lang="tr">Cassandra Complex</sub-title>
+    <desc lang="tr">2014 yılındaki tehlikeli bir salgın Dr. Railly’nin hayatında yıkıcı bir etkiye sebep olur. Cole, bu olayın yaşandığı Haiti’ye götürülür.</desc>
     <date>2015</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
   <programme start="20260116215200 +0300" stop="20260116220000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15443,12 +15794,12 @@
   </programme>
   <programme start="20260116220000 +0300" stop="20260116224500 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">12 Monkeys</title>
-    <sub-title lang="tr">Mentally Divergent</sub-title>
-    <desc lang="tr">Zaman yolcusu James Cole, 12 Monkeys Ordusu olarak bilinen gizemli bir örgüt hakkında araştırma yaparken kendisini 2015 yılında bir akıl hastanesinde bulur.</desc>
+    <sub-title lang="tr">Atari</sub-title>
+    <desc lang="tr">Cole ve Ramse'nin peşine düşen tehlikeli bir çete, geçmişi kurtarma görevini tehdit edince gelecek için bir mücadele başlar.</desc>
     <date>2015</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
   <programme start="20260116224500 +0300" stop="20260116230000 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">Az Sonra...</title>
@@ -15460,7 +15811,7 @@
   <programme start="20260116230000 +0300" stop="20260116235500 +0300" channel="DiziSmartPremium.tr">
     <title lang="tr">O Kız</title>
     <sub-title lang="tr">2023 O Kız 34.Bölüm, Tür Drama</sub-title>
-    <desc lang="tr">Salih, Fevzi ve İpek yüzleşir. İpek, Salih’e hamile olduğunu söyler. Doruk, Ozan ve Zeynep’le bir organizasyon düzenler.</desc>
+    <desc lang="tr">Doruk, Ozan ve Zeynep arasındaki ilişkinin gerçekliğini test eder. Fevzi eve geri döner.</desc>
     <date>2022</date>
     <category lang="tr">Sinema</category>
     <category lang="tr">Dizi Filmi</category>
