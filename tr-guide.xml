@@ -226,7 +226,7 @@
     <title lang="tr">Moto GP - Moto 2</title>
     <desc lang="tr">Catalonia</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260118/87/2126193886315eb9b42e.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/17/0841125449615eb9b42e.jpg" />
   </programme>
   <programme start="20260119173000 +0300" stop="20260119180000 +0300" channel="Sspor2.tr">
     <title lang="tr">The Outdoor Sports</title>
@@ -246,15 +246,21 @@
   </programme>
   <programme start="20260119203000 +0300" stop="20260119223000 +0300" channel="Sspor2.tr">
     <title lang="tr">Cremonese - Verona</title>
-    <desc lang="tr">21. hafta maçı.</desc>
+    <desc lang="tr">Serie A 21. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260118/91/2000123741555eb88428.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/81/0841125449695eb9b42e.webp" />
   </programme>
   <programme start="20260119223000 +0300" stop="20260119224500 +0300" channel="Sspor2.tr">
     <title lang="tr">Özetler</title>
     <desc lang="tr">Maç Özeti</desc>
     <category lang="tr">Spor</category>
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260118/28/2126193906635eb9b42e.jpg" />
+  </programme>
+  <programme start="20260119224500 +0300" stop="20260120004500 +0300" channel="Sspor2.tr">
+    <title lang="tr">Lazio - Como</title>
+    <desc lang="tr">Serie A 21. Hafta Maçı</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/41/0841125449525eb9b42e.webp" />
   </programme>
   <programme start="20260120004500 +0300" stop="20260120010000 +0300" channel="Sspor2.tr">
     <title lang="tr">Özetler</title>
@@ -269,15 +275,15 @@
   </programme>
   <programme start="20260120020000 +0300" stop="20260120040000 +0300" channel="Sspor2.tr">
     <title lang="tr">Super Cars</title>
-    <desc lang="tr">17. Bölüm</desc>
+    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/77/0000193011715eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/9/0841125459765eb9b42e.jpg" />
   </programme>
   <programme start="20260120040000 +0300" stop="20260120050000 +0300" channel="Sspor2.tr">
     <title lang="tr">Moto 3</title>
     <desc lang="tr">Catalonia</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/95/0000193011765eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/62/0841125459825eb9b42e.jpg" />
   </programme>
   <programme start="20260120050000 +0300" stop="20260120060000 +0300" channel="Sspor2.tr">
     <title lang="tr">Monster Jam</title>
@@ -299,9 +305,9 @@
   </programme>
   <programme start="20260120090000 +0300" stop="20260120110000 +0300" channel="Sspor2.tr">
     <title lang="tr">Super Cars</title>
-    <desc lang="tr">18. Bölüm</desc>
+    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/24/0000193021975eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/69/0841125459885eb9b42e.jpg" />
   </programme>
   <programme start="20260120110000 +0300" stop="20260120113000 +0300" channel="Sspor2.tr">
     <title lang="tr">World Strongest Man</title>
@@ -313,7 +319,7 @@
     <title lang="tr">Asvel - Hapoel Tel Aviv</title>
     <desc lang="tr">Euroleague</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/68/0000193022105eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/60/0841125459945eb9b42e.webp" />
   </programme>
   <programme start="20260120133000 +0300" stop="20260120153000 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
@@ -322,13 +328,13 @@
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/84/0000193022165eb78424.jpg" />
   </programme>
   <programme start="20260120153000 +0300" stop="20260120173000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Moto Gp -amp; Moto 2</title>
+    <title lang="tr">Moto GP - Moto 2</title>
     <desc lang="tr">San Marino</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/20/0000193042235eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/11/0841125450015eb9b42e.jpg" />
   </programme>
   <programme start="20260120173000 +0300" stop="20260120180000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Made İn Italy</title>
+    <title lang="tr">Made In Italy</title>
     <category lang="tr">Spor</category>
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/20/0000193042285eb78424.jpg" />
   </programme>
@@ -354,7 +360,7 @@
     <title lang="tr">Panathinaikos - Baskonia</title>
     <desc lang="tr">Euroleague</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/64/0000193052575eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/14/0841125450075eb9b42e.jpg" />
   </programme>
   <programme start="20260121001500 +0300" stop="20260121003000 +0300" channel="Sspor2.tr">
     <title lang="tr">Özetler</title>
@@ -875,6 +881,149 @@
     <sub-title lang="tr">Asya Şampiyonlar Ligi 2</sub-title>
     <desc lang="tr">Asya Şampiyonlar Ligi 2</desc>
   </programme>
+  <programme start="20260119060000 +0300" stop="20260119080000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Al Ittihad - Nasaf "Tekrar"</title>
+    <sub-title lang="tr">Asya Şampiyonlar Ligi Elite</sub-title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite</desc>
+  </programme>
+  <programme start="20260119080000 +0300" stop="20260119100000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Al Shorta - Al Ahli "Tekrar"</title>
+    <sub-title lang="tr">Asya Şampiyonlar Ligi Elite</sub-title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite</desc>
+  </programme>
+  <programme start="20260119100000 +0300" stop="20260119120000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Al Sadd - S.Al Ahli Saudi "Tkr"</title>
+    <sub-title lang="tr">Asya Şampiyonlar Ligi Elite</sub-title>
+    <desc lang="tr">Asya Şampiyonlar Ligi Elite</desc>
+  </programme>
+  <programme start="20260119120000 +0300" stop="20260119140000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Al Nassr - Al Zawraa "Tekrar"</title>
+    <sub-title lang="tr">Asya Şampiyonlar Ligi 2</sub-title>
+    <desc lang="tr">Asya Şampiyonlar Ligi 2</desc>
+  </programme>
+  <programme start="20260119140000 +0300" stop="20260119141500 +0300" channel="SporSmart.tr">
+    <title lang="tr">Haber 14</title>
+    <sub-title lang="tr">Gündem</sub-title>
+    <desc lang="tr">Gündem</desc>
+  </programme>
+  <programme start="20260119141500 +0300" stop="20260119161500 +0300" channel="SporSmart.tr">
+    <title lang="tr">U-23 AFC Çeyrek Final "Tkr"</title>
+    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
+    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
+  </programme>
+  <programme start="20260119161500 +0300" stop="20260119170000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Yabancı At Yarışları 2025</title>
+    <sub-title lang="tr">Yabancı At Yarışları 2025 Belgeseli</sub-title>
+    <desc lang="tr">Yabancı At Yarışları 2025 Belgeseli</desc>
+  </programme>
+  <programme start="20260119170000 +0300" stop="20260119171500 +0300" channel="SporSmart.tr">
+    <title lang="tr">Haber 17</title>
+    <desc lang="tr">Haber 17</desc>
+  </programme>
+  <programme start="20260119171500 +0300" stop="20260119191500 +0300" channel="SporSmart.tr">
+    <title lang="tr">AFC U-23 Çeyrek Final "Tkr"</title>
+    <sub-title lang="tr">U-23 AFC Asya Şampiyonası</sub-title>
+    <desc lang="tr">U-23 AFC Asya Şampiyonası</desc>
+  </programme>
+  <programme start="20260119191500 +0300" stop="20260119200000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Dünyanın Futbolu 2025</title>
+    <sub-title lang="tr">Highlight</sub-title>
+    <desc lang="tr">Highlight</desc>
+  </programme>
+  <programme start="20260119200000 +0300" stop="20260119211500 +0300" channel="SporSmart.tr">
+    <title lang="tr">Futbol Kulübü "Yeni"</title>
+    <sub-title lang="tr">Futbol Gündemi</sub-title>
+    <desc lang="tr">Futbol Gündemi</desc>
+  </programme>
+  <programme start="20260119211500 +0300" stop="20260119231500 +0300" channel="SporSmart.tr">
+    <title lang="tr">Unicaja - Granada "Tekrar"</title>
+    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
+    <desc lang="tr">İspanya Basketbol Ligi</desc>
+  </programme>
+  <programme start="20260119231500 +0300" stop="20260120011500 +0300" channel="SporSmart.tr">
+    <title lang="tr">Gran Canaria - Lleida "Tekrar"</title>
+    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
+    <desc lang="tr">İspanya Basketbol Ligi</desc>
+  </programme>
+  <programme start="20260120011500 +0300" stop="20260120031500 +0300" channel="SporSmart.tr">
+    <title lang="tr">Baskonia - Manresa "Tekrar"</title>
+    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
+    <desc lang="tr">İspanya Basketbol Ligi</desc>
+  </programme>
+  <programme start="20260120031500 +0300" stop="20260120060000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Estudiantes-Platense "Tekrar"</title>
+    <sub-title lang="tr">Arjantin Clasura Şampiyonlar Kupası 2025</sub-title>
+    <desc lang="tr">Arjantin Clasura Şampiyonlar Kupası 2025</desc>
+  </programme>
+  <programme start="20260120060000 +0300" stop="20260120080000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Santos - Cruzeiro "Tekrar"</title>
+    <sub-title lang="tr">Brezilya Ligi</sub-title>
+    <desc lang="tr">Brezilya Ligi</desc>
+  </programme>
+  <programme start="20260120080000 +0300" stop="20260120091500 +0300" channel="SporSmart.tr">
+    <title lang="tr">Spor Ajansı "Tekrar"</title>
+    <sub-title lang="tr">Spor Gündemi</sub-title>
+    <desc lang="tr">Spor Gündemi</desc>
+  </programme>
+  <programme start="20260120091500 +0300" stop="20260120100000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Monster Jam 2025 ''Yarış''</title>
+    <sub-title lang="tr">2025</sub-title>
+    <desc lang="tr">2025</desc>
+  </programme>
+  <programme start="20260120100000 +0300" stop="20260120113000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Kar Motoru Basın Tplt "Canlı"</title>
+    <sub-title lang="tr">Dünya Kar Motoru Dünya Şampiyonası Basın Toplantısı</sub-title>
+    <desc lang="tr">Dünya Kar Motoru Dünya Şampiyonası Basın Toplantısı</desc>
+  </programme>
+  <programme start="20260120113000 +0300" stop="20260120140000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Vietnam - BAE "Tekrar"</title>
+    <sub-title lang="tr">U-23 AFC Asya Şampiyonası Çeyrek Final</sub-title>
+    <desc lang="tr">U-23 AFC Asya Şampiyonası Çeyrek Final</desc>
+  </programme>
+  <programme start="20260120140000 +0300" stop="20260120143000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Haber 14</title>
+    <sub-title lang="tr">Gündem</sub-title>
+    <desc lang="tr">Gündem</desc>
+  </programme>
+  <programme start="20260120143000 +0300" stop="20260120163000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Japonya - Güney Kore ''Canlı''</title>
+    <sub-title lang="tr">U-23 AFC Asya Şampiyonası Yarı Final</sub-title>
+    <desc lang="tr">U-23 AFC Asya Şampiyonası Yarı Final</desc>
+  </programme>
+  <programme start="20260120163000 +0300" stop="20260120170000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Monster Jam 2025 ''Yarış''</title>
+    <sub-title lang="tr">2025</sub-title>
+    <desc lang="tr">2025</desc>
+  </programme>
+  <programme start="20260120170000 +0300" stop="20260120171500 +0300" channel="SporSmart.tr">
+    <title lang="tr">Haber 17</title>
+    <desc lang="tr">Haber 17</desc>
+  </programme>
+  <programme start="20260120171500 +0300" stop="20260120183000 +0300" channel="SporSmart.tr">
+    <title lang="tr">Yabancı At Yarışları 2025</title>
+    <sub-title lang="tr">Yabancı At Yarışları 2025 Belgeseli</sub-title>
+    <desc lang="tr">Yabancı At Yarışları 2025 Belgeseli</desc>
+  </programme>
+  <programme start="20260120183000 +0300" stop="20260120204500 +0300" channel="SporSmart.tr">
+    <title lang="tr">Vietnam - Çin "Canlı"</title>
+    <sub-title lang="tr">U-23 AFC Asya Şampiyonası Yarı Finali</sub-title>
+    <desc lang="tr">U-23 AFC Asya Şampiyonası Yarı Finali</desc>
+  </programme>
+  <programme start="20260120204500 +0300" stop="20260120211500 +0300" channel="SporSmart.tr">
+    <title lang="tr">Dünyanın Futbolu 2025</title>
+    <sub-title lang="tr">Highlight</sub-title>
+    <desc lang="tr">Highlight</desc>
+  </programme>
+  <programme start="20260120211500 +0300" stop="20260120224500 +0300" channel="SporSmart.tr">
+    <title lang="tr">90'lar Futbol Smart "Yeni"</title>
+    <sub-title lang="tr">90'lar Temalı Eğlenceli Futbol Programı</sub-title>
+    <desc lang="tr">90'lar Temalı Eğlenceli Futbol Programı</desc>
+  </programme>
+  <programme start="20260120224500 +0300" stop="20260120231500 +0300" channel="SporSmart.tr">
+    <title lang="tr">Brezilya Sezon Değerlendirmesi</title>
+    <sub-title lang="tr">Highlight</sub-title>
+    <desc lang="tr">Highlight</desc>
+  </programme>
   <channel id="SporSmart2.tr">
     <display-name lang="tr">Spor Smart 2</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2.png" />
@@ -893,6 +1042,138 @@
     <title lang="tr">Mirassol - Flamengo "Tekrar"</title>
     <sub-title lang="tr">Brezilya Ligi</sub-title>
     <desc lang="tr">Brezilya Ligi</desc>
+  </programme>
+  <programme start="20260119070000 +0300" stop="20260119080000 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Beach Volley Alanya "Tekrar"</title>
+    <sub-title lang="tr">Beach Volley Challenge Antalya/Alanya 2025</sub-title>
+    <desc lang="tr">Beach Volley Challenge Antalya/Alanya 2025</desc>
+  </programme>
+  <programme start="20260119080000 +0300" stop="20260119104500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Estudiantes-Platense "Tekrar"</title>
+    <sub-title lang="tr">Arjantin Şampiyonlar Kupası 2025</sub-title>
+    <desc lang="tr">Arjantin Şampiyonlar Kupası 2025</desc>
+  </programme>
+  <programme start="20260119104500 +0300" stop="20260119124500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Mirassol - Flamengo "Tekrar"</title>
+    <sub-title lang="tr">Brezilya Ligi</sub-title>
+    <desc lang="tr">Brezilya Ligi</desc>
+  </programme>
+  <programme start="20260119124500 +0300" stop="20260119131500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Monster Jam ''Yarış''</title>
+    <sub-title lang="tr">Yarış</sub-title>
+    <desc lang="tr">Yarış</desc>
+  </programme>
+  <programme start="20260119131500 +0300" stop="20260119150000 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Yabancı At Yarışları 2025</title>
+    <sub-title lang="tr">Yabancı At Yarışları 2025 Belgeseli</sub-title>
+    <desc lang="tr">Yabancı At Yarışları 2025 Belgeseli</desc>
+  </programme>
+  <programme start="20260119150000 +0300" stop="20260119151500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Haber 15</title>
+  </programme>
+  <programme start="20260119151500 +0300" stop="20260119171500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Baskonia - Manresa "Tekrar"</title>
+    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
+    <desc lang="tr">İspanya Basketbol Ligi</desc>
+  </programme>
+  <programme start="20260119171500 +0300" stop="20260119190000 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Real Madrid-Valencia ''Tekrar''</title>
+    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
+    <desc lang="tr">İspanya Basketbol Ligi</desc>
+  </programme>
+  <programme start="20260119190000 +0300" stop="20260119191500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Haber 19</title>
+  </programme>
+  <programme start="20260119191500 +0300" stop="20260119211500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Baskonia - Manresa "Tekrar"</title>
+    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
+    <desc lang="tr">İspanya Basketbol Ligi</desc>
+  </programme>
+  <programme start="20260119211500 +0300" stop="20260119231500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">U-23 AFC Çeyrek Final "Tkr"</title>
+    <sub-title lang="tr">U-23 AFC Çeyrek Final "Tekrar"</sub-title>
+    <desc lang="tr">U-23 AFC Çeyrek Final "Tekrar"</desc>
+  </programme>
+  <programme start="20260119231500 +0300" stop="20260120000000 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Dünyanın Futbolu 2025</title>
+    <sub-title lang="tr">Highlight</sub-title>
+    <desc lang="tr">Highlight</desc>
+  </programme>
+  <programme start="20260120000000 +0300" stop="20260120011500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Futbol Kulübü "Tekrar"</title>
+    <sub-title lang="tr">Futbol Gündemi</sub-title>
+    <desc lang="tr">Futbol Gündemi</desc>
+  </programme>
+  <programme start="20260120011500 +0300" stop="20260120031500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">U-23 AFC Çeyrek Final "Tkr"</title>
+    <sub-title lang="tr">U-23 AFC Çeyrek Final "Tekrar"</sub-title>
+    <desc lang="tr">U-23 AFC Çeyrek Final "Tekrar"</desc>
+  </programme>
+  <programme start="20260120031500 +0300" stop="20260120051500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Al Nassr - Al Zawraa ''Tekrar"</title>
+    <sub-title lang="tr">Asya Şampiyonlar Ligi 2</sub-title>
+    <desc lang="tr">Asya Şampiyonlar Ligi 2</desc>
+  </programme>
+  <programme start="20260120051500 +0300" stop="20260120054500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Monster Jam ''Yarış''</title>
+    <sub-title lang="tr">Yarış</sub-title>
+    <desc lang="tr">Yarış</desc>
+  </programme>
+  <programme start="20260120054500 +0300" stop="20260120061500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Dünyanın Futbolu 2025</title>
+    <sub-title lang="tr">Highlight</sub-title>
+    <desc lang="tr">Highlight</desc>
+  </programme>
+  <programme start="20260120061500 +0300" stop="20260120080000 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Gran Canaria - Lleida "Tekrar"</title>
+    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
+    <desc lang="tr">İspanya Basketbol Ligi</desc>
+  </programme>
+  <programme start="20260120080000 +0300" stop="20260120100000 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Baskonia - Manresa "Tekrar"</title>
+    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
+    <desc lang="tr">İspanya Basketbol Ligi</desc>
+  </programme>
+  <programme start="20260120100000 +0300" stop="20260120110000 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Futbol Kulübü "Tekrar"</title>
+    <sub-title lang="tr">Futbol Gündemi</sub-title>
+    <desc lang="tr">Futbol Gündemi</desc>
+  </programme>
+  <programme start="20260120110000 +0300" stop="20260120130000 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Unicaja - Granada "Tekrar"</title>
+    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
+    <desc lang="tr">İspanya Basketbol Ligi</desc>
+  </programme>
+  <programme start="20260120130000 +0300" stop="20260120150000 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Burgos - Barcelona "Tekrar"</title>
+    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
+    <desc lang="tr">İspanya Basketbol Ligi</desc>
+  </programme>
+  <programme start="20260120150000 +0300" stop="20260120151500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Haber 15</title>
+  </programme>
+  <programme start="20260120151500 +0300" stop="20260120171500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Real Madrid-Valencia ''Tekrar''</title>
+    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
+    <desc lang="tr">İspanya Basketbol Ligi</desc>
+  </programme>
+  <programme start="20260120171500 +0300" stop="20260120190000 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Gran Canaria - Lleida ''Tekrar''</title>
+    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
+    <desc lang="tr">İspanya Basketbol Ligi</desc>
+  </programme>
+  <programme start="20260120190000 +0300" stop="20260120191500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Haber 19</title>
+  </programme>
+  <programme start="20260120191500 +0300" stop="20260120211500 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Baskonia - Manresa "Tekrar"</title>
+    <sub-title lang="tr">İspanya Basketbol Ligi</sub-title>
+    <desc lang="tr">İspanya Basketbol Ligi</desc>
+  </programme>
+  <programme start="20260120211500 +0300" stop="20260120220000 +0300" channel="SporSmart2.tr">
+    <title lang="tr">Monster Jam ''Yarış''</title>
+    <sub-title lang="tr">Yarış</sub-title>
+    <desc lang="tr">Yarış</desc>
   </programme>
   <channel id="BeinGurme.tr">
     <display-name lang="tr">beIN GURME</display-name>
@@ -4587,7 +4868,7 @@
     <display-name lang="tr">MovieSmart Classic</display-name>
     <icon src="https://www.dsmart.com.tr/epg/images/0x60/59f97297cfef0b75f4723f91" />
   </channel>
-  <programme start="20260119004000 +0300" stop="20260119021000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119002500 +0300" stop="20260119015500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Kenarın Dilberi</title>
     <desc lang="tr">Ekrem, Amerika’ya okumaya giden ve iş adamı Aziz’in uyuşturucu bağımlısı kızı Necla ile nişanlı olan bir gençtir. Türkan ise sokaklarda şarkı söyleyen yoksul bir kızdır. Aziz, rastlantı sonucu tanıştığı Türkan’dan para karşılığında bir süreliğine kızının yerine geçmesini ister. Ekrem’in ülkeye dönüşüyle Türkan, Necla gibi davranarak genç adamla aşk yaşamaya başlar. Ancak, Necla'nın işledği suçun Türkan’ın üstüne kalmasıyla işler karışacaktır.</desc>
     <credits>
@@ -4601,7 +4882,7 @@
     <date>1966</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260119021000 +0300" stop="20260119035000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119015500 +0300" stop="20260119033500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Sarmaşık Gülleri</title>
     <desc lang="tr">Annesini yıllar önce kaybeden Gülseren, babasıyla kalmaktadır. Üvey annesi ve üvey ablası genç kıza hizmetçi gibi davranmaktadır. Üvey annesi, yaşadıkları köşkü ünlü yazar Necip Bey'e satar. Bir gece sağanak yağmurda evden kaçan genç kız, eski köşklerine gider ve köşkteki adamı doktor zannederek, onunla arkadaş olur. Gülseren'in üvey ablası ise Necip Bey'e sahip olmak için planlar yapmaktadır.</desc>
     <credits>
@@ -4615,7 +4896,7 @@
     <date>1968</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260119035000 +0300" stop="20260119054000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119033500 +0300" stop="20260119050500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Bir Çiçek Üç Böcek</title>
     <desc lang="tr">Suna babası ölünce kimsesiz kalır. Gazinolarda şarkıcılık yapmak için iş arar. Ancak bir türlü istediği gibi bir iş bulamaz. İş başvurusu için gittiği bir gazinoda Rüştü adında bir adamla tanışır. Gerçek adı Orhan olan bu adam, arkadaşlarıyla beraber Suna’ya yardım etmeye çalışacaktır.</desc>
     <credits>
@@ -4630,7 +4911,11 @@
     <date>1962</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260119054000 +0300" stop="20260119070000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119050500 +0300" stop="20260119055000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
+    <desc lang="tr">Ünlülerle ses getiren söyleşilere imza atan Hakan Gence'nin bu bölümde konuğu Yiğit Kirazcı.</desc>
+  </programme>
+  <programme start="20260119055000 +0300" stop="20260119071000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Hayat Oyunu</title>
     <desc lang="tr">Zengin bir iş adamı olan Faruk, yakın arkadaşı Adnan’ ı bir işinde kefil olarak gösterir. Ancak işleri yolunda gitmez ve yaptığı iş batar. Büyük bir miktar borç Adnan’ ın üzerine kalır. Bu yüzden Adnan, borcu ödemesi için sık sık Faruk’ u ziyaret eder. Borçlarından ve Adnan’ dan kurtulmak isteyen Faruk, hayatını değiştirecek bir plân yapacaktır.</desc>
     <credits>
@@ -4643,7 +4928,7 @@
     <date>1988</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260119070000 +0300" stop="20260119082000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119071000 +0300" stop="20260119082500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Bütün Suçumuz Sevmek</title>
     <desc lang="tr">Murat babası ölünce İstanbul’a göç eder. Amcası Kemal’in fabrikasında çalışmaya başlar. Kemal, yeğeninin işleri öğrenmesi için onu işçi olarak çalıştırır. Yeğeni olduğunu da herkesten gizler. Bu süreçte Murat fabrika işçileriyle arkadaş olur. Onlarla aynı mahallede yaşar. Yeni hayatına alışan Murat, bir süre sonra arkadaşlarından kopmak zorunda kalacaktır.</desc>
     <credits>
@@ -4658,7 +4943,10 @@
     <date>1963</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260119082000 +0300" stop="20260119100000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119082500 +0300" stop="20260119083000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260119083000 +0300" stop="20260119095900 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Korkusuz Cengaver</title>
     <desc lang="tr">Film, bir komployla itibarı zedelenen ve sürgün düşen Şahin Bey’in verdiği mücadeleyi anlatır.</desc>
     <credits>
@@ -4672,7 +4960,10 @@
     <date>1976</date>
     <category lang="tr">Tarih</category>
   </programme>
-  <programme start="20260119100000 +0300" stop="20260119114000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119095900 +0300" stop="20260119100500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260119100500 +0300" stop="20260119113500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Gurbetçi Şaban</title>
     <desc lang="tr">Şaban, saf görünümlü bir köylüdür. Ancak kurnazlık yapmaktan geri durmaz. İş bulmak için Almanya'ya çalışma izni olmadan giden Şaban, yolda tanıştığı Bahar adlı bir kıza aşık olur ve aynı farbikada çalışmaya başlar. Bu sırada haksızlıklara karşı durmak ve kendini kurtarmak için birşeyler yapmayı düşünür.</desc>
     <credits>
@@ -4686,7 +4977,10 @@
     <date>1985</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260119114000 +0300" stop="20260119131000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119113500 +0300" stop="20260119114500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260119114500 +0300" stop="20260119130200 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Gecelerin Kadını</title>
     <desc lang="tr">Hayri Bey yaşlanınca bütün işlerini oğlu Faruk’ a devretmiştir. Faruk ise fotomodellik yapan Banu ile evlilik plânları yapmaktadır. Ancak ailesi, Banu’nun fakirliğini öne sürerek bu evliliğe karşı çıkar. Buna rağmen, Faruk’un kararı kesindir. Faruk, iş seyahatine çıkar. Seyahat plânlanandan daha uzun sürünce, ikilinin ilişkileri tehlikeye girer.</desc>
     <credits>
@@ -4699,7 +4993,10 @@
     <date>1983</date>
     <category lang="tr">Romantik</category>
   </programme>
-  <programme start="20260119131000 +0300" stop="20260119150000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119130200 +0300" stop="20260119131000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260119131000 +0300" stop="20260119144700 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Fakir Bir Gencin Romanı</title>
     <desc lang="tr">Manavlık yaptığı sıra tahsilini tamamlayıp mühendis olan fakir bir gençle, aşık olduğu zengin kızın öyküsü.</desc>
     <credits>
@@ -4713,7 +5010,10 @@
     <date>1965</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260119150000 +0300" stop="20260119162000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119144700 +0300" stop="20260119150000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260119150000 +0300" stop="20260119161000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Önce Hayaller Ölür</title>
     <desc lang="tr">Namuslu bir ailenin, bir büyük kentte kötü insanlara yenik düşüp parçalanışının öyküsü.</desc>
     <credits>
@@ -4726,7 +5026,14 @@
     <date>1981</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260119162000 +0300" stop="20260119180000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119161000 +0300" stop="20260119162500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
+    <desc lang="tr">Ünlülerle ses getiren söyleşilere imza atan Hakan Gence'nin bu bölümde konuğu Feyyaz Şerifoğlu.</desc>
+  </programme>
+  <programme start="20260119162500 +0300" stop="20260119163000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260119163000 +0300" stop="20260119180000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Vukuat Var - Hanımın Çiftliği</title>
     <desc lang="tr">Güllü, ailesiyle birlikte çukurova'dan kente gelmiş bir kızdır. Genç kız Kemal'e aşıktır. Ramazan ise dayısının servetine güvenerek Güllü'yü elde etmek isteyen hayırsız bir adamdır. Güllünün hayırsız bir olduğunu düşünen Kemal'in annesi, oğlunu alarak şehri terk eder, çaresiz kalan Güllü ailesinin zoruyla Ramazan'ı kabul eder. Kaza sonrası Ramazan'ın ölmesi, Güllü ile Ramazanın dayısı Muzaffer beyin yakınlaşması ve evlenmesiyle sonuçlanır.</desc>
     <credits>
@@ -4740,7 +5047,10 @@
     <date>1972</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260119180000 +0300" stop="20260119194000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119180000 +0300" stop="20260119180500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260119180500 +0300" stop="20260119193500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Katma Değer Şaban</title>
     <desc lang="tr">Kadir, bir nakliyat şirketinde çalışır. Bir gün iş yerinde kendisine bir tuzak kurulur. Kadir, üzerine atılan iftirayı açıklığa kavuşturması için Almanya’daki oğlu Şaban’dan yardım ister. Ancak Kadir, uzun yıllar görmediği oğluyla ilk karşılaşmasında hayal kırıklığı yaşar. Bununla birlikte Şaban, suçluları bulmak için her şeyi önceden tasarlamıştır.</desc>
     <credits>
@@ -4755,7 +5065,10 @@
     <date>1985</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260119194000 +0300" stop="20260119213000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119193500 +0300" stop="20260119194000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260119194000 +0300" stop="20260119212000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Bataklıkta Bir Gül</title>
     <desc lang="tr">Selma sorunlu bir ailede yaşamaktadır. Üvey babasının tacizine maruz kalır. Bu yüzden de kendi ayakları üzerinde durmaya çalışır. Sevgilisi Erol ise ailesine Selma'dan söz etmez. Selma, Erol'un arkadaşı Bülent'le tanışınca ikili birbirine yakınlaşır. Ancak Selma'nın hayatındaki sorunlar devam etmektedir. Kendisini taciz eden üvey babasını bıçaklayan Selma hapse düşer.</desc>
     <credits>
@@ -4768,7 +5081,10 @@
     <date>1983</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260119213000 +0300" stop="20260119231000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119212000 +0300" stop="20260119213000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260119213000 +0300" stop="20260119225700 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Memleketim</title>
     <desc lang="tr">Leyla Avrupa'da yaşamak istediği için Murat'tan ayrılır. Murat’ın Türkiye'ye dönmesiyle Leyla büyük bir yalnızlığın içine düşer. Vaktinin çoğunu ev arkadaşı Helga ile geçirmeye başlar. Helga, ailesiyle yaşadığı sorunlara dayanamayarak intihar eder. Helga’nın ölümünün ardından Leyla, Helga’nın abisiyle yeni bir ilişkiye başlar. Bu birliktelik Leyla’nın kendi öz değerlerini ve dini inancını sorgulamasına sebep olacaktır.</desc>
     <credits>
@@ -4783,7 +5099,10 @@
     <date>1974</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260119231000 +0300" stop="20260120005000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260119225700 +0300" stop="20260119230500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260119230500 +0300" stop="20260120003000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Sabıkalı</title>
     <desc lang="tr">İlkokul öğretmeni olan Aysel kendisine aşık olan Ayhan ile evlenmek üzeredir. Zengin bir insan olan Ayhan'ın, birlikte yaşadığı serseri ruhlu ve kötü kalpli yeğeni Tunç, onların bu mutluluğunu kıskanmakta ve Ayhan'a karşı öfke duymaktadır. Tunç, çiftin balayı için birlikte gittikleri Uludağ'da Ayhan'a tuzak kurar ve Aysel'e tecavüz eder. Genç kadın intikamını almak isterken yanlışlıkla kocasını vurur ve hayatı bir anda cehenneme döner.</desc>
     <credits>
@@ -4797,7 +5116,10 @@
     <date>1974</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260120005000 +0300" stop="20260120021000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260120003000 +0300" stop="20260120003500 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260120003500 +0300" stop="20260120015000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Bütün Suçumuz Sevmek</title>
     <desc lang="tr">Murat babası ölünce İstanbul’a göç eder. Amcası Kemal’in fabrikasında çalışmaya başlar. Kemal, yeğeninin işleri öğrenmesi için onu işçi olarak çalıştırır. Yeğeni olduğunu da herkesten gizler. Bu süreçte Murat fabrika işçileriyle arkadaş olur. Onlarla aynı mahallede yaşar. Yeni hayatına alışan Murat, bir süre sonra arkadaşlarından kopmak zorunda kalacaktır.</desc>
     <credits>
@@ -4812,7 +5134,7 @@
     <date>1963</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260120021000 +0300" stop="20260120034000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260120015000 +0300" stop="20260120031500 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Güller ve Dikenler</title>
     <desc lang="tr">Verda babasının zoruyla iş adamı Haşim ile evlenir. Ancak düğün gecesi kalp krizi geçirir. Kalbi güçsüz olan Verda’ya doktorlar bazı duyguları yasaklar. Düğün sonrası Verda’nın babası ölür ve Verda’ya kalan miras ile Haşim ilgilenir. Haşim bu sayede işlerini büyütür. Selim adında bir iş adamını dolandırır. Adamın bütün servetini alır. Selim Bey’de olanlara dayanamaz ve intihar eder.Selimin oğlu Eşber babasının intikamını alacağına yemin eder.</desc>
     <credits>
@@ -4827,7 +5149,10 @@
     <date>1970</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260120034000 +0300" stop="20260120053000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260120031500 +0300" stop="20260120032000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Az Sonra</title>
+  </programme>
+  <programme start="20260120032000 +0300" stop="20260120045800 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Fakir Bir Gencin Romanı</title>
     <desc lang="tr">Manavlık yaptığı sıra tahsilini tamamlayıp mühendis olan fakir bir gençle, aşık olduğu zengin kızın öyküsü.</desc>
     <credits>
@@ -4840,6 +5165,10 @@
     </credits>
     <date>1965</date>
     <category lang="tr">Dram</category>
+  </programme>
+  <programme start="20260120045800 +0300" stop="20260120053000 +0300" channel="MovieSmartClassic.tr">
+    <title lang="tr">Hakan Gence ile Sıkı Muhabbet</title>
+    <desc lang="tr">Ünlülerle ses getiren söyleşilere imza atan Hakan Gence'nin bu bölümde konuğu Esra Tokelli.</desc>
   </programme>
   <programme start="20260120053000 +0300" stop="20260120070000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Mazi Kalbimde Yaradır</title>
@@ -4984,6 +5313,343 @@
     <display-name lang="tr">MovieSmart Türk</display-name>
     <icon src="https://www.dsmart.com.tr/epg/images/0x60/59f972a1cfef0b75f4723f94" />
   </channel>
+  <programme start="20260119015000 +0300" stop="20260119033000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Çarıklı Milyoner</title>
+    <desc lang="tr">Ünlü milyarder Hilmi Tok, geçirdiği trafik kazası sonucu ölür. Bütün parasını köyde davulculuk yapan oğlu Bayram'a bırakır. Bir anda Bayram'ın çevresini mirastan pay almak isteyen akrabaları sarar. Bayram'ı haber yapmak isteyen gazeteci Suna, kendisini fakir biri olarak tanıtarak Bayram'la yakınlık kurar. Bu sahte ilişki sürerken zamanla Bayram'a aşık olur.</desc>
+    <credits>
+      <director>Kartal Tibet</director>
+      <actor>Kemal Sunal</actor>
+      <actor>Ali Şen</actor>
+      <actor>Reha Yurdakul</actor>
+      <actor>Memduh Ün</actor>
+    </credits>
+    <category lang="tr">Komedi</category>
+  </programme>
+  <programme start="20260119033000 +0300" stop="20260119052000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Yalandan Sevgilim</title>
+    <desc lang="tr">Filiz, zengin bir ailenin tek kızıdır. Ailesinin tek isteği Filiz’in evlenip onlara torun vermesidir. Filiz ise evlilik istememektedir. Bunu ailesine anlatmasına rağmen aile ısrarla evlensin diye elinden geleni yapar hatta kendi damat adaylarını kendileri seçmeye başlar.Bu durumdan sıkılan Filiz, iş başvurusuna gelen Mert’e yalandan sevgilisi olmasını ister. Filiz’den etkilenen Mert bu teklifi kabul eder. Ailesini küçükken kaybeden Mert bu oyunadevam ettirmek için mahaldeki yakınlarını ailesiymiş gibi tanıtır ve bu yalan gerçek bir aşka dönüşür.</desc>
+    <credits>
+      <director>Hasan Doğan</director>
+      <actor>Çetin Altay</actor>
+      <actor>Almila Ada</actor>
+      <actor>Alper Saylık</actor>
+      <actor>Aysel Gürler</actor>
+      <actor>Metin Keçeci</actor>
+      <actor>Atılay Uluışık</actor>
+      <actor>Selahattin Taşdöğen</actor>
+    </credits>
+    <date>2025</date>
+  </programme>
+  <programme start="20260119052000 +0300" stop="20260119070000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Her Şey Dahil</title>
+    <desc lang="tr">Her Şey Dahil</desc>
+  </programme>
+  <programme start="20260119070000 +0300" stop="20260119080000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Güldüren Rekabet</title>
+    <desc lang="tr">Film, minibüs şoförlüğü yapan iki ailenin rekabetini konu edinir. Uçarlar ve Kaçarlar, minibüs şoförlüğü yapan iki ailedir. Küçük bir kasaba ile İstanbul arasında minibüs seferleri düzenleyen iki ailenin de amacı, kasabadaki tek minibüsçü olmaktır. Aralarındaki rekabet, İstanbul’dan getirtilen yeni minibüslerle devam eder. Minibüslerle birlikte Uçar ailesinin kızları Oya ve Sema ile Kaçar ailesinin oğulları Ali ve Veli de kasabaya döner.</desc>
+    <credits>
+      <actor>Aydemir Akbaş</actor>
+      <actor>Bülent Kayabaş</actor>
+      <actor>Necla Fide</actor>
+      <actor>Müge Güler</actor>
+      <actor>Yüksel Gözen</actor>
+      <actor>Ali Şen</actor>
+    </credits>
+    <date>1977</date>
+  </programme>
+  <programme start="20260119080000 +0300" stop="20260119095000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Oyunda Kal: Eğlence Arenası</title>
+    <desc lang="tr">Yaz tatilinin habercisi karne haftasında çocukların tatil planlarında büyük bir değişiklik olur. Çocuklar, yazın tadını sadece tatil yaparak değil, yarışarak da çıkaracaklardır. Fenomenlerin hazırladığı heyecan dolu elemeleri geçen 6 gönüllü ve 6 fenomen, Eğlence Arenası'nda Sihirli Değnek ödülü için karşı karşıya gelecekler. Tek bir amacı olan oyunda kalmak için bir araya gelen yarışmacılar, birbirinden heyecanlı spor, zeka ve strateji oyunlarında bireysel mücadele kadar takım ruhunun da önemini anlayacaklar. Yeni ve sağlam arkadaşlıkların temellerinin atıldığı, kardeşlik bağlarının kuvvetlendiği, kazanmanın yanı sıra kaybetmenin de değerli olduğunu anladığımız eğlenceli ve çekişmeli bir serüven bizi bekliyor.</desc>
+    <credits>
+      <director>İlker Savaşkurt</director>
+      <actor>Öykü Günay</actor>
+      <actor>Masal Günay</actor>
+      <actor>Alper Baytekin</actor>
+      <actor>Doğan Akdoğan</actor>
+      <actor>Kübra Balcan</actor>
+      <actor>Kazım Semih Varol</actor>
+    </credits>
+    <date>2024</date>
+  </programme>
+  <programme start="20260119095000 +0300" stop="20260119121000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Çiçero</title>
+    <desc lang="tr">2. Dünya savaşı, Ankara. Tarihler Eylül 1943'ü gösterdiğinde de Britanya'nın Ankara büyükelçisi Hugge Knatchbull-Hugessen'in uşaklığını yapmak üzere Britanya elçiliğine daha önce Yugoslavya Elçiliği’nde çalışan bir uşak gelir.</desc>
+    <credits>
+      <director>Serdar Akar</director>
+      <actor>Erdal Beşikçioğlu</actor>
+      <actor>Burcu Biricik</actor>
+      <actor>Ertan Saban</actor>
+      <actor>Murat Garipağaoğlu</actor>
+      <actor>Tamer Levent</actor>
+      <actor>Çiğdem Selışık Onat</actor>
+      <actor>Mehmet Ulay</actor>
+      <actor>Levent Ülgen</actor>
+    </credits>
+    <date>2019</date>
+  </programme>
+  <programme start="20260119121000 +0300" stop="20260119144000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Cep Herkülü: Naim Süleymanoğlu</title>
+    <desc lang="tr">Naim henüz daha 10 yaşındayken halter sporuna yeteneği farkedilir. Ailesinden ayrılara, k Bulgaristan Milli Takımının sporcusu olarak yetiştirilir. Doğuştan gelen yeteneği ile Bulgaristan’ın en önemli sporcularından biri olur, ödüllendirilir, bütün imkanlar önüne serilir.</desc>
+    <credits>
+      <director>Özer Feyzioğlu</director>
+      <actor>Hayat Van Eck</actor>
+      <actor>Yetkin Dikinciler</actor>
+      <actor>Selen Öztürk</actor>
+      <actor>Gürkan Uygun</actor>
+      <actor>İsmail Hacıoğlu</actor>
+      <actor>Recep Renan Bilek</actor>
+      <actor>Uğur Güneş</actor>
+      <actor>Bülent Alkış</actor>
+    </credits>
+    <date>2019</date>
+  </programme>
+  <programme start="20260119144000 +0300" stop="20260119162000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">İki Kafadar: Chinese Connection</title>
+    <desc lang="tr">Mahmutpaşa Pasajı'nda girdikleri her işi batıran iki kafadar son çare olarak tefeciden borç alırlar ve tablet işine girerler. Fakat bu tabletler büyük dolandırıcıların GDO'lu mal sevkiyatlarında kullanılmaktadır. İki kafadar bu gerçeği öğrendiklerinde her şey için çok geç olacaktır. Gerçek bir kovalamacanın içine düşen ikilinin komik ve sürekli aksiyon dolu hikâyesi, aşk-dostluk ve mafya üçgeninde birçok isimle kesişecektir.</desc>
+    <credits>
+      <director>Gökhan Erkut</director>
+      <actor>İlker Aksum</actor>
+      <actor>Gökçe Özyol</actor>
+      <actor>Orhan Aydın</actor>
+      <actor>Sinan Engin</actor>
+      <actor>Murat Akkoyunlu</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="tr">Komedi</category>
+  </programme>
+  <programme start="20260119162000 +0300" stop="20260119180000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Bana Karanlığını Anlat</title>
+    <desc lang="tr">Film, kocasının ölümünden sonra onunla ve kendisiyle yüzleşen bir kadının hayatına odaklanıyor. Veli Tanyeli, geçirdiği kalp krizi sonrası hayata veda eder. Cenaze işlemlerinin başlayıp, Veli’ nin defnedilmeden önce gasilhaneye getirilmesiyle birlikte, aile arasında gizli kalan tüm çatışmalar gün yüzüne çıkar. Nermin, içine hapsolduğu mutsuz evliliğinin ve geçmiş yılların hesaplaşmasını, eşinin ölümünden sonra gasilhanede yapmaya başlar. Acılı kadının kocası ile yüzleşmesi aslında yıllarca kaçtığı kendisiyle yüzleşmesidir.</desc>
+    <credits>
+      <director>Gizem Kızıl</director>
+      <actor>Aslıhan Gürbüz</actor>
+      <actor>Selim Can Yalçın</actor>
+      <actor>Serpil Gül</actor>
+      <actor>Giray Altınok</actor>
+      <actor>Gizem Güçlü</actor>
+      <actor>Mehmet Yılmaz Ak</actor>
+      <actor>Yasemin Szawlowskı</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="tr">Dram</category>
+  </programme>
+  <programme start="20260119180000 +0300" stop="20260119200000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Hareket Sekiz</title>
+    <desc lang="tr">Bu zamana kadar tesadüfi başarılar elde eden polis memurları Bünyamin, Reşat ve Kazım’ın zorlu bir görevi vardır. Rus mafya lideri Zolka, büyük bir kaçakçılık peşindedir. Zolka, bor madenini, özel bir silahta kullanılması için Türkiye’den yurt dışına kaçırmayı planlamaktadır. Rus mafyasının alt etmekle görevlendirilen Bünyamin, Reşat ve Kazım, kendilerini zorlu bir maceranın içinde bulurlar. Başlarına geleceklerden habersiz büyük bir kargaşanın içine düşün üç polis, Rus mafyasını alt etmeyi başarabilecek midir?</desc>
+    <credits>
+      <director>Ali Yorgancıoğlu</director>
+      <actor>Ali Sunal</actor>
+      <actor>Onur Atilla</actor>
+      <actor>Devrim Yakut</actor>
+      <actor>Gürgen Öz</actor>
+      <actor>Bihter Dinçel</actor>
+      <actor>Sarp Bozkurt</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="tr">Komedi</category>
+    <category lang="tr">Aksiyon</category>
+  </programme>
+  <programme start="20260119200000 +0300" stop="20260119222000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Arif V 216</title>
+    <desc lang="tr">Ancak 15 ay sonunda birliğin Türkiye'ye geri dönme kararı çıkar. Ayla'yı bırakıp dönmek istemeyen Süleyman Astsubay her yolu denese de Kore kanunlarını aşamaz. Küçük kızı geride bırakmak zorunda kalan Süleyman ve yetimlere uygulanan sisteme dahil olarak yetimhaneye verilecek olan Ayla son vedalarında tekrar bir araya gelmeye söz verirler. Yıllar ikiliyi yeniden buluşturacak mıdır?</desc>
+    <credits>
+      <director>Kıvanç Baruönü</director>
+      <actor>Cem Yılmaz</actor>
+      <actor>Ozan Güven</actor>
+      <actor>Seda Bakan</actor>
+      <actor>Zafer Algöz</actor>
+      <actor>Özge Özberk</actor>
+      <actor>Özkan Uğur</actor>
+      <actor>Çağlar Çorumlu</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="tr">Komedi</category>
+    <category lang="tr">Bilim</category>
+    <category lang="tr">Kurgu</category>
+  </programme>
+  <programme start="20260119222000 +0300" stop="20260120001000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Katakulli</title>
+    <desc lang="tr">Kemal, öksüz ve yetim bir çocuktur. Her şeyini, kendisini büyüten mahallesinin güzel insanlarına borçlu olduğunu düşünen Kemal, daha çocuk yaşlarda “büyüyünce bana kol kanat geren bu insanları hiçbir zaman darda koymayacağım” diye kendi kendine söz vermiştir. Ama, Kemal büyümüş ve hırsız olmuştur. Kemal’in vicdanı ağır basar ve hırsızlığı bırakmaya karar verir. Ne var ki Kostirik’in aldığı son bir iş vardır. Kostirik, bu işi de halledip sonra tövbe etmesi için Kemal’e ısrar eder. Kostirik’in ısrarına dayanamayan Kemal bunu kabul eder. Ailenin kızı Meryem, abilerinin yokluğundan istifade sevgilisini eve getirmiştir. Meryem sevgilisini Kemal’in saklandığı odaya getirir. Fakat, Meryem’in abileri eve gelmişlerdir. Meryem o panikle, sevgilisini pencereden aşağı atar. Kemal’i, kız kardeşlerinin sevgilisi zanneden abiler kararlarını verirler. Kemal iki gün sonra gelip Meryem’i isteyecektir. Kemal kafasında deli sorularla eve dönerken karanlık sokakların birinden bir kızın yardım çağrısını duyar. Kız “help” diye bağırdığından anlaşılmaktadır ki yabancı bir turist… Olay yerine geldiğinde, üç magandanın kızı sıkıştırdığını görür, müdahale eder. Kemal görevini yapmıştır; gerisini polis halletsin diyerek yoluna gidecektir ama bir bakar ki İtalyan kız peşinden geliyor. Kemal’in onu bir başına bırakmamasını istemektedir. Kemal, gecenin bir vakti ondan yardım dilenen bir kızı ortada bırakmaya vicdanı el vermez. İşte zaten başına ne geliyorsa vicdanı yüzünden gelmektedir. Kemal, İtalyan kızın peşinden gelmesine izin verdiği anda ne büyük bir belaya bulaştığını farkında değildir.</desc>
+    <credits>
+      <director>Metin Balekoğlu</director>
+      <actor>Yağızcan Konyalı</actor>
+      <actor>Jessica May</actor>
+      <actor>Alper Baytekin</actor>
+      <actor>Saniye Samra</actor>
+      <actor>Necat Bayar</actor>
+      <actor>Hüseyin Turunç</actor>
+      <actor>Kadriye Çetinkaya</actor>
+      <actor>Ayhan sicimoğlu</actor>
+    </credits>
+    <date>2022</date>
+  </programme>
+  <programme start="20260120001000 +0300" stop="20260120021000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Kardeşim Benim-1</title>
+    <desc lang="tr">Sakin ve gizemli bir karaktere sahip olan Hakan, 30 yaşında alternatif müzik yapan ünlü bir sanatçıdır. Magazinden uzak bir hayat sürmeye çalışsa da kardeşi Ozan ile olan küslükleri magazinin ilgisini çeker. Ozan ise 28 yaşında ünlü bir pop yıldızıdır. Abisinin aksine neşeli, esprili, konuşkan ve sosyal biridir. Araları yıllardır düzelmeyen iki kardeş uzun zamandır bir araya gelmemiş, hatta babalarının hastalığında dahi farklı zamanlarda ziyaretine gitmişlerdir. Bu soğukluğun nedeni ise çocukluk yıllarına kadar uzanmaktadır. Annlerini küçük yaşta kaybeden iki kardeşin babaları Erkan düğün şarkılığı ile geçimini sağlamaktadır. Üçü kasaba kasaba düğünlerde dolaşmış, küçüklüklerini resmen göçebe bir şekilde sürdürmüşlerdir. Bu dönemde babası küçük kardeş Ozan’ın tüm sorumluluğunu, abisi Hakan'a devreder. Abi Hakan bu yüzden erken olgunlaşır. Ozan ise Hakan’ın içinde kalan çocukluğu doya doya yaşamıştır. Bu ikili durum abi kardeş ilişkisini zamanla zedeler...Babalarının cenazesi iki kardeşi yıllar sonra bir araya getiren yegane şeydir. Her ikisi de son görevlerini yerine getirip bir an önce kendi hayatlarına geri dönmeyi planlarken, geride kalan vasiyet her şeyi değiştirecektir.</desc>
+    <credits>
+      <director>Mert Baykal</director>
+      <actor>Burak Özçivit</actor>
+      <actor>Murat Boz</actor>
+      <actor>Aslı Enver</actor>
+      <actor>Nazan Kesal</actor>
+      <actor>Ferdi Sancar</actor>
+      <actor>Ahmet Gülhan</actor>
+      <actor>Burak Satıbol</actor>
+      <actor>Gözde Mutluer</actor>
+    </credits>
+    <date>2016</date>
+  </programme>
+  <programme start="20260120021000 +0300" stop="20260120034000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">İki Kafadar: Chinese Connection</title>
+    <desc lang="tr">Mahmutpaşa Pasajı'nda girdikleri her işi batıran iki kafadar son çare olarak tefeciden borç alırlar ve tablet işine girerler. Fakat bu tabletler büyük dolandırıcıların GDO'lu mal sevkiyatlarında kullanılmaktadır. İki kafadar bu gerçeği öğrendiklerinde her şey için çok geç olacaktır. Gerçek bir kovalamacanın içine düşen ikilinin komik ve sürekli aksiyon dolu hikâyesi, aşk-dostluk ve mafya üçgeninde birçok isimle kesişecektir.</desc>
+    <credits>
+      <director>Gökhan Erkut</director>
+      <actor>İlker Aksum</actor>
+      <actor>Gökçe Özyol</actor>
+      <actor>Orhan Aydın</actor>
+      <actor>Sinan Engin</actor>
+      <actor>Murat Akkoyunlu</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="tr">Komedi</category>
+  </programme>
+  <programme start="20260120034000 +0300" stop="20260120053000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Hareket Sekiz</title>
+    <desc lang="tr">Bu zamana kadar tesadüfi başarılar elde eden polis memurları Bünyamin, Reşat ve Kazım’ın zorlu bir görevi vardır. Rus mafya lideri Zolka, büyük bir kaçakçılık peşindedir. Zolka, bor madenini, özel bir silahta kullanılması için Türkiye’den yurt dışına kaçırmayı planlamaktadır. Rus mafyasının alt etmekle görevlendirilen Bünyamin, Reşat ve Kazım, kendilerini zorlu bir maceranın içinde bulurlar. Başlarına geleceklerden habersiz büyük bir kargaşanın içine düşün üç polis, Rus mafyasını alt etmeyi başarabilecek midir?</desc>
+    <credits>
+      <director>Ali Yorgancıoğlu</director>
+      <actor>Ali Sunal</actor>
+      <actor>Onur Atilla</actor>
+      <actor>Devrim Yakut</actor>
+      <actor>Gürgen Öz</actor>
+      <actor>Bihter Dinçel</actor>
+      <actor>Sarp Bozkurt</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="tr">Komedi</category>
+    <category lang="tr">Aksiyon</category>
+  </programme>
+  <programme start="20260120053000 +0300" stop="20260120070000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Bana Karanliğini Anlat</title>
+  </programme>
+  <programme start="20260120070000 +0300" stop="20260120082000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Adak</title>
+    <desc lang="tr">Film, hapishaneye düşen bir adamın adağı yüzünden yaşadıklarını anlat</desc>
+    <credits>
+      <director>Atıf Yılmaz</director>
+      <actor>Tarık Akan</actor>
+      <actor>Gökhan Mete</actor>
+      <actor>Erol Keskin</actor>
+    </credits>
+    <date>1979</date>
+    <category lang="tr">Dram</category>
+  </programme>
+  <programme start="20260120082000 +0300" stop="20260120101000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Katakulli</title>
+    <desc lang="tr">Kemal, öksüz ve yetim bir çocuktur. Her şeyini, kendisini büyüten mahallesinin güzel insanlarına borçlu olduğunu düşünen Kemal, daha çocuk yaşlarda “büyüyünce bana kol kanat geren bu insanları hiçbir zaman darda koymayacağım” diye kendi kendine söz vermiştir. Ama, Kemal büyümüş ve hırsız olmuştur. Kemal’in vicdanı ağır basar ve hırsızlığı bırakmaya karar verir. Ne var ki Kostirik’in aldığı son bir iş vardır. Kostirik, bu işi de halledip sonra tövbe etmesi için Kemal’e ısrar eder. Kostirik’in ısrarına dayanamayan Kemal bunu kabul eder. Ailenin kızı Meryem, abilerinin yokluğundan istifade sevgilisini eve getirmiştir. Meryem sevgilisini Kemal’in saklandığı odaya getirir. Fakat, Meryem’in abileri eve gelmişlerdir. Meryem o panikle, sevgilisini pencereden aşağı atar. Kemal’i, kız kardeşlerinin sevgilisi zanneden abiler kararlarını verirler. Kemal iki gün sonra gelip Meryem’i isteyecektir. Kemal kafasında deli sorularla eve dönerken karanlık sokakların birinden bir kızın yardım çağrısını duyar. Kız “help” diye bağırdığından anlaşılmaktadır ki yabancı bir turist… Olay yerine geldiğinde, üç magandanın kızı sıkıştırdığını görür, müdahale eder. Kemal görevini yapmıştır; gerisini polis halletsin diyerek yoluna gidecektir ama bir bakar ki İtalyan kız peşinden geliyor. Kemal’in onu bir başına bırakmamasını istemektedir. Kemal, gecenin bir vakti ondan yardım dilenen bir kızı ortada bırakmaya vicdanı el vermez. İşte zaten başına ne geliyorsa vicdanı yüzünden gelmektedir. Kemal, İtalyan kızın peşinden gelmesine izin verdiği anda ne büyük bir belaya bulaştığını farkında değildir.</desc>
+    <credits>
+      <director>Metin Balekoğlu</director>
+      <actor>Yağızcan Konyalı</actor>
+      <actor>Jessica May</actor>
+      <actor>Alper Baytekin</actor>
+      <actor>Saniye Samra</actor>
+      <actor>Necat Bayar</actor>
+      <actor>Hüseyin Turunç</actor>
+      <actor>Kadriye Çetinkaya</actor>
+      <actor>Ayhan sicimoğlu</actor>
+    </credits>
+    <date>2022</date>
+  </programme>
+  <programme start="20260120101000 +0300" stop="20260120122000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Arif V 216</title>
+    <desc lang="tr">Ancak 15 ay sonunda birliğin Türkiye'ye geri dönme kararı çıkar. Ayla'yı bırakıp dönmek istemeyen Süleyman Astsubay her yolu denese de Kore kanunlarını aşamaz. Küçük kızı geride bırakmak zorunda kalan Süleyman ve yetimlere uygulanan sisteme dahil olarak yetimhaneye verilecek olan Ayla son vedalarında tekrar bir araya gelmeye söz verirler. Yıllar ikiliyi yeniden buluşturacak mıdır?</desc>
+    <credits>
+      <director>Kıvanç Baruönü</director>
+      <actor>Cem Yılmaz</actor>
+      <actor>Ozan Güven</actor>
+      <actor>Seda Bakan</actor>
+      <actor>Zafer Algöz</actor>
+      <actor>Özge Özberk</actor>
+      <actor>Özkan Uğur</actor>
+      <actor>Çağlar Çorumlu</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="tr">Komedi</category>
+    <category lang="tr">Bilim</category>
+    <category lang="tr">Kurgu</category>
+  </programme>
+  <programme start="20260120122000 +0300" stop="20260120143000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Kardeşim Benim-1</title>
+    <desc lang="tr">Sakin ve gizemli bir karaktere sahip olan Hakan, 30 yaşında alternatif müzik yapan ünlü bir sanatçıdır. Magazinden uzak bir hayat sürmeye çalışsa da kardeşi Ozan ile olan küslükleri magazinin ilgisini çeker. Ozan ise 28 yaşında ünlü bir pop yıldızıdır. Abisinin aksine neşeli, esprili, konuşkan ve sosyal biridir. Araları yıllardır düzelmeyen iki kardeş uzun zamandır bir araya gelmemiş, hatta babalarının hastalığında dahi farklı zamanlarda ziyaretine gitmişlerdir. Bu soğukluğun nedeni ise çocukluk yıllarına kadar uzanmaktadır. Annlerini küçük yaşta kaybeden iki kardeşin babaları Erkan düğün şarkılığı ile geçimini sağlamaktadır. Üçü kasaba kasaba düğünlerde dolaşmış, küçüklüklerini resmen göçebe bir şekilde sürdürmüşlerdir. Bu dönemde babası küçük kardeş Ozan’ın tüm sorumluluğunu, abisi Hakan'a devreder. Abi Hakan bu yüzden erken olgunlaşır. Ozan ise Hakan’ın içinde kalan çocukluğu doya doya yaşamıştır. Bu ikili durum abi kardeş ilişkisini zamanla zedeler...Babalarının cenazesi iki kardeşi yıllar sonra bir araya getiren yegane şeydir. Her ikisi de son görevlerini yerine getirip bir an önce kendi hayatlarına geri dönmeyi planlarken, geride kalan vasiyet her şeyi değiştirecektir.</desc>
+    <credits>
+      <director>Mert Baykal</director>
+      <actor>Burak Özçivit</actor>
+      <actor>Murat Boz</actor>
+      <actor>Aslı Enver</actor>
+      <actor>Nazan Kesal</actor>
+      <actor>Ferdi Sancar</actor>
+      <actor>Ahmet Gülhan</actor>
+      <actor>Burak Satıbol</actor>
+      <actor>Gözde Mutluer</actor>
+    </credits>
+    <date>2016</date>
+  </programme>
+  <programme start="20260120143000 +0300" stop="20260120162000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Çinliler Geliyor</title>
+    <desc lang="tr">Filmde, bir kasabada zengin olma hayalleriyle yaşayan insanların hikâyesi konu ediliyor.</desc>
+    <credits>
+      <director>Zeki Ökten</director>
+      <actor>Gürgen Öz</actor>
+      <actor>Serkan Keskin</actor>
+      <actor>Şenay Gürler</actor>
+      <actor>Salih Kalyon</actor>
+      <actor>Bülent Kayabaş</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="tr">Dram</category>
+  </programme>
+  <programme start="20260120162000 +0300" stop="20260120182000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Dönerse Senindir</title>
+    <desc lang="tr">İstanbul’da yaşayan 32 yaşındaki reklam fotoğrafçısı Mehmet, naif ve kendine özgü bir karakterdir. Hayatının aşkı Selin’den ayrılmasıyla depresyona giren Mehmet, tesadüf eseri Defne ile tanışır. Defne gizemli ve hafif çatlak bir kadındır. Mehmet’e Selin’i geri kazanması için yardım edeceğine söz vermesiyle bu amaç uğruna çalışan iyi bir takım olurlar. Bu işbirliği ikisinin de hayatını beklenmedik şekilde değiştirir. Önceleri Defne’ye minnet duyan Mehmet, onun gerçekte kim olduğunu ve Mehmet’e neden yardım ettiğini sonradan öğrenecektir.</desc>
+    <credits>
+      <director>Erol Özlevi</director>
+      <actor>Murat Boz</actor>
+      <actor>İrem Sak</actor>
+      <actor>Yasemin Allen</actor>
+      <actor>Uraz Kaygılaroğlu</actor>
+      <actor>Serhat Özcan</actor>
+      <actor>Burak Sevinç</actor>
+    </credits>
+    <date>2016</date>
+  </programme>
+  <programme start="20260120182000 +0300" stop="20260120200000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Şansimi Seveyim</title>
+  </programme>
+  <programme start="20260120200000 +0300" stop="20260120214000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Borç</title>
+    <desc lang="tr">Tufan, küçük bir matbaada çalışmaktadır. Yan dairede yalnız oturan komşuları Huriye, bir gece aniden fenalaşır. Doktor, Huriye’nin bir süre tek başına kalmaması gerektiğini söyler. Tufan, bakacak kimsesi olmayan Huriye’yi ortada bırakmayı göze alamaz ve bir süre onu evinde tutmaya karar verir. Yaşadığı kimi korku ve kaygıların sonucunda Tufan’ın “iyilik” hali önemli sınavlardan geçer.</desc>
+    <credits>
+      <director>Vuslat Saraçoğlu</director>
+      <actor>Serdar Orçin</actor>
+      <actor>İpek Türktan Kaynak</actor>
+      <actor>Beyti Engin</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="tr">Dram</category>
+  </programme>
+  <programme start="20260120214000 +0300" stop="20260120231000 +0300" channel="MovieSmartTurk.tr">
+    <title lang="tr">Hep Yek: Düğün</title>
+    <desc lang="tr">Altan ve Gürkan, hayatlarına her zaman heyecan katan iki kişidir ve zorlu mücadelelerle dolu bir yolculuğa atılmaktan çekinmezler. İstanbul’un karmaşasından kaçarak kendilerine yeni bir yaşam alanı arayan bu ikili, iç Anadolu’nun en güçlü mafya liderinin kızını kaçırmış olmanın verdiği riskle başa çıkmak zorundadır.</desc>
+    <credits>
+      <director>Bilal Kalyoncu</director>
+      <actor>İnan Ulaş Torun</actor>
+      <actor>Önder Açıkbaş</actor>
+      <actor>Çağan Atakan Arslan</actor>
+      <actor>Merve Cin</actor>
+      <actor>Savaş Satış</actor>
+    </credits>
+    <date>2023</date>
+  </programme>
   <channel id="DiziSmartPremium.tr">
     <display-name lang="tr">Dizi Smart Premium</display-name>
     <icon src="https://www.dsmart.com.tr/epg/images/0x60/59f972a9cfef0b75f4723f97" />
