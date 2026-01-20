@@ -268,7 +268,7 @@
     <title lang="tr">Panathinaikos - Baskonia</title>
     <desc lang="tr">Euroleague</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/14/0841125450075eb9b42e.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260120/12/0800166431945eb88428.webp" />
   </programme>
   <programme start="20260121001500 +0300" stop="20260121003000 +0300" channel="Sspor2.tr">
     <title lang="tr">Özetler</title>
@@ -289,15 +289,15 @@
   </programme>
   <programme start="20260121020000 +0300" stop="20260121040000 +0300" channel="Sspor2.tr">
     <title lang="tr">Super Cars</title>
-    <desc lang="tr">18. Bölüm</desc>
+    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/77/0000193062865eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260120/95/0800166432015eb88428.jpg" />
   </programme>
   <programme start="20260121040000 +0300" stop="20260121050000 +0300" channel="Sspor2.tr">
     <title lang="tr">Moto 3</title>
-    <desc lang="tr">San Marino</desc>
+    <desc lang="tr">Catalonia</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/20/0000193062915eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260120/98/0800166442075eb88428.jpg" />
   </programme>
   <programme start="20260121050000 +0300" stop="20260121060000 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
@@ -319,9 +319,9 @@
   </programme>
   <programme start="20260121090000 +0300" stop="20260121110000 +0300" channel="Sspor2.tr">
     <title lang="tr">Super Cars</title>
-    <desc lang="tr">19. Bölüm - 20. Bölüm</desc>
+    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/81/0000193073125eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260120/75/0800166442135eb88428.jpg" />
   </programme>
   <programme start="20260121110000 +0300" stop="20260121113000 +0300" channel="Sspor2.tr">
     <title lang="tr">World Strongest Man</title>
@@ -333,7 +333,7 @@
     <title lang="tr">Panathinaikos - Baskonia</title>
     <desc lang="tr">Euroleague</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/97/0000193083255eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260120/33/0800166442195eb88428.webp" />
   </programme>
   <programme start="20260121133000 +0300" stop="20260121153000 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
@@ -342,10 +342,10 @@
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/26/0000193083315eb78424.jpg" />
   </programme>
   <programme start="20260121153000 +0300" stop="20260121173000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Moto Gp -amp; Moto 2</title>
+    <title lang="tr">Moto GP - Moto 2</title>
     <desc lang="tr">Japonya</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/52/0000193083385eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260120/43/0800166442265eb88428.jpg" />
   </programme>
   <programme start="20260121173000 +0300" stop="20260121180000 +0300" channel="Sspor2.tr">
     <title lang="tr">Supertri</title>
@@ -373,7 +373,7 @@
     <title lang="tr">Panathinaikos - Baskonia</title>
     <desc lang="tr">Euroleague</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260119/79/0000193113755eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260120/64/0800166452325eb88428.webp" />
   </programme>
   <channel id="Fx.tr">
     <display-name lang="tr">FX HD</display-name>
