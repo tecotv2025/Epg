@@ -258,17 +258,123 @@
     <category lang="tr">Spor</category>
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/56/1700122112755eb9b42e.jpg" />
   </programme>
-  <programme start="20260126224500 +0300" stop="20260127070000 +0300" channel="Sspor2.tr">
+  <programme start="20260126224500 +0300" stop="20260127004500 +0300" channel="Sspor2.tr">
     <title lang="tr">Verona - Udinese</title>
     <desc lang="tr">Serie A 22. hafta maçı</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/13/1700122122835eb9b42e.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/77/0900105825595eb88428.webp" />
   </programme>
-  <programme start="20260127070000 +0300" stop="20260128070000 +0300" channel="Sspor2.tr">
+  <programme start="20260127004500 +0300" stop="20260127010000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Özetler</title>
+    <desc lang="tr">Maç Özeti</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/93/0800189424025eb88428.jpg" />
+  </programme>
+  <programme start="20260127010000 +0300" stop="20260127020000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Probull Riders</title>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/33/0800189424105eb88428.jpg" />
+  </programme>
+  <programme start="20260127020000 +0300" stop="20260127030000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Super Cars</title>
+    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/73/0800189424185eb88428.jpg" />
+  </programme>
+  <programme start="20260127030000 +0300" stop="20260127040000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Super Cars</title>
+    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/14/0800189434265eb88428.jpg" />
+  </programme>
+  <programme start="20260127040000 +0300" stop="20260127050000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Moto 3</title>
+    <desc lang="tr">Malezya</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/64/0800189434345eb88428.jpg" />
+  </programme>
+  <programme start="20260127050000 +0300" stop="20260127060000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Monster Jam</title>
+    <desc lang="tr">Birbirinden yetenekli sürücülerin, büyük ödül için kıyasıya yarıştığı Monster Jam yarışları ekranlarda...</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/9/0800189434425eb88428.jpg" />
+  </programme>
+  <programme start="20260127060000 +0300" stop="20260127070000 +0300" channel="Sspor2.tr">
+    <title lang="tr">ESPN Belgeseli</title>
+    <desc lang="tr">Dwyane Wade</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/96/0800189434505eb88428.jpg" />
+  </programme>
+  <programme start="20260127070000 +0300" stop="20260127090000 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
     <desc lang="tr">Geniş Özetler</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260123/28/1100317703095eb9b42e.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/31/0800189485435eb88428.jpg" />
+  </programme>
+  <programme start="20260127090000 +0300" stop="20260127100000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Super Cars</title>
+    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/7/0800189444585eb88428.jpg" />
+  </programme>
+  <programme start="20260127100000 +0300" stop="20260127110000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Super Cars</title>
+    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/10/0800189454665eb88428.jpg" />
+  </programme>
+  <programme start="20260127110000 +0300" stop="20260127113000 +0300" channel="Sspor2.tr">
+    <title lang="tr">World Strongest Man</title>
+    <desc lang="tr">Güç sporlarının en önemli etkinliği olan World Strongest Man, 30 yılı aşkın süredir dünyanın en güçlü adamlarını bir araya getiriyor.</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/42/0800189454745eb88428.jpg" />
+  </programme>
+  <programme start="20260127113000 +0300" stop="20260127133000 +0300" channel="Sspor2.tr">
+    <title lang="tr">ESPN Belgeseli</title>
+    <desc lang="tr">Dwyane Wade</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/92/0800189454825eb88428.jpg" />
+  </programme>
+  <programme start="20260127133000 +0300" stop="20260127153000 +0300" channel="Sspor2.tr">
+    <title lang="tr">İtalya Serie A</title>
+    <desc lang="tr">Geniş Özetler</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/77/0800189464905eb88428.jpg" />
+  </programme>
+  <programme start="20260127153000 +0300" stop="20260127173000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Moto GP - Moto 2</title>
+    <desc lang="tr">Portekiz</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/30/0800189464985eb88428.jpg" />
+  </programme>
+  <programme start="20260127173000 +0300" stop="20260127180000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Made In Italy</title>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/91/0800189465055eb88428.jpg" />
+  </programme>
+  <programme start="20260127180000 +0300" stop="20260127200000 +0300" channel="Sspor2.tr">
+    <title lang="tr">İtalya Serie A</title>
+    <desc lang="tr">Geniş Özetler</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/59/0800189465115eb88428.jpg" />
+  </programme>
+  <programme start="20260127200000 +0300" stop="20260127220000 +0300" channel="Sspor2.tr">
+    <title lang="tr">ESPN Belgeseli</title>
+    <desc lang="tr">Dwyane Wade</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/90/0800189475195eb88428.jpg" />
+  </programme>
+  <programme start="20260127220000 +0300" stop="20260127223000 +0300" channel="Sspor2.tr">
+    <title lang="tr">World Strongest Man</title>
+    <desc lang="tr">Güç sporlarının en önemli etkinliği olan World Strongest Man, 30 yılı aşkın süredir dünyanın en güçlü adamlarını bir araya getiriyor.</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/35/0800189475275eb88428.jpg" />
+  </programme>
+  <programme start="20260127223000 +0300" stop="20260128003000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Maccabi Tel Aviv - Panathinaikos</title>
+    <desc lang="tr">Euroleague</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/48/0800189485355eb88428.jpg" />
   </programme>
   <channel id="Fx.tr">
     <display-name lang="tr">FX HD</display-name>
@@ -892,16 +998,16 @@
   <programme start="20260126090000 +0300" stop="20260126094000 +0300" channel="BeinIz.tr">
     <title lang="tr">KENT HIKAYELERI SEZON 1</title>
   </programme>
-  <programme start="20260126094000 +0300" stop="20260126101000 +0300" channel="BeinIz.tr">
+  <programme start="20260126094000 +0300" stop="20260126101100 +0300" channel="BeinIz.tr">
     <title lang="tr">Sıra Dışı S1</title>
   </programme>
-  <programme start="20260126101000 +0300" stop="20260126105500 +0300" channel="BeinIz.tr">
+  <programme start="20260126101100 +0300" stop="20260126105500 +0300" channel="BeinIz.tr">
     <title lang="tr">NE HALİN VARSA GEZ 1. SEZON</title>
   </programme>
-  <programme start="20260126105500 +0300" stop="20260126113000 +0300" channel="BeinIz.tr">
+  <programme start="20260126105500 +0300" stop="20260126113100 +0300" channel="BeinIz.tr">
     <title lang="tr">Başka Hayat Mümkün</title>
   </programme>
-  <programme start="20260126113000 +0300" stop="20260126121000 +0300" channel="BeinIz.tr">
+  <programme start="20260126113100 +0300" stop="20260126121000 +0300" channel="BeinIz.tr">
     <title lang="tr">BAHARATIN YOLCULUGU SEZON 1</title>
   </programme>
   <programme start="20260126121000 +0300" stop="20260126125000 +0300" channel="BeinIz.tr">
@@ -910,10 +1016,10 @@
   <programme start="20260126125000 +0300" stop="20260126133500 +0300" channel="BeinIz.tr">
     <title lang="tr">Maceraperest Fransizka S1</title>
   </programme>
-  <programme start="20260126133500 +0300" stop="20260126141000 +0300" channel="BeinIz.tr">
+  <programme start="20260126133500 +0300" stop="20260126141100 +0300" channel="BeinIz.tr">
     <title lang="tr">Şimdi Ya Da Asla S1</title>
   </programme>
-  <programme start="20260126141000 +0300" stop="20260126145000 +0300" channel="BeinIz.tr">
+  <programme start="20260126141100 +0300" stop="20260126145000 +0300" channel="BeinIz.tr">
     <title lang="tr">Cenk &amp; Mike S2</title>
   </programme>
   <programme start="20260126145000 +0300" stop="20260126153000 +0300" channel="BeinIz.tr">
@@ -931,10 +1037,10 @@
   <programme start="20260126174500 +0300" stop="20260126182000 +0300" channel="BeinIz.tr">
     <title lang="tr">Sıra Dışı S1</title>
   </programme>
-  <programme start="20260126182000 +0300" stop="20260126185500 +0300" channel="BeinIz.tr">
+  <programme start="20260126182000 +0300" stop="20260126185600 +0300" channel="BeinIz.tr">
     <title lang="tr">Başka Hayat Mümkün</title>
   </programme>
-  <programme start="20260126185500 +0300" stop="20260126194000 +0300" channel="BeinIz.tr">
+  <programme start="20260126185600 +0300" stop="20260126194000 +0300" channel="BeinIz.tr">
     <title lang="tr">Bir Varmış Bir Yokmuş Anadolu</title>
   </programme>
   <programme start="20260126194000 +0300" stop="20260126201500 +0300" channel="BeinIz.tr">
@@ -961,10 +1067,10 @@
   <programme start="20260127030000 +0300" stop="20260127033500 +0300" channel="BeinIz.tr">
     <title lang="tr">KENT HIKAYELERI SEZON 1</title>
   </programme>
-  <programme start="20260127033500 +0300" stop="20260127040000 +0300" channel="BeinIz.tr">
+  <programme start="20260127033500 +0300" stop="20260127040100 +0300" channel="BeinIz.tr">
     <title lang="tr">Sıra Dışı S1</title>
   </programme>
-  <programme start="20260127040000 +0300" stop="20260127044000 +0300" channel="BeinIz.tr">
+  <programme start="20260127040100 +0300" stop="20260127044000 +0300" channel="BeinIz.tr">
     <title lang="tr">Bir Varmış Bir Yokmuş Anadolu</title>
   </programme>
   <programme start="20260127044000 +0300" stop="20260127052500 +0300" channel="BeinIz.tr">
