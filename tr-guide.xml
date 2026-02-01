@@ -818,7 +818,206 @@
   </channel>
   <channel id="BeinIz.tr">
     <display-name lang="tr">beIN İz TV HD</display-name>
+    <icon src="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-iz-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" />
   </channel>
+  <programme start="20260201003500 +0300" stop="20260201011000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Şimdi Ya Da Asla S1</title>
+  </programme>
+  <programme start="20260201011000 +0300" stop="20260201014000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Yolun Bittiği Yer S1</title>
+  </programme>
+  <programme start="20260201014000 +0300" stop="20260201021100 +0300" channel="BeinIz.tr">
+    <title lang="tr">Kalemimde Anadolu S1</title>
+  </programme>
+  <programme start="20260201021100 +0300" stop="20260201025100 +0300" channel="BeinIz.tr">
+    <title lang="tr">Tek Yol Doğa S1 ep 3</title>
+  </programme>
+  <programme start="20260201025100 +0300" stop="20260201032600 +0300" channel="BeinIz.tr">
+    <title lang="tr">Maceraperest Fransizka S1</title>
+  </programme>
+  <programme start="20260201032600 +0300" stop="20260201040100 +0300" channel="BeinIz.tr">
+    <title lang="tr">Duyulan Şehirler S1</title>
+  </programme>
+  <programme start="20260201040100 +0300" stop="20260201044500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Cenk &amp; Mike S2</title>
+  </programme>
+  <programme start="20260201044500 +0300" stop="20260201052000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Bir Varmış Bir Yokmuş Anadolu</title>
+  </programme>
+  <programme start="20260201052000 +0300" stop="20260201055600 +0300" channel="BeinIz.tr">
+    <title lang="tr">Yeniden S1</title>
+  </programme>
+  <programme start="20260201055600 +0300" stop="20260201064000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Erkan Can &amp; Güven Kıraç İle S2</title>
+  </programme>
+  <programme start="20260201064000 +0300" stop="20260201071600 +0300" channel="BeinIz.tr">
+    <title lang="tr">Yiğit'in Yolu S1</title>
+  </programme>
+  <programme start="20260201071600 +0300" stop="20260201074600 +0300" channel="BeinIz.tr">
+    <title lang="tr">İstanbul'un İskeleleri S1</title>
+  </programme>
+  <programme start="20260201074600 +0300" stop="20260201082000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Anadolu Seyahatnamesi S1</title>
+  </programme>
+  <programme start="20260201082000 +0300" stop="20260201090500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Doğada Kal S1</title>
+  </programme>
+  <programme start="20260201090500 +0300" stop="20260201094000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Şimdi Ya Da Asla S1</title>
+  </programme>
+  <programme start="20260201094000 +0300" stop="20260201102000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Erkan Can &amp; Güven Kıraç İle S2</title>
+  </programme>
+  <programme start="20260201102000 +0300" stop="20260201110000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Cenk &amp; Mike S2</title>
+  </programme>
+  <programme start="20260201110000 +0300" stop="20260201114000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Sıra Dışı S1</title>
+  </programme>
+  <programme start="20260201114000 +0300" stop="20260201122500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Doğada Kal S1</title>
+  </programme>
+  <programme start="20260201122500 +0300" stop="20260201130000 +0300" channel="BeinIz.tr">
+    <title lang="tr">İstanbul’un Edebiyat Haritası</title>
+  </programme>
+  <programme start="20260201130000 +0300" stop="20260201134000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Gerçek Tarihin İzinde S3</title>
+  </programme>
+  <programme start="20260201134000 +0300" stop="20260201141500 +0300" channel="BeinIz.tr">
+    <title lang="tr">İmza Peyzajım S1</title>
+  </programme>
+  <programme start="20260201141500 +0300" stop="20260201145000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Derin Mavi S2</title>
+  </programme>
+  <programme start="20260201145000 +0300" stop="20260201152500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Şehirli Köylüler S3</title>
+  </programme>
+  <programme start="20260201152500 +0300" stop="20260201160100 +0300" channel="BeinIz.tr">
+    <title lang="tr">Bir Ege Hayali S1</title>
+  </programme>
+  <programme start="20260201160100 +0300" stop="20260201163500 +0300" channel="BeinIz.tr">
+    <title lang="tr">İstanbul'un İskeleleri S1</title>
+  </programme>
+  <programme start="20260201163500 +0300" stop="20260201171000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Yeniden S1</title>
+  </programme>
+  <programme start="20260201171000 +0300" stop="20260201175000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Bir Varmış Bir Yokmuş Anadolu</title>
+  </programme>
+  <programme start="20260201175000 +0300" stop="20260201182500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Anadolu Seyahatnamesi S1</title>
+  </programme>
+  <programme start="20260201182500 +0300" stop="20260201190000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Yiğit'in Yolu S1</title>
+  </programme>
+  <programme start="20260201190000 +0300" stop="20260201193100 +0300" channel="BeinIz.tr">
+    <title lang="tr">ÖZEL GÖSTERİM</title>
+  </programme>
+  <programme start="20260201193100 +0300" stop="20260201200000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Yüksek İrtifa S1</title>
+  </programme>
+  <programme start="20260201200000 +0300" stop="20260201204500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Başka Hayat Mümkün</title>
+  </programme>
+  <programme start="20260201204500 +0300" stop="20260202003000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Tek Yol Doğa S1 ep 3</title>
+  </programme>
+  <programme start="20260202003000 +0300" stop="20260202011000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Bir Varmış Bir Yokmuş Anadolu</title>
+  </programme>
+  <programme start="20260202011000 +0300" stop="20260202014000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Gerçek Tarihin İzinde S3</title>
+  </programme>
+  <programme start="20260202014000 +0300" stop="20260202021500 +0300" channel="BeinIz.tr">
+    <title lang="tr">İmza Peyzajım S1</title>
+  </programme>
+  <programme start="20260202021500 +0300" stop="20260202024500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Derin Mavi S2</title>
+  </programme>
+  <programme start="20260202024500 +0300" stop="20260202031500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Şehirli Köylüler S3</title>
+  </programme>
+  <programme start="20260202031500 +0300" stop="20260202035100 +0300" channel="BeinIz.tr">
+    <title lang="tr">Bir Ege Hayali S1</title>
+  </programme>
+  <programme start="20260202035100 +0300" stop="20260202043000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Cenk &amp; Mike S2</title>
+  </programme>
+  <programme start="20260202043000 +0300" stop="20260202050000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Şimdi Ya Da Asla S1</title>
+  </programme>
+  <programme start="20260202050000 +0300" stop="20260202054500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Erkan Can &amp; Güven Kıraç İle S2</title>
+  </programme>
+  <programme start="20260202054500 +0300" stop="20260202063100 +0300" channel="BeinIz.tr">
+    <title lang="tr">Doğada Kal S1</title>
+  </programme>
+  <programme start="20260202063100 +0300" stop="20260202070000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Anadolu Seyahatnamesi S1</title>
+  </programme>
+  <programme start="20260202070000 +0300" stop="20260202072500 +0300" channel="BeinIz.tr">
+    <title lang="tr">İstanbul'un İskeleleri S1</title>
+  </programme>
+  <programme start="20260202072500 +0300" stop="20260202075500 +0300" channel="BeinIz.tr">
+    <title lang="tr">İstanbul’un Edebiyat Haritası</title>
+  </programme>
+  <programme start="20260202075500 +0300" stop="20260202083000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Yiğit'in Yolu S1</title>
+  </programme>
+  <programme start="20260202083000 +0300" stop="20260202090000 +0300" channel="BeinIz.tr">
+    <title lang="tr">ÖZEL GÖSTERİM</title>
+  </programme>
+  <programme start="20260202090000 +0300" stop="20260202094500 +0300" channel="BeinIz.tr">
+    <title lang="tr">COŞKUN ARAL'IN DÜNYA GÜNCESİ</title>
+  </programme>
+  <programme start="20260202094500 +0300" stop="20260202103500 +0300" channel="BeinIz.tr">
+    <title lang="tr">SUDAKİ İZLER</title>
+  </programme>
+  <programme start="20260202103500 +0300" stop="20260202111500 +0300" channel="BeinIz.tr">
+    <title lang="tr">NE HALİN VARSA GEZ 1. SEZON</title>
+  </programme>
+  <programme start="20260202111500 +0300" stop="20260202115000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Başka Hayat Mümkün</title>
+  </programme>
+  <programme start="20260202115000 +0300" stop="20260202124000 +0300" channel="BeinIz.tr">
+    <title lang="tr">ORMAN YOLU SEZON 1</title>
+  </programme>
+  <programme start="20260202124000 +0300" stop="20260202132500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Tek Yol Doğa S1 ep 3</title>
+  </programme>
+  <programme start="20260202132500 +0300" stop="20260202140000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Maceraperest Fransizka S1</title>
+  </programme>
+  <programme start="20260202140000 +0300" stop="20260202144000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Şimdi Ya Da Asla S1</title>
+  </programme>
+  <programme start="20260202144000 +0300" stop="20260202152000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Limonata</title>
+  </programme>
+  <programme start="20260202152000 +0300" stop="20260202155500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Kalemimde Anadolu S1</title>
+  </programme>
+  <programme start="20260202155500 +0300" stop="20260202164000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Duyulan Şehirler S1</title>
+  </programme>
+  <programme start="20260202164000 +0300" stop="20260202172000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Cenk &amp; Mike S2</title>
+  </programme>
+  <programme start="20260202172000 +0300" stop="20260202180000 +0300" channel="BeinIz.tr">
+    <title lang="tr">COŞKUN ARAL'IN DÜNYA GÜNCESİ</title>
+  </programme>
+  <programme start="20260202180000 +0300" stop="20260202185500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Başka Hayat Mümkün</title>
+  </programme>
+  <programme start="20260202185500 +0300" stop="20260202194000 +0300" channel="BeinIz.tr">
+    <title lang="tr">SEFERİ S1</title>
+  </programme>
+  <programme start="20260202194000 +0300" stop="20260202202000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Limonata</title>
+  </programme>
+  <programme start="20260202202000 +0300" stop="20260202205500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Bir Ege Hayali S1</title>
+  </programme>
   <channel id="SinemaTV.tr">
     <display-name lang="tr">Sinema Tv</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinematv_ikon.png?w=120%h=0" />
