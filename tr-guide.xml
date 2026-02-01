@@ -181,123 +181,6 @@
     <display-name lang="tr">S SPORT 2</display-name>
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240903/65/0637039002925eb8f42a_op.png" />
   </channel>
-  <programme start="20260131030000 +0300" stop="20260131040000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Super Cars</title>
-    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/19/0104287432765eb8f42a.jpg" />
-  </programme>
-  <programme start="20260131040000 +0300" stop="20260131050000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Moto 3</title>
-    <desc lang="tr">Arjantin</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/99/2204311946675eb88428.jpg" />
-  </programme>
-  <programme start="20260131050000 +0300" stop="20260131060000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Tenis Klasik Maç</title>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/36/2204311946755eb88428.jpg" />
-  </programme>
-  <programme start="20260131060000 +0300" stop="20260131070000 +0300" channel="Sspor2.tr">
-    <title lang="tr">ESPN Belgeseli</title>
-    <desc lang="tr">Dwyane Wade</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/13/2204311956835eb88428.jpg" />
-  </programme>
-  <programme start="20260131070000 +0300" stop="20260131090000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Kızılyıldız - Dubai Basket</title>
-    <desc lang="tr">Euroleague</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260130/94/0000191799335eb78424.webp" />
-  </programme>
-  <programme start="20260131090000 +0300" stop="20260131110000 +0300" channel="Sspor2.tr">
-    <title lang="tr">İtalya Serie A</title>
-    <desc lang="tr">Özetler</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/84/2204311956965eb88428.jpg" />
-  </programme>
-  <programme start="20260131110000 +0300" stop="20260131120000 +0300" channel="Sspor2.tr">
-    <title lang="tr">ESPN Belgeseli</title>
-    <desc lang="tr">Dwyane Wade</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/32/2204311957045eb88428.jpg" />
-  </programme>
-  <programme start="20260131120000 +0300" stop="20260131130000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Super Cars</title>
-    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/17/0104287432885eb8f42a.jpg" />
-  </programme>
-  <programme start="20260131130000 +0300" stop="20260131140000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Super Cars</title>
-    <desc lang="tr">Supercars dünyanın en pahalı, en prestijli ve en hızlı araçlarını ekrana getiriyor.</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/78/0104287402145eb8f42a.jpg" />
-  </programme>
-  <programme start="20260131140000 +0300" stop="20260131143000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Monster Jam</title>
-    <desc lang="tr">Birbirinden yetenekli sürücülerin, büyük ödül için kıyasıya yarıştığı Monster Jam yarışları ekranlarda...</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/95/2204311967175eb88428.jpg" />
-  </programme>
-  <programme start="20260131143000 +0300" stop="20260131163000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Olympiacos - Barcelona</title>
-    <desc lang="tr">Euroleague</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/62/0104287432945eb8f42a.jpg" />
-  </programme>
-  <programme start="20260131163000 +0300" stop="20260131170000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Inside Serie A</title>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/45/2204311977305eb88428.jpg" />
-  </programme>
-  <programme start="20260131170000 +0300" stop="20260131190000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Pisa - Sassuolo</title>
-    <desc lang="tr">İtalya Serie A 23. Hafta Maçı</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260130/85/2136193335365eb78424.webp" />
-  </programme>
-  <programme start="20260131190000 +0300" stop="20260131193000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Made In Italy</title>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/81/2204311987425eb88428.jpg" />
-  </programme>
-  <programme start="20260131193000 +0300" stop="20260131200000 +0300" channel="Sspor2.tr">
-    <title lang="tr">İtalya Serie A</title>
-    <desc lang="tr">Özetler</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/86/2204311987485eb88428.jpg" />
-  </programme>
-  <programme start="20260131200000 +0300" stop="20260131220000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Napoli - Fiorentina</title>
-    <desc lang="tr">İtalya Serie A 23. Hafta Maçı</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260130/15/2136193335435eb78424.webp" />
-  </programme>
-  <programme start="20260131220000 +0300" stop="20260131224500 +0300" channel="Sspor2.tr">
-    <title lang="tr">İtalya Serie A</title>
-    <desc lang="tr">Özetler</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/48/2204311997615eb88428.jpg" />
-  </programme>
-  <programme start="20260131224500 +0300" stop="20260201004500 +0300" channel="Sspor2.tr">
-    <title lang="tr">Cagliari - Verona</title>
-    <desc lang="tr">İtalya Serie A 23. Hafta Maçı</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260130/74/2136193345505eb78424.webp" />
-  </programme>
-  <programme start="20260201004500 +0300" stop="20260201010000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Özetler</title>
-    <desc lang="tr">Maç Özeti</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/22/2204311997745eb88428.jpg" />
-  </programme>
-  <programme start="20260201010000 +0300" stop="20260201030000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Kızılyıldız - Dubai Basket</title>
-    <desc lang="tr">Euroleague</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260131/57/2136167211715eb78424.jpg" />
-  </programme>
   <programme start="20260201030000 +0300" stop="20260201050000 +0300" channel="Sspor2.tr">
     <title lang="tr">ESPN Belgeseli</title>
     <desc lang="tr">Dwyane Wade</desc>
@@ -344,7 +227,7 @@
     <title lang="tr">Torino - Lecce</title>
     <desc lang="tr">İtalya Serie A 23. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260131/98/2136167221805eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260201/92/0200165531925eb9b42e.webp" />
   </programme>
   <programme start="20260201163000 +0300" stop="20260201170000 +0300" channel="Sspor2.tr">
     <title lang="tr">Supertri</title>
@@ -355,7 +238,7 @@
     <title lang="tr">Como - Atalanta</title>
     <desc lang="tr">İtalya Serie A 23. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260131/6/2136167221835eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260201/4/0200165532015eb9b42e.webp" />
   </programme>
   <programme start="20260201190000 +0300" stop="20260201193000 +0300" channel="Sspor2.tr">
     <title lang="tr">Tenis Klasik Maç</title>
@@ -372,7 +255,7 @@
     <title lang="tr">Cremonese - Inter</title>
     <desc lang="tr">İtalya Serie A 23. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260131/1/2136167221865eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260201/18/0200165532105eb9b42e.webp" />
   </programme>
   <programme start="20260201220000 +0300" stop="20260201224500 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
@@ -384,7 +267,7 @@
     <title lang="tr">Parma - Juventus</title>
     <desc lang="tr">İtalya Serie A 23. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260131/88/2136167221895eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260201/1/0200165542195eb9b42e.webp" />
   </programme>
   <programme start="20260202004500 +0300" stop="20260202010000 +0300" channel="Sspor2.tr">
     <title lang="tr">Özetler</title>
@@ -398,267 +281,22 @@
     <category lang="tr">Spor</category>
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260131/46/2136167231935eb78424.webp" />
   </programme>
+  <programme start="20260202040000 +0300" stop="20260202060000 +0300" channel="Sspor2.tr">
+    <title lang="tr">Olympiacos - Barcelona</title>
+    <desc lang="tr">Euroleague</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260131/46/2136167232005eb78424.webp" />
+  </programme>
+  <programme start="20260202060000 +0300" stop="20260203070000 +0300" channel="Sspor2.tr">
+    <title lang="tr">World Strongest Man</title>
+    <desc lang="tr">Güç sporlarının en önemli etkinliği olan World Strongest Man, 30 yılı aşkın süredir dünyanın en güçlü adamlarını bir araya getiriyor.</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260130/1/2136193335285eb78424.jpg" />
+  </programme>
   <channel id="Fx.tr">
     <display-name lang="tr">FX HD</display-name>
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160211/001300/001300000000000741833/f018bfb0-0a96-4c16-8dd4-1c64eddfd098.png" />
   </channel>
-  <programme start="20260131022000 +0300" stop="20260131031000 +0300" channel="Fx.tr">
-    <title lang="tr">Under the Bridge</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Ortaya çıkan dava, kimi savunması gerektiğini sorgulayan Rebecca'yı uçurumun kenarına iter.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/47/2126429148635eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-  </programme>
-  <programme start="20260131031000 +0300" stop="20260131035500 +0300" channel="Fx.tr">
-    <title lang="tr">White Collar</title>
-    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260130/51/2136242830555eb9542c.jpg" />
-    <episode-num system="xmltv_ns">2.9.</episode-num>
-  </programme>
-  <programme start="20260131035500 +0300" stop="20260131045500 +0300" channel="Fx.tr">
-    <title lang="tr">The Resident</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
-    <credits>
-      <director>John Brawley</director>
-      <director>Robert Duncan McNeill</director>
-    </credits>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/67/2126429148695eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-  </programme>
-  <programme start="20260131045500 +0300" stop="20260131052000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’e (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/81/2126429148775eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">7.20.</episode-num>
-  </programme>
-  <programme start="20260131052000 +0300" stop="20260131060000 +0300" channel="Fx.tr">
-    <title lang="tr">White Collar</title>
-    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
-    <category lang="tr">Dizi</category>
-    <episode-num system="xmltv_ns">2.9.</episode-num>
-  </programme>
-  <programme start="20260131060000 +0300" stop="20260131064500 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/74/2126429148855eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-  </programme>
-  <programme start="20260131064500 +0300" stop="20260131073000 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/37/2126429168935eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">2.7.</episode-num>
-  </programme>
-  <programme start="20260131073000 +0300" stop="20260131081500 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/25/2126429169015eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">2.8.</episode-num>
-  </programme>
-  <programme start="20260131081500 +0300" stop="20260131090000 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/97/2126429169095eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">2.9.</episode-num>
-  </programme>
-  <programme start="20260131090000 +0300" stop="20260131095000 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/67/2126429169175eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">2.10.</episode-num>
-  </programme>
-  <programme start="20260131095000 +0300" stop="20260131105000 +0300" channel="Fx.tr">
-    <title lang="tr">The Resident</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
-    <credits>
-      <director>John Brawley</director>
-      <director>Robert Duncan McNeill</director>
-    </credits>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/98/2126429179255eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-  </programme>
-  <programme start="20260131105000 +0300" stop="20260131115000 +0300" channel="Fx.tr">
-    <title lang="tr">The Resident</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
-    <credits>
-      <director>John Brawley</director>
-      <director>Robert Duncan McNeill</director>
-    </credits>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/70/2126429179335eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-  </programme>
-  <programme start="20260131115000 +0300" stop="20260131125000 +0300" channel="Fx.tr">
-    <title lang="tr">The Resident</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
-    <credits>
-      <director>John Brawley</director>
-      <director>Robert Duncan McNeill</director>
-    </credits>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/97/2126429179415eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-  </programme>
-  <programme start="20260131125000 +0300" stop="20260131135000 +0300" channel="Fx.tr">
-    <title lang="tr">The Resident</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
-    <credits>
-      <director>John Brawley</director>
-      <director>Robert Duncan McNeill</director>
-    </credits>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/3/2126429179495eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-  </programme>
-  <programme start="20260131135000 +0300" stop="20260131145500 +0300" channel="Fx.tr">
-    <title lang="tr">The Resident</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
-    <credits>
-      <director>John Brawley</director>
-      <director>Robert Duncan McNeill</director>
-    </credits>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/58/2126429199575eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-  </programme>
-  <programme start="20260131145500 +0300" stop="20260131154000 +0300" channel="Fx.tr">
-    <title lang="tr">White Collar</title>
-    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
-    <category lang="tr">Dizi</category>
-    <episode-num system="xmltv_ns">2.5.</episode-num>
-  </programme>
-  <programme start="20260131154000 +0300" stop="20260131162500 +0300" channel="Fx.tr">
-    <title lang="tr">White Collar</title>
-    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
-    <category lang="tr">Dizi</category>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-  </programme>
-  <programme start="20260131162500 +0300" stop="20260131171000 +0300" channel="Fx.tr">
-    <title lang="tr">White Collar</title>
-    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
-    <category lang="tr">Dizi</category>
-    <episode-num system="xmltv_ns">2.7.</episode-num>
-  </programme>
-  <programme start="20260131171000 +0300" stop="20260131175500 +0300" channel="Fx.tr">
-    <title lang="tr">White Collar</title>
-    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
-    <category lang="tr">Dizi</category>
-    <episode-num system="xmltv_ns">2.8.</episode-num>
-  </programme>
-  <programme start="20260131175500 +0300" stop="20260131184000 +0300" channel="Fx.tr">
-    <title lang="tr">White Collar</title>
-    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
-    <category lang="tr">Dizi</category>
-    <episode-num system="xmltv_ns">2.9.</episode-num>
-  </programme>
-  <programme start="20260131184000 +0300" stop="20260131192000 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/30/2126429199655eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-  </programme>
-  <programme start="20260131192000 +0300" stop="20260131200500 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/67/2126429199735eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">2.7.</episode-num>
-  </programme>
-  <programme start="20260131200500 +0300" stop="20260131205000 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/78/2126429199815eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">2.8.</episode-num>
-  </programme>
-  <programme start="20260131205000 +0300" stop="20260131213500 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/21/2126429209895eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">2.9.</episode-num>
-  </programme>
-  <programme start="20260131213500 +0300" stop="20260131222000 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/2/2126429209975eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">2.10.</episode-num>
-  </programme>
-  <programme start="20260131222000 +0300" stop="20260131231000 +0300" channel="Fx.tr">
-    <title lang="tr">High Potential</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Olağanüstü zeki bir bekâr anne Los Angeles Emniyeti'nin Büyük Suçlar birimine kabul edilir ve suçları çözmedeki sıra dışı becerisi sayesinde, kurallara uyan emektar bir dedektifle alışılmadık ve engel tanımaz bir ortaklık kurar.</desc>
-    <credits>
-      <actor>Daniel Sunjata</actor>
-      <actor>Javicia Leslie</actor>
-      <actor>Kaitlin Olson</actor>
-    </credits>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/92/2126429200055eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-  </programme>
-  <programme start="20260131231000 +0300" stop="20260201000000 +0300" channel="Fx.tr">
-    <title lang="tr">The Old Man</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Chase, Zoe'yi kurtarmak için her şeyi riske atarken Suleyman Pavlovich tarafından esir alınır.</desc>
-    <credits>
-      <actor>Jeff Bridges</actor>
-      <actor>John Lithgow</actor>
-    </credits>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260125/41/2126429200135eb9b42e.jpg" />
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-  </programme>
-  <programme start="20260201000000 +0300" stop="20260201005000 +0300" channel="Fx.tr">
-    <title lang="tr">Under the Bridge</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Ortaya çıkan dava, kimi savunması gerektiğini sorgulayan Rebecca'yı uçurumun kenarına iter.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/89/2126193231505eb9542c.jpg" />
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-  </programme>
-  <programme start="20260201005000 +0300" stop="20260201013500 +0300" channel="Fx.tr">
-    <title lang="tr">Will Trent</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) Bir şirkette yaşanan anlaşmazlık birkaç kişinin zehirlenmesine yol açar.</desc>
-    <credits>
-      <director>Howard Deutch</director>
-      <actor>Erika Christensen</actor>
-      <actor>Iantha Richardson</actor>
-      <actor>Ram?n Rodriguez</actor>
-    </credits>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/72/2126193231565eb9542c.jpg" />
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-  </programme>
-  <programme start="20260201013500 +0300" stop="20260201022500 +0300" channel="Fx.tr">
-    <title lang="tr">The Dropout</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) İyimser ve kararlı genç Elizabeth Holmes, yeni ve gelecek vaat eden bir kan testi şirketi kurmak için Stanford'da okumayı bırakır.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/6/2126193231645eb9542c.jpg" />
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20260201022500 +0300" stop="20260201023500 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’e (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/19/2126193231725eb9542c.jpg" />
-    <episode-num system="xmltv_ns">7.12.</episode-num>
-  </programme>
-  <programme start="20260201023500 +0300" stop="20260201030000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’e (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/53/2126193241805eb9542c.jpg" />
-    <episode-num system="xmltv_ns">7.13.</episode-num>
-  </programme>
   <programme start="20260201030000 +0300" stop="20260201032000 +0300" channel="Fx.tr">
     <title lang="tr">How i Met Your Mother</title>
     <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’e (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
@@ -927,6 +565,237 @@
     <category lang="tr">Dizi</category>
     <episode-num system="xmltv_ns">2.5.</episode-num>
   </programme>
+  <programme start="20260202031000 +0300" stop="20260202035500 +0300" channel="Fx.tr">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+    <category lang="tr">Dizi</category>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+  </programme>
+  <programme start="20260202035500 +0300" stop="20260202044000 +0300" channel="Fx.tr">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+    <category lang="tr">Dizi</category>
+    <episode-num system="xmltv_ns">2.7.</episode-num>
+  </programme>
+  <programme start="20260202044000 +0300" stop="20260202052500 +0300" channel="Fx.tr">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+    <category lang="tr">Dizi</category>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+  </programme>
+  <programme start="20260202052500 +0300" stop="20260202060000 +0300" channel="Fx.tr">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+    <category lang="tr">Dizi</category>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+  </programme>
+  <programme start="20260202060000 +0300" stop="20260202064500 +0300" channel="Fx.tr">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/90/2136286393075eb78424.jpg" />
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+  </programme>
+  <programme start="20260202064500 +0300" stop="20260202073000 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/8/2136286393155eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+  </programme>
+  <programme start="20260202073000 +0300" stop="20260202081500 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/33/2136286403235eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+  </programme>
+  <programme start="20260202081500 +0300" stop="20260202083500 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/55/2136286403315eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.16.</episode-num>
+  </programme>
+  <programme start="20260202083500 +0300" stop="20260202090000 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/46/2136286413395eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.17.</episode-num>
+  </programme>
+  <programme start="20260202090000 +0300" stop="20260202094500 +0300" channel="Fx.tr">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+    <category lang="tr">Dizi</category>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+  </programme>
+  <programme start="20260202094500 +0300" stop="20260202103000 +0300" channel="Fx.tr">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/56/2136286413475eb78424.jpg" />
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+  </programme>
+  <programme start="20260202103000 +0300" stop="20260202111500 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/23/2136286413555eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+  </programme>
+  <programme start="20260202111500 +0300" stop="20260202120000 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/7/2136286423635eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+  </programme>
+  <programme start="20260202120000 +0300" stop="20260202122000 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/7/2136286433715eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.18.</episode-num>
+  </programme>
+  <programme start="20260202122000 +0300" stop="20260202125000 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/34/2136286433795eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.19.</episode-num>
+  </programme>
+  <programme start="20260202125000 +0300" stop="20260202134000 +0300" channel="Fx.tr">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+    <category lang="tr">Dizi</category>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+  </programme>
+  <programme start="20260202134000 +0300" stop="20260202143000 +0300" channel="Fx.tr">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/42/2136286443875eb78424.jpg" />
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+  </programme>
+  <programme start="20260202143000 +0300" stop="20260202152000 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/37/2136286443955eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+  </programme>
+  <programme start="20260202152000 +0300" stop="20260202161000 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/58/2136286444035eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.15.</episode-num>
+  </programme>
+  <programme start="20260202161000 +0300" stop="20260202163000 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/55/2136286444115eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.20.</episode-num>
+  </programme>
+  <programme start="20260202163000 +0300" stop="20260202170000 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/4/2136286454195eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.21.</episode-num>
+  </programme>
+  <programme start="20260202170000 +0300" stop="20260202175000 +0300" channel="Fx.tr">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+    <category lang="tr">Dizi</category>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+  </programme>
+  <programme start="20260202175000 +0300" stop="20260202184500 +0300" channel="Fx.tr">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/85/2136286454275eb78424.jpg" />
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
+  <programme start="20260202184500 +0300" stop="20260202194000 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/82/2136286464355eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.16.</episode-num>
+  </programme>
+  <programme start="20260202194000 +0300" stop="20260202203000 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/94/2136286474435eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.17.</episode-num>
+  </programme>
+  <programme start="20260202203000 +0300" stop="20260202205000 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/28/2136286474515eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.22.</episode-num>
+  </programme>
+  <programme start="20260202205000 +0300" stop="20260202213000 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/14/2136286484595eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.23.</episode-num>
+  </programme>
+  <programme start="20260202213000 +0300" stop="20260202223000 +0300" channel="Fx.tr">
+    <title lang="tr">Under the Bridge</title>
+    <desc lang="tr">Adalet için son fırsat, katılımcıların olaylara gerçek katılımlarını kabul etmesiyle ortaya çıkar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/5/2136286484665eb78424.jpg" />
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20260202223000 +0300" stop="20260202231500 +0300" channel="Fx.tr">
+    <title lang="tr">Tracker</title>
+    <desc lang="tr">Colter, gerçeğe giden yolda tedirgin edici ipuçlarının izini sürer.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/28/2136286484725eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+  </programme>
+  <programme start="20260202231500 +0300" stop="20260203001500 +0300" channel="Fx.tr">
+    <title lang="tr">Under the Bridge</title>
+    <desc lang="tr">Adalet için son fırsat, katılımcıların olaylara gerçek katılımlarını kabul etmesiyle ortaya çıkar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/29/2136286494795eb78424.jpg" />
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20260203001500 +0300" stop="20260203010000 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/36/2136286494855eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.16.</episode-num>
+  </programme>
+  <programme start="20260203010000 +0300" stop="20260203014500 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/96/2136286494935eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.17.</episode-num>
+  </programme>
+  <programme start="20260203014500 +0300" stop="20260203023500 +0300" channel="Fx.tr">
+    <title lang="tr">The Dropout</title>
+    <desc lang="tr">İyimser ve kararlı genç Elizabeth Holmes, yeni ve gelecek vaat eden bir kan testi şirketi kurmak için Stanford'da okumayı bırakır.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/47/2136286515015eb78424.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20260203023500 +0300" stop="20260203031500 +0300" channel="Fx.tr">
+    <title lang="tr">High Potential</title>
+    <desc lang="tr">Morgan ve Karadec, bir eser kurtarma uzmanıyla birlikte karmaşık bir davanın peşine düşer.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/54/2136286515095eb78424.jpg" />
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
   <channel id="SporSmart.tr">
     <display-name lang="tr">Spor Smart</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART.png" />
@@ -949,301 +818,11 @@
   </channel>
   <channel id="BeinIz.tr">
     <display-name lang="tr">beIN İz TV HD</display-name>
-    <icon src="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-iz-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" />
   </channel>
-  <programme start="20260201001000 +0300" stop="20260201005100 +0300" channel="BeinIz.tr">
-    <title lang="tr">Cenk &amp; Mike S2</title>
-  </programme>
-  <programme start="20260201005100 +0300" stop="20260201013000 +0300" channel="BeinIz.tr">
-    <title lang="tr">BAHARATIN YOLCULUGU SEZON 1</title>
-  </programme>
-  <programme start="20260201013000 +0300" stop="20260201021000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Tek Yol Doğa S1 ep 3</title>
-  </programme>
-  <programme start="20260201021000 +0300" stop="20260201024000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Maceraperest Fransizka S1</title>
-  </programme>
-  <programme start="20260201024000 +0300" stop="20260201031000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Başka Hayat Mümkün</title>
-  </programme>
-  <programme start="20260201031000 +0300" stop="20260201034500 +0300" channel="BeinIz.tr">
-    <title lang="tr">BES SEHIR SEZON 1</title>
-  </programme>
-  <programme start="20260201034500 +0300" stop="20260201041000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Yüksek İrtifa S1</title>
-  </programme>
-  <programme start="20260201041000 +0300" stop="20260201044000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Şimdi Ya Da Asla S1</title>
-  </programme>
-  <programme start="20260201044000 +0300" stop="20260201051000 +0300" channel="BeinIz.tr">
-    <title lang="tr">BAĞIMSIZ FİLMLER</title>
-  </programme>
-  <programme start="20260201051000 +0300" stop="20260201055500 +0300" channel="BeinIz.tr">
-    <title lang="tr">SUDAKİ İZLER</title>
-  </programme>
-  <programme start="20260201055500 +0300" stop="20260201063600 +0300" channel="BeinIz.tr">
-    <title lang="tr">Doğada Kal S1</title>
-  </programme>
-  <programme start="20260201063600 +0300" stop="20260201071000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Anadolu Seyahatnamesi S1</title>
-  </programme>
-  <programme start="20260201071000 +0300" stop="20260201075000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Cenk &amp; Mike S2</title>
-  </programme>
-  <programme start="20260201075000 +0300" stop="20260201083000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Suda Yaşayanlar S1</title>
-  </programme>
-  <programme start="20260201083000 +0300" stop="20260201090100 +0300" channel="BeinIz.tr">
-    <title lang="tr">İstanbul’un Edebiyat Haritası</title>
-  </programme>
-  <programme start="20260201090100 +0300" stop="20260201093600 +0300" channel="BeinIz.tr">
-    <title lang="tr">Bir Varmış Bir Yokmuş Anadolu</title>
-  </programme>
-  <programme start="20260201093600 +0300" stop="20260201095600 +0300" channel="BeinIz.tr">
-    <title lang="tr">ÖZEL GÖSTERİM</title>
-  </programme>
-  <programme start="20260201095600 +0300" stop="20260201103500 +0300" channel="BeinIz.tr">
-    <title lang="tr">Yeniden S1</title>
-  </programme>
-  <programme start="20260201103500 +0300" stop="20260201112100 +0300" channel="BeinIz.tr">
-    <title lang="tr">Cenk &amp; Mike S2</title>
-  </programme>
-  <programme start="20260201112100 +0300" stop="20260201115000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Sıra Dışı S1</title>
-  </programme>
-  <programme start="20260201115000 +0300" stop="20260201122600 +0300" channel="BeinIz.tr">
-    <title lang="tr">İstanbul'un İskeleleri S1</title>
-  </programme>
-  <programme start="20260201122600 +0300" stop="20260201130100 +0300" channel="BeinIz.tr">
-    <title lang="tr">Anadolu Seyahatnamesi S1</title>
-  </programme>
-  <programme start="20260201130100 +0300" stop="20260201134100 +0300" channel="BeinIz.tr">
-    <title lang="tr">Kalemimde Anadolu S1</title>
-  </programme>
-  <programme start="20260201134100 +0300" stop="20260201142500 +0300" channel="BeinIz.tr">
-    <title lang="tr">Tek Yol Doğa S1 ep 3</title>
-  </programme>
-  <programme start="20260201142500 +0300" stop="20260201150100 +0300" channel="BeinIz.tr">
-    <title lang="tr">Yolun Bittiği Yer S1</title>
-  </programme>
-  <programme start="20260201150100 +0300" stop="20260201154000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Maceraperest Fransizka S1</title>
-  </programme>
-  <programme start="20260201154000 +0300" stop="20260201162000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Duyulan Şehirler S1</title>
-  </programme>
-  <programme start="20260201162000 +0300" stop="20260201165500 +0300" channel="BeinIz.tr">
-    <title lang="tr">Yiğit'in Yolu S1</title>
-  </programme>
-  <programme start="20260201165500 +0300" stop="20260201174100 +0300" channel="BeinIz.tr">
-    <title lang="tr">BAHARATIN YOLCULUGU SEZON 1</title>
-  </programme>
-  <programme start="20260201174100 +0300" stop="20260201181500 +0300" channel="BeinIz.tr">
-    <title lang="tr">Şimdi Ya Da Asla S1</title>
-  </programme>
-  <programme start="20260201181500 +0300" stop="20260201190100 +0300" channel="BeinIz.tr">
-    <title lang="tr">Erkan Can &amp; Güven Kıraç İle S2</title>
-  </programme>
-  <programme start="20260201190100 +0300" stop="20260201194500 +0300" channel="BeinIz.tr">
-    <title lang="tr">Doğada Kal S1</title>
-  </programme>
-  <programme start="20260201194500 +0300" stop="20260201201500 +0300" channel="BeinIz.tr">
-    <title lang="tr">Yüksek İrtifa S1</title>
-  </programme>
-  <programme start="20260201201500 +0300" stop="20260201205000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Başka Hayat Mümkün</title>
-  </programme>
-  <programme start="20260201205000 +0300" stop="20260202003500 +0300" channel="BeinIz.tr">
-    <title lang="tr">Gerçek Tarihin İzinde S3</title>
-  </programme>
-  <programme start="20260202003500 +0300" stop="20260202011000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Şimdi Ya Da Asla S1</title>
-  </programme>
-  <programme start="20260202011000 +0300" stop="20260202014000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Yolun Bittiği Yer S1</title>
-  </programme>
-  <programme start="20260202014000 +0300" stop="20260202021100 +0300" channel="BeinIz.tr">
-    <title lang="tr">Kalemimde Anadolu S1</title>
-  </programme>
-  <programme start="20260202021100 +0300" stop="20260202025100 +0300" channel="BeinIz.tr">
-    <title lang="tr">Tek Yol Doğa S1 ep 3</title>
-  </programme>
-  <programme start="20260202025100 +0300" stop="20260202032600 +0300" channel="BeinIz.tr">
-    <title lang="tr">Maceraperest Fransizka S1</title>
-  </programme>
   <channel id="SinemaTV.tr">
     <display-name lang="tr">Sinema Tv</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinematv_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260131020000 +0300" stop="20260131033000 +0300" channel="SinemaTV.tr">
-    <title lang="tr">Satıcı</title>
-    <title lang="xx">Dealer</title>
-    <desc lang="tr">Uzun süredir kokain trafiğinin içinde bulunan Dan (Dan Bronchinson), kendini bu girdaptan sıyırmayı başarır. Ancak, hayallerini gerçekleştirebileceği bir fırsat yakalar: son bir iş yapacak ve ardından kızı ile birlikte Avustralya'ya taşınarak yeni bir hayat kuracaktır. Bir süre sonra kendini çok daha karanlık bir oyunun içinde bulur. Üstelik sadece kendi hayatı değil, kızının hayatı da tehlike altındadır.</desc>
-    <credits>
-      <director>Jean Luc Herbulot</director>
-      <actor>Dan Bronchinson</actor>
-      <actor>Elsa Madeleine</actor>
-      <actor>Salem Kali</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131033000 +0300" stop="20260131051500 +0300" channel="SinemaTV.tr">
-    <title lang="tr">Big Sky River</title>
-    <desc lang="tr">Tara, kötü bir boşanmanın ardından kendini en mutlu hissettiği yer olan Parable, Montana'ya geri döner ve ona beklenmedik bir sürpriz yapan yakışıklı komşusuyla tanışır.</desc>
-    <credits>
-      <director>Peter Benson</director>
-      <actor>Emmanuelle Vaugier</actor>
-      <actor>Kavan Smith</actor>
-      <actor>Lochlyn Munro</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131051500 +0300" stop="20260131071500 +0300" channel="SinemaTV.tr">
-    <title lang="tr">Şanssız Bir Aşk Şarkısı</title>
-    <title lang="xx">Hard Luck Love Song</title>
-    <desc lang="tr">Ucuz motellerde yaşayan ve kötü kararlar veren karizmatik ama şanssız bir müzisyenin hikayesi. Jesse, karizmatik olduğu kadar şanssız da olan bir müzisyendir. Hayatta hep kötü kararlar veren Jesse varoluşsal bir yol ayrımındadır. Bu sırada genç adam, eski sevgilisi Carla ile tesadüfen karşılaşır. Bu karşılaşma onun hayatının yeniden alt üst olmasına neden olur.</desc>
-    <credits>
-      <director>Justin Corsbie</director>
-      <actor>Michael Dorman</actor>
-      <actor>Sophia Bush</actor>
-      <actor>RZA</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131071500 +0300" stop="20260131093000 +0300" channel="SinemaTV.tr">
-    <title lang="tr">Cumartesi Gecesi</title>
-    <title lang="xx">Saturday Night</title>
-    <desc lang="tr">Saturday Night, Saturday Night Live'ın ilk yayınından önceki son 90 dakikada sahne arkasında yaşananların gerçek hikayesine dayanıyor.</desc>
-    <credits>
-      <director>Jason Reitman</director>
-      <actor>Gabriel LaBelle</actor>
-      <actor>Rachel Sennott</actor>
-      <actor>Cory Michael Smith</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131093000 +0300" stop="20260131113000 +0300" channel="SinemaTV.tr">
-    <title lang="tr">Mucize</title>
-    <title lang="xx">Wonder</title>
-    <desc lang="tr">Auggie, yüzünde doğuştan deformasyon olan bir çocuktur. 5.sınıfa geçmek üzere olan Auggie’nin, geçirdiği bir çok operasyona rağmen yüzündeki deformasyon düzelmez. Hayatını hep kafasında bir kaskla ve evde aldığı eğitimle geçiren Auggie, yaşıtlarının gittiği sıradan bir okula yazılınca herkese dış görünüşün ne kadar önemsiz olduğunu kanıtlar.</desc>
-    <credits>
-      <director>Stephen Chbosky</director>
-      <actor>Jacob Tremblay</actor>
-      <actor>Owen Wilson</actor>
-      <actor>Julia Roberts</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131113000 +0300" stop="20260131134500 +0300" channel="SinemaTV.tr">
-    <title lang="tr">Tehlikeli Yürüyüş</title>
-    <title lang="xx">The Walk</title>
-    <desc lang="tr">1974 yılında, Fransız ip cambazı Philippe Petit, uluslararası bir ekibin desteğiyle New York’taki Dünya Ticaret Merkezi’nin meşhur ikiz kulelerinin arasına gerilen çelik ipte yürüme hayalini gerçekleştirir ve tüm dünyanın ilgisini çekmeyi başarır.</desc>
-    <credits>
-      <director>Robert Zemeckis</director>
-      <actor>Joseph Gordon</actor>
-      <actor>Levitt</actor>
-      <actor>Ben Kingsley</actor>
-      <actor>Charlotte Le Bon</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131134500 +0300" stop="20260131153000 +0300" channel="SinemaTV.tr">
-    <title lang="tr">Senin İçin</title>
-    <title lang="xx">Restless</title>
-    <desc lang="tr">Yıllar önce kazada kaybettiği ailesinin cenazesine komada olduğu için katılamayan Enoch, uzun zamandır yaşadığı bu eksikliğin üstünü tanımadığı insanların cenaze törenlerine katılarak bastırmaya çalışmaktadır. Enoch, katıldığı cenazelerden birinde çılgın olduğu her halinden belli olan Annabel ile tanışır ve tanışmalarından kısa süre sonra ona aşık olur.</desc>
-    <credits>
-      <director>Gus Van Sant</director>
-      <actor>Mia Wasikowska</actor>
-      <actor>Henry Hopper</actor>
-      <actor>Ryo Kase</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131153000 +0300" stop="20260131171500 +0300" channel="SinemaTV.tr">
-    <title lang="tr">Buz Otelde Düğün</title>
-    <title lang="xx">Winter Castle</title>
-    <desc lang="tr">Kız kardeşi Meg, bir buz otelinde düğün yapmaya karar verdiğinde Jenny çok heyecanlanır. Kız kardeşi Jenny'ye, Jenny için "mükemmel" olduğunu iddia ettiği bekâr bir baba olan sağdıç Craig'i ayarlamak için de bir o kadar heyecanlıdır. Jenny buz otele vardığında, buranın hayal ettiğinden daha da büyülü olduğunu görür. Ancak, Craig ile ilgili bir hayal kırıklığı yaşayacaktı.</desc>
-    <credits>
-      <director>Marita Grabiak</director>
-      <actor>Emilie Ullerup</actor>
-      <actor>Kevin McGarry</actor>
-      <actor>Sweat Shop Films</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131171500 +0300" stop="20260131191500 +0300" channel="SinemaTV.tr">
-    <title lang="tr">Siyah Giyen Kadınlar</title>
-    <title lang="xx">Ladies In Black</title>
-    <desc lang="tr">1959 yılının Sidney’inde Magda, Lisa, Patty ve Fay aynı mağazada çalışırlar. Lisa, Noel zamanı mağazada asistan olarak işe alınır. İlk başta göçmenlere karşı önyargılı olan Fay, kocasından daha fazla ilgi bekleyen Patty, bir göçmen olan Magda ile arkadaş olur.</desc>
-    <credits>
-      <director>Bruce Beresford</director>
-      <actor>Rachael Taylor</actor>
-      <actor>Julia Ormond</actor>
-      <actor>Angourie Rice</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131191500 +0300" stop="20260131213000 +0300" channel="SinemaTV.tr">
-    <title lang="tr">Montana'ya Dönüş</title>
-    <title lang="xx">Montana Story</title>
-    <desc lang="tr">Uzun süredir birbirinden ayrı olan Erin ve Cal isimli üvey kardeşler bir zamanlar çok sevdikleri ve çocukluklarının geçtiği çiftliğe geri dönerler. Hasta ve vicdansız babalarıyla yeniden karşılaşan kardeşler derin bir acı yüklü aile mirasıyla yüzleşmek zorunda kalır.</desc>
-    <credits>
-      <director>Scott McGehee</director>
-      <director>David Siegel</director>
-      <actor>Owen Teague</actor>
-      <actor>Haley Lu Richardson</actor>
-      <actor>Kimberly Guerrero</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131213000 +0300" stop="20260131233000 +0300" channel="SinemaTV.tr">
-    <title lang="tr">Saman Altında Su</title>
-    <title lang="xx">Behind The Haystacks</title>
-    <desc lang="tr">Behind the Haystacks, Yunan köyünde yaşayan bir ailenin hikayesini farklı üyelerin gözünden anlatarak, ekonomik kriz, göçmenlik ve aile içi dinamikleri ele alıyor. Stergios, ailesine yetişememe endişesi taşıyan bir balıkçı ve çiftçi. Karısı Maria, kilisede gönüllü çalışırken, ailenin içinde ve kilisedeki baskılara maruz kalarak kendi inancını sorguluyor.</desc>
-    <credits>
-      <director>Asimina Proedrou</director>
-      <actor>Stathis Stamoulakatos</actor>
-      <actor>Eleni Ouzounidou</actor>
-      <actor>Evgenia Lavda</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131233000 +0300" stop="20260201014500 +0300" channel="SinemaTV.tr">
-    <title lang="tr">The Last Queen</title>
-    <desc lang="tr">Korsan Aroudj Barberousse, Cezayir'i İspanyolların zulmünden kurtarır ve krallık üzerindeki gücü ele geçirir. İttifaklarına rağmen Kral Salim Toumi'ye suikast düzenlediği söylentileri yayılır. Her şeye rağmen bir kadın ona karşı duracaktır: Kraliçe Zaphira.</desc>
-    <credits>
-      <director>Adila Bendimerad</director>
-      <director>Damien Ounouri</director>
-      <actor>Adila Bendimerad</actor>
-      <actor>Dali Benssalah</actor>
-      <actor>Dimitri Boetto</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
   <programme start="20260201014500 +0300" stop="20260201033000 +0300" channel="SinemaTV.tr">
     <title lang="tr">Ruhlar Evi</title>
     <title lang="xx">We Are Still Here</title>
@@ -1277,174 +856,6 @@
     <display-name lang="tr">Sinema Tv 2</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinema2_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260131013000 +0300" stop="20260131034500 +0300" channel="SinemaTV2.tr">
-    <title lang="tr">The Promised Land</title>
-    <desc lang="tr">The Promised Land, hayat boyu süren hayalinin peşinden koşan Ludvig Kahlen'in hikayesini konu ediyor. 1700'lerin ortalarında, Danimarka Kralı V. Frederik, Jutland'ın vahşi fundalığının evcilleştirilmesi, ekilmesi ve kolonileştirilmesi gerektiğini, böylece uygarlığın yayılabileceğini ve kraliyet ailesi için yeni vergilerin üretilebileceğini ilan eder. Ancak, hiç kimse kralın buyruğuna uymaya cesaret edemez.</desc>
-    <credits>
-      <director>Nikolaj Arcel</director>
-      <actor>Mads Mikkelsen</actor>
-      <actor>Amanda Collin</actor>
-      <actor>Simon Bennebjerg</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131034500 +0300" stop="20260131051500 +0300" channel="SinemaTV2.tr">
-    <title lang="tr">Satıcı</title>
-    <title lang="xx">Dealer</title>
-    <desc lang="tr">Uzun süredir kokain trafiğinin içinde bulunan Dan (Dan Bronchinson), kendini bu girdaptan sıyırmayı başarır. Ancak, hayallerini gerçekleştirebileceği bir fırsat yakalar: son bir iş yapacak ve ardından kızı ile birlikte Avustralya'ya taşınarak yeni bir hayat kuracaktır. Bir süre sonra kendini çok daha karanlık bir oyunun içinde bulur. Üstelik sadece kendi hayatı değil, kızının hayatı da tehlike altındadır.</desc>
-    <credits>
-      <director>Jean Luc Herbulot</director>
-      <actor>Dan Bronchinson</actor>
-      <actor>Elsa Madeleine</actor>
-      <actor>Salem Kali</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131051500 +0300" stop="20260131070000 +0300" channel="SinemaTV2.tr">
-    <title lang="tr">Big Sky River</title>
-    <desc lang="tr">Tara, kötü bir boşanmanın ardından kendini en mutlu hissettiği yer olan Parable, Montana'ya geri döner ve ona beklenmedik bir sürpriz yapan yakışıklı komşusuyla tanışır.</desc>
-    <credits>
-      <director>Peter Benson</director>
-      <actor>Emmanuelle Vaugier</actor>
-      <actor>Kavan Smith</actor>
-      <actor>Lochlyn Munro</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131070000 +0300" stop="20260131090000 +0300" channel="SinemaTV2.tr">
-    <title lang="tr">Şanssız Bir Aşk Şarkısı</title>
-    <title lang="xx">Hard Luck Love Song</title>
-    <desc lang="tr">Ucuz motellerde yaşayan ve kötü kararlar veren karizmatik ama şanssız bir müzisyenin hikayesi. Jesse, karizmatik olduğu kadar şanssız da olan bir müzisyendir. Hayatta hep kötü kararlar veren Jesse varoluşsal bir yol ayrımındadır. Bu sırada genç adam, eski sevgilisi Carla ile tesadüfen karşılaşır. Bu karşılaşma onun hayatının yeniden alt üst olmasına neden olur.</desc>
-    <credits>
-      <director>Justin Corsbie</director>
-      <actor>Michael Dorman</actor>
-      <actor>Sophia Bush</actor>
-      <actor>RZA</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131090000 +0300" stop="20260131111500 +0300" channel="SinemaTV2.tr">
-    <title lang="tr">Cumartesi Gecesi</title>
-    <title lang="xx">Saturday Night</title>
-    <desc lang="tr">Saturday Night, Saturday Night Live'ın ilk yayınından önceki son 90 dakikada sahne arkasında yaşananların gerçek hikayesine dayanıyor.</desc>
-    <credits>
-      <director>Jason Reitman</director>
-      <actor>Gabriel LaBelle</actor>
-      <actor>Rachel Sennott</actor>
-      <actor>Cory Michael Smith</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131111500 +0300" stop="20260131131500 +0300" channel="SinemaTV2.tr">
-    <title lang="tr">Mucize</title>
-    <title lang="xx">Wonder</title>
-    <desc lang="tr">Auggie, yüzünde doğuştan deformasyon olan bir çocuktur. 5.sınıfa geçmek üzere olan Auggie’nin, geçirdiği bir çok operasyona rağmen yüzündeki deformasyon düzelmez. Hayatını hep kafasında bir kaskla ve evde aldığı eğitimle geçiren Auggie, yaşıtlarının gittiği sıradan bir okula yazılınca herkese dış görünüşün ne kadar önemsiz olduğunu kanıtlar.</desc>
-    <credits>
-      <director>Stephen Chbosky</director>
-      <actor>Jacob Tremblay</actor>
-      <actor>Owen Wilson</actor>
-      <actor>Julia Roberts</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131131500 +0300" stop="20260131153000 +0300" channel="SinemaTV2.tr">
-    <title lang="tr">Tehlikeli Yürüyüş</title>
-    <title lang="xx">The Walk</title>
-    <desc lang="tr">1974 yılında, Fransız ip cambazı Philippe Petit, uluslararası bir ekibin desteğiyle New York’taki Dünya Ticaret Merkezi’nin meşhur ikiz kulelerinin arasına gerilen çelik ipte yürüme hayalini gerçekleştirir ve tüm dünyanın ilgisini çekmeyi başarır.</desc>
-    <credits>
-      <director>Robert Zemeckis</director>
-      <actor>Joseph Gordon</actor>
-      <actor>Levitt</actor>
-      <actor>Ben Kingsley</actor>
-      <actor>Charlotte Le Bon</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131153000 +0300" stop="20260131171500 +0300" channel="SinemaTV2.tr">
-    <title lang="tr">Senin İçin</title>
-    <title lang="xx">Restless</title>
-    <desc lang="tr">Yıllar önce kazada kaybettiği ailesinin cenazesine komada olduğu için katılamayan Enoch, uzun zamandır yaşadığı bu eksikliğin üstünü tanımadığı insanların cenaze törenlerine katılarak bastırmaya çalışmaktadır. Enoch, katıldığı cenazelerden birinde çılgın olduğu her halinden belli olan Annabel ile tanışır ve tanışmalarından kısa süre sonra ona aşık olur.</desc>
-    <credits>
-      <director>Gus Van Sant</director>
-      <actor>Mia Wasikowska</actor>
-      <actor>Henry Hopper</actor>
-      <actor>Ryo Kase</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131171500 +0300" stop="20260131190000 +0300" channel="SinemaTV2.tr">
-    <title lang="tr">Buz Otelde Düğün</title>
-    <title lang="xx">Winter Castle</title>
-    <desc lang="tr">Kız kardeşi Meg, bir buz otelinde düğün yapmaya karar verdiğinde Jenny çok heyecanlanır. Kız kardeşi Jenny'ye, Jenny için "mükemmel" olduğunu iddia ettiği bekâr bir baba olan sağdıç Craig'i ayarlamak için de bir o kadar heyecanlıdır. Jenny buz otele vardığında, buranın hayal ettiğinden daha da büyülü olduğunu görür. Ancak, Craig ile ilgili bir hayal kırıklığı yaşayacaktı.</desc>
-    <credits>
-      <director>Marita Grabiak</director>
-      <actor>Emilie Ullerup</actor>
-      <actor>Kevin McGarry</actor>
-      <actor>Sweat Shop Films</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131190000 +0300" stop="20260131210000 +0300" channel="SinemaTV2.tr">
-    <title lang="tr">Siyah Giyen Kadınlar</title>
-    <title lang="xx">Ladies In Black</title>
-    <desc lang="tr">1959 yılının Sidney’inde Magda, Lisa, Patty ve Fay aynı mağazada çalışırlar. Lisa, Noel zamanı mağazada asistan olarak işe alınır. İlk başta göçmenlere karşı önyargılı olan Fay, kocasından daha fazla ilgi bekleyen Patty, bir göçmen olan Magda ile arkadaş olur.</desc>
-    <credits>
-      <director>Bruce Beresford</director>
-      <actor>Rachael Taylor</actor>
-      <actor>Julia Ormond</actor>
-      <actor>Angourie Rice</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131210000 +0300" stop="20260131231500 +0300" channel="SinemaTV2.tr">
-    <title lang="tr">Montana'ya Dönüş</title>
-    <title lang="xx">Montana Story</title>
-    <desc lang="tr">Uzun süredir birbirinden ayrı olan Erin ve Cal isimli üvey kardeşler bir zamanlar çok sevdikleri ve çocukluklarının geçtiği çiftliğe geri dönerler. Hasta ve vicdansız babalarıyla yeniden karşılaşan kardeşler derin bir acı yüklü aile mirasıyla yüzleşmek zorunda kalır.</desc>
-    <credits>
-      <director>Scott McGehee</director>
-      <director>David Siegel</director>
-      <actor>Owen Teague</actor>
-      <actor>Haley Lu Richardson</actor>
-      <actor>Kimberly Guerrero</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131231500 +0300" stop="20260201011500 +0300" channel="SinemaTV2.tr">
-    <title lang="tr">Saman Altında Su</title>
-    <title lang="xx">Behind The Haystacks</title>
-    <desc lang="tr">Behind the Haystacks, Yunan köyünde yaşayan bir ailenin hikayesini farklı üyelerin gözünden anlatarak, ekonomik kriz, göçmenlik ve aile içi dinamikleri ele alıyor. Stergios, ailesine yetişememe endişesi taşıyan bir balıkçı ve çiftçi. Karısı Maria, kilisede gönüllü çalışırken, ailenin içinde ve kilisedeki baskılara maruz kalarak kendi inancını sorguluyor.</desc>
-    <credits>
-      <director>Asimina Proedrou</director>
-      <actor>Stathis Stamoulakatos</actor>
-      <actor>Eleni Ouzounidou</actor>
-      <actor>Evgenia Lavda</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
   <programme start="20260201011500 +0300" stop="20260201033000 +0300" channel="SinemaTV2.tr">
     <title lang="tr">The Last Queen</title>
     <desc lang="tr">Korsan Aroudj Barberousse, Cezayir'i İspanyolların zulmünden kurtarır ve krallık üzerindeki gücü ele geçirir. İttifaklarına rağmen Kral Salim Toumi'ye suikast düzenlediği söylentileri yayılır. Her şeye rağmen bir kadın ona karşı duracaktır: Kraliçe Zaphira.</desc>
@@ -1478,180 +889,6 @@
     <display-name lang="tr">Sinema Tv Aksiyon</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinemaaksiyon_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260131013000 +0300" stop="20260131031500 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Kral Arthur: Excalibur</title>
-    <title lang="xx">King Arthur: Excalibur Rising</title>
-    <desc lang="tr">Kral Arthur efsanesini farklı bir açıdan yeniden ele alan film, Arthur’un gayri meşru çocuğu Owain’in babasının tahtını devralmak için vermesi gereken sınavları anlatıyor.</desc>
-    <credits>
-      <director>Antony Smith</director>
-      <actor>Adam Byard</actor>
-      <actor>Annes Elwy</actor>
-      <actor>Gavin Swift</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131031500 +0300" stop="20260131050000 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Ölümcül Araştırma</title>
-    <title lang="xx">Musudan</title>
-    <desc lang="tr">Güney Kore ve Kuzey Kore arasındaki sınır bölgesinde, gizemli kayıp ve ölüm vakaları meydana gelmektedir. Devlet hemen özel eğitimli bir grup askeri bölgeye göndererek bu tuhaf olayların kaynağını araştırmalarını ister. Ekipten Sin Yoo-hwa ve Kaptan Jo Jin-ho, olayın Kuzey Kore ordusu ile ilgili olduğunu düşünmektedir. Ancak gerçekler, düşüncelerinin çok daha ötesindedir.</desc>
-    <credits>
-      <director>Goo Mo</director>
-      <actor>Lee Ji</actor>
-      <actor>ah</actor>
-      <actor>Do Ji</actor>
-      <actor>han</actor>
-      <actor>Park Yu</actor>
-      <actor>hwan</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131050000 +0300" stop="20260131070000 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Kumarbaz</title>
-    <title lang="xx">The Card Counter</title>
-    <desc lang="tr">Tell, geçmişlerinden gelen ortak bir düşman için genç bir adamla birlikte intikam arayışına girer. Tell, yalnızca kartlarla oynamak istiyordur. Ancak kumarhanedeki hükümdarlığı Cirk geldiği zaman alt üst olur. Genç ve hırslı bir adam olan Cirk, William Tell'den yardım isteyecektir. Tell, Cirk ile ortak çıkarları olabileceğini düşünür.</desc>
-    <credits>
-      <director>Paul Schrader</director>
-      <actor>Oscar Isaac</actor>
-      <actor>Tiffany Haddish</actor>
-      <actor>Tye Sheridan</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131070000 +0300" stop="20260131083000 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Vahşiliğin İçinde</title>
-    <title lang="xx">Man Vs.</title>
-    <desc lang="tr">Kendi TV programını yapan Doug Woods, medeniyetten uzakta, su ve yemek olmadan tek başına beş gün geçirecek ve yaşadığı deneyimleri kayda alacaktır. Ormanın derinliklerinde birden yer sarsıntısı ile yerinden fırlar. Burada yalnız olmadığını anladığında işler daha da tuhaf bir hal alır. Biri, ya da birileri, onun her adımını izlemektedir.</desc>
-    <credits>
-      <director>Adam Massey</director>
-      <actor>Chris Diamantopoulos</actor>
-      <actor>Chloe Bradt</actor>
-      <actor>Michael Cram</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Korku</category>
-    <category lang="tr">Gerilim</category>
-  </programme>
-  <programme start="20260131083000 +0300" stop="20260131103000 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Çete</title>
-    <title lang="xx">The Clan</title>
-    <desc lang="tr">Pucciolar, birbirine bağlı ve örnek bir yaşam sürdüren üç çocuklu bir ailedir. Ticaret ile uğraşan çalışkan ve dürüst bir baba, kendini çocuklarına adayan bir anne ve başarılı iki erkek ve bir kız çocuğu… Ancak kimsenin bilmediği bir sırları vardır; aile, zengin insanları kaçırarak evlerinde alıkoyan, işkence yapan ve servetlerini ele geçirdikten sonra onları öldüren bir suç çetesidir.</desc>
-    <credits>
-      <director>Pablo Trapero</director>
-      <actor>Guillermo Francella</actor>
-      <actor>Peter Lanzani</actor>
-      <actor>Liliana Popovich</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131103000 +0300" stop="20260131121500 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Vahşi Doğa</title>
-    <title lang="xx">Numb</title>
-    <desc lang="tr">Finansal sorunlar yaşayan bir çift, gizli bir yerde gömülü olan altınların koordinatlarına ulaşır. Bölgeye varmak üzere gizemli iki otostopçu ile birlikte yola çıkan çift, yoğun kış koşullarında hazineye ulaşmak için amasız bir mücadele vermeye başlar.</desc>
-    <credits>
-      <director>Jason R. Goode</director>
-      <actor>Jamie Bamber</actor>
-      <actor>Marie Avgeropoulos</actor>
-      <actor>Aleks Paunovic</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131121500 +0300" stop="20260131140000 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Gölge Etkisi</title>
-    <title lang="xx">The Shadow Effect</title>
-    <desc lang="tr">Genç bir adamın hayatı, şiddet dolu hayalleri gerçeğe dönüştüğü zaman alt üst olur.</desc>
-    <credits>
-      <director>Obin Olson</director>
-      <director>Amariah Olson</director>
-      <actor>Cam Gigandet</actor>
-      <actor>Brit Shaw</actor>
-      <actor>Michael Biehn</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Bilim</category>
-    <category lang="tr">Kurgu</category>
-  </programme>
-  <programme start="20260131140000 +0300" stop="20260131160000 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Komiser</title>
-    <title lang="xx">The Major</title>
-    <desc lang="tr">Komiser, hayatımızda yaptığımız seçimlerin bizi nereye götürebileceğine dair bir bakış açısı sunuyor. Filme adını veren kahramanımız Sergey Sobolev, mesaisi esnasında mutlu bir haber alır: Hamile olan karısı doğurmak üzeredir. Bu heyecan verici haberi alan Sergey, onun yanında olmak için hastanenin yolunu tutar. Ancak duyduğu mutluluk ve yetişme isteği, direksiyon hakimiyetine engel olur ve bir kaza yapar.</desc>
-    <credits>
-      <director>Yury Bykov</director>
-      <actor>Denis Shvedov</actor>
-      <actor>Irina Nizina</actor>
-      <actor>Yury Bykov</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131160000 +0300" stop="20260131180000 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Ekip 49</title>
-    <title lang="xx">Ladder 49</title>
-    <desc lang="tr">Baltimore İtfaiye Departmanı'nın Ekip 49 adlı birimde görev yapan Jack Morrison (Joaquin Phoenix) işine büyük bir tutukuyla bağlıdır. Ancak hayatını kadınıyla tanışıp evlenmesi ve eşinin hamile işine olan bağlılığını zedelemeye başlar. Bir fabrika deposundaki yangında alevler arasında mahsur kalan bir insanı kurtarmaya çalışan Jack, kendisi de aynı duruma düşer.</desc>
-    <credits>
-      <director>Jay Russell</director>
-      <actor>Joaquin Phoenix</actor>
-      <actor>John Travolta</actor>
-      <actor>Jacinda Barrett</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131180000 +0300" stop="20260131201500 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Herkes İçin Adalet</title>
-    <title lang="xx">And Justice For All</title>
-    <desc lang="tr">Al Pacino'nun muhteşem performansıyla En İyi Erkek Oyuncu dalında Oscar'a aday gösterildiği yapım... İdealist bir avukat olan Arthur (Al Pacino) masum insanlara adaleti sağlamaya çalışır ancak bir gün genç bir kıza tecavüzden suçlanan ünlü bir yargıcı savunmaya zorlanır.</desc>
-    <credits>
-      <director>Norman Jewison</director>
-      <actor>Al Pacino</actor>
-      <actor>Jack Warden</actor>
-      <actor>John Forsythe</actor>
-    </credits>
-    <date>1979</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131201500 +0300" stop="20260131220000 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Acil Teslimat</title>
-    <title lang="xx">Premium Rush</title>
-    <desc lang="tr">Manhattan sokaklarında macera dolu bir gezintiye çıkmamızı sağlayan filmde, bir bisiklet kuryesi olan Wilee bu sefer farklı bir zarf seçer ve bu başkalarının da dikkatini çeker. Bunun üzerine bisikletçinin peşine düşerler ve onu gittiği her yerde takip ederler. Wilee'nin bu sefer her zamankinden farklı bir ölüm kalım savaşı vermesi gerekmektedir.</desc>
-    <credits>
-      <director>Regency Enterprises</director>
-      <actor>Joseph Gordon</actor>
-      <actor>Levitt</actor>
-      <actor>Michael Shannon</actor>
-      <actor>Dania Ramirez</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Fantastik</category>
-  </programme>
-  <programme start="20260131220000 +0300" stop="20260201000000 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Crime Spree</title>
-    <desc lang="tr">Daniel Foray (Gérard Depardieu) bir soygun çetesinin başıdır. Patronları onlara Chicago'da bir evde bulunan mücevherleri çalmalarını söyler. Bu Daniel'in hep hayalini kurduğu büyük iştir. Chicago'ya giden çete yollarını bulamayınca işler iyice karışır. Soyacakları evi ararken zenci bir çete lideri ile kapışan ve rus mafyasının arabasını çalan ekip için işler pek yolunda gitmemektedir.</desc>
-    <credits>
-      <director>Brad Mirman</director>
-      <actor>Gérard Depardieu</actor>
-      <actor>Harvey Keitel</actor>
-      <actor>Johnny Hallyday</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
   <programme start="20260201000000 +0300" stop="20260201020000 +0300" channel="SinemaTVAksiyon.tr">
     <title lang="tr">Ölüm Bizi Ayırana Dek</title>
     <title lang="xx">Til Death Do Us Part</title>
@@ -1700,195 +937,6 @@
     <display-name lang="tr">Sinema Tv Aksiyon 2</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinemaaksiyon2_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260131013000 +0300" stop="20260131031500 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Keşfedilmemiş</title>
-    <title lang="xx">The Recall</title>
-    <desc lang="tr">Aksiyon filmlerinin büyük ustası Wesley Snipes’ın başrolünde oynadığı bu bilim kurgu, tatil için gittikleri göl kenarında keyif yapmayı umut eden beş arkadaşın dünyanın bir anda uzaylılar tarafından istila edilmiş olmasıyla alt üst olan planlarına odaklanıyor.</desc>
-    <credits>
-      <director>Mauro Borreli</director>
-      <actor>Wesley Snipes</actor>
-      <actor>RJ Mitte</actor>
-      <actor>Jedidiah Goodacre</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Bilim</category>
-    <category lang="tr">Kurgu</category>
-  </programme>
-  <programme start="20260131031500 +0300" stop="20260131050000 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Kral Arthur: Excalibur</title>
-    <title lang="xx">King Arthur: Excalibur Rising</title>
-    <desc lang="tr">Kral Arthur efsanesini farklı bir açıdan yeniden ele alan film, Arthur’un gayri meşru çocuğu Owain’in babasının tahtını devralmak için vermesi gereken sınavları anlatıyor.</desc>
-    <credits>
-      <director>Antony Smith</director>
-      <actor>Adam Byard</actor>
-      <actor>Annes Elwy</actor>
-      <actor>Gavin Swift</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131050000 +0300" stop="20260131064500 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Ölümcül Araştırma</title>
-    <title lang="xx">Musudan</title>
-    <desc lang="tr">Güney Kore ve Kuzey Kore arasındaki sınır bölgesinde, gizemli kayıp ve ölüm vakaları meydana gelmektedir. Devlet hemen özel eğitimli bir grup askeri bölgeye göndererek bu tuhaf olayların kaynağını araştırmalarını ister. Ekipten Sin Yoo-hwa ve Kaptan Jo Jin-ho, olayın Kuzey Kore ordusu ile ilgili olduğunu düşünmektedir. Ancak gerçekler, düşüncelerinin çok daha ötesindedir.</desc>
-    <credits>
-      <director>Goo Mo</director>
-      <actor>Lee Ji</actor>
-      <actor>ah</actor>
-      <actor>Do Ji</actor>
-      <actor>han</actor>
-      <actor>Park Yu</actor>
-      <actor>hwan</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131064500 +0300" stop="20260131084500 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Kumarbaz</title>
-    <title lang="xx">The Card Counter</title>
-    <desc lang="tr">Tell, geçmişlerinden gelen ortak bir düşman için genç bir adamla birlikte intikam arayışına girer. Tell, yalnızca kartlarla oynamak istiyordur. Ancak kumarhanedeki hükümdarlığı Cirk geldiği zaman alt üst olur. Genç ve hırslı bir adam olan Cirk, William Tell'den yardım isteyecektir. Tell, Cirk ile ortak çıkarları olabileceğini düşünür.</desc>
-    <credits>
-      <director>Paul Schrader</director>
-      <actor>Oscar Isaac</actor>
-      <actor>Tiffany Haddish</actor>
-      <actor>Tye Sheridan</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131084500 +0300" stop="20260131101500 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Vahşiliğin İçinde</title>
-    <title lang="xx">Man Vs.</title>
-    <desc lang="tr">Kendi TV programını yapan Doug Woods, medeniyetten uzakta, su ve yemek olmadan tek başına beş gün geçirecek ve yaşadığı deneyimleri kayda alacaktır. Ormanın derinliklerinde birden yer sarsıntısı ile yerinden fırlar. Burada yalnız olmadığını anladığında işler daha da tuhaf bir hal alır. Biri, ya da birileri, onun her adımını izlemektedir.</desc>
-    <credits>
-      <director>Adam Massey</director>
-      <actor>Chris Diamantopoulos</actor>
-      <actor>Chloe Bradt</actor>
-      <actor>Michael Cram</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Korku</category>
-    <category lang="tr">Gerilim</category>
-  </programme>
-  <programme start="20260131101500 +0300" stop="20260131121500 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Çete</title>
-    <title lang="xx">The Clan</title>
-    <desc lang="tr">Pucciolar, birbirine bağlı ve örnek bir yaşam sürdüren üç çocuklu bir ailedir. Ticaret ile uğraşan çalışkan ve dürüst bir baba, kendini çocuklarına adayan bir anne ve başarılı iki erkek ve bir kız çocuğu… Ancak kimsenin bilmediği bir sırları vardır; aile, zengin insanları kaçırarak evlerinde alıkoyan, işkence yapan ve servetlerini ele geçirdikten sonra onları öldüren bir suç çetesidir.</desc>
-    <credits>
-      <director>Pablo Trapero</director>
-      <actor>Guillermo Francella</actor>
-      <actor>Peter Lanzani</actor>
-      <actor>Liliana Popovich</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131121500 +0300" stop="20260131140000 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Vahşi Doğa</title>
-    <title lang="xx">Numb</title>
-    <desc lang="tr">Finansal sorunlar yaşayan bir çift, gizli bir yerde gömülü olan altınların koordinatlarına ulaşır. Bölgeye varmak üzere gizemli iki otostopçu ile birlikte yola çıkan çift, yoğun kış koşullarında hazineye ulaşmak için amasız bir mücadele vermeye başlar.</desc>
-    <credits>
-      <director>Jason R. Goode</director>
-      <actor>Jamie Bamber</actor>
-      <actor>Marie Avgeropoulos</actor>
-      <actor>Aleks Paunovic</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131140000 +0300" stop="20260131154500 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Gölge Etkisi</title>
-    <title lang="xx">The Shadow Effect</title>
-    <desc lang="tr">Genç bir adamın hayatı, şiddet dolu hayalleri gerçeğe dönüştüğü zaman alt üst olur.</desc>
-    <credits>
-      <director>Obin Olson</director>
-      <director>Amariah Olson</director>
-      <actor>Cam Gigandet</actor>
-      <actor>Brit Shaw</actor>
-      <actor>Michael Biehn</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Bilim</category>
-    <category lang="tr">Kurgu</category>
-  </programme>
-  <programme start="20260131154500 +0300" stop="20260131174500 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Komiser</title>
-    <title lang="xx">The Major</title>
-    <desc lang="tr">Komiser, hayatımızda yaptığımız seçimlerin bizi nereye götürebileceğine dair bir bakış açısı sunuyor. Filme adını veren kahramanımız Sergey Sobolev, mesaisi esnasında mutlu bir haber alır: Hamile olan karısı doğurmak üzeredir. Bu heyecan verici haberi alan Sergey, onun yanında olmak için hastanenin yolunu tutar. Ancak duyduğu mutluluk ve yetişme isteği, direksiyon hakimiyetine engel olur ve bir kaza yapar.</desc>
-    <credits>
-      <director>Yury Bykov</director>
-      <actor>Denis Shvedov</actor>
-      <actor>Irina Nizina</actor>
-      <actor>Yury Bykov</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131174500 +0300" stop="20260131194500 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Ekip 49</title>
-    <title lang="xx">Ladder 49</title>
-    <desc lang="tr">Baltimore İtfaiye Departmanı'nın Ekip 49 adlı birimde görev yapan Jack Morrison (Joaquin Phoenix) işine büyük bir tutukuyla bağlıdır. Ancak hayatını kadınıyla tanışıp evlenmesi ve eşinin hamile işine olan bağlılığını zedelemeye başlar. Bir fabrika deposundaki yangında alevler arasında mahsur kalan bir insanı kurtarmaya çalışan Jack, kendisi de aynı duruma düşer.</desc>
-    <credits>
-      <director>Jay Russell</director>
-      <actor>Joaquin Phoenix</actor>
-      <actor>John Travolta</actor>
-      <actor>Jacinda Barrett</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131194500 +0300" stop="20260131220000 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Herkes İçin Adalet</title>
-    <title lang="xx">And Justice For All</title>
-    <desc lang="tr">Al Pacino'nun muhteşem performansıyla En İyi Erkek Oyuncu dalında Oscar'a aday gösterildiği yapım... İdealist bir avukat olan Arthur (Al Pacino) masum insanlara adaleti sağlamaya çalışır ancak bir gün genç bir kıza tecavüzden suçlanan ünlü bir yargıcı savunmaya zorlanır.</desc>
-    <credits>
-      <director>Norman Jewison</director>
-      <actor>Al Pacino</actor>
-      <actor>Jack Warden</actor>
-      <actor>John Forsythe</actor>
-    </credits>
-    <date>1979</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131220000 +0300" stop="20260131234500 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Acil Teslimat</title>
-    <title lang="xx">Premium Rush</title>
-    <desc lang="tr">Manhattan sokaklarında macera dolu bir gezintiye çıkmamızı sağlayan filmde, bir bisiklet kuryesi olan Wilee bu sefer farklı bir zarf seçer ve bu başkalarının da dikkatini çeker. Bunun üzerine bisikletçinin peşine düşerler ve onu gittiği her yerde takip ederler. Wilee'nin bu sefer her zamankinden farklı bir ölüm kalım savaşı vermesi gerekmektedir.</desc>
-    <credits>
-      <director>Regency Enterprises</director>
-      <actor>Joseph Gordon</actor>
-      <actor>Levitt</actor>
-      <actor>Michael Shannon</actor>
-      <actor>Dania Ramirez</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Fantastik</category>
-  </programme>
-  <programme start="20260131234500 +0300" stop="20260201014500 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Crime Spree</title>
-    <desc lang="tr">Daniel Foray (Gérard Depardieu) bir soygun çetesinin başıdır. Patronları onlara Chicago'da bir evde bulunan mücevherleri çalmalarını söyler. Bu Daniel'in hep hayalini kurduğu büyük iştir. Chicago'ya giden çete yollarını bulamayınca işler iyice karışır. Soyacakları evi ararken zenci bir çete lideri ile kapışan ve rus mafyasının arabasını çalan ekip için işler pek yolunda gitmemektedir.</desc>
-    <credits>
-      <director>Brad Mirman</director>
-      <actor>Gérard Depardieu</actor>
-      <actor>Harvey Keitel</actor>
-      <actor>Johnny Hallyday</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
   <programme start="20260201014500 +0300" stop="20260201034500 +0300" channel="SinemaTVAksiyon2.tr">
     <title lang="tr">Ölüm Bizi Ayırana Dek</title>
     <title lang="xx">Til Death Do Us Part</title>
@@ -1922,206 +970,6 @@
     <display-name lang="tr">Sinema Tv Aile</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinemaaile_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260131010000 +0300" stop="20260131013700 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Orman Dostları 1-2-3-4-5</title>
-    <desc lang="tr">Orman Dostları 1-2-3-4-5</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20260131013700 +0300" stop="20260131023000 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Orman Dostları 1-2-3-4-5</title>
-    <desc lang="tr">Orman Dostları 1-2-3-4-5</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20260131023000 +0300" stop="20260131041500 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Hayalet Avcıları</title>
-    <title lang="xx">Ghosthunters</title>
-    <desc lang="tr">Ailesi, 11 yaşındaki Tom için endişelidir. Çünkü Tom, özellikle karanlıktan çok korkmaktadır. Ancak ailesinin bilmediği bir şey vardır. Tom, Hugo adında tamamen zararsız bir hayalet ile dostluk kurmuştur. Yakında, çok tehlikeli bir buzul hayaleti dünyaya gelecek ve yeni bir buzul çağı başlatacaktır.</desc>
-    <credits>
-      <director>Tobi Baumann</director>
-      <actor>Milo Parker</actor>
-      <actor>Anke Engelke</actor>
-      <actor>Bastian Pastewka</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131041500 +0300" stop="20260131060000 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Mortadelo Ve Filemon</title>
-    <title lang="xx">Mortadelo And Filemon: Mission Implausible</title>
-    <desc lang="tr">Mortadelo ve Filemon, sürekli tartışan iki ajandır. Jimmy el Cachondo adında bir suçlu, çok gizli bir dökümanı ele geçirir. İki ajan, bu belgeyi geri almak için harekete geçerler. Ancak işler daha da karışacaktır. Tronchamulas adında azılı bir suçlu hapisten kaçmış ve onu hapse atan Filemon’dan öcünü almaya yemin etmiştir.</desc>
-    <credits>
-      <director>Javier Fesser</director>
-      <actor>Karra Elejalde</actor>
-      <actor>Janfri Topera</actor>
-      <actor>Javier Fesser</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131060000 +0300" stop="20260131073600 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">İnanmak</title>
-    <title lang="xx">Believe</title>
-    <desc lang="tr">Gerçek olaylardan uyarlanan yapım, Manchester United futbol takımının efsane teknik direktörü Sir Matt Busby’nin ilham veren hikayesini aktarıyor. 11 yaşında ve küçük suçlar işleyen Georgie, Matt Busby (Brian Cox) tarafından takip edilmektedir. Busby bir süre önce, çocuktaki sıradışı yeteneğin farkına varmıştır.</desc>
-    <credits>
-      <director>David Scheinmann</director>
-      <actor>Brian Cox</actor>
-      <actor>Kate Ashfield</actor>
-      <actor>Richard Strange</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131073600 +0300" stop="20260131080000 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Orman Dostları 1</title>
-    <desc lang="tr">Orman Dostları 1</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20260131080000 +0300" stop="20260131093000 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Köpekler Firarda</title>
-    <title lang="xx">Dogs At The Opera</title>
-    <desc lang="tr">Bir gün Samson adında bir köpek, şehirde dolaşırken yanlışlıkla kocaman bir tiyatroya, yani Metropolitan Opera’ya girer! Samson, biraz tembel ama çok meraklı bir sokak köpeğidir. İçeride dolaşırken, Margot adında kocaman, pofuduk bir köpekle tanışır.</desc>
-    <credits>
-      <director>Vasiliy Rovenskiy</director>
-      <actor>Diomid Vinogradov</actor>
-      <actor>Filipp Lebedev</actor>
-      <actor>Irina Kireeva</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131093000 +0300" stop="20260131113000 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Matilda</title>
-    <title lang="xx">Matilda (1996)</title>
-    <desc lang="tr">Araba satıcılığı yaparak para kazanan bir baba ile hafifmeşrep bir annenin kızı olan Matilda, çocukluğundan beri kendi haline bırakılmıştır. Bir gün kütüphaneye giderek yazılmış bütün kitapları okumaya karar verir ve bilgilendiği ölçüde sahip olduğu telekinetik yeteneklerin farkına varmaya başlar. Ancak ailesi onun bu yeteneklerine inanmamaktadır ve onu korkunç bir okula yollarlar.</desc>
-    <credits>
-      <director>Danny DeVito</director>
-      <actor>Danny DeVito</actor>
-      <actor>Mara Wilson</actor>
-      <actor>Embeth Davidtz</actor>
-    </credits>
-    <date>1996</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Fantastik</category>
-  </programme>
-  <programme start="20260131113000 +0300" stop="20260131131500 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Kutup Köpekleri</title>
-    <title lang="xx">Arctic Dogs</title>
-    <desc lang="tr">Kutup Köpekleri, dünyanın en hızlı köpek kuryesi olmak isteyen Swifty’nin maceralarını konu ediyor. Buzul Tilkisi Swifty, kutup posta şirketinde çalışan bir köpektir. Onun en büyük hayali, Antarktika’nın en hızlı köpek kuryesi olabilmektir. Bunun için her şeyi yapmaya hazır olan Swifty, gizlice kızaklardan birini alarak, içinde ne olduğunu bilmediği bir paketi gizemli bir yere götürmek için yola koyulur.</desc>
-    <credits>
-      <director>Aaron Woodley</director>
-      <director>Dimos Vrysellas</director>
-      <actor>James Franco</actor>
-      <actor>Jeremy Renner</actor>
-      <actor>Alec Baldwin</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131131500 +0300" stop="20260131150000 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Karlar Kraliçesi 4</title>
-    <title lang="xx">The Snow Queen 4: Mirror Lands</title>
-    <desc lang="tr">Kral Harald’ın sihiri tüm dünya üzerinden silmek ister ve sadece sihir yeteneği olan kişilerin geçebileceği bir kapı olan ‘Sihirli Ayna’ ile insanları kandırır. Bunu öğrenen Gerda, aynadan geçerek Harald’a engel olmak ister ancak malesef Gerda’nın sihir yeteneği yoktur. Kendini oldukça çaresiz hisseden Gerda’nın yardımına eskiden düşmanı olan Karlar Kraliçe’si yetişir.</desc>
-    <credits>
-      <director>Aleksey Tsitsilin</director>
-      <director>Robert Lence</director>
-      <actor>Lina Ivanova</actor>
-      <actor>Nikolai Bystrov</actor>
-      <actor>Vladimir Zaytsev</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Fantastik</category>
-  </programme>
-  <programme start="20260131150000 +0300" stop="20260131163000 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Yeni Aile</title>
-    <title lang="xx">Rhubarb</title>
-    <desc lang="tr">Siem’in anne ve babası boşanmıştır fakat babası Rik, çok geçmeden aşkı yeniden bulmuştur. Rik, Winnie’nin annesi Tosca ile evlenmeye karar verir. Siem, Winnie’yi çok sever. Yeni evlilerin ilişkilerinde çatlaklar olduğunu fark eden çocuklar, hemen devreye girerek bu ilişkiyi kurtarmaya karar verirler.</desc>
-    <credits>
-      <director>Mark de Cloe</director>
-      <actor>Nina Wyss</actor>
-      <actor>Thor Braun</actor>
-      <actor>Korneel Evers</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131163000 +0300" stop="20260131181500 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Maceracılar Kulübü</title>
-    <title lang="xx">Adventurers' Club</title>
-    <desc lang="tr">Kornel ve Max, yaz tatilini bilgisayar başında geçirmeyi planlamaktadır ancak çılgın amcaları Dionizy gelince bu plan suya düşer. Dionizy, bir aile definesinin peşindedir. Peşinde iki hırsız takılmış olduğundan habersiz olan Dionizy, çocukları da alarak çılgın bir define avına çıkar.</desc>
-    <credits>
-      <director>Tomasz Szafrański</director>
-      <actor>Franciszek Dziduch</actor>
-      <actor>Kamila Bujalska</actor>
-      <actor>Ewa Gorzelak</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131181500 +0300" stop="20260131200000 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Kovboy Çocuklar</title>
-    <title lang="xx">Buffalo Kids</title>
-    <desc lang="tr">Kovboy Çocuklar, kendilerini büyük bir maceranın içerisinde bulan iki kardeşin hikayesini konu ediyor. İrlandalı iki kardeş okyanus gemisiyle New York'a gider ve kendilerini bir yetim treninde vahşi, ülke çapında bir yolculukta bulurlar. Kardeşler burada hayatlarını sonsuza dek değiştirecek muhteşem arkadaşlıklar kurar.</desc>
-    <credits>
-      <director>Juan Jesús García Galocha</director>
-      <director>Pedro Solís</director>
-      <actor>Óscar Barberán</actor>
-      <actor>Miguel Ángel Jenner</actor>
-      <actor>Mia Pérez Ullod</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131200000 +0300" stop="20260131214500 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Harika Köpek Timber</title>
-    <title lang="xx">Timber The Treasure Dog</title>
-    <desc lang="tr">Bir oğlan evini ve ailesini kaybetmemek için onun en iyi arkadaşı ve üç köpeği ile buldukları define haritasının gösterdiği yere, gitmek üzere yola çıkarlar...</desc>
-    <credits>
-      <director>Ari Novak</director>
-      <actor>Kix Brooks</actor>
-      <actor>Kelcey Watson</actor>
-      <actor>Sewell Whitney</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131214500 +0300" stop="20260131233000 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Dedektif Sun Ve Ekibi</title>
-    <title lang="xx">Inspector Sun</title>
-    <desc lang="tr">Dedektif Sun Ve Ekibi Operasyonu, ihtiyaç duyduğu tatile giderken kendisini macera dolu olayların içerisinde bulan Müfettiş Sun’ın hikayesini konu ediyor. Müfettiş Sun, nihayet baş düşmanını yakaladıktan sonra çok ihtiyaç duyduğu tatil için San Francisco'ya giden bir deniz uçağına biner. Ancak uçuşu sırasında gizemli bir milyonere yönelik bir tehdit oluşunda Sun kendisini yeniden işinin başında bulur.</desc>
-    <credits>
-      <director>Julio Soto Gurpide</director>
-      <actor>Fernando Cabrera</actor>
-      <actor>Andrea Villaverde</actor>
-      <actor>Catherina Martínez</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131233000 +0300" stop="20260201011500 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Tembeller Ailesi</title>
-    <title lang="xx">The Sloth Lane</title>
-    <desc lang="tr">Korkunç bir fırtına evlerini yerle bir ettikten sonra Laura adındaki tembel hayvan ve çılgın ailesi, işlerini yerine koymak için büyük şehire inip eski paslı seyyar arabaları ile yiyecek satışına başlarlar.</desc>
-    <credits>
-      <director>Tania Vincent</director>
-      <actor>Remy Hii</actor>
-      <actor>Leslie Jones</actor>
-      <actor>Ricard Cussó</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
   <programme start="20260201011500 +0300" stop="20260201015200 +0300" channel="SinemaTVAile.tr">
     <title lang="tr">Orman Dostları 1-2-3-4-5</title>
     <desc lang="tr">Orman Dostları 1-2-3-4-5</desc>
@@ -2150,206 +998,6 @@
     <display-name lang="tr">Sinema Tv Aile 2</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinemaaile2_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260131011500 +0300" stop="20260131024500 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Buzlar Krallığı</title>
-    <title lang="xx">Howard Lovecraft &amp; The Frozen Kingdom</title>
-    <desc lang="tr">Babası bir akıl hastanesinde yatan genç Howard Lovecraft, babasını ziyarete gider. Babası ona, daha önce yazmış olduğu bir kitabı yok etmesini söyler. Eve dönen Howard, merakına yenik düşer ve kitabı okumaya başlar. Kitap, Necronomicon’dur ve okudukça iblislerin dünyasına bir kapı aralanır. Genç Lovecraft’ı inanılmaz bir macera beklemektedir.</desc>
-    <credits>
-      <director>Sean Patrick O'Reilly</director>
-      <actor>Ron Perlman</actor>
-      <actor>Jane Curtin</actor>
-      <actor>Kiefer O'Reilly</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131024500 +0300" stop="20260131032200 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Orman Dostları 1-2-3-4-5</title>
-    <desc lang="tr">Orman Dostları 1-2-3-4-5</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20260131032200 +0300" stop="20260131041500 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Orman Dostları 1-2-3-4-5</title>
-    <desc lang="tr">Orman Dostları 1-2-3-4-5</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20260131041500 +0300" stop="20260131060000 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Hayalet Avcıları</title>
-    <title lang="xx">Ghosthunters</title>
-    <desc lang="tr">Ailesi, 11 yaşındaki Tom için endişelidir. Çünkü Tom, özellikle karanlıktan çok korkmaktadır. Ancak ailesinin bilmediği bir şey vardır. Tom, Hugo adında tamamen zararsız bir hayalet ile dostluk kurmuştur. Yakında, çok tehlikeli bir buzul hayaleti dünyaya gelecek ve yeni bir buzul çağı başlatacaktır.</desc>
-    <credits>
-      <director>Tobi Baumann</director>
-      <actor>Milo Parker</actor>
-      <actor>Anke Engelke</actor>
-      <actor>Bastian Pastewka</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131060000 +0300" stop="20260131074500 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Mortadelo Ve Filemon</title>
-    <title lang="xx">Mortadelo And Filemon: Mission Implausible</title>
-    <desc lang="tr">Mortadelo ve Filemon, sürekli tartışan iki ajandır. Jimmy el Cachondo adında bir suçlu, çok gizli bir dökümanı ele geçirir. İki ajan, bu belgeyi geri almak için harekete geçerler. Ancak işler daha da karışacaktır. Tronchamulas adında azılı bir suçlu hapisten kaçmış ve onu hapse atan Filemon’dan öcünü almaya yemin etmiştir.</desc>
-    <credits>
-      <director>Javier Fesser</director>
-      <actor>Karra Elejalde</actor>
-      <actor>Janfri Topera</actor>
-      <actor>Javier Fesser</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131074500 +0300" stop="20260131092100 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">İnanmak</title>
-    <title lang="xx">Believe</title>
-    <desc lang="tr">Gerçek olaylardan uyarlanan yapım, Manchester United futbol takımının efsane teknik direktörü Sir Matt Busby’nin ilham veren hikayesini aktarıyor. 11 yaşında ve küçük suçlar işleyen Georgie, Matt Busby (Brian Cox) tarafından takip edilmektedir. Busby bir süre önce, çocuktaki sıradışı yeteneğin farkına varmıştır.</desc>
-    <credits>
-      <director>David Scheinmann</director>
-      <actor>Brian Cox</actor>
-      <actor>Kate Ashfield</actor>
-      <actor>Richard Strange</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131092100 +0300" stop="20260131094500 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Orman Dostları 1</title>
-    <desc lang="tr">Orman Dostları 1</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20260131094500 +0300" stop="20260131111500 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Köpekler Firarda</title>
-    <title lang="xx">Dogs At The Opera</title>
-    <desc lang="tr">Bir gün Samson adında bir köpek, şehirde dolaşırken yanlışlıkla kocaman bir tiyatroya, yani Metropolitan Opera’ya girer! Samson, biraz tembel ama çok meraklı bir sokak köpeğidir. İçeride dolaşırken, Margot adında kocaman, pofuduk bir köpekle tanışır.</desc>
-    <credits>
-      <director>Vasiliy Rovenskiy</director>
-      <actor>Diomid Vinogradov</actor>
-      <actor>Filipp Lebedev</actor>
-      <actor>Irina Kireeva</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131111500 +0300" stop="20260131131500 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Matilda</title>
-    <title lang="xx">Matilda (1996)</title>
-    <desc lang="tr">Araba satıcılığı yaparak para kazanan bir baba ile hafifmeşrep bir annenin kızı olan Matilda, çocukluğundan beri kendi haline bırakılmıştır. Bir gün kütüphaneye giderek yazılmış bütün kitapları okumaya karar verir ve bilgilendiği ölçüde sahip olduğu telekinetik yeteneklerin farkına varmaya başlar. Ancak ailesi onun bu yeteneklerine inanmamaktadır ve onu korkunç bir okula yollarlar.</desc>
-    <credits>
-      <director>Danny DeVito</director>
-      <actor>Danny DeVito</actor>
-      <actor>Mara Wilson</actor>
-      <actor>Embeth Davidtz</actor>
-    </credits>
-    <date>1996</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Fantastik</category>
-  </programme>
-  <programme start="20260131131500 +0300" stop="20260131150000 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Kutup Köpekleri</title>
-    <title lang="xx">Arctic Dogs</title>
-    <desc lang="tr">Kutup Köpekleri, dünyanın en hızlı köpek kuryesi olmak isteyen Swifty’nin maceralarını konu ediyor. Buzul Tilkisi Swifty, kutup posta şirketinde çalışan bir köpektir. Onun en büyük hayali, Antarktika’nın en hızlı köpek kuryesi olabilmektir. Bunun için her şeyi yapmaya hazır olan Swifty, gizlice kızaklardan birini alarak, içinde ne olduğunu bilmediği bir paketi gizemli bir yere götürmek için yola koyulur.</desc>
-    <credits>
-      <director>Aaron Woodley</director>
-      <director>Dimos Vrysellas</director>
-      <actor>James Franco</actor>
-      <actor>Jeremy Renner</actor>
-      <actor>Alec Baldwin</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131150000 +0300" stop="20260131164500 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Karlar Kraliçesi 4</title>
-    <title lang="xx">The Snow Queen 4: Mirror Lands</title>
-    <desc lang="tr">Kral Harald’ın sihiri tüm dünya üzerinden silmek ister ve sadece sihir yeteneği olan kişilerin geçebileceği bir kapı olan ‘Sihirli Ayna’ ile insanları kandırır. Bunu öğrenen Gerda, aynadan geçerek Harald’a engel olmak ister ancak malesef Gerda’nın sihir yeteneği yoktur. Kendini oldukça çaresiz hisseden Gerda’nın yardımına eskiden düşmanı olan Karlar Kraliçe’si yetişir.</desc>
-    <credits>
-      <director>Aleksey Tsitsilin</director>
-      <director>Robert Lence</director>
-      <actor>Lina Ivanova</actor>
-      <actor>Nikolai Bystrov</actor>
-      <actor>Vladimir Zaytsev</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Fantastik</category>
-  </programme>
-  <programme start="20260131164500 +0300" stop="20260131181500 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Yeni Aile</title>
-    <title lang="xx">Rhubarb</title>
-    <desc lang="tr">Siem’in anne ve babası boşanmıştır fakat babası Rik, çok geçmeden aşkı yeniden bulmuştur. Rik, Winnie’nin annesi Tosca ile evlenmeye karar verir. Siem, Winnie’yi çok sever. Yeni evlilerin ilişkilerinde çatlaklar olduğunu fark eden çocuklar, hemen devreye girerek bu ilişkiyi kurtarmaya karar verirler.</desc>
-    <credits>
-      <director>Mark de Cloe</director>
-      <actor>Nina Wyss</actor>
-      <actor>Thor Braun</actor>
-      <actor>Korneel Evers</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131181500 +0300" stop="20260131200000 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Maceracılar Kulübü</title>
-    <title lang="xx">Adventurers' Club</title>
-    <desc lang="tr">Kornel ve Max, yaz tatilini bilgisayar başında geçirmeyi planlamaktadır ancak çılgın amcaları Dionizy gelince bu plan suya düşer. Dionizy, bir aile definesinin peşindedir. Peşinde iki hırsız takılmış olduğundan habersiz olan Dionizy, çocukları da alarak çılgın bir define avına çıkar.</desc>
-    <credits>
-      <director>Tomasz Szafrański</director>
-      <actor>Franciszek Dziduch</actor>
-      <actor>Kamila Bujalska</actor>
-      <actor>Ewa Gorzelak</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131200000 +0300" stop="20260131214500 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Kovboy Çocuklar</title>
-    <title lang="xx">Buffalo Kids</title>
-    <desc lang="tr">Kovboy Çocuklar, kendilerini büyük bir maceranın içerisinde bulan iki kardeşin hikayesini konu ediyor. İrlandalı iki kardeş okyanus gemisiyle New York'a gider ve kendilerini bir yetim treninde vahşi, ülke çapında bir yolculukta bulurlar. Kardeşler burada hayatlarını sonsuza dek değiştirecek muhteşem arkadaşlıklar kurar.</desc>
-    <credits>
-      <director>Juan Jesús García Galocha</director>
-      <director>Pedro Solís</director>
-      <actor>Óscar Barberán</actor>
-      <actor>Miguel Ángel Jenner</actor>
-      <actor>Mia Pérez Ullod</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131214500 +0300" stop="20260131233000 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Harika Köpek Timber</title>
-    <title lang="xx">Timber The Treasure Dog</title>
-    <desc lang="tr">Bir oğlan evini ve ailesini kaybetmemek için onun en iyi arkadaşı ve üç köpeği ile buldukları define haritasının gösterdiği yere, gitmek üzere yola çıkarlar...</desc>
-    <credits>
-      <director>Ari Novak</director>
-      <actor>Kix Brooks</actor>
-      <actor>Kelcey Watson</actor>
-      <actor>Sewell Whitney</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131233000 +0300" stop="20260201011500 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Dedektif Sun Ve Ekibi</title>
-    <title lang="xx">Inspector Sun</title>
-    <desc lang="tr">Dedektif Sun Ve Ekibi Operasyonu, ihtiyaç duyduğu tatile giderken kendisini macera dolu olayların içerisinde bulan Müfettiş Sun’ın hikayesini konu ediyor. Müfettiş Sun, nihayet baş düşmanını yakaladıktan sonra çok ihtiyaç duyduğu tatil için San Francisco'ya giden bir deniz uçağına biner. Ancak uçuşu sırasında gizemli bir milyonere yönelik bir tehdit oluşunda Sun kendisini yeniden işinin başında bulur.</desc>
-    <credits>
-      <director>Julio Soto Gurpide</director>
-      <actor>Fernando Cabrera</actor>
-      <actor>Andrea Villaverde</actor>
-      <actor>Catherina Martínez</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
   <programme start="20260201011500 +0300" stop="20260201030000 +0300" channel="SinemaTVAile2.tr">
     <title lang="tr">Tembeller Ailesi</title>
     <title lang="xx">The Sloth Lane</title>
@@ -2378,188 +1026,6 @@
     <display-name lang="tr">Sinema Tv Comedy</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinemakomedi_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260131011500 +0300" stop="20260131030000 +0300" channel="SinemaTVComedy.tr">
-    <title lang="tr">Evlen Benimle!</title>
-    <title lang="xx">Marry Me!</title>
-    <desc lang="tr">Almanya’da yaşayan ve bekar bir anne olan Kissy, Hindistan’dan ziyarete gelen büyükannesine evli olduğunu söyler. Ancak eski kocasının manken sevgilisi, yeni erkek arkadaşının ona evlenme teklif etmesi ve 6 yaşındaki kızı, söylediği yalan konusunda onu zor duruma sokacaktır.</desc>
-    <credits>
-      <director>Neelesha Barthel</director>
-      <actor>Steffen Groth</actor>
-      <actor>Maryam Zaree</actor>
-      <actor>Fahri Yardım</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Komedi</category>
-  </programme>
-  <programme start="20260131030000 +0300" stop="20260131044500 +0300" channel="SinemaTVComedy.tr">
-    <title lang="tr">Yılbaşı Eğlencesi</title>
-    <title lang="xx">My Big Night</title>
-    <desc lang="tr">Yılbaşı gecesi televizyonda yayınlanacak olan programların çekimleri haftalar önce başlamıştır. Jose, günlerdir bu programların çekimlerinde seyirci olarak sahte alkışları ile yer almaktadır. Onun gibi yüzlerce insan aynı işi yapmaktadır. Jose, bir süre sonra, yine sahte seyircilerden biri olan Paloma’dan hoşlanmaya başladığını anlar…</desc>
-    <credits>
-      <director>Álex de la Iglesia</director>
-      <actor>Pepón Nieto</actor>
-      <actor>Mario Casas</actor>
-      <actor>Raphael</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Komedi</category>
-  </programme>
-  <programme start="20260131044500 +0300" stop="20260131063000 +0300" channel="SinemaTVComedy.tr">
-    <title lang="tr">Senaryo</title>
-    <title lang="xx">Easy Sex, Sad Movies</title>
-    <desc lang="tr">Marina ve Victor, güzel bir aşk hikayesi için gereken her şeye sahiptirler: ikisi de genç, çekici ve tutku doludur. Tek problem, her ikisinin de romantik komedi yazarı Pablo’nun yarattığı kurgusal birer karakter olmalarıdır. Pablo’nun evliliği ise çöküşün eşiğindedir. Pablo, her ne kadar yarattığı kurguyu elinden geldiğinde kusursuz hale getirmeye çalışsa da, kendi hayatında tam aksi gerçekleşmeye başlar.</desc>
-    <credits>
-      <director>Alejo Flah</director>
-      <actor>Quim Gutiérrez</actor>
-      <actor>Marta Etura</actor>
-      <actor>Ernesto Alterio</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Romantik</category>
-  </programme>
-  <programme start="20260131063000 +0300" stop="20260131081500 +0300" channel="SinemaTVComedy.tr">
-    <title lang="tr">İnce Buz</title>
-    <title lang="xx">Thin Ice</title>
-    <desc lang="tr">Mickey Prohaska küçük bir kasabada sigortacılık yapmakta, bir yandan kendi işini kurmaya çalışırken diğer yandan da kendisinden ayrılmaya çalışan eşiyle arasını düzeltmeye çalışmaktadır. Mickey'e göre her şey insanları hikayesine inandırmaktan ibarettir. Yalnız yaşayan yaşlı bir çiftçiye sigorta satmaya çalışan Mickey, adamın çok daha büyük bir hazinesi olduğunu keşfeder.</desc>
-    <credits>
-      <director>Jill Sprecher</director>
-      <actor>Greg Kinnear</actor>
-      <actor>Billy Crudup</actor>
-      <actor>Alan Arkin</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131081500 +0300" stop="20260131103000 +0300" channel="SinemaTVComedy.tr">
-    <title lang="tr">Greedy People</title>
-    <desc lang="tr">Küçük bir ada kasabasının sakinleri, sansasyonel bir cinayetle ve bir milyon doların ortaya çıkmasıyla baş etmek zorunda kalır. Giderek kötüleşen bir dizi karar, bir zamanlar barışçıl olan toplumu alt üst etmeye başlar.</desc>
-    <credits>
-      <director>Potsy Ponciroli</director>
-      <actor>Himesh Patel</actor>
-      <actor>Joseph Gordon</actor>
-      <actor>Levitt</actor>
-      <actor>Lily James</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131103000 +0300" stop="20260131121500 +0300" channel="SinemaTVComedy.tr">
-    <title lang="tr">Acemi Casus</title>
-    <title lang="xx">Spy Time</title>
-    <desc lang="tr">Güvenlik görevlisi olarak çalışan, 30’larındaki Alfrodo, zor zamanlar geçirmektedir. Kızarkadaşı, onu terk etmiş, hapisten yeni çıkan belalı bir adam olan Vázquez’in ise onu yeni hedefi olarak seçmiştir. Üstelik, bir çiftçi olduğunu sandığı babasının aslında bir ajan olduğunu öğrenir. Babası ile hiç anlaşamayan Alfrodo, şimdi Vázquez’i alt etmek için mecburen onunla birlikte çalışmak zorundadır.</desc>
-    <credits>
-      <director>Javier Ruiz Caldera</director>
-      <actor>Quim Gutiérrez</actor>
-      <actor>Carlos Areces</actor>
-      <actor>Rossy de Palma</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Komedi</category>
-  </programme>
-  <programme start="20260131121500 +0300" stop="20260131141500 +0300" channel="SinemaTVComedy.tr">
-    <title lang="tr">Aşk İçin</title>
-    <title lang="xx">Rolling To You</title>
-    <desc lang="tr">Başarılı bir iş adamı olan Jocelyn, aynı zamanda oldukça çapkın ve yalancı bir kişiliğe sahiptir. Engelli gibi davranarak genç ve güzel bir kadını baştan çıkarmaya çalışır ancak kadının kız kardeşinin de tekerlekli sandalyeli olduğundan haberi yoktur.</desc>
-    <credits>
-      <director>Franck Dubosc</director>
-      <actor>Franck Dubosc</actor>
-      <actor>Alexandra Lamy</actor>
-      <actor>Elsa Zylberstein</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Komedi</category>
-  </programme>
-  <programme start="20260131141500 +0300" stop="20260131160000 +0300" channel="SinemaTVComedy.tr">
-    <title lang="tr">50 İlk Öpücük</title>
-    <title lang="xx">50 First Dates</title>
-    <desc lang="tr">Henry Roth, Hawai’de istediği her kadınla birlikte olan ve bu kadınlarla bağ kurmayan bir doktordur. Bu durum Lucy Whitemore ile tanıştığında değişecektir. Henry ve Lucy birbirlerinden hoşlanacak ve ciddi bir ilişkiye başlayacaklardır. Ancak bir problem vardır. Lucy, sürekli hafızasını kaybetmekte, bir gün önce ne yaşadığını hatırlamamaktadır.</desc>
-    <credits>
-      <director>Peter Segal</director>
-      <actor>Adam Sandler</actor>
-      <actor>Drew Barrymore</actor>
-      <actor>Rob Schneider</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Komedi</category>
-  </programme>
-  <programme start="20260131160000 +0300" stop="20260131180000 +0300" channel="SinemaTVComedy.tr">
-    <title lang="tr">Süper Kumanda</title>
-    <title lang="xx">Click</title>
-    <desc lang="tr">Michael Newman, işkolik bir aile babasıdır. Terfi almak için patronun gözüne girmek zorundadır. Ailesiyleçok az vakit geçiren Micheal, hayatını control altına almak ismektedir. Micheal’ın isteği çılgın satış memuru Morty ile tanıştığında gerçekleşecektir. Uzaktan kumandaya sahiip olan Morty bu sayede hayatını istediği gibi yönlendirmektedir.</desc>
-    <credits>
-      <director>Frank Coraci</director>
-      <actor>Adam Sandler</actor>
-      <actor>Kate Beckinsale</actor>
-      <actor>Christopher Walken</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Fantastik</category>
-  </programme>
-  <programme start="20260131180000 +0300" stop="20260131194500 +0300" channel="SinemaTVComedy.tr">
-    <title lang="tr">Lucy Artık Bir Gangster</title>
-    <title lang="xx">Lucy Wanted</title>
-    <desc lang="tr">Güvenilir kaynaklar, 10 yaşındaki Lucy'nin -aslında sessiz ve sevimli bir ilkokul öğrencisi- Bietigheim-Bissingen'in yaya bölgesindeki bir bankayı soymak üzere olduğunu iddia ediyor. Nedeni kolayca anlaşılıyor: Lucy'nin ailesinin dükkanı olan GLAETERIA FELICITÀ'daki dondurma makinesi bozulmuş.</desc>
-    <credits>
-      <director>Till Endemann</director>
-      <actor>Violetta Arnemann</actor>
-      <actor>Franziska Wulf</actor>
-      <actor>Kostja Ullmann</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131194500 +0300" stop="20260131213000 +0300" channel="SinemaTVComedy.tr">
-    <title lang="tr">Aşkın Gözü Kördür</title>
-    <title lang="xx">Up For Love</title>
-    <desc lang="tr">Başarılı ve artık bekar bir avukat olan Diane, cep telefonunu kaybeder. Telefonu bulan Alexandre, Diane’ye ulaşır ve ikili ertesi gün buluşmaya karar verir. Diane, Alexandre’nin çok kibar ve etkileyici bir adam olduğunu görür ancak tek bir sorun vardır: boyu Diane’den oldukça kısadır. Genç kadın, toplumsal tüm tabuları bir yana bırakarak görür görmez hoşlandığı bu adamla yeni bir ilişkiye başlamaya karar verir.</desc>
-    <credits>
-      <director>Laurent Tirard</director>
-      <actor>Jean Dujardin</actor>
-      <actor>Virginie Efira</actor>
-      <actor>Cédric Kahn</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Komedi</category>
-  </programme>
-  <programme start="20260131213000 +0300" stop="20260131234500 +0300" channel="SinemaTVComedy.tr">
-    <title lang="tr">Julie Ve Julia</title>
-    <title lang="xx">Julie &amp; Julia</title>
-    <desc lang="tr">1949 yılında Paris’te, Julia Child, önemli bir diplomatın karısıdır. Oyalanacak bir şeyler arayan Julia, önce şapka yapmayı dener, ardından bridge oynar ve sonunda Cordon Bleu’da aşçılık kursuna gider ve sonunda aradığını bulur. 2002 yılında, Julie Powell ise 30 yaşında, işsiz ve kitabının basılmasını bekleyen bir bekardır. Sonunda Fransız Mutfağı ile ilgili bir blog açmaya karar verir.</desc>
-    <credits>
-      <director>Nora Ephron</director>
-      <actor>Meryl Streep</actor>
-      <actor>Amy Adams</actor>
-      <actor>Chris Messina</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131234500 +0300" stop="20260201020000 +0300" channel="SinemaTVComedy.tr">
-    <title lang="tr">Denemeye Değer</title>
-    <title lang="xx">Long Shot</title>
-    <desc lang="tr">Yetenekli ama işsiz olan gazeteci Fred, yıllar sonra ona bakıcılık yapmış olan ilk aşkı Charlotte ile karşılaşır. Şimdilerde başarılı bir diplomat olan Charlotte, başkanlık için hedefini gerçekleştirmeye çok yakındır. Fred, beklenmedik şekilde Charlotte’ı etkilemeyi başardığında, onun başkanlık için konuşma hazırlayan ekibine dahil olur.</desc>
-    <credits>
-      <director>Jonathan Levine</director>
-      <actor>Charlize Theron</actor>
-      <actor>Seth Rogen</actor>
-      <actor>O'Shea Jackson Jr</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Komedi</category>
-  </programme>
   <programme start="20260201020000 +0300" stop="20260201043000 +0300" channel="SinemaTVComedy.tr">
     <title lang="tr">Geride Kalanlar</title>
     <title lang="xx">The Holdovers</title>
@@ -2578,196 +1044,6 @@
     <display-name lang="tr">Sinema Tv Comedy 2</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinemakomedi2_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260131011500 +0300" stop="20260131030000 +0300" channel="SinemaTVComedy2.tr">
-    <title lang="tr">Duyarsızlar</title>
-    <title lang="xx">The Heyday Of The Insensitive Bastards</title>
-    <desc lang="tr">Robert Boswell’in aynı isimli kitabından beyaz perdeye uyarlanan yapım. Sekiz kısa hikayeden oluşan film, fantazi ile gerçeklik, hafıza ile tarih arasındaki farkları ve insanlığın sevincini ve acısını keşfediyor.</desc>
-    <credits>
-      <director>Mark Columbus</director>
-      <director>Lauren Hoekstra</director>
-      <director>Sarah Kruchowski</director>
-      <director>Ryan Moody</director>
-      <director>Simon Savelyev</director>
-      <director>Vanita Shastry</director>
-      <director>Shadae Lamar Smith</director>
-      <director>Jeremy David White</director>
-      <director>Jonathan King</director>
-      <actor>James Franco</actor>
-      <actor>Natalie Portman</actor>
-      <actor>Kristen Wiig</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131030000 +0300" stop="20260131044500 +0300" channel="SinemaTVComedy2.tr">
-    <title lang="tr">Evlen Benimle!</title>
-    <title lang="xx">Marry Me!</title>
-    <desc lang="tr">Almanya’da yaşayan ve bekar bir anne olan Kissy, Hindistan’dan ziyarete gelen büyükannesine evli olduğunu söyler. Ancak eski kocasının manken sevgilisi, yeni erkek arkadaşının ona evlenme teklif etmesi ve 6 yaşındaki kızı, söylediği yalan konusunda onu zor duruma sokacaktır.</desc>
-    <credits>
-      <director>Neelesha Barthel</director>
-      <actor>Steffen Groth</actor>
-      <actor>Maryam Zaree</actor>
-      <actor>Fahri Yardım</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Komedi</category>
-  </programme>
-  <programme start="20260131044500 +0300" stop="20260131063000 +0300" channel="SinemaTVComedy2.tr">
-    <title lang="tr">Yılbaşı Eğlencesi</title>
-    <title lang="xx">My Big Night</title>
-    <desc lang="tr">Yılbaşı gecesi televizyonda yayınlanacak olan programların çekimleri haftalar önce başlamıştır. Jose, günlerdir bu programların çekimlerinde seyirci olarak sahte alkışları ile yer almaktadır. Onun gibi yüzlerce insan aynı işi yapmaktadır. Jose, bir süre sonra, yine sahte seyircilerden biri olan Paloma’dan hoşlanmaya başladığını anlar…</desc>
-    <credits>
-      <director>Álex de la Iglesia</director>
-      <actor>Pepón Nieto</actor>
-      <actor>Mario Casas</actor>
-      <actor>Raphael</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Komedi</category>
-  </programme>
-  <programme start="20260131063000 +0300" stop="20260131081500 +0300" channel="SinemaTVComedy2.tr">
-    <title lang="tr">Senaryo</title>
-    <title lang="xx">Easy Sex, Sad Movies</title>
-    <desc lang="tr">Marina ve Victor, güzel bir aşk hikayesi için gereken her şeye sahiptirler: ikisi de genç, çekici ve tutku doludur. Tek problem, her ikisinin de romantik komedi yazarı Pablo’nun yarattığı kurgusal birer karakter olmalarıdır. Pablo’nun evliliği ise çöküşün eşiğindedir. Pablo, her ne kadar yarattığı kurguyu elinden geldiğinde kusursuz hale getirmeye çalışsa da, kendi hayatında tam aksi gerçekleşmeye başlar.</desc>
-    <credits>
-      <director>Alejo Flah</director>
-      <actor>Quim Gutiérrez</actor>
-      <actor>Marta Etura</actor>
-      <actor>Ernesto Alterio</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Romantik</category>
-  </programme>
-  <programme start="20260131081500 +0300" stop="20260131100000 +0300" channel="SinemaTVComedy2.tr">
-    <title lang="tr">İnce Buz</title>
-    <title lang="xx">Thin Ice</title>
-    <desc lang="tr">Mickey Prohaska küçük bir kasabada sigortacılık yapmakta, bir yandan kendi işini kurmaya çalışırken diğer yandan da kendisinden ayrılmaya çalışan eşiyle arasını düzeltmeye çalışmaktadır. Mickey'e göre her şey insanları hikayesine inandırmaktan ibarettir. Yalnız yaşayan yaşlı bir çiftçiye sigorta satmaya çalışan Mickey, adamın çok daha büyük bir hazinesi olduğunu keşfeder.</desc>
-    <credits>
-      <director>Jill Sprecher</director>
-      <actor>Greg Kinnear</actor>
-      <actor>Billy Crudup</actor>
-      <actor>Alan Arkin</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131100000 +0300" stop="20260131121500 +0300" channel="SinemaTVComedy2.tr">
-    <title lang="tr">Greedy People</title>
-    <desc lang="tr">Küçük bir ada kasabasının sakinleri, sansasyonel bir cinayetle ve bir milyon doların ortaya çıkmasıyla baş etmek zorunda kalır. Giderek kötüleşen bir dizi karar, bir zamanlar barışçıl olan toplumu alt üst etmeye başlar.</desc>
-    <credits>
-      <director>Potsy Ponciroli</director>
-      <actor>Himesh Patel</actor>
-      <actor>Joseph Gordon</actor>
-      <actor>Levitt</actor>
-      <actor>Lily James</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131121500 +0300" stop="20260131140000 +0300" channel="SinemaTVComedy2.tr">
-    <title lang="tr">Acemi Casus</title>
-    <title lang="xx">Spy Time</title>
-    <desc lang="tr">Güvenlik görevlisi olarak çalışan, 30’larındaki Alfrodo, zor zamanlar geçirmektedir. Kızarkadaşı, onu terk etmiş, hapisten yeni çıkan belalı bir adam olan Vázquez’in ise onu yeni hedefi olarak seçmiştir. Üstelik, bir çiftçi olduğunu sandığı babasının aslında bir ajan olduğunu öğrenir. Babası ile hiç anlaşamayan Alfrodo, şimdi Vázquez’i alt etmek için mecburen onunla birlikte çalışmak zorundadır.</desc>
-    <credits>
-      <director>Javier Ruiz Caldera</director>
-      <actor>Quim Gutiérrez</actor>
-      <actor>Carlos Areces</actor>
-      <actor>Rossy de Palma</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Komedi</category>
-  </programme>
-  <programme start="20260131140000 +0300" stop="20260131160000 +0300" channel="SinemaTVComedy2.tr">
-    <title lang="tr">Aşk İçin</title>
-    <title lang="xx">Rolling To You</title>
-    <desc lang="tr">Başarılı bir iş adamı olan Jocelyn, aynı zamanda oldukça çapkın ve yalancı bir kişiliğe sahiptir. Engelli gibi davranarak genç ve güzel bir kadını baştan çıkarmaya çalışır ancak kadının kız kardeşinin de tekerlekli sandalyeli olduğundan haberi yoktur.</desc>
-    <credits>
-      <director>Franck Dubosc</director>
-      <actor>Franck Dubosc</actor>
-      <actor>Alexandra Lamy</actor>
-      <actor>Elsa Zylberstein</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Komedi</category>
-  </programme>
-  <programme start="20260131160000 +0300" stop="20260131174500 +0300" channel="SinemaTVComedy2.tr">
-    <title lang="tr">50 İlk Öpücük</title>
-    <title lang="xx">50 First Dates</title>
-    <desc lang="tr">Henry Roth, Hawai’de istediği her kadınla birlikte olan ve bu kadınlarla bağ kurmayan bir doktordur. Bu durum Lucy Whitemore ile tanıştığında değişecektir. Henry ve Lucy birbirlerinden hoşlanacak ve ciddi bir ilişkiye başlayacaklardır. Ancak bir problem vardır. Lucy, sürekli hafızasını kaybetmekte, bir gün önce ne yaşadığını hatırlamamaktadır.</desc>
-    <credits>
-      <director>Peter Segal</director>
-      <actor>Adam Sandler</actor>
-      <actor>Drew Barrymore</actor>
-      <actor>Rob Schneider</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Komedi</category>
-  </programme>
-  <programme start="20260131174500 +0300" stop="20260131194500 +0300" channel="SinemaTVComedy2.tr">
-    <title lang="tr">Süper Kumanda</title>
-    <title lang="xx">Click</title>
-    <desc lang="tr">Michael Newman, işkolik bir aile babasıdır. Terfi almak için patronun gözüne girmek zorundadır. Ailesiyleçok az vakit geçiren Micheal, hayatını control altına almak ismektedir. Micheal’ın isteği çılgın satış memuru Morty ile tanıştığında gerçekleşecektir. Uzaktan kumandaya sahiip olan Morty bu sayede hayatını istediği gibi yönlendirmektedir.</desc>
-    <credits>
-      <director>Frank Coraci</director>
-      <actor>Adam Sandler</actor>
-      <actor>Kate Beckinsale</actor>
-      <actor>Christopher Walken</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Fantastik</category>
-  </programme>
-  <programme start="20260131194500 +0300" stop="20260131213000 +0300" channel="SinemaTVComedy2.tr">
-    <title lang="tr">Lucy Artık Bir Gangster</title>
-    <title lang="xx">Lucy Wanted</title>
-    <desc lang="tr">Güvenilir kaynaklar, 10 yaşındaki Lucy'nin -aslında sessiz ve sevimli bir ilkokul öğrencisi- Bietigheim-Bissingen'in yaya bölgesindeki bir bankayı soymak üzere olduğunu iddia ediyor. Nedeni kolayca anlaşılıyor: Lucy'nin ailesinin dükkanı olan GLAETERIA FELICITÀ'daki dondurma makinesi bozulmuş.</desc>
-    <credits>
-      <director>Till Endemann</director>
-      <actor>Violetta Arnemann</actor>
-      <actor>Franziska Wulf</actor>
-      <actor>Kostja Ullmann</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131213000 +0300" stop="20260131231500 +0300" channel="SinemaTVComedy2.tr">
-    <title lang="tr">Aşkın Gözü Kördür</title>
-    <title lang="xx">Up For Love</title>
-    <desc lang="tr">Başarılı ve artık bekar bir avukat olan Diane, cep telefonunu kaybeder. Telefonu bulan Alexandre, Diane’ye ulaşır ve ikili ertesi gün buluşmaya karar verir. Diane, Alexandre’nin çok kibar ve etkileyici bir adam olduğunu görür ancak tek bir sorun vardır: boyu Diane’den oldukça kısadır. Genç kadın, toplumsal tüm tabuları bir yana bırakarak görür görmez hoşlandığı bu adamla yeni bir ilişkiye başlamaya karar verir.</desc>
-    <credits>
-      <director>Laurent Tirard</director>
-      <actor>Jean Dujardin</actor>
-      <actor>Virginie Efira</actor>
-      <actor>Cédric Kahn</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Komedi</category>
-  </programme>
-  <programme start="20260131231500 +0300" stop="20260201013000 +0300" channel="SinemaTVComedy2.tr">
-    <title lang="tr">Julie Ve Julia</title>
-    <title lang="xx">Julie &amp; Julia</title>
-    <desc lang="tr">1949 yılında Paris’te, Julia Child, önemli bir diplomatın karısıdır. Oyalanacak bir şeyler arayan Julia, önce şapka yapmayı dener, ardından bridge oynar ve sonunda Cordon Bleu’da aşçılık kursuna gider ve sonunda aradığını bulur. 2002 yılında, Julie Powell ise 30 yaşında, işsiz ve kitabının basılmasını bekleyen bir bekardır. Sonunda Fransız Mutfağı ile ilgili bir blog açmaya karar verir.</desc>
-    <credits>
-      <director>Nora Ephron</director>
-      <actor>Meryl Streep</actor>
-      <actor>Amy Adams</actor>
-      <actor>Chris Messina</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
   <programme start="20260201013000 +0300" stop="20260201034500 +0300" channel="SinemaTVComedy2.tr">
     <title lang="tr">Denemeye Değer</title>
     <title lang="xx">Long Shot</title>
@@ -2786,147 +1062,6 @@
     <display-name lang="tr">Sinema Tv 1001</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinema1001_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260131014500 +0300" stop="20260131040000 +0300" channel="SinemaTV1001.tr">
-    <title lang="tr">Tehlikeli Oyun</title>
-    <title lang="xx">Saturday Fiction</title>
-    <desc lang="tr">Yıl 1941... Ünlü bir Çin’li oyuncu olan Jean Yu, yeni bir oyunda yer almak için Japon işgali altında olan Şangay’a gider. Herkes Yu’nun yönetmen sevgilisinin yeni oyununda oynamak için gittiğini düşünse de aslında amaç bambaşkadır. Jean Yu’nun tek amacı; müttefiklere bilgi sızdırmaktır.</desc>
-    <credits>
-      <director>Lou Ye</director>
-      <actor>Gong Li</actor>
-      <actor>Mark Chao</actor>
-      <actor>Joe Odagiri</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131040000 +0300" stop="20260131060000 +0300" channel="SinemaTV1001.tr">
-    <title lang="tr">Para Treni</title>
-    <title lang="xx">Money Train</title>
-    <desc lang="tr">Charlie (Woody Harrelson) ve süt kardeşi John (Wesley Snipes) polisdirler. Charlie ve Johnun hırsızları yakalama tarzı bir az değişiktir. Şöyle ki, ikisinden herhangi biri sarhoş taklidi yaparak istasyona gelirler ve herhangi birisi kendilerini soymaya başlayınca onları tutuklarlar.</desc>
-    <credits>
-      <director>Joseph Ruben</director>
-      <actor>Wesley Snipes</actor>
-      <actor>Woody Harrelson</actor>
-      <actor>Jennifer Lopez</actor>
-    </credits>
-    <date>1995</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131060000 +0300" stop="20260131074500 +0300" channel="SinemaTV1001.tr">
-    <title lang="tr">Frances Ha</title>
-    <desc lang="tr">27 yaşındaki Frances, pek de parlak bir kariyere sahip olmayan bir dansçıdır. İstikrarlı bir işe sahip olma hayalleri kuran Frances'i tam anlamıyla anlayan tek kişi ise aynı daireyi paylaştığı Sophie'dir. Ne var ki Sophie'nin hayallerindeki şehre taşınacak olması ilişkilerini sarsacak; Frances'in 'gerçek hayat ve sorumluluklar' gerçeğiyle tanışmasına neden olacaktır.</desc>
-    <credits>
-      <director>Noah Baumbach</director>
-      <actor>Greta Gerwig</actor>
-      <actor>Mickey Sumner</actor>
-      <actor>Charlotte d'Amboise</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131074500 +0300" stop="20260131100000 +0300" channel="SinemaTV1001.tr">
-    <title lang="tr">Judy</title>
-    <desc lang="tr">1968 kışında, Talk of the Town performansları için Londra’ya gelen Garland, arkadaşları ve hayranlarıyla bir araya gelmenin heyecanını yaşarken, bir yandan da gece kulübünün yönetimiyle çatışmaktadır. Burada, bir sonraki kocası olacak Mickey Deans’in hayatına girmesiyle Garland için her şey daha parlak görünmeye başlar.</desc>
-    <credits>
-      <director>Rupert Goold</director>
-      <actor>Renée Zellweger</actor>
-      <actor>Rufus Sewell</actor>
-      <actor>Finn Wittrock</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131100000 +0300" stop="20260131114500 +0300" channel="SinemaTV1001.tr">
-    <title lang="tr">Baraka</title>
-    <desc lang="tr">1992 yapımı deneysel belgesel, dünyanın çeşitli bölgelerinden nefes kesici doğa görüntüleri eşliğinde, insanın yaşadığı gezegene karşı yaklaşım biçimlerini gözler önüne seriyor. Bozulmamış doğa içerisindeki ilk insanlar, doğanın sanatı ve halen daha yaşamakta olan en eski kültürler, iki bölümden oluşan belgeselin temalarından birkaçı.</desc>
-    <credits>
-      <director>Ron Fricke</director>
-      <actor>Patrick Disanto</actor>
-    </credits>
-    <date>1992</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131114500 +0300" stop="20260131133000 +0300" channel="SinemaTV1001.tr">
-    <title lang="tr">Dağılan Evin Çocukları</title>
-    <desc lang="tr">Evlerinden kurtarılıp mahkemenin velayet kararını beklerken özel bir eve yerleştirilen çocukların hikâyesi. Çalışanlar, çocuklara güvenli ve destekleyici bir ortam sunmak için ellerinden geleni yaparlar.</desc>
-    <date>2022</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131133000 +0300" stop="20260131153000 +0300" channel="SinemaTV1001.tr">
-    <title lang="tr">Aradığınız İçin Teşekkürler</title>
-    <title lang="xx">Thank You For Calling</title>
-    <desc lang="tr">“CEO dolandırıcılığını” icat eden ve banka ve şirket yetkililerini telefonla arayıp CEO'ları gibi davranarak para transfer etmeye ikna eden dolandırıcı Gilbert Chikli'nin hayatını konu alan biyografi. Kendisi şu anda İsrail'de lüks içinde yaşamaktadır.</desc>
-    <credits>
-      <director>Pascal Elbé</director>
-      <actor>Vincent Elbaz</actor>
-      <actor>Julie Gayet</actor>
-      <actor>Zabou Breitman</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131153000 +0300" stop="20260131174500 +0300" channel="SinemaTV1001.tr">
-    <title lang="tr">Enayi</title>
-    <title lang="xx">The Fool</title>
-    <desc lang="tr">Film, işinde iyi bir su tesisatçısının, bir binadaki çatlakları fark edip konuyu üst mercilere taşıyıp insanları kurtarmak istemesini konu alıyor.</desc>
-    <credits>
-      <director>Yury Bykov</director>
-      <actor>Artyom Bystrov</actor>
-      <actor>Natalya Surkova</actor>
-      <actor>Yuriy Tsurilo</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131174500 +0300" stop="20260131200000 +0300" channel="SinemaTV1001.tr">
-    <title lang="tr">Ateş Hattında</title>
-    <title lang="xx">In The Line Of Fire</title>
-    <desc lang="tr">Gizli Servis Ajanı Frank Horrigan, başkanı korumak üzere görevli, işinde başarılı bir ajandır. Ancak 1963 yılında, Başkan Kennedy’i kurtaramamış olmanın verdiği huzursuzluk onu hala rahatsız etmektedir. Bir süredir Mitch Leary adında eski bir CIA suikastçisinden tehdit içeren telefonlar almaktadır.</desc>
-    <credits>
-      <director>Wolfgang Petersen</director>
-      <actor>Rene Russo</actor>
-      <actor>John Malkovich</actor>
-      <actor>Clint Eastwood</actor>
-    </credits>
-    <date>1993</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131200000 +0300" stop="20260131220000 +0300" channel="SinemaTV1001.tr">
-    <title lang="tr">Nahid</title>
-    <desc lang="tr">Film İran'da yaşayan ve boşanmış kadınların sorunlarını, Ortadoğu kültürü ve kadın-erkek ilişkileri ekseninde masaya yatırıyor. Daha önce adını televizyon projeleriyle duyurmuş olan Ida Panahandeh'in ilk uzun metrajlı filmi olan Nahid'in başrollerini Sareh Bayat ve Pejman Bazeghi ikilisi paylaşıyor.</desc>
-    <credits>
-      <director>Ida Panahandeh</director>
-      <actor>Sare Bayat</actor>
-      <actor>Pejman Bazeghi</actor>
-      <actor>Navid Mohammadzadeh</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131220000 +0300" stop="20260201001500 +0300" channel="SinemaTV1001.tr">
-    <title lang="tr">Ölü Ozanlar Derneği</title>
-    <title lang="xx">Dead Poets Society</title>
-    <desc lang="tr">1950’li yıllar… Welton Akademisi disiplinli ve akademik çevrelerde saygınlığı yüksek olan bir okuldur. Okul yönetiminin takındığı muhafazakar tavır, öğürenciler için sıkıcı bir hal almıştır. Ancak okula yeni atanan İngilizce öğretmeni John Keating, her şeyi değiştirecektir.</desc>
-    <credits>
-      <director>Peter Weir</director>
-      <actor>Robin Williams</actor>
-      <actor>Ethan Hawke</actor>
-      <actor>Robert Sean Leonard</actor>
-    </credits>
-    <date>1989</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
   <programme start="20260201001500 +0300" stop="20260201023000 +0300" channel="SinemaTV1001.tr">
     <title lang="tr">Piyano</title>
     <title lang="xx">The Piano</title>
@@ -2958,160 +1093,6 @@
     <display-name lang="tr">Sinema Tv 1002</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinema1002_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260131013000 +0300" stop="20260131033000 +0300" channel="SinemaTV1002.tr">
-    <title lang="tr">Eadweard</title>
-    <desc lang="tr">19. yüzyılın ikinci yarısında, sinemanın öncüsü kabul edilen Eadweard Muybridge, “hayatın hareketini” tüm zenginliğiyle filme alma takıntısıyla büyük bir projeye girişir. Ancak bu epik yaratım yolculuğu, genç ve güzel eşi Flora’ya duyduğu derin kıskançlık tarafından gölgelenir.Muybridge, projesi ilerledikçe karısının sadakatine dair kuşkularla giderek daha fazla paranoyaya kapılır.</desc>
-    <credits>
-      <director>Kyle Rideout</director>
-      <actor>Michael Eklund</actor>
-      <actor>Sara Canning</actor>
-      <actor>Christopher Heyerdahl</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131033000 +0300" stop="20260131054500 +0300" channel="SinemaTV1002.tr">
-    <title lang="tr">Tehlikeli Oyun</title>
-    <title lang="xx">Saturday Fiction</title>
-    <desc lang="tr">Yıl 1941... Ünlü bir Çin’li oyuncu olan Jean Yu, yeni bir oyunda yer almak için Japon işgali altında olan Şangay’a gider. Herkes Yu’nun yönetmen sevgilisinin yeni oyununda oynamak için gittiğini düşünse de aslında amaç bambaşkadır. Jean Yu’nun tek amacı; müttefiklere bilgi sızdırmaktır.</desc>
-    <credits>
-      <director>Lou Ye</director>
-      <actor>Gong Li</actor>
-      <actor>Mark Chao</actor>
-      <actor>Joe Odagiri</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131054500 +0300" stop="20260131074500 +0300" channel="SinemaTV1002.tr">
-    <title lang="tr">Para Treni</title>
-    <title lang="xx">Money Train</title>
-    <desc lang="tr">Charlie (Woody Harrelson) ve süt kardeşi John (Wesley Snipes) polisdirler. Charlie ve Johnun hırsızları yakalama tarzı bir az değişiktir. Şöyle ki, ikisinden herhangi biri sarhoş taklidi yaparak istasyona gelirler ve herhangi birisi kendilerini soymaya başlayınca onları tutuklarlar.</desc>
-    <credits>
-      <director>Joseph Ruben</director>
-      <actor>Wesley Snipes</actor>
-      <actor>Woody Harrelson</actor>
-      <actor>Jennifer Lopez</actor>
-    </credits>
-    <date>1995</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131074500 +0300" stop="20260131093000 +0300" channel="SinemaTV1002.tr">
-    <title lang="tr">Frances Ha</title>
-    <desc lang="tr">27 yaşındaki Frances, pek de parlak bir kariyere sahip olmayan bir dansçıdır. İstikrarlı bir işe sahip olma hayalleri kuran Frances'i tam anlamıyla anlayan tek kişi ise aynı daireyi paylaştığı Sophie'dir. Ne var ki Sophie'nin hayallerindeki şehre taşınacak olması ilişkilerini sarsacak; Frances'in 'gerçek hayat ve sorumluluklar' gerçeğiyle tanışmasına neden olacaktır.</desc>
-    <credits>
-      <director>Noah Baumbach</director>
-      <actor>Greta Gerwig</actor>
-      <actor>Mickey Sumner</actor>
-      <actor>Charlotte d'Amboise</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131093000 +0300" stop="20260131114500 +0300" channel="SinemaTV1002.tr">
-    <title lang="tr">Judy</title>
-    <desc lang="tr">1968 kışında, Talk of the Town performansları için Londra’ya gelen Garland, arkadaşları ve hayranlarıyla bir araya gelmenin heyecanını yaşarken, bir yandan da gece kulübünün yönetimiyle çatışmaktadır. Burada, bir sonraki kocası olacak Mickey Deans’in hayatına girmesiyle Garland için her şey daha parlak görünmeye başlar.</desc>
-    <credits>
-      <director>Rupert Goold</director>
-      <actor>Renée Zellweger</actor>
-      <actor>Rufus Sewell</actor>
-      <actor>Finn Wittrock</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131114500 +0300" stop="20260131133000 +0300" channel="SinemaTV1002.tr">
-    <title lang="tr">Baraka</title>
-    <desc lang="tr">1992 yapımı deneysel belgesel, dünyanın çeşitli bölgelerinden nefes kesici doğa görüntüleri eşliğinde, insanın yaşadığı gezegene karşı yaklaşım biçimlerini gözler önüne seriyor. Bozulmamış doğa içerisindeki ilk insanlar, doğanın sanatı ve halen daha yaşamakta olan en eski kültürler, iki bölümden oluşan belgeselin temalarından birkaçı.</desc>
-    <credits>
-      <director>Ron Fricke</director>
-      <actor>Patrick Disanto</actor>
-    </credits>
-    <date>1992</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131133000 +0300" stop="20260131151500 +0300" channel="SinemaTV1002.tr">
-    <title lang="tr">Dağılan Evin Çocukları</title>
-    <desc lang="tr">Evlerinden kurtarılıp mahkemenin velayet kararını beklerken özel bir eve yerleştirilen çocukların hikâyesi. Çalışanlar, çocuklara güvenli ve destekleyici bir ortam sunmak için ellerinden geleni yaparlar.</desc>
-    <date>2022</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131151500 +0300" stop="20260131171500 +0300" channel="SinemaTV1002.tr">
-    <title lang="tr">Aradığınız İçin Teşekkürler</title>
-    <title lang="xx">Thank You For Calling</title>
-    <desc lang="tr">“CEO dolandırıcılığını” icat eden ve banka ve şirket yetkililerini telefonla arayıp CEO'ları gibi davranarak para transfer etmeye ikna eden dolandırıcı Gilbert Chikli'nin hayatını konu alan biyografi. Kendisi şu anda İsrail'de lüks içinde yaşamaktadır.</desc>
-    <credits>
-      <director>Pascal Elbé</director>
-      <actor>Vincent Elbaz</actor>
-      <actor>Julie Gayet</actor>
-      <actor>Zabou Breitman</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131171500 +0300" stop="20260131193000 +0300" channel="SinemaTV1002.tr">
-    <title lang="tr">Enayi</title>
-    <title lang="xx">The Fool</title>
-    <desc lang="tr">Film, işinde iyi bir su tesisatçısının, bir binadaki çatlakları fark edip konuyu üst mercilere taşıyıp insanları kurtarmak istemesini konu alıyor.</desc>
-    <credits>
-      <director>Yury Bykov</director>
-      <actor>Artyom Bystrov</actor>
-      <actor>Natalya Surkova</actor>
-      <actor>Yuriy Tsurilo</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131193000 +0300" stop="20260131214500 +0300" channel="SinemaTV1002.tr">
-    <title lang="tr">Ateş Hattında</title>
-    <title lang="xx">In The Line Of Fire</title>
-    <desc lang="tr">Gizli Servis Ajanı Frank Horrigan, başkanı korumak üzere görevli, işinde başarılı bir ajandır. Ancak 1963 yılında, Başkan Kennedy’i kurtaramamış olmanın verdiği huzursuzluk onu hala rahatsız etmektedir. Bir süredir Mitch Leary adında eski bir CIA suikastçisinden tehdit içeren telefonlar almaktadır.</desc>
-    <credits>
-      <director>Wolfgang Petersen</director>
-      <actor>Rene Russo</actor>
-      <actor>John Malkovich</actor>
-      <actor>Clint Eastwood</actor>
-    </credits>
-    <date>1993</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131214500 +0300" stop="20260131234500 +0300" channel="SinemaTV1002.tr">
-    <title lang="tr">Nahid</title>
-    <desc lang="tr">Film İran'da yaşayan ve boşanmış kadınların sorunlarını, Ortadoğu kültürü ve kadın-erkek ilişkileri ekseninde masaya yatırıyor. Daha önce adını televizyon projeleriyle duyurmuş olan Ida Panahandeh'in ilk uzun metrajlı filmi olan Nahid'in başrollerini Sareh Bayat ve Pejman Bazeghi ikilisi paylaşıyor.</desc>
-    <credits>
-      <director>Ida Panahandeh</director>
-      <actor>Sare Bayat</actor>
-      <actor>Pejman Bazeghi</actor>
-      <actor>Navid Mohammadzadeh</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260131234500 +0300" stop="20260201020000 +0300" channel="SinemaTV1002.tr">
-    <title lang="tr">Ölü Ozanlar Derneği</title>
-    <title lang="xx">Dead Poets Society</title>
-    <desc lang="tr">1950’li yıllar… Welton Akademisi disiplinli ve akademik çevrelerde saygınlığı yüksek olan bir okuldur. Okul yönetiminin takındığı muhafazakar tavır, öğürenciler için sıkıcı bir hal almıştır. Ancak okula yeni atanan İngilizce öğretmeni John Keating, her şeyi değiştirecektir.</desc>
-    <credits>
-      <director>Peter Weir</director>
-      <actor>Robin Williams</actor>
-      <actor>Ethan Hawke</actor>
-      <actor>Robert Sean Leonard</actor>
-    </credits>
-    <date>1989</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
   <programme start="20260201020000 +0300" stop="20260201041500 +0300" channel="SinemaTV1002.tr">
     <title lang="tr">Piyano</title>
     <title lang="xx">The Piano</title>
@@ -3130,63 +1111,6 @@
     <display-name lang="tr">FilmBox</display-name>
     <icon src="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7e6" />
   </channel>
-  <programme start="20260131005500 +0300" stop="20260131024000 +0300" channel="FilmBox.tr">
-    <title lang="tr">Cinayetin Anatomisi</title>
-    <desc lang="tr">Şiddet içeren davranışların temel nedenlerinden etkilenen psikolog Dr. Amanda Tyler, idam mahkumu Jackson Shea ile röportaj yapma fırsatı bulur. Röportaj başlar ancak Jackson'ın kaderi tam bir muammadır. Amandanın infazdaki rolü belirleyici olacaktır.</desc>
-  </programme>
-  <programme start="20260131024000 +0300" stop="20260131041000 +0300" channel="FilmBox.tr">
-    <title lang="tr">Dolan'ın Arabası</title>
-    <desc lang="tr">Las Vegas'ta öğretmenlik yapan Robinson ve eşi Elizabeth bebek sahibi olmaya çalışmaktadırlar. Bir gece Elizabeth, çölde ata binerken, insan kaçakçısı Jimmy Dolan'ın, iki tane insan kaçakçısını öldürdüğüne tanıklık eder ve bu durumu polise bildirmeye karar verir. Ancak, bir anda cep telefonunu düşürür ve Dolan önce telefonu, sonrasında da Elizabeth'in ev adresini bularak onu tehdit eder.</desc>
-  </programme>
-  <programme start="20260131041000 +0300" stop="20260131054500 +0300" channel="FilmBox.tr">
-    <title lang="tr">Gizli Kamera</title>
-    <desc lang="tr">Pulitzer ödüllü gazeteci Barcelona'da bir otelde yapılan toplu katliam sonrası odasında ölü bulunur. Gazetecinin başına buyruk muhabir kardeşi Dan Kovaks olaydan sonra kendi inisiyatifiyle bir araştırma başlatır. Yapımcısı Alejandra Velor, katiller ve Kuzey Kore'de bir askeri çatışmanın her iki tarafındaki geniş bir hükümet ajanı ağı tarafından yakalanır. Peki kim kimin için çalışıyor ve kim güvenilir?</desc>
-  </programme>
-  <programme start="20260131054500 +0300" stop="20260131072500 +0300" channel="FilmBox.tr">
-    <title lang="tr">Switchgrass'te Geceyarısı</title>
-    <desc lang="tr">Bir FBI ajanı ve Florida Eyalet subayı, bir dizi çözülmemiş cinayet vakasını araştırmak için bir araya geliyor.</desc>
-  </programme>
-  <programme start="20260131072500 +0300" stop="20260131090000 +0300" channel="FilmBox.tr">
-    <title lang="tr">Tren Macerası</title>
-    <desc lang="tr">62 yaşındaki Jeremiah Wilson tüm hayatını adadığı tren istasyonu kapatılmak üzeredir. Büyükbabalarını bu mücadelede yalnız bırakmayacak olan torunları tren istasyonunun kapatılmaması için ne gerekiyorsa yapmaya karar verirler.</desc>
-  </programme>
-  <programme start="20260131090000 +0300" stop="20260131104500 +0300" channel="FilmBox.tr">
-    <title lang="tr">Karı Koca</title>
-    <desc lang="tr">Çiftimiz on yıllık krizli bir evliliğin içindedir ve boşanmayı düşünür. Ancak başarısız bir bilimsel deneyin ardından, aniden birini diğerinin bedeninde bulurlar.</desc>
-  </programme>
-  <programme start="20260131104500 +0300" stop="20260131123000 +0300" channel="FilmBox.tr">
-    <title lang="tr">Aşk ve Mary</title>
-    <desc lang="tr">Mary, fırınının kapılarını açık tutmak için mücadele eden sofistike bir pasta ustasıdır. Tahliye ile karşılaştığında, enteresan Teksas’lı ailesinden ölçülebilir bir nişan hediyesini almak için nişanlısı Brent ile birlikte evine geri dönmeye karar verir. Brent alerjilerden sıkıntı çektiğinde ve seyahat edemez hale geldiğinde, Mary kendine tıpkı benzeyen ikiz abisi Jake’i hapisten çıkarır ve onu nişanlısı ile bırakarak evine geri döner.</desc>
-  </programme>
-  <programme start="20260131123000 +0300" stop="20260131143000 +0300" channel="FilmBox.tr">
-    <title lang="tr">David Copperfield'ın Hikayesi</title>
-    <sub-title lang="tr">David Copperfield'ın Çok Kişisel Hikayesi</sub-title>
-    <desc lang="tr">Filmde ikonik karakter David Copperfield’in, kaotik bir dünyada kendi yerini bulmaya çalışmasının eğlenceli hikayesi anlatılıyor.</desc>
-  </programme>
-  <programme start="20260131143000 +0300" stop="20260131164500 +0300" channel="FilmBox.tr">
-    <title lang="tr">Her Şey Her Yerde Aynı Anda</title>
-    <desc lang="tr">Evelyn Wang, çamaşırhane işleten orta yaşlı bir göçmen kadındır, paralel evrenden gelen davetsiz bir misafir, Evelyn'e tüm evrenlerin kaderinin onun elinde olduğunu söyler.</desc>
-  </programme>
-  <programme start="20260131164500 +0300" stop="20260131181500 +0300" channel="FilmBox.tr">
-    <title lang="tr">Bir Noel Öpücüğü</title>
-    <desc lang="tr">Çok iyi bir iç mimar olan Priscilla Hall ve yardımcısı Wendy, Priscilla'nın erkek arkadaşının evini beraberce dekore ederler.</desc>
-  </programme>
-  <programme start="20260131181500 +0300" stop="20260131200000 +0300" channel="FilmBox.tr">
-    <title lang="tr">Aşkın Kitabı</title>
-    <desc lang="tr">İki yazar, bir kitap turu için Meksika’ya doğru yola çıkar.</desc>
-  </programme>
-  <programme start="20260131200000 +0300" stop="20260131213000 +0300" channel="FilmBox.tr">
-    <title lang="tr">Yılbaşı Postası</title>
-    <desc lang="tr">Kristi çocukların Noel Baba'ya yazdıkları mektupları cevaplayarak para kazanmaya başlar. İşyerinde postacı olan Matt'e aşık olur ama aslında hiçbir şey göründüğü gibi değildir.</desc>
-  </programme>
-  <programme start="20260131213000 +0300" stop="20260131230500 +0300" channel="FilmBox.tr">
-    <title lang="tr">Baba</title>
-    <desc lang="tr">Alzeihmer hastası Anthony 80 yaşında biraz yaramaz, ısrarla yalnız yaşamak isteyen, kızının tanıştırdığı tüm yardımcıları geri çeviren biridir</desc>
-  </programme>
-  <programme start="20260131230500 +0300" stop="20260201003500 +0300" channel="FilmBox.tr">
-    <title lang="tr">Noel İptal</title>
-    <desc lang="tr">Emma'nın babası, onun lisedeki eski rakibiyle çıkmaya başlar. Bunun üzerine, Emma bu mutlu çifti ayırmak için bir plan yapmaya koyulur.</desc>
-  </programme>
   <programme start="20260201003500 +0300" stop="20260201020000 +0300" channel="FilmBox.tr">
     <title lang="tr">Yarın Yokmuş Gibi</title>
     <desc lang="tr">Nyles ve Sarah, bir düğünde karşılaşırlar. Ancak kendilerini düğün mekanından ve birbirlerinden kaçamaz durumda bulduklarında işler içerisinde çıkılmaz bir hal alır.</desc>
@@ -3195,220 +1119,6 @@
     <display-name lang="tr">MovieSmart Classic</display-name>
     <icon src="https://www.dsmart.com.tr/epg/images/0x60/59f97297cfef0b75f4723f91" />
   </channel>
-  <programme start="20260131004000 +0300" stop="20260131022000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Sinekli Bakkal</title>
-    <desc lang="tr">Rabia, Emine ile Kız Tevfik lakaplı bir adamın tek çocuğudur. Kız Tevfik'in, sürgün edilmesi ve bir süre sonra da Emine’nin ölmesiyle Rabia dedesi İlhami Efendi’nin yanında kalır. İlhami Efendi köhne zihniyetli bir imamdır. Sesinin güzelliği ile nam salan Rabia, paşa konağında musiki dersleri almaya başlar. Bu dersler esnasında Peregrini ile tanışır. Rabia, Peregrini’den Batılı tarzda müzik dersleri alır. Bu ilişki bir süre sonra aşka dönüşür.</desc>
-    <credits>
-      <director>Mehmet Dinler</director>
-      <actor>Türkan Şoray</actor>
-      <actor>Ediz Hun</actor>
-      <actor>Erol Günaydın</actor>
-      <actor>Çolpan İlhan</actor>
-      <actor>Feridun Karakaya</actor>
-      <actor>Funda Gürçen</actor>
-    </credits>
-    <date>1967</date>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20260131022000 +0300" stop="20260131035000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Memleketim</title>
-    <desc lang="tr">Leyla Avrupa'da yaşamak istediği için Murat'tan ayrılır. Murat’ın Türkiye'ye dönmesiyle Leyla büyük bir yalnızlığın içine düşer. Vaktinin çoğunu ev arkadaşı Helga ile geçirmeye başlar. Helga, ailesiyle yaşadığı sorunlara dayanamayarak intihar eder. Helga’nın ölümünün ardından Leyla, Helga’nın abisiyle yeni bir ilişkiye başlar. Bu birliktelik Leyla’nın kendi öz değerlerini ve dini inancını sorgulamasına sebep olacaktır.</desc>
-    <credits>
-      <director>Yücel Çakmaklı</director>
-      <actor>Filiz Akın</actor>
-      <actor>Tarık Akan</actor>
-      <actor>Cemil Şahbaz</actor>
-      <actor>Aydan Adan</actor>
-      <actor>Kenan Pars</actor>
-      <actor>Diclehan Baban</actor>
-    </credits>
-    <date>1974</date>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20260131035000 +0300" stop="20260131054000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Kimse Fatma Gibi Öpemez</title>
-    <desc lang="tr">Fatma, Avrupa’dan döndüğü gün annesine bir miras kaldığını öğrenir. Fatma'nın annesi, yıllarca dayısını sakat bir kızı olduğu bahanesiyle dolandırmıştır. Dayısı da mirası sakat yeğenine bırakmıştır. Mirasın alınabilmesi için Fatma’nın sakat numarası yapması gerekir. Bu iş için avukat Kemal bir süreliğine Fatma’yı gözetleyecektir. Ancak bu durum Fatma ve Kemal arasında bir aşkın başlamasına sebep olacaktır.</desc>
-    <credits>
-      <director>Zafer Davutoğlu</director>
-      <actor>Fatma Girik</actor>
-      <actor>İzzet Günay</actor>
-      <actor>Neriman Köksal</actor>
-      <actor>Efgan Efekan</actor>
-      <actor>Serpil Gül</actor>
-      <actor>Süleyman Turan</actor>
-    </credits>
-    <date>1964</date>
-    <category lang="tr">Komedi</category>
-  </programme>
-  <programme start="20260131054000 +0300" stop="20260131070000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Sevda Rüzgarı</title>
-    <desc lang="tr">Hikmet Bey ile Memduh Bey'in çocukları Ümit ile Türkan birbirlerine sevdalıdırlar. Aileleri de ikisinin evliliklerini onaylamıştır. Bu arada Ümit'in babası aldığı kredileri ödeyemeyince iflas eder bunun üzerine Türkan'ın annesi ile babası kızları Türkan'ı zengin bir iş adamının oğluyla evlenmeye zorlarlar. Bu duruma dayanamayan Ümit'in annesi ile babası intihar eder. Ümit'te alkolik olur ve hastanelere düşer.</desc>
-    <credits>
-      <director>Aram Gülyüz</director>
-      <actor>Ümit Besen</actor>
-      <actor>Oya Palay</actor>
-      <actor>Nubar Terziyan</actor>
-      <actor>Ergun Köknar</actor>
-      <actor>Diler Saraç</actor>
-      <actor>Mesut Sürmeli</actor>
-    </credits>
-    <date>1987</date>
-    <category lang="tr">Melodram</category>
-  </programme>
-  <programme start="20260131070000 +0300" stop="20260131084000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Seviştiğimiz Günler</title>
-    <desc lang="tr">Aynı pansiyonda kalan üç yakın ardakadaş, erkeklere karşı tavır almak için söz verirler ama hiç birisi sözünde durmaz.Nilüfer, kendini zengin diye tanıtan bir araba tamircisine, Lale, ünlü bir artiste, Mine ise patronuna aşık olur. Ressam Kenan ise Lale'ye aşıktır ve Lale'ye aşık olduğu adamın ihanet etiiğni söyler.Kenan'a inanmayan Lale onu aşağılar fakat daha sonra Kenan haklı çıkınca pişman olur.Mine ise patronu tarafından hamile bırakılır.</desc>
-    <credits>
-      <director>Halit Refiğ</director>
-      <actor>Sadri Alışık</actor>
-      <actor>Fatma Girik</actor>
-      <actor>Mürüvvet Sim</actor>
-      <actor>Nuray Uslu</actor>
-      <actor>Orhan Günşiray</actor>
-    </credits>
-    <date>1961</date>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20260131084000 +0300" stop="20260131095000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Ömer Hayyam</title>
-    <desc lang="tr">Nişabur’ un zalim valisi, Ömer Hayyam’la babasını esir alarak taş ocağında çalıştırır. Valinin oğlu Sadık, Ömer’in yaşlı babasını öldürür. Ömer, bir yolunu bularak esir tutulduğu zindandan kaçar. İntikam almak için kendisini yetiştirir. Zamanla hem iyi bir silahşor hem de ünlü bir şair olur. Maske takarak Kara Hayalet lakabını alan Ömer, Sadık’a karşı mücadele eder.</desc>
-    <credits>
-      <director>Tunç Başaran</director>
-      <actor>Orçun Sonat</actor>
-      <actor>Bahar Erdeniz</actor>
-      <actor>Halit Akçatepe</actor>
-      <actor>Seyyal Taner</actor>
-    </credits>
-    <date>1973</date>
-    <category lang="tr">Tarih</category>
-  </programme>
-  <programme start="20260131095000 +0300" stop="20260131113000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Küçük Sevgilim</title>
-    <desc lang="tr">Lale, anne ve babasını küçük yaşta kaybetmiş tıp fakültesi öğrencisidir.Kanser olan ablası Nevin, hem evi geçindirmekte hem de Lale’yi okutmaktadır.Okulun son günlerinde okula yeni bir hoca gelir. Murat, meşhur ve yakışıklı bir beyin cerrahıdır.Kısa süre içinde Lale ile aşk yaşamaya başlar.Murat, Lalenin ablasının tedavisiyle yakından ilgilenir. Genç kadın kanseri yenmiştir. Ancak Lale ile Murat’ın aşkının üstüne gölge düşürmüştür.</desc>
-    <credits>
-      <director>Orhan Elmas</director>
-      <actor>Cüneyt Arkın</actor>
-      <actor>Filiz Akın</actor>
-      <actor>Hülya Tuğlu</actor>
-      <actor>Yusuf Sezgin</actor>
-      <actor>Nubar Terziyan</actor>
-      <actor>Deniz Erkanat</actor>
-    </credits>
-    <date>1971</date>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20260131113000 +0300" stop="20260131131000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Yavrularım</title>
-    <desc lang="tr">Filmde, Almanya’dan Türkiye’ye dönen bir ailenin yaşadıkları anlatılır.</desc>
-    <credits>
-      <director>Bilge Olgaç</director>
-      <actor>Çetin Tekindor</actor>
-      <actor>Hülya Koçyiğit</actor>
-      <actor>Neslihan Kuru</actor>
-      <actor>Sonat Bilgin</actor>
-    </credits>
-    <date>1984</date>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20260131131000 +0300" stop="20260131150000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Komşunun Tavuğu</title>
-    <desc lang="tr">Türkan'a ölen dayısından 11 milyon miras kalmıştır.Ancak, Türkan evliyse bu servetin sahibi olacaktır, aksi taktirde servet diğer akrabalara paylaştırılacaktır, Kocasından yeni boşanmış olan Türkan, bu serveti alabilmek için yakın arkadaşı Nevin'le bir oyuna başvurur. Miras Türkan'ın üzerine geçinceye kadar Nevin kocası Türkan'ın kocasıymış gibi rol yapacaktır.Bunun üzerine Türkan'ın eski kocası çıkıp gelince işler iyice karışacaktır.</desc>
-    <credits>
-      <director>Zafer Davutoğlu</director>
-      <actor>Türkan Şoray</actor>
-      <actor>Sadri Alışık</actor>
-      <actor>Tunç Okan</actor>
-      <actor>Çolpan İlhan</actor>
-    </credits>
-    <date>1965</date>
-    <category lang="tr">Komedi</category>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20260131150000 +0300" stop="20260131164000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Memleketim</title>
-    <desc lang="tr">Leyla Avrupa'da yaşamak istediği için Murat'tan ayrılır. Murat’ın Türkiye'ye dönmesiyle Leyla büyük bir yalnızlığın içine düşer. Vaktinin çoğunu ev arkadaşı Helga ile geçirmeye başlar. Helga, ailesiyle yaşadığı sorunlara dayanamayarak intihar eder. Helga’nın ölümünün ardından Leyla, Helga’nın abisiyle yeni bir ilişkiye başlar. Bu birliktelik Leyla’nın kendi öz değerlerini ve dini inancını sorgulamasına sebep olacaktır.</desc>
-    <credits>
-      <director>Yücel Çakmaklı</director>
-      <actor>Filiz Akın</actor>
-      <actor>Tarık Akan</actor>
-      <actor>Cemil Şahbaz</actor>
-      <actor>Aydan Adan</actor>
-      <actor>Kenan Pars</actor>
-      <actor>Diclehan Baban</actor>
-    </credits>
-    <date>1974</date>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20260131164000 +0300" stop="20260131181000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Şahane Evlilik</title>
-    <desc lang="tr">Orhan’ın çalıştığı ofiste birinin terfi alacağı konuşulur. Bu terfi için, aile ve yaşayış biçimi de önemlidir. Bunun için eşiyle iyi geçinmeye çalışan Orhan, Sibel’den umduğu karşılığı bulamaz. Anlaşmazlıkları sonucunda Sibel, Orhan’ı terk eder. Bu duruma üzülen Orhan bir pavyonda bulur kendini. Burada Mehtap ile tanışır. Ertesi sabah aniden eve gelen patron, Orhan ve Mehtap’ı evli zanneder. İkili bir süreliğine de olsa evli hayatı yaşayacaktır.</desc>
-    <credits>
-      <director>Şahin Gök</director>
-      <actor>Serpil Çakmaklı</actor>
-      <actor>Berhan Şimşek</actor>
-      <actor>İhsan Devrim</actor>
-      <actor>Hülya Erçel</actor>
-    </credits>
-    <date>1989</date>
-    <category lang="tr">Romantik</category>
-  </programme>
-  <programme start="20260131181000 +0300" stop="20260131194000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Ben Bir Garip Keloğlanım</title>
-    <desc lang="tr">Film, Karakız'la evlenebilmek için bir iş bulmak üzere köyünden yola çıkan Keloğlan'ın başına gelen maceraları konu alır.</desc>
-    <credits>
-      <director>Süreyya Duru</director>
-      <actor>Rüştü Asyalı</actor>
-      <actor>Biricik</actor>
-      <actor>Saadet Gürses</actor>
-      <actor>Rengin Arda</actor>
-      <actor>Ekrem Gökkaya</actor>
-      <actor>İhsan Baysal</actor>
-    </credits>
-    <date>1976</date>
-    <category lang="tr">Komedi</category>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20260131194000 +0300" stop="20260131213000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Öğretmen</title>
-    <desc lang="tr">Film, köyden İstanbul'a yerleşen başarılı bir öğretmenin geçim sıkıntısı yüzünden aklını kaybetmesini anlatıyor.</desc>
-    <credits>
-      <director>Kartal Tibet</director>
-      <actor>Kemal Sunal</actor>
-      <actor>Ferdi Akarnur</actor>
-      <actor>Reha Yurdakul</actor>
-    </credits>
-    <date>1988</date>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20260131213000 +0300" stop="20260131230000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Battal Gazi Destanı</title>
-    <desc lang="tr">Cafer, Malatya Serdarı Hüseyin Gazi’nin oğludur. Hüseyin Gazi, Bizanslı komutanların kurduğu bir pusuda öldürülür. Cafer, babasının intikamını almaya yemin eder. Yolda babasının eski dostu Bizanslı savaşçı Hammer’le karşılaşıp dost olurlar. İntikam için Bizans’a doğru yola çıkan ikili, yol boyunca türlü engellerle karşılaşacaktır.</desc>
-    <credits>
-      <director>Atıf Yılmaz</director>
-      <actor>Cüneyt Arkın</actor>
-      <actor>Kerim Afşar</actor>
-      <actor>Fikret Hakan</actor>
-      <actor>Meral Zeren</actor>
-      <actor>Reha Yurdakul</actor>
-    </credits>
-    <date>1971</date>
-    <category lang="tr">Tarihi</category>
-  </programme>
-  <programme start="20260131230000 +0300" stop="20260201003000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Sevmek Yeniden Doğmak</title>
-    <desc lang="tr">Ümit gazinolarda ses sanatçılığı yapan genç ve yakışıklı bir adamdır. Geçirdiği kaza sonucu Leyla adında bir kızla tanışır. Rastlantılar sayesinde ikili arasında kısa zamanda bir aşk doğar. Bu tesadüfler iki genci birbirine daha çok yaklaştırır ve ikili evlenmeye karar verir. Ancak Leyla’nın ablası Selma da bu sırada Ümit’i görmüş ve âşık olmuştur. Kardeşinin Ümit’le evleneceğini öğrenen Selma, Ümit’i elde etmek için elinden geleni yapacaktır.</desc>
-    <credits>
-      <director>Ümit Efekan</director>
-      <actor>Ümit Besen</actor>
-      <actor>Yaprak Özdemiroğlu</actor>
-      <actor>Mehmet Ali Erbil</actor>
-      <actor>Şehnaz Dilan</actor>
-      <actor>Abdurrahman Palay</actor>
-      <actor>Ali Şen</actor>
-    </credits>
-    <date>1984</date>
-    <category lang="tr">Dram</category>
-  </programme>
   <programme start="20260201003000 +0300" stop="20260201021000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Seviştiğimiz Günler</title>
     <desc lang="tr">Aynı pansiyonda kalan üç yakın ardakadaş, erkeklere karşı tavır almak için söz verirler ama hiç birisi sözünde durmaz.Nilüfer, kendini zengin diye tanıtan bir araba tamircisine, Lale, ünlü bir artiste, Mine ise patronuna aşık olur. Ressam Kenan ise Lale'ye aşıktır ve Lale'ye aşık olduğu adamın ihanet etiiğni söyler.Kenan'a inanmayan Lale onu aşağılar fakat daha sonra Kenan haklı çıkınca pişman olur.Mine ise patronu tarafından hamile bırakılır.</desc>
