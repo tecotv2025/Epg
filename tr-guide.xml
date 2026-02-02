@@ -181,100 +181,6 @@
     <display-name lang="tr">S SPORT 2</display-name>
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/logo/202409/20240903/65/0637039002925eb8f42a_op.png" />
   </channel>
-  <programme start="20260201030000 +0300" stop="20260201050000 +0300" channel="Sspor2.tr">
-    <title lang="tr">ESPN Belgeseli</title>
-    <desc lang="tr">Dwyane Wade</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/1/2204312007875eb88428.jpg" />
-  </programme>
-  <programme start="20260201050000 +0300" stop="20260201070000 +0300" channel="Sspor2.tr">
-    <title lang="tr">İtalya Serie A</title>
-    <desc lang="tr">Geniş Özetler</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/26/2204312017955eb88428.jpg" />
-  </programme>
-  <programme start="20260201070000 +0300" stop="20260201090000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Olympiacos - Barcelona</title>
-    <desc lang="tr">Euroleague</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260131/22/2136167221745eb78424.jpg" />
-  </programme>
-  <programme start="20260201090000 +0300" stop="20260201110000 +0300" channel="Sspor2.tr">
-    <title lang="tr">İtalya Serie A</title>
-    <desc lang="tr">Geniş Özetler</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/39/2204312018085eb88428.jpg" />
-  </programme>
-  <programme start="20260201110000 +0300" stop="20260201120000 +0300" channel="Sspor2.tr">
-    <title lang="tr">ESPN Belgeseli</title>
-    <desc lang="tr">Dwyane Wade</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/3/2204312028165eb88428.jpg" />
-  </programme>
-  <programme start="20260201120000 +0300" stop="20260201140000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Super Cars</title>
-    <desc lang="tr">17. Bölüm</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260131/29/2136167221775eb78424.jpg" />
-  </programme>
-  <programme start="20260201140000 +0300" stop="20260201143000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Gearing Up</title>
-    <desc lang="tr">Final Maçı</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/19/2204312028295eb88428.jpg" />
-  </programme>
-  <programme start="20260201143000 +0300" stop="20260201163000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Torino - Lecce</title>
-    <desc lang="tr">İtalya Serie A 23. Hafta Maçı</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260201/92/0200165531925eb9b42e.webp" />
-  </programme>
-  <programme start="20260201163000 +0300" stop="20260201170000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Supertri</title>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/31/2204312038425eb88428.jpg" />
-  </programme>
-  <programme start="20260201170000 +0300" stop="20260201190000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Como - Atalanta</title>
-    <desc lang="tr">İtalya Serie A 23. Hafta Maçı</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260201/4/0200165532015eb9b42e.webp" />
-  </programme>
-  <programme start="20260201190000 +0300" stop="20260201193000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Tenis Klasik Maç</title>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/18/2204312048555eb88428.jpg" />
-  </programme>
-  <programme start="20260201193000 +0300" stop="20260201200000 +0300" channel="Sspor2.tr">
-    <title lang="tr">İtalya Serie A</title>
-    <desc lang="tr">Özetler</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/88/2204312048635eb88428.jpg" />
-  </programme>
-  <programme start="20260201200000 +0300" stop="20260201220000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Cremonese - Inter</title>
-    <desc lang="tr">İtalya Serie A 23. Hafta Maçı</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260201/18/0200165532105eb9b42e.webp" />
-  </programme>
-  <programme start="20260201220000 +0300" stop="20260201224500 +0300" channel="Sspor2.tr">
-    <title lang="tr">İtalya Serie A</title>
-    <desc lang="tr">Özetler</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/7/2204312058765eb88428.jpg" />
-  </programme>
-  <programme start="20260201224500 +0300" stop="20260202004500 +0300" channel="Sspor2.tr">
-    <title lang="tr">Parma - Juventus</title>
-    <desc lang="tr">İtalya Serie A 23. Hafta Maçı</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260201/1/0200165542195eb9b42e.webp" />
-  </programme>
-  <programme start="20260202004500 +0300" stop="20260202010000 +0300" channel="Sspor2.tr">
-    <title lang="tr">Özetler</title>
-    <desc lang="tr">Maç Özeti</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260130/22/2136193325105eb78424.jpg" />
-  </programme>
   <programme start="20260202010000 +0300" stop="20260202040000 +0300" channel="Sspor2.tr">
     <title lang="tr">Volkanovski - Lopes</title>
     <desc lang="tr">Ufc Dövüş Gecesi</desc>
@@ -356,272 +262,16 @@
     <desc lang="tr">İtalya Serie A 23. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
   </programme>
+  <programme start="20260203070000 +0300" stop="20260204070000 +0300" channel="Sspor2.tr">
+    <title lang="tr">İtalya Serie A</title>
+    <desc lang="tr">Geniş Özetler</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/3/2204210656815eb7f426.jpg" />
+  </programme>
   <channel id="Fx.tr">
     <display-name lang="tr">FX HD</display-name>
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160211/001300/001300000000000741833/f018bfb0-0a96-4c16-8dd4-1c64eddfd098.png" />
   </channel>
-  <programme start="20260201030000 +0300" stop="20260201032000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’e (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/38/2126193241885eb9542c.jpg" />
-    <episode-num system="xmltv_ns">7.14.</episode-num>
-  </programme>
-  <programme start="20260201032000 +0300" stop="20260201034500 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’e (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/12/2126193241965eb9542c.jpg" />
-    <episode-num system="xmltv_ns">7.15.</episode-num>
-  </programme>
-  <programme start="20260201034500 +0300" stop="20260201040500 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’e (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/83/2126193252045eb9542c.jpg" />
-    <episode-num system="xmltv_ns">7.16.</episode-num>
-  </programme>
-  <programme start="20260201040500 +0300" stop="20260201043000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’e (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/85/2126193262125eb9542c.jpg" />
-    <episode-num system="xmltv_ns">7.17.</episode-num>
-  </programme>
-  <programme start="20260201043000 +0300" stop="20260201045000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’e (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/30/2126193262205eb9542c.jpg" />
-    <episode-num system="xmltv_ns">7.18.</episode-num>
-  </programme>
-  <programme start="20260201045000 +0300" stop="20260201051500 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’e (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/82/2126193262285eb9542c.jpg" />
-    <episode-num system="xmltv_ns">7.19.</episode-num>
-  </programme>
-  <programme start="20260201051500 +0300" stop="20260201053500 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’e (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/20/2126193272365eb9542c.jpg" />
-    <episode-num system="xmltv_ns">7.20.</episode-num>
-  </programme>
-  <programme start="20260201053500 +0300" stop="20260201060000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">(TÜRKÇE ALTYAZI VE DUBLAJ SEÇENEĞİYLE) How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’e (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260126/17/2126193272445eb9542c.jpg" />
-    <episode-num system="xmltv_ns">7.21.</episode-num>
-  </programme>
-  <programme start="20260201060000 +0300" stop="20260201064500 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/13/2136286281105eb78424.jpg" />
-    <episode-num system="xmltv_ns">2.11.</episode-num>
-  </programme>
-  <programme start="20260201064500 +0300" stop="20260201073000 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/84/2136286291185eb78424.jpg" />
-    <episode-num system="xmltv_ns">2.12.</episode-num>
-  </programme>
-  <programme start="20260201073000 +0300" stop="20260201081500 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/55/2136286291265eb78424.jpg" />
-    <episode-num system="xmltv_ns">2.13.</episode-num>
-  </programme>
-  <programme start="20260201081500 +0300" stop="20260201090000 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/17/2136286291345eb78424.jpg" />
-    <episode-num system="xmltv_ns">2.14.</episode-num>
-  </programme>
-  <programme start="20260201090000 +0300" stop="20260201095000 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/65/2136286301425eb78424.jpg" />
-    <episode-num system="xmltv_ns">2.15.</episode-num>
-  </programme>
-  <programme start="20260201095000 +0300" stop="20260201104000 +0300" channel="Fx.tr">
-    <title lang="tr">White Collar</title>
-    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260131/96/2126239809255eb88428.jpg" />
-    <episode-num system="xmltv_ns">2.5.</episode-num>
-  </programme>
-  <programme start="20260201104000 +0300" stop="20260201113000 +0300" channel="Fx.tr">
-    <title lang="tr">White Collar</title>
-    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
-    <category lang="tr">Dizi</category>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
-  </programme>
-  <programme start="20260201113000 +0300" stop="20260201122000 +0300" channel="Fx.tr">
-    <title lang="tr">White Collar</title>
-    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
-    <category lang="tr">Dizi</category>
-    <episode-num system="xmltv_ns">2.7.</episode-num>
-  </programme>
-  <programme start="20260201122000 +0300" stop="20260201131000 +0300" channel="Fx.tr">
-    <title lang="tr">White Collar</title>
-    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
-    <category lang="tr">Dizi</category>
-    <episode-num system="xmltv_ns">2.8.</episode-num>
-  </programme>
-  <programme start="20260201131000 +0300" stop="20260201140000 +0300" channel="Fx.tr">
-    <title lang="tr">White Collar</title>
-    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
-    <category lang="tr">Dizi</category>
-    <episode-num system="xmltv_ns">2.9.</episode-num>
-  </programme>
-  <programme start="20260201140000 +0300" stop="20260201142000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/25/2136286301505eb78424.jpg" />
-    <episode-num system="xmltv_ns">7.12.</episode-num>
-  </programme>
-  <programme start="20260201142000 +0300" stop="20260201145000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/32/2136286301585eb78424.jpg" />
-    <episode-num system="xmltv_ns">7.13.</episode-num>
-  </programme>
-  <programme start="20260201145000 +0300" stop="20260201151000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/56/2136286311665eb78424.jpg" />
-    <episode-num system="xmltv_ns">7.14.</episode-num>
-  </programme>
-  <programme start="20260201151000 +0300" stop="20260201154000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/20/2136286321745eb78424.jpg" />
-    <episode-num system="xmltv_ns">7.15.</episode-num>
-  </programme>
-  <programme start="20260201154000 +0300" stop="20260201160000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/46/2136286321825eb78424.jpg" />
-    <episode-num system="xmltv_ns">7.16.</episode-num>
-  </programme>
-  <programme start="20260201160000 +0300" stop="20260201163000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/76/2136286331905eb78424.jpg" />
-    <episode-num system="xmltv_ns">7.17.</episode-num>
-  </programme>
-  <programme start="20260201163000 +0300" stop="20260201165000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/45/2136286331985eb78424.jpg" />
-    <episode-num system="xmltv_ns">7.18.</episode-num>
-  </programme>
-  <programme start="20260201165000 +0300" stop="20260201172000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/81/2136286332065eb78424.jpg" />
-    <episode-num system="xmltv_ns">7.19.</episode-num>
-  </programme>
-  <programme start="20260201172000 +0300" stop="20260201174000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/90/2136286332145eb78424.jpg" />
-    <episode-num system="xmltv_ns">7.20.</episode-num>
-  </programme>
-  <programme start="20260201174000 +0300" stop="20260201181000 +0300" channel="Fx.tr">
-    <title lang="tr">How i Met Your Mother</title>
-    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/72/2136286342225eb78424.jpg" />
-    <episode-num system="xmltv_ns">7.21.</episode-num>
-  </programme>
-  <programme start="20260201181000 +0300" stop="20260201190000 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/82/2136286342305eb78424.jpg" />
-    <episode-num system="xmltv_ns">2.11.</episode-num>
-  </programme>
-  <programme start="20260201190000 +0300" stop="20260201194500 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/42/2136286352385eb78424.jpg" />
-    <episode-num system="xmltv_ns">2.12.</episode-num>
-  </programme>
-  <programme start="20260201194500 +0300" stop="20260201203000 +0300" channel="Fx.tr">
-    <title lang="tr">Castle</title>
-    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/77/2136286352465eb78424.jpg" />
-    <episode-num system="xmltv_ns">2.13.</episode-num>
-  </programme>
-  <programme start="20260201203000 +0300" stop="20260201213000 +0300" channel="Fx.tr">
-    <title lang="tr">Tracker</title>
-    <desc lang="tr">Colter, gerçeğe giden yolda tedirgin edici ipuçlarının izini sürer.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/62/2136286362545eb78424.jpg" />
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-  </programme>
-  <programme start="20260201213000 +0300" stop="20260201222000 +0300" channel="Fx.tr">
-    <title lang="tr">Will Trent</title>
-    <desc lang="tr">Bir şirkette yaşanan anlaşmazlık birkaç kişinin zehirlenmesine yol açar.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/11/2136286362625eb78424.jpg" />
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-  </programme>
-  <programme start="20260201222000 +0300" stop="20260201231000 +0300" channel="Fx.tr">
-    <title lang="tr">Tracker</title>
-    <desc lang="tr">Colter, gerçeğe giden yolda tedirgin edici ipuçlarının izini sürer.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/22/2136286372705eb78424.jpg" />
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-  </programme>
-  <programme start="20260201231000 +0300" stop="20260202000000 +0300" channel="Fx.tr">
-    <title lang="tr">High Potential</title>
-    <desc lang="tr">Morgan ve Karadec, bir eser kurtarma uzmanıyla birlikte karmaşık bir davanın peşine düşer.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/88/2136286372785eb78424.jpg" />
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-  </programme>
-  <programme start="20260202000000 +0300" stop="20260202005000 +0300" channel="Fx.tr">
-    <title lang="tr">The Dropout</title>
-    <desc lang="tr">İyimser ve kararlı genç Elizabeth Holmes, yeni ve gelecek vaat eden bir kan testi şirketi kurmak için Stanford'da okumayı bırakır.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/20/2136286372865eb78424.jpg" />
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20260202005000 +0300" stop="20260202013500 +0300" channel="Fx.tr">
-    <title lang="tr">Tracker</title>
-    <desc lang="tr">Colter, gerçeğe giden yolda tedirgin edici ipuçlarının izini sürer.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/90/2136286382945eb78424.jpg" />
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-  </programme>
-  <programme start="20260202013500 +0300" stop="20260202022500 +0300" channel="Fx.tr">
-    <title lang="tr">Under the Bridge</title>
-    <desc lang="tr">Ortaya çıkan dava, kimi savunması gerektiğini sorgulayan Rebecca'yı uçurumun kenarına iter.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/5/2136286383015eb78424.jpg" />
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-  </programme>
   <programme start="20260202022500 +0300" stop="20260202031000 +0300" channel="Fx.tr">
     <title lang="tr">White Collar</title>
     <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
@@ -860,6 +510,239 @@
     <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/54/2136286515095eb78424.jpg" />
     <episode-num system="xmltv_ns">1.6.</episode-num>
   </programme>
+  <programme start="20260203031500 +0300" stop="20260203040000 +0300" channel="Fx.tr">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+    <category lang="tr">Dizi</category>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+  </programme>
+  <programme start="20260203040000 +0300" stop="20260203044500 +0300" channel="Fx.tr">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/84/2136286525175eb78424.jpg" />
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
+  <programme start="20260203044500 +0300" stop="20260203051500 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/1/2136286525255eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.22.</episode-num>
+  </programme>
+  <programme start="20260203051500 +0300" stop="20260203060000 +0300" channel="Fx.tr">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+    <category lang="tr">Dizi</category>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+  </programme>
+  <programme start="20260203060000 +0300" stop="20260203064500 +0300" channel="Fx.tr">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/3/2136286525335eb78424.jpg" />
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+  </programme>
+  <programme start="20260203064500 +0300" stop="20260203073000 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/30/2136286535415eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+  </programme>
+  <programme start="20260203073000 +0300" stop="20260203081500 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/38/2136286535495eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.13.</episode-num>
+  </programme>
+  <programme start="20260203081500 +0300" stop="20260203083500 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/2/2136286535575eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.18.</episode-num>
+  </programme>
+  <programme start="20260203083500 +0300" stop="20260203090000 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/49/2136286545655eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.19.</episode-num>
+  </programme>
+  <programme start="20260203090000 +0300" stop="20260203094500 +0300" channel="Fx.tr">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+    <category lang="tr">Dizi</category>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+  </programme>
+  <programme start="20260203094500 +0300" stop="20260203103000 +0300" channel="Fx.tr">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/42/2136286555735eb78424.jpg" />
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+  </programme>
+  <programme start="20260203103000 +0300" stop="20260203111500 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/4/2136286555815eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+  </programme>
+  <programme start="20260203111500 +0300" stop="20260203120000 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/93/2136286555895eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.15.</episode-num>
+  </programme>
+  <programme start="20260203120000 +0300" stop="20260203122000 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/37/2136286565975eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.20.</episode-num>
+  </programme>
+  <programme start="20260203122000 +0300" stop="20260203125000 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/38/2136286566055eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.21.</episode-num>
+  </programme>
+  <programme start="20260203125000 +0300" stop="20260203134000 +0300" channel="Fx.tr">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+    <category lang="tr">Dizi</category>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+  </programme>
+  <programme start="20260203134000 +0300" stop="20260203143000 +0300" channel="Fx.tr">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/3/2136286566135eb78424.jpg" />
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
+  <programme start="20260203143000 +0300" stop="20260203152000 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/87/2136286566215eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.16.</episode-num>
+  </programme>
+  <programme start="20260203152000 +0300" stop="20260203161000 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/25/2136286586295eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.17.</episode-num>
+  </programme>
+  <programme start="20260203161000 +0300" stop="20260203163000 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/16/2136286586375eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.22.</episode-num>
+  </programme>
+  <programme start="20260203163000 +0300" stop="20260203170000 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/39/2136286586455eb78424.jpg" />
+    <episode-num system="xmltv_ns">7.23.</episode-num>
+  </programme>
+  <programme start="20260203170000 +0300" stop="20260203175000 +0300" channel="Fx.tr">
+    <title lang="tr">White Collar</title>
+    <desc lang="tr">Çekici dolandırıcı Neal Caffrey hapishaneden kaçar, ancak düşmanı FBI Ajanı Peter Burke tarafından yeniden yakalanır. Birkaç seçeneğe sahip olan Caffrey, nihai özgürlüğü karşılığında büronun diğer yakalanması zor suçluları alt etmesine yardım eder. Ancak çok geçmeden Caffrey, kendini hapse ya da ölüme geri döndürmek isteyenlerle kedi fare oyunu oynarken bulur.</desc>
+    <category lang="tr">Dizi</category>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+  </programme>
+  <programme start="20260203175000 +0300" stop="20260203184500 +0300" channel="Fx.tr">
+    <title lang="tr">The Resident</title>
+    <desc lang="tr">The Resident, ülkenin dört bir yanındaki hastanelerde hem iyi hem kötü olmak üzere gerçekte olanları açığa çıkarmak için olayların perdesini aralar. Chastain Hastanesi'nde her gün kişisel ve mesleki zorluklarla karşı karşıya kalan bir grup doktorun başından geçenleri anlatır.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/4/2136286586535eb78424.jpg" />
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+  </programme>
+  <programme start="20260203184500 +0300" stop="20260203194000 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/16/2136286596615eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.18.</episode-num>
+  </programme>
+  <programme start="20260203194000 +0300" stop="20260203203000 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/40/2136286596695eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.19.</episode-num>
+  </programme>
+  <programme start="20260203203000 +0300" stop="20260203205000 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/88/2136286606775eb78424.jpg" />
+    <episode-num system="xmltv_ns">8.0.</episode-num>
+  </programme>
+  <programme start="20260203205000 +0300" stop="20260203213000 +0300" channel="Fx.tr">
+    <title lang="tr">How i Met Your Mother</title>
+    <desc lang="tr">How I Met Your Mother, Ted (Josh Radnor) ve nasıl aşık olduğu ile ilgili bir komedi. Her şey Ted’in en yakın arkadaşı Marshall’ın (Jason Segel) uzun süredir birlikte olduğu anaokulu öğretmeni kız arkadaşı Lily’ye (Alsyson Hannigan) evlenme teklif etmeye karar vermesiyle başlıyor. Gerçek aşkı bulmayı umut eden Ted’e, tescilli bekar arkadaşı Barney (Neil Patrick Harris), çılgın ve arsız yöntemleriyle, kadınlarla tanıştırarak yardımcı olmaya çalışıyor. Ted, Robin (Cobie Smulders) ile tanışıyor ve bunun ilk görüşte aşık olduğuna oldukça emin. Fakat kaderin Ted için farklı planları var.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/89/2136286606855eb78424.jpg" />
+    <episode-num system="xmltv_ns">8.1.</episode-num>
+  </programme>
+  <programme start="20260203213000 +0300" stop="20260203222000 +0300" channel="Fx.tr">
+    <title lang="tr">High Potential</title>
+    <desc lang="tr">Roman'ın kayıp sırt çantası, işe karışan herkesin başını derde sokar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/86/2136286616935eb78424.jpg" />
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+  </programme>
+  <programme start="20260203222000 +0300" stop="20260203231000 +0300" channel="Fx.tr">
+    <title lang="tr">Will Trent</title>
+    <desc lang="tr">Bir şirkette yaşanan anlaşmazlık birkaç kişinin zehirlenmesine yol açar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/93/2136286627015eb78424.jpg" />
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+  </programme>
+  <programme start="20260203231000 +0300" stop="20260204000000 +0300" channel="Fx.tr">
+    <title lang="tr">High Potential</title>
+    <desc lang="tr">Roman'ın kayıp sırt çantası, işe karışan herkesin başını derde sokar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260128/9/2136286627095eb78424.jpg" />
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+  </programme>
+  <programme start="20260204000000 +0300" stop="20260204004500 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260129/16/2126215121805eb8f42a.jpg" />
+    <episode-num system="xmltv_ns">2.18.</episode-num>
+  </programme>
+  <programme start="20260204004500 +0300" stop="20260204013000 +0300" channel="Fx.tr">
+    <title lang="tr">Castle</title>
+    <desc lang="tr">Başarılı cinayet-gizem romanı yazarı Richard Castle ile tanışın! Castle o kadar başarılı ki fanlarından biri, kitaplarındaki cinayetleri aynı şekilde işlemeye başladığında yolu NYPD'den Kate Beckett ile kesişir ve bu cinayetleri birlikte çözmeye çalışırlar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260129/32/2126215121885eb8f42a.jpg" />
+    <episode-num system="xmltv_ns">2.19.</episode-num>
+  </programme>
+  <programme start="20260204013000 +0300" stop="20260204023000 +0300" channel="Fx.tr">
+    <title lang="tr">Under the Bridge</title>
+    <desc lang="tr">Adalet için son fırsat, katılımcıların olaylara gerçek katılımlarını kabul etmesiyle ortaya çıkar.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260129/11/2126215121955eb8f42a.jpg" />
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20260204023000 +0300" stop="20260204031500 +0300" channel="Fx.tr">
+    <title lang="tr">Tracker</title>
+    <desc lang="tr">Colter, gerçeğe giden yolda tedirgin edici ipuçlarının izini sürer.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202601/20260129/68/2126215122015eb8f42a.jpg" />
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+  </programme>
   <channel id="SporSmart.tr">
     <display-name lang="tr">Spor Smart</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART.png" />
@@ -884,464 +767,246 @@
     <display-name lang="tr">beIN İz TV HD</display-name>
     <icon src="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-iz-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" />
   </channel>
-  <programme start="20260202003500 +0300" stop="20260202011000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Şimdi Ya Da Asla S1</title>
+  <programme start="20260202003000 +0300" stop="20260202011000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Bir Varmış Bir Yokmuş Anadolu</title>
   </programme>
   <programme start="20260202011000 +0300" stop="20260202014000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Yolun Bittiği Yer S1</title>
-  </programme>
-  <programme start="20260202014000 +0300" stop="20260202021100 +0300" channel="BeinIz.tr">
-    <title lang="tr">Kalemimde Anadolu S1</title>
-  </programme>
-  <programme start="20260202021100 +0300" stop="20260202025100 +0300" channel="BeinIz.tr">
-    <title lang="tr">Tek Yol Doğa S1 ep 3</title>
-  </programme>
-  <programme start="20260202025100 +0300" stop="20260202032600 +0300" channel="BeinIz.tr">
-    <title lang="tr">Maceraperest Fransizka S1</title>
-  </programme>
-  <programme start="20260202032600 +0300" stop="20260202040100 +0300" channel="BeinIz.tr">
-    <title lang="tr">Duyulan Şehirler S1</title>
-  </programme>
-  <programme start="20260202040100 +0300" stop="20260202044500 +0300" channel="BeinIz.tr">
-    <title lang="tr">Cenk &amp; Mike S2</title>
-  </programme>
-  <programme start="20260202044500 +0300" stop="20260202052000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Bir Varmış Bir Yokmuş Anadolu</title>
-  </programme>
-  <programme start="20260202052000 +0300" stop="20260202055600 +0300" channel="BeinIz.tr">
-    <title lang="tr">Yeniden S1</title>
-  </programme>
-  <programme start="20260202055600 +0300" stop="20260202064000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Erkan Can &amp; Güven Kıraç İle S2</title>
-  </programme>
-  <programme start="20260202064000 +0300" stop="20260202071600 +0300" channel="BeinIz.tr">
-    <title lang="tr">Yiğit'in Yolu S1</title>
-  </programme>
-  <programme start="20260202071600 +0300" stop="20260202074600 +0300" channel="BeinIz.tr">
-    <title lang="tr">İstanbul'un İskeleleri S1</title>
-  </programme>
-  <programme start="20260202074600 +0300" stop="20260202082000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Anadolu Seyahatnamesi S1</title>
-  </programme>
-  <programme start="20260202082000 +0300" stop="20260202090500 +0300" channel="BeinIz.tr">
-    <title lang="tr">Doğada Kal S1</title>
-  </programme>
-  <programme start="20260202090500 +0300" stop="20260202094000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Şimdi Ya Da Asla S1</title>
-  </programme>
-  <programme start="20260202094000 +0300" stop="20260202102000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Erkan Can &amp; Güven Kıraç İle S2</title>
-  </programme>
-  <programme start="20260202102000 +0300" stop="20260202110000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Cenk &amp; Mike S2</title>
-  </programme>
-  <programme start="20260202110000 +0300" stop="20260202114000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Sıra Dışı S1</title>
-  </programme>
-  <programme start="20260202114000 +0300" stop="20260202122500 +0300" channel="BeinIz.tr">
-    <title lang="tr">Doğada Kal S1</title>
-  </programme>
-  <programme start="20260202122500 +0300" stop="20260202130000 +0300" channel="BeinIz.tr">
-    <title lang="tr">İstanbul’un Edebiyat Haritası</title>
-  </programme>
-  <programme start="20260202130000 +0300" stop="20260202134000 +0300" channel="BeinIz.tr">
     <title lang="tr">Gerçek Tarihin İzinde S3</title>
   </programme>
-  <programme start="20260202134000 +0300" stop="20260202141500 +0300" channel="BeinIz.tr">
+  <programme start="20260202014000 +0300" stop="20260202021500 +0300" channel="BeinIz.tr">
     <title lang="tr">İmza Peyzajım S1</title>
   </programme>
-  <programme start="20260202141500 +0300" stop="20260202145000 +0300" channel="BeinIz.tr">
+  <programme start="20260202021500 +0300" stop="20260202024500 +0300" channel="BeinIz.tr">
     <title lang="tr">Derin Mavi S2</title>
   </programme>
-  <programme start="20260202145000 +0300" stop="20260202152500 +0300" channel="BeinIz.tr">
+  <programme start="20260202024500 +0300" stop="20260202031500 +0300" channel="BeinIz.tr">
     <title lang="tr">Şehirli Köylüler S3</title>
   </programme>
-  <programme start="20260202152500 +0300" stop="20260202160100 +0300" channel="BeinIz.tr">
+  <programme start="20260202031500 +0300" stop="20260202035100 +0300" channel="BeinIz.tr">
     <title lang="tr">Bir Ege Hayali S1</title>
   </programme>
-  <programme start="20260202160100 +0300" stop="20260202163500 +0300" channel="BeinIz.tr">
-    <title lang="tr">İstanbul'un İskeleleri S1</title>
+  <programme start="20260202035100 +0300" stop="20260202043000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Cenk &amp; Mike S2</title>
   </programme>
-  <programme start="20260202163500 +0300" stop="20260202171000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Yeniden S1</title>
+  <programme start="20260202043000 +0300" stop="20260202050000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Şimdi Ya Da Asla S1</title>
   </programme>
-  <programme start="20260202171000 +0300" stop="20260202175000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Bir Varmış Bir Yokmuş Anadolu</title>
+  <programme start="20260202050000 +0300" stop="20260202054500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Erkan Can &amp; Güven Kıraç İle S2</title>
   </programme>
-  <programme start="20260202175000 +0300" stop="20260202182500 +0300" channel="BeinIz.tr">
+  <programme start="20260202054500 +0300" stop="20260202063100 +0300" channel="BeinIz.tr">
+    <title lang="tr">Doğada Kal S1</title>
+  </programme>
+  <programme start="20260202063100 +0300" stop="20260202070000 +0300" channel="BeinIz.tr">
     <title lang="tr">Anadolu Seyahatnamesi S1</title>
   </programme>
-  <programme start="20260202182500 +0300" stop="20260202190000 +0300" channel="BeinIz.tr">
+  <programme start="20260202070000 +0300" stop="20260202072500 +0300" channel="BeinIz.tr">
+    <title lang="tr">İstanbul'un İskeleleri S1</title>
+  </programme>
+  <programme start="20260202072500 +0300" stop="20260202075500 +0300" channel="BeinIz.tr">
+    <title lang="tr">İstanbul’un Edebiyat Haritası</title>
+  </programme>
+  <programme start="20260202075500 +0300" stop="20260202083000 +0300" channel="BeinIz.tr">
     <title lang="tr">Yiğit'in Yolu S1</title>
   </programme>
-  <programme start="20260202190000 +0300" stop="20260202193100 +0300" channel="BeinIz.tr">
+  <programme start="20260202083000 +0300" stop="20260202090000 +0300" channel="BeinIz.tr">
     <title lang="tr">ÖZEL GÖSTERİM</title>
   </programme>
-  <programme start="20260202193100 +0300" stop="20260202200000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Yüksek İrtifa S1</title>
+  <programme start="20260202090000 +0300" stop="20260202094500 +0300" channel="BeinIz.tr">
+    <title lang="tr">COŞKUN ARAL'IN DÜNYA GÜNCESİ</title>
   </programme>
-  <programme start="20260202200000 +0300" stop="20260202204500 +0300" channel="BeinIz.tr">
+  <programme start="20260202094500 +0300" stop="20260202103500 +0300" channel="BeinIz.tr">
+    <title lang="tr">SUDAKİ İZLER</title>
+  </programme>
+  <programme start="20260202103500 +0300" stop="20260202111500 +0300" channel="BeinIz.tr">
+    <title lang="tr">NE HALİN VARSA GEZ 1. SEZON</title>
+  </programme>
+  <programme start="20260202111500 +0300" stop="20260202115000 +0300" channel="BeinIz.tr">
     <title lang="tr">Başka Hayat Mümkün</title>
   </programme>
-  <programme start="20260202204500 +0300" stop="20260203003000 +0300" channel="BeinIz.tr">
+  <programme start="20260202115000 +0300" stop="20260202124000 +0300" channel="BeinIz.tr">
+    <title lang="tr">ORMAN YOLU SEZON 1</title>
+  </programme>
+  <programme start="20260202124000 +0300" stop="20260202132500 +0300" channel="BeinIz.tr">
     <title lang="tr">Tek Yol Doğa S1 ep 3</title>
   </programme>
-  <programme start="20260203003000 +0300" stop="20260203011000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Bir Varmış Bir Yokmuş Anadolu</title>
+  <programme start="20260202132500 +0300" stop="20260202140000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Maceraperest Fransizka S1</title>
   </programme>
-  <programme start="20260203011000 +0300" stop="20260203014000 +0300" channel="BeinIz.tr">
-    <title lang="tr">Gerçek Tarihin İzinde S3</title>
+  <programme start="20260202140000 +0300" stop="20260202144000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Şimdi Ya Da Asla S1</title>
   </programme>
-  <programme start="20260203014000 +0300" stop="20260203021500 +0300" channel="BeinIz.tr">
+  <programme start="20260202144000 +0300" stop="20260202152000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Limonata</title>
+  </programme>
+  <programme start="20260202152000 +0300" stop="20260202155500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Kalemimde Anadolu S1</title>
+  </programme>
+  <programme start="20260202155500 +0300" stop="20260202164000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Duyulan Şehirler S1</title>
+  </programme>
+  <programme start="20260202164000 +0300" stop="20260202172000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Cenk &amp; Mike S2</title>
+  </programme>
+  <programme start="20260202172000 +0300" stop="20260202180000 +0300" channel="BeinIz.tr">
+    <title lang="tr">COŞKUN ARAL'IN DÜNYA GÜNCESİ</title>
+  </programme>
+  <programme start="20260202180000 +0300" stop="20260202185500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Başka Hayat Mümkün</title>
+  </programme>
+  <programme start="20260202185500 +0300" stop="20260202194000 +0300" channel="BeinIz.tr">
+    <title lang="tr">SEFERİ S1</title>
+  </programme>
+  <programme start="20260202194000 +0300" stop="20260202202000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Limonata</title>
+  </programme>
+  <programme start="20260202202000 +0300" stop="20260202205500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Bir Ege Hayali S1</title>
+  </programme>
+  <programme start="20260202205500 +0300" stop="20260203000000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Erkan Can &amp; Güven Kıraç İle S1</title>
+  </programme>
+  <programme start="20260203000000 +0300" stop="20260203004000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Erkan Can &amp; Güven Kıraç İle S1</title>
+  </programme>
+  <programme start="20260203004000 +0300" stop="20260203012000 +0300" channel="BeinIz.tr">
+    <title lang="tr">ORMAN YOLU SEZON 1</title>
+  </programme>
+  <programme start="20260203012000 +0300" stop="20260203015500 +0300" channel="BeinIz.tr">
     <title lang="tr">İmza Peyzajım S1</title>
   </programme>
-  <programme start="20260203021500 +0300" stop="20260203024500 +0300" channel="BeinIz.tr">
+  <programme start="20260203015500 +0300" stop="20260203023000 +0300" channel="BeinIz.tr">
     <title lang="tr">Derin Mavi S2</title>
   </programme>
-  <programme start="20260203024500 +0300" stop="20260203031500 +0300" channel="BeinIz.tr">
-    <title lang="tr">Şehirli Köylüler S3</title>
+  <programme start="20260203023000 +0300" stop="20260203032000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Başka Hayat Mümkün</title>
+  </programme>
+  <programme start="20260203032000 +0300" stop="20260203040000 +0300" channel="BeinIz.tr">
+    <title lang="tr">COŞKUN ARAL'IN DÜNYA GÜNCESİ</title>
+  </programme>
+  <programme start="20260203040000 +0300" stop="20260203044000 +0300" channel="BeinIz.tr">
+    <title lang="tr">SUDAKİ İZLER</title>
+  </programme>
+  <programme start="20260203044000 +0300" stop="20260203052000 +0300" channel="BeinIz.tr">
+    <title lang="tr">SEFERİ S1</title>
+  </programme>
+  <programme start="20260203052000 +0300" stop="20260203060000 +0300" channel="BeinIz.tr">
+    <title lang="tr">NE HALİN VARSA GEZ 1. SEZON</title>
+  </programme>
+  <programme start="20260203060000 +0300" stop="20260203063000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Şimdi Ya Da Asla S1</title>
+  </programme>
+  <programme start="20260203063000 +0300" stop="20260203071000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Erkan Can &amp; Güven Kıraç İle S2</title>
+  </programme>
+  <programme start="20260203071000 +0300" stop="20260203074500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Cenk &amp; Mike S2</title>
+  </programme>
+  <programme start="20260203074500 +0300" stop="20260203082500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Duyulan Şehirler S1</title>
+  </programme>
+  <programme start="20260203082500 +0300" stop="20260203090000 +0300" channel="BeinIz.tr">
+    <title lang="tr">BAHARATIN YOLCULUGU SEZON 1</title>
+  </programme>
+  <programme start="20260203090000 +0300" stop="20260203094500 +0300" channel="BeinIz.tr">
+    <title lang="tr">İKİ GÖZ BİR ŞEHİR</title>
+  </programme>
+  <programme start="20260203094500 +0300" stop="20260203103500 +0300" channel="BeinIz.tr">
+    <title lang="tr">SUDAKİ İZLER</title>
+  </programme>
+  <programme start="20260203103500 +0300" stop="20260203112000 +0300" channel="BeinIz.tr">
+    <title lang="tr">BES SEHIR SEZON 1</title>
+  </programme>
+  <programme start="20260203112000 +0300" stop="20260203121000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Başka Hayat Mümkün</title>
+  </programme>
+  <programme start="20260203121000 +0300" stop="20260203125000 +0300" channel="BeinIz.tr">
+    <title lang="tr">ORMAN YOLU SEZON 1</title>
+  </programme>
+  <programme start="20260203125000 +0300" stop="20260203133500 +0300" channel="BeinIz.tr">
+    <title lang="tr">İmza Peyzajım S1</title>
+  </programme>
+  <programme start="20260203133500 +0300" stop="20260203141000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Derin Mavi S2</title>
+  </programme>
+  <programme start="20260203141000 +0300" stop="20260203145000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Limonata</title>
+  </programme>
+  <programme start="20260203145000 +0300" stop="20260203152500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Gerçek Tarihin İzinde S3</title>
+  </programme>
+  <programme start="20260203152500 +0300" stop="20260203160000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Bir Ege Hayali S1</title>
+  </programme>
+  <programme start="20260203160000 +0300" stop="20260203164500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Erkan Can &amp; Güven Kıraç İle S1</title>
+  </programme>
+  <programme start="20260203164500 +0300" stop="20260203173500 +0300" channel="BeinIz.tr">
+    <title lang="tr">İKİ GÖZ BİR ŞEHİR</title>
+  </programme>
+  <programme start="20260203173500 +0300" stop="20260203182500 +0300" channel="BeinIz.tr">
+    <title lang="tr">SUDAKİ İZLER</title>
+  </programme>
+  <programme start="20260203182500 +0300" stop="20260203190000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Başka Hayat Mümkün</title>
+  </programme>
+  <programme start="20260203190000 +0300" stop="20260203194000 +0300" channel="BeinIz.tr">
+    <title lang="tr">İstanbul'un İskeleleri S1</title>
+  </programme>
+  <programme start="20260203194000 +0300" stop="20260203202000 +0300" channel="BeinIz.tr">
+    <title lang="tr">Limonata</title>
+  </programme>
+  <programme start="20260203202000 +0300" stop="20260203205500 +0300" channel="BeinIz.tr">
+    <title lang="tr">Maceraperest Fransizka S1</title>
   </programme>
   <channel id="SinemaTV.tr">
     <display-name lang="tr">Sinema Tv</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinematv_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260201014500 +0300" stop="20260201033000 +0300" channel="SinemaTV.tr">
-    <title lang="tr">Ruhlar Evi</title>
-    <title lang="xx">We Are Still Here</title>
-    <desc lang="tr">Oğullarını bir otomobil kazasında kaybeden Paul ve Anne, New York yakınlarında sakin bir kasabaya taşınarak yeni bir hayata başlarlar. Ancak yas tutan çift, taşındıkları evde uzun süredir var olan acımasız ruhların hedefi haline gelirler. Bir süre sonra, bu kasabanın aslında çok karanlık sırları olduğunu anlayacaklardır.</desc>
-    <credits>
-      <director>Ted Geoghegan</director>
-      <actor>Barbara Crampton</actor>
-      <actor>Andrew Sensenig</actor>
-      <actor>Amicus Entertainment</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Korku</category>
-    <category lang="tr">Gerilim</category>
-  </programme>
-  <programme start="20260201033000 +0300" stop="20260201053000 +0300" channel="SinemaTV.tr">
-    <title lang="tr">Cumartesi Gecesi</title>
-    <title lang="xx">Saturday Night</title>
-    <desc lang="tr">Saturday Night, Saturday Night Live'ın ilk yayınından önceki son 90 dakikada sahne arkasında yaşananların gerçek hikayesine dayanıyor.</desc>
-    <credits>
-      <director>Jason Reitman</director>
-      <actor>Gabriel LaBelle</actor>
-      <actor>Rachel Sennott</actor>
-      <actor>Cory Michael Smith</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
   <channel id="SinemaTV2.tr">
     <display-name lang="tr">Sinema Tv 2</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinema2_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260201011500 +0300" stop="20260201033000 +0300" channel="SinemaTV2.tr">
-    <title lang="tr">The Last Queen</title>
-    <desc lang="tr">Korsan Aroudj Barberousse, Cezayir'i İspanyolların zulmünden kurtarır ve krallık üzerindeki gücü ele geçirir. İttifaklarına rağmen Kral Salim Toumi'ye suikast düzenlediği söylentileri yayılır. Her şeye rağmen bir kadın ona karşı duracaktır: Kraliçe Zaphira.</desc>
-    <credits>
-      <director>Adila Bendimerad</director>
-      <director>Damien Ounouri</director>
-      <actor>Adila Bendimerad</actor>
-      <actor>Dali Benssalah</actor>
-      <actor>Dimitri Boetto</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260201033000 +0300" stop="20260201051500 +0300" channel="SinemaTV2.tr">
-    <title lang="tr">Ruhlar Evi</title>
-    <title lang="xx">We Are Still Here</title>
-    <desc lang="tr">Oğullarını bir otomobil kazasında kaybeden Paul ve Anne, New York yakınlarında sakin bir kasabaya taşınarak yeni bir hayata başlarlar. Ancak yas tutan çift, taşındıkları evde uzun süredir var olan acımasız ruhların hedefi haline gelirler. Bir süre sonra, bu kasabanın aslında çok karanlık sırları olduğunu anlayacaklardır.</desc>
-    <credits>
-      <director>Ted Geoghegan</director>
-      <actor>Barbara Crampton</actor>
-      <actor>Andrew Sensenig</actor>
-      <actor>Amicus Entertainment</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Korku</category>
-    <category lang="tr">Gerilim</category>
-  </programme>
   <channel id="SinemaTVAksiyon.tr">
     <display-name lang="tr">Sinema Tv Aksiyon</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinemaaksiyon_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260201000000 +0300" stop="20260201020000 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Ölüm Bizi Ayırana Dek</title>
-    <title lang="xx">Til Death Do Us Part</title>
-    <desc lang="tr">Düğün gününde kaçan bir gelin adayı, eski nişanlısı ve onun yedi ölümcül sağdıcına karşı hayatta kalma mücadelesi vermek zorundadır. Nihai korku hesaplaşmasında, sağdıçlar kısa süre sonra onun geride bıraktığı hayata geri dönmeye niyeti olmadığını keşfederler.</desc>
-    <credits>
-      <director>Timothy Woodward Jr.</director>
-      <actor>Cam Gigandet</actor>
-      <actor>Jason Patric</actor>
-      <actor>Natalie Burn</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260201020000 +0300" stop="20260201033000 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Damalı Ninja</title>
-    <title lang="xx">Checkered Ninja</title>
-    <desc lang="tr">Aske günlük hayatın sorunlarından uzakta, huzurlu bir yaşam sürmek isteyen sıradan bir çocuktur. Aske’nin tekdüze hayatı, 13. yaş gününde amcasının ona bir Ninja oyuncağı hediye etmesiyle alt üst olacaktır. Zamanla oyuncağının Japon samuraya ait bir ruh tarafından ele geçirildiğini keşfeden küçük çocuk, kendisini büyük bir maceranın içinde bulur.</desc>
-    <credits>
-      <director>Anders Matthesen</director>
-      <director>Thorbjørn Christoffersen</director>
-      <actor>Anders Matthesen</actor>
-      <actor>Emma Sehested Høeg</actor>
-      <actor>Alfred Bjerre Larsen</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Fantastik</category>
-  </programme>
-  <programme start="20260201033000 +0300" stop="20260201050000 +0300" channel="SinemaTVAksiyon.tr">
-    <title lang="tr">Vahşiliğin İçinde</title>
-    <title lang="xx">Man Vs.</title>
-    <desc lang="tr">Kendi TV programını yapan Doug Woods, medeniyetten uzakta, su ve yemek olmadan tek başına beş gün geçirecek ve yaşadığı deneyimleri kayda alacaktır. Ormanın derinliklerinde birden yer sarsıntısı ile yerinden fırlar. Burada yalnız olmadığını anladığında işler daha da tuhaf bir hal alır. Biri, ya da birileri, onun her adımını izlemektedir.</desc>
-    <credits>
-      <director>Adam Massey</director>
-      <actor>Chris Diamantopoulos</actor>
-      <actor>Chloe Bradt</actor>
-      <actor>Michael Cram</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Korku</category>
-    <category lang="tr">Gerilim</category>
-  </programme>
   <channel id="SinemaTVAksiyon2.tr">
     <display-name lang="tr">Sinema Tv Aksiyon 2</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinemaaksiyon2_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260201014500 +0300" stop="20260201034500 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Ölüm Bizi Ayırana Dek</title>
-    <title lang="xx">Til Death Do Us Part</title>
-    <desc lang="tr">Düğün gününde kaçan bir gelin adayı, eski nişanlısı ve onun yedi ölümcül sağdıcına karşı hayatta kalma mücadelesi vermek zorundadır. Nihai korku hesaplaşmasında, sağdıçlar kısa süre sonra onun geride bıraktığı hayata geri dönmeye niyeti olmadığını keşfederler.</desc>
-    <credits>
-      <director>Timothy Woodward Jr.</director>
-      <actor>Cam Gigandet</actor>
-      <actor>Jason Patric</actor>
-      <actor>Natalie Burn</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260201034500 +0300" stop="20260201051500 +0300" channel="SinemaTVAksiyon2.tr">
-    <title lang="tr">Damalı Ninja</title>
-    <title lang="xx">Checkered Ninja</title>
-    <desc lang="tr">Aske günlük hayatın sorunlarından uzakta, huzurlu bir yaşam sürmek isteyen sıradan bir çocuktur. Aske’nin tekdüze hayatı, 13. yaş gününde amcasının ona bir Ninja oyuncağı hediye etmesiyle alt üst olacaktır. Zamanla oyuncağının Japon samuraya ait bir ruh tarafından ele geçirildiğini keşfeden küçük çocuk, kendisini büyük bir maceranın içinde bulur.</desc>
-    <credits>
-      <director>Anders Matthesen</director>
-      <director>Thorbjørn Christoffersen</director>
-      <actor>Anders Matthesen</actor>
-      <actor>Emma Sehested Høeg</actor>
-      <actor>Alfred Bjerre Larsen</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Fantastik</category>
-  </programme>
   <channel id="SinemaTVAile.tr">
     <display-name lang="tr">Sinema Tv Aile</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinemaaile_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260201011500 +0300" stop="20260201015200 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Orman Dostları 1-2-3-4-5</title>
-    <desc lang="tr">Orman Dostları 1-2-3-4-5</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20260201015200 +0300" stop="20260201024500 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">Orman Dostları 1-2-3-4-5</title>
-    <desc lang="tr">Orman Dostları 1-2-3-4-5</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20260201024500 +0300" stop="20260201043000 +0300" channel="SinemaTVAile.tr">
-    <title lang="tr">İnanmak</title>
-    <title lang="xx">Believe</title>
-    <desc lang="tr">Gerçek olaylardan uyarlanan yapım, Manchester United futbol takımının efsane teknik direktörü Sir Matt Busby’nin ilham veren hikayesini aktarıyor. 11 yaşında ve küçük suçlar işleyen Georgie, Matt Busby (Brian Cox) tarafından takip edilmektedir. Busby bir süre önce, çocuktaki sıradışı yeteneğin farkına varmıştır.</desc>
-    <credits>
-      <director>David Scheinmann</director>
-      <actor>Brian Cox</actor>
-      <actor>Kate Ashfield</actor>
-      <actor>Richard Strange</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
   <channel id="SinemaTVAile2.tr">
     <display-name lang="tr">Sinema Tv Aile 2</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinemaaile2_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260201011500 +0300" stop="20260201030000 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Tembeller Ailesi</title>
-    <title lang="xx">The Sloth Lane</title>
-    <desc lang="tr">Korkunç bir fırtına evlerini yerle bir ettikten sonra Laura adındaki tembel hayvan ve çılgın ailesi, işlerini yerine koymak için büyük şehire inip eski paslı seyyar arabaları ile yiyecek satışına başlarlar.</desc>
-    <credits>
-      <director>Tania Vincent</director>
-      <actor>Remy Hii</actor>
-      <actor>Leslie Jones</actor>
-      <actor>Ricard Cussó</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260201030000 +0300" stop="20260201033700 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Orman Dostları 1-2-3-4-5</title>
-    <desc lang="tr">Orman Dostları 1-2-3-4-5</desc>
-    <date>2017</date>
-  </programme>
-  <programme start="20260201033700 +0300" stop="20260201043000 +0300" channel="SinemaTVAile2.tr">
-    <title lang="tr">Orman Dostları 1-2-3-4-5</title>
-    <desc lang="tr">Orman Dostları 1-2-3-4-5</desc>
-    <date>2017</date>
-  </programme>
   <channel id="SinemaTVComedy.tr">
     <display-name lang="tr">Sinema Tv Comedy</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinemakomedi_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260201020000 +0300" stop="20260201043000 +0300" channel="SinemaTVComedy.tr">
-    <title lang="tr">Geride Kalanlar</title>
-    <title lang="xx">The Holdovers</title>
-    <desc lang="tr">Amerika’nın prestijli yatılı okullarından birinde tarih öğretmeni olan Paul Hunham'ı ne çalışma arkadaşları de öğrencileri sever. Bu nedenle 1970’i 1971’e bağlayan yılbaşı tatilinde, okulda nöbetçi öğretmen olarak kalacak kişi seçildiğinde buna kimse şaşırmaz.</desc>
-    <credits>
-      <director>Alexander Payne</director>
-      <actor>Paul Giamatti</actor>
-      <actor>Dominic Sessa</actor>
-      <actor>Da'Vine Joy Randolph</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
   <channel id="SinemaTVComedy2.tr">
     <display-name lang="tr">Sinema Tv Comedy 2</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinemakomedi2_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260201013000 +0300" stop="20260201034500 +0300" channel="SinemaTVComedy2.tr">
-    <title lang="tr">Denemeye Değer</title>
-    <title lang="xx">Long Shot</title>
-    <desc lang="tr">Yetenekli ama işsiz olan gazeteci Fred, yıllar sonra ona bakıcılık yapmış olan ilk aşkı Charlotte ile karşılaşır. Şimdilerde başarılı bir diplomat olan Charlotte, başkanlık için hedefini gerçekleştirmeye çok yakındır. Fred, beklenmedik şekilde Charlotte’ı etkilemeyi başardığında, onun başkanlık için konuşma hazırlayan ekibine dahil olur.</desc>
-    <credits>
-      <director>Jonathan Levine</director>
-      <actor>Charlize Theron</actor>
-      <actor>Seth Rogen</actor>
-      <actor>O'Shea Jackson Jr</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Komedi</category>
-  </programme>
   <channel id="SinemaTV1001.tr">
     <display-name lang="tr">Sinema Tv 1001</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinema1001_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260201001500 +0300" stop="20260201023000 +0300" channel="SinemaTV1001.tr">
-    <title lang="tr">Piyano</title>
-    <title lang="xx">The Piano</title>
-    <desc lang="tr">19. yüzyılın ortaları… Dilsiz bir anne olan Ada, Yeni Zelanda’da yaşayan Alisdair Stewart ile evlenince Flora adlı kızıyla birlikte memleketleri İskoçya’dan ayrılarak yeni bir hayata başlarlar. Ada çok sevdiği piyanosunu da yanında getirmiştir ancak kocası piyanosunu ondan habersiz olarak komşuları George'a satar.</desc>
-    <credits>
-      <director>Jane Campion</director>
-      <actor>Holly Hunter</actor>
-      <actor>Harvey Keitel</actor>
-      <actor>Sam Neill</actor>
-    </credits>
-    <date>1993</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
-  <programme start="20260201023000 +0300" stop="20260201041500 +0300" channel="SinemaTV1001.tr">
-    <title lang="tr">Frances Ha</title>
-    <desc lang="tr">27 yaşındaki Frances, pek de parlak bir kariyere sahip olmayan bir dansçıdır. İstikrarlı bir işe sahip olma hayalleri kuran Frances'i tam anlamıyla anlayan tek kişi ise aynı daireyi paylaştığı Sophie'dir. Ne var ki Sophie'nin hayallerindeki şehre taşınacak olması ilişkilerini sarsacak; Frances'in 'gerçek hayat ve sorumluluklar' gerçeğiyle tanışmasına neden olacaktır.</desc>
-    <credits>
-      <director>Noah Baumbach</director>
-      <actor>Greta Gerwig</actor>
-      <actor>Mickey Sumner</actor>
-      <actor>Charlotte d'Amboise</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
   <channel id="SinemaTV1002.tr">
     <display-name lang="tr">Sinema Tv 1002</display-name>
     <icon src="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinema1002_ikon.png?w=120%h=0" />
   </channel>
-  <programme start="20260201020000 +0300" stop="20260201041500 +0300" channel="SinemaTV1002.tr">
-    <title lang="tr">Piyano</title>
-    <title lang="xx">The Piano</title>
-    <desc lang="tr">19. yüzyılın ortaları… Dilsiz bir anne olan Ada, Yeni Zelanda’da yaşayan Alisdair Stewart ile evlenince Flora adlı kızıyla birlikte memleketleri İskoçya’dan ayrılarak yeni bir hayata başlarlar. Ada çok sevdiği piyanosunu da yanında getirmiştir ancak kocası piyanosunu ondan habersiz olarak komşuları George'a satar.</desc>
-    <credits>
-      <director>Jane Campion</director>
-      <actor>Holly Hunter</actor>
-      <actor>Harvey Keitel</actor>
-      <actor>Sam Neill</actor>
-    </credits>
-    <date>1993</date>
-    <category lang="tr">Sinema</category>
-    <category lang="tr">Genel</category>
-  </programme>
   <channel id="FilmBox.tr">
     <display-name lang="tr">FilmBox</display-name>
     <icon src="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7e6" />
   </channel>
-  <programme start="20260201003500 +0300" stop="20260201020000 +0300" channel="FilmBox.tr">
-    <title lang="tr">Yarın Yokmuş Gibi</title>
-    <desc lang="tr">Nyles ve Sarah, bir düğünde karşılaşırlar. Ancak kendilerini düğün mekanından ve birbirlerinden kaçamaz durumda bulduklarında işler içerisinde çıkılmaz bir hal alır.</desc>
-  </programme>
   <channel id="MovieSmartClassic.tr">
     <display-name lang="tr">MovieSmart Classic</display-name>
     <icon src="https://www.dsmart.com.tr/epg/images/0x60/59f97297cfef0b75f4723f91" />
   </channel>
-  <programme start="20260201003000 +0300" stop="20260201021000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Seviştiğimiz Günler</title>
-    <desc lang="tr">Aynı pansiyonda kalan üç yakın ardakadaş, erkeklere karşı tavır almak için söz verirler ama hiç birisi sözünde durmaz.Nilüfer, kendini zengin diye tanıtan bir araba tamircisine, Lale, ünlü bir artiste, Mine ise patronuna aşık olur. Ressam Kenan ise Lale'ye aşıktır ve Lale'ye aşık olduğu adamın ihanet etiiğni söyler.Kenan'a inanmayan Lale onu aşağılar fakat daha sonra Kenan haklı çıkınca pişman olur.Mine ise patronu tarafından hamile bırakılır.</desc>
-    <credits>
-      <director>Halit Refiğ</director>
-      <actor>Sadri Alışık</actor>
-      <actor>Fatma Girik</actor>
-      <actor>Mürüvvet Sim</actor>
-      <actor>Nuray Uslu</actor>
-      <actor>Orhan Günşiray</actor>
-    </credits>
-    <date>1961</date>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20260201021000 +0300" stop="20260201033000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Gün Akşam Oldu</title>
-    <desc lang="tr">Birbirlerini seven Veli ile Zinnet evlenmek isterler. Ancak Zinnet’in babası evlenmeleri için Veli’nin maddi durumunu düzeltmesini ister. Veli de para kazanmak için Almanya’ya gider. Bir süre sonra da köyüne dönüş yapar. Ne var ki döndüğü ilk gün Zinnet’in köyün ağasının oğlu Selim ile nişanlandığını öğrenir. Bu durumu kabullenmeyen Veli, her şeye rağmen Zinnet ile evlenmeye çalışacaktır.</desc>
-    <credits>
-      <director>Şahin Gök</director>
-      <actor>Gökhan Güney</actor>
-      <actor>Burcu Tekgül</actor>
-      <actor>Menderes Samancılar</actor>
-      <actor>Cengiz Sezici</actor>
-    </credits>
-    <date>1986</date>
-    <category lang="tr">Dram</category>
-  </programme>
-  <programme start="20260201033000 +0300" stop="20260201052000 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Komşunun Tavuğu</title>
-    <desc lang="tr">Türkan'a ölen dayısından 11 milyon miras kalmıştır.Ancak, Türkan evliyse bu servetin sahibi olacaktır, aksi taktirde servet diğer akrabalara paylaştırılacaktır, Kocasından yeni boşanmış olan Türkan, bu serveti alabilmek için yakın arkadaşı Nevin'le bir oyuna başvurur. Miras Türkan'ın üzerine geçinceye kadar Nevin kocası Türkan'ın kocasıymış gibi rol yapacaktır.Bunun üzerine Türkan'ın eski kocası çıkıp gelince işler iyice karışacaktır.</desc>
-    <credits>
-      <director>Zafer Davutoğlu</director>
-      <actor>Türkan Şoray</actor>
-      <actor>Sadri Alışık</actor>
-      <actor>Tunç Okan</actor>
-      <actor>Çolpan İlhan</actor>
-    </credits>
-    <date>1965</date>
-    <category lang="tr">Komedi</category>
-    <category lang="tr">Dram</category>
-  </programme>
   <channel id="MovieSmartTurk.tr">
     <display-name lang="tr">MovieSmart Türk</display-name>
     <icon src="https://www.dsmart.com.tr/epg/images/0x60/59f972a1cfef0b75f4723f94" />
