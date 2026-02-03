@@ -274,7 +274,7 @@
     <title lang="tr">Panathinaikos - Real Madrid</title>
     <desc lang="tr">Euroleague</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260202/9/0900192420155eb88428.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260203/95/0700142905005eb7f426.webp" />
   </programme>
   <programme start="20260204001500 +0300" stop="20260204010000 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
@@ -337,7 +337,7 @@
     <title lang="tr">Panathinaikos - Real Madrid</title>
     <desc lang="tr">Euroleague</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260202/30/2204311733415eb78424.jpg" />
+    <icon src="https://gbzottvsc04.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260203/96/0700142905075eb7f426.webp" />
   </programme>
   <programme start="20260204140000 +0300" stop="20260204160000 +0300" channel="Sspor2.tr">
     <title lang="tr">İtalya Serie A</title>
@@ -1214,40 +1214,40 @@
   <programme start="20260203012100 +0300" stop="20260203015500 +0300" channel="BeinIz.tr">
     <title lang="tr">İmza Peyzajım S1</title>
   </programme>
-  <programme start="20260203015500 +0300" stop="20260203023000 +0300" channel="BeinIz.tr">
+  <programme start="20260203015500 +0300" stop="20260203023100 +0300" channel="BeinIz.tr">
     <title lang="tr">Derin Mavi S2</title>
   </programme>
-  <programme start="20260203023000 +0300" stop="20260203032100 +0300" channel="BeinIz.tr">
+  <programme start="20260203023100 +0300" stop="20260203032000 +0300" channel="BeinIz.tr">
     <title lang="tr">Başka Hayat Mümkün</title>
   </programme>
-  <programme start="20260203032100 +0300" stop="20260203040000 +0300" channel="BeinIz.tr">
+  <programme start="20260203032000 +0300" stop="20260203040000 +0300" channel="BeinIz.tr">
     <title lang="tr">COŞKUN ARAL'IN DÜNYA GÜNCESİ</title>
   </programme>
   <programme start="20260203040000 +0300" stop="20260203044000 +0300" channel="BeinIz.tr">
     <title lang="tr">SUDAKİ İZLER</title>
   </programme>
-  <programme start="20260203044000 +0300" stop="20260203052000 +0300" channel="BeinIz.tr">
+  <programme start="20260203044000 +0300" stop="20260203052100 +0300" channel="BeinIz.tr">
     <title lang="tr">SEFERİ S1</title>
   </programme>
-  <programme start="20260203052000 +0300" stop="20260203060000 +0300" channel="BeinIz.tr">
+  <programme start="20260203052100 +0300" stop="20260203060100 +0300" channel="BeinIz.tr">
     <title lang="tr">NE HALİN VARSA GEZ 1. SEZON</title>
   </programme>
-  <programme start="20260203060000 +0300" stop="20260203063000 +0300" channel="BeinIz.tr">
+  <programme start="20260203060100 +0300" stop="20260203063000 +0300" channel="BeinIz.tr">
     <title lang="tr">Şimdi Ya Da Asla S1</title>
   </programme>
-  <programme start="20260203063000 +0300" stop="20260203071100 +0300" channel="BeinIz.tr">
+  <programme start="20260203063000 +0300" stop="20260203071000 +0300" channel="BeinIz.tr">
     <title lang="tr">Erkan Can &amp; Güven Kıraç İle S2</title>
   </programme>
-  <programme start="20260203071100 +0300" stop="20260203074500 +0300" channel="BeinIz.tr">
+  <programme start="20260203071000 +0300" stop="20260203074500 +0300" channel="BeinIz.tr">
     <title lang="tr">Cenk &amp; Mike S2</title>
   </programme>
   <programme start="20260203074500 +0300" stop="20260203082500 +0300" channel="BeinIz.tr">
     <title lang="tr">Duyulan Şehirler S1</title>
   </programme>
-  <programme start="20260203082500 +0300" stop="20260203090000 +0300" channel="BeinIz.tr">
+  <programme start="20260203082500 +0300" stop="20260203090500 +0300" channel="BeinIz.tr">
     <title lang="tr">BAHARATIN YOLCULUGU SEZON 1</title>
   </programme>
-  <programme start="20260203090000 +0300" stop="20260203094500 +0300" channel="BeinIz.tr">
+  <programme start="20260203090500 +0300" stop="20260203094500 +0300" channel="BeinIz.tr">
     <title lang="tr">İKİ GÖZ BİR ŞEHİR</title>
   </programme>
   <programme start="20260203094500 +0300" stop="20260203103500 +0300" channel="BeinIz.tr">
@@ -5169,7 +5169,7 @@
     <category lang="tr">Dram</category>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260203232000 +0300" stop="20260204004000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260203232000 +0300" stop="20260204005000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Derdim Dünyadan Büyük</title>
     <desc lang="tr">Orhan’ın yakın arkadaşı Apo, cinayetten hapse girinc kız kardeşi İpek’i Orhan’a emanet eder. Orhan, İpek’e âşık olmasına rağmen bu durumu saklamaktadır. Bu sırada mahalleye Rahmi Bey tarafından fabrika yapılacağı haberi duyulur. Ancak mahalle halkı evlerini terk etmeye yanaşmaz. Orhan mücadeleye destek vererek halka öncülük eder. Bu arada İpek ile Rahmi Bey’in oğlu Engin’in ilişki yaşadığı ortaya çıkar.ını Rahmi Bey’le anlaşma yapıldığı şeklinde yorumlar. Bu durum yüzünden mahalleli, Orhan’a olan güvenini yitirir.</desc>
     <credits>
@@ -5184,7 +5184,7 @@
     <date>1978</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260204004000 +0300" stop="20260204020000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260204005000 +0300" stop="20260204021000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Siyah Gözler</title>
     <desc lang="tr">Birbirine aşık zengin bir mühendisle, fakir bir tezgahtar kızın aşk öyküsü.</desc>
     <credits>
@@ -5198,10 +5198,7 @@
     <date>1965</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260204020000 +0300" stop="20260204020500 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Az Sonra</title>
-  </programme>
-  <programme start="20260204020500 +0300" stop="20260204033500 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260204021000 +0300" stop="20260204034000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Doktor Civanım</title>
     <desc lang="tr">Şehirde bir hastanede hademelik yapan Kemal kendi köyüne döndüğünde bir doktormuş gibi karşılanır. Bu durumu bozmayan Kemal köyün doktoru haline gelir. Ruşen Ağa'nın kızı Sümbül'e aşık olan Kemal'in rakibi İhsan Ağa'nın oğlu Yadigar'dır. Yadigar'la sözlü olan Sümbül de Kemal'i sevmektedir. Ancak Kemal'in sahte doktorluk yaptığı ortaya çıkınca iki sevgili birbirinden ayrılmak zorunda kalır. Çünkü Kemal bu suçtan dolayı tutuklanacaktır.</desc>
     <credits>
@@ -5215,7 +5212,7 @@
     <date>1982</date>
     <category lang="tr">Komedi</category>
   </programme>
-  <programme start="20260204033500 +0300" stop="20260204051000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260204034000 +0300" stop="20260204052000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Yaralı Aslan</title>
     <desc lang="tr">Kenan, ortağı olduğu şirketin tüm hisselerini ucuza almak ister. Bunun için adamlarına şirketin garajına baskınlar yaptırır. Bu durumdan dolayı mal taşıyamayan şirket batma noktasına gelir. Şirketin sahibi Nurettin çeteyle mücadele etmesi için memleketten Ayhan’ı çağırtır. Adana’da yiğitliği ile nam salmış olan Ayhan, İstanbul’a gelince bir plan yaparak farklı bir karaktere bürünür. Böylece çeteyi kimin yönlendirdiğini bulmaya çalışacaktır.</desc>
     <credits>
@@ -5230,10 +5227,7 @@
     <date>1963</date>
     <category lang="tr">Dram</category>
   </programme>
-  <programme start="20260204051000 +0300" stop="20260204051500 +0300" channel="MovieSmartClassic.tr">
-    <title lang="tr">Az Sonra</title>
-  </programme>
-  <programme start="20260204051500 +0300" stop="20260204070000 +0300" channel="MovieSmartClassic.tr">
+  <programme start="20260204052000 +0300" stop="20260204070000 +0300" channel="MovieSmartClassic.tr">
     <title lang="tr">Belalılar</title>
     <desc lang="tr">Babalık, Selim’in küçük yaşta elinden tutar ve kendi oğlu gibi yetiştirir. Selim işinde mahir bir dolandırıcı olur. Yaptıkları son işte, bilmeden Uskumru’nun parasını çarparlar. Uskumru, kabzımallık yapan bir mafya babasıdır. Uskumru, Babalık ve Selim’in peşine adamlarını yollar. Babalık öldürülür. Selim ise Babalık’ın eski dostu Beleşçi Ahmet ile Uskumru’dan intikam almak için büyük bir oyunun içine girecektir.</desc>
     <credits>
